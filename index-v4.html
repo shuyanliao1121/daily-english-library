@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f7f4ee">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Daily English Library v4</title>
+<style>
+*{box-sizing:border-box} body{margin:0;background:#f7f4ee;color:#20201f;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+main{max-width:720px;margin:auto;padding:24px 18px 110px}.eyebrow{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:#777}
+h1,.serif{font-family:Georgia,serif} h1{font-size:39px;line-height:1.02;margin:9px 0}.sub,.idea{color:#625e57;line-height:1.65}
+.hero,.card{background:#fffdf9;border:1px solid #e1dbd1;border-radius:22px;padding:19px;margin:13px 0}.hero{padding:24px;box-shadow:0 8px 30px #2823190d;margin:22px 0}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin:16px 0}.stat{background:#ebe6dc;border-radius:18px;padding:14px 5px;text-align:center;font-size:12px}.stat b{font-family:Georgia,serif;font-size:25px;display:block}
+.pill{display:inline-block;padding:7px 10px;background:#ece7dd;border-radius:999px;font-size:12px;margin:3px}.card h3{margin:6px 0;font-family:Georgia,serif;font-size:20px}
+.meta,.small{font-size:12px;color:#858078}.search{width:100%;border:1px solid #ddd6ca;background:#fffdf9;border-radius:15px;padding:14px;font-size:16px;outline:none;margin:12px 0}
+.tabs{position:fixed;bottom:0;left:0;right:0;background:#faf8f3ee;backdrop-filter:blur(18px);border-top:1px solid #ded8ce;padding:7px 10px calc(7px + env(safe-area-inset-bottom));z-index:9}
+.tabs>div{max-width:720px;margin:auto;display:flex}.nav{flex:1;border:0;background:none;padding:9px 2px;color:#777;font-size:12px}.nav.active{color:#222;font-weight:700}
+.action{border:0;background:#242321;color:#fff;border-radius:14px;padding:11px 14px}.ghost{border:1px solid #d8d1c5;background:transparent;border-radius:13px;padding:8px 11px;color:#333}
+.hidden{display:none!important}.sectionTitle{font-family:Georgia,serif;font-size:28px;margin:24px 0 4px}.wordline{display:flex;justify-content:space-between;gap:10px}.word{font-family:Georgia,serif;font-size:22px}.zh{color:#777}
+.example{font-size:14px;line-height:1.5;color:#555;font-style:italic}.filters{display:flex;overflow:auto;gap:6px;padding:2px 0 7px}.filter{white-space:nowrap;border:1px solid #d8d1c5;background:transparent;border-radius:999px;padding:8px 11px;color:#555}.filter.active{background:#242321;color:white;border-color:#242321}
+.type{font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:#8b8174;margin-bottom:5px}.reader{position:fixed;inset:0;background:#f7f4ee;z-index:20;overflow:auto;padding:calc(18px + env(safe-area-inset-top)) 18px 50px}
+.readerInner{max-width:680px;margin:auto}.readerTop{display:flex;justify-content:space-between}.reader h2{font-family:Georgia,serif;font-size:34px;line-height:1.08}.placeholder{border-left:3px solid #d7cfc2;padding-left:15px;color:#69635c;line-height:1.65}
+.note{background:#eee8de;border-radius:16px;padding:14px;line-height:1.55;color:#625e57}
+.speaking-card{overflow:hidden}.question{font-family:Georgia,serif;font-size:21px;line-height:1.35;margin:8px 0 12px}.answer{border-top:1px solid #e6dfd5;margin-top:14px;padding-top:14px}.answer p{line-height:1.72;color:#48443f}
+.framework{background:#f1ece3;border-radius:14px;padding:12px 14px;margin:10px 0;font-size:14px;color:#5e584f}.expression{border-left:3px solid #cfc5b6;padding:2px 0 2px 12px;margin:12px 0;font-family:Georgia,serif;line-height:1.55}
+.reveal{width:100%;margin-top:8px}.related{font-size:12px;color:#847d74;margin-top:12px}
+</style>
+</head>
+<body><main>
+<section id="today">
+<div class="eyebrow">Your personal English knowledge base</div><h1>Daily English<br>Library</h1>
+<p class="sub">Articles grow into vocabulary, speaking answers and reusable ideas — made for small daily reviews on your phone.</p>
+<div class="grid"><div class="stat"><b>35</b>Articles</div><div class="stat"><b>26</b>Terms</div><div class="stat"><b>3</b>Speaking Cards</div></div>
+<div class="hero"><div class="eyebrow">v4 · Speaking Bank pilot</div><h2 class="serif" style="font-size:28px">Question → Think → Reveal</h2>
+<p class="idea">先看 IELTS Part 3 问题，自己想十几秒，再展开完整回答、分析框架和可迁移表达。</p>
+<button class="action" onclick="show('ideas')">Try Speaking Bank →</button></div>
+<div class="card"><div class="eyebrow">Random review</div><h3 id="randomTitle">Tap for one old idea</h3><p id="randomText" class="idea">A tiny review is better than letting good ideas disappear into chat history.</p><button class="ghost" onclick="randomReview()">Shuffle</button></div>
+</section>
+
+<section id="articles" class="hidden"><div class="eyebrow">Archive</div><h2 class="sectionTitle">Articles</h2><p class="small">Course map · #12–#35</p><input id="articleSearch" class="search" placeholder="Search title, topic, framework…" oninput="renderArticles()"><div id="articleList"></div></section>
+
+<section id="words" class="hidden"><div class="eyebrow">Language bank</div><h2 class="sectionTitle">Words & Terms</h2><p class="small">普通词汇、学术术语和专有名词分开复习。状态保存在这台设备。</p>
+<div class="filters"><button class="filter active" onclick="setType('all',this)">All</button><button class="filter" onclick="setType('vocab',this)">Vocabulary</button><button class="filter" onclick="setType('academic',this)">Academic Terms</button><button class="filter" onclick="setType('proper',this)">Proper Nouns</button><button class="filter" onclick="setType('saved',this)">★ Saved</button></div>
+<input id="wordSearch" class="search" placeholder="Search English or Chinese…" oninput="renderWords()"><div id="wordList"></div></section>
+
+<section id="ideas" class="hidden"><div class="eyebrow">IELTS · Speaking Part 3</div><h2 class="sectionTitle">Speaking Bank</h2>
+<p class="small">先回答，再展开。每张卡都把文章里的观点变成真正可以说出口的一段话。</p>
+<div class="filters"><button class="filter active" onclick="setSpeakingType('all',this)">All</button><button class="filter" onclick="setSpeakingType('Finance',this)">Finance</button><button class="filter" onclick="setSpeakingType('Psychology',this)">Psychology</button></div>
+<div id="speakingList"></div>
+<h2 class="sectionTitle">Reusable Expressions</h2><p class="small">从完整回答里抽出来，再迁移到别的话题。</p><div id="exprList"></div>
+<h2 class="sectionTitle">Analysis Toolbox</h2>
+<div class="card"><b>Scarcity</b><p class="idea">What becomes scarce when something else becomes abundant?</p></div>
+<div class="card"><b>Incentives</b><p class="idea">Who benefits, and what behavior does the reward system encourage?</p></div>
+<div class="card"><b>Causality</b><p class="idea">Observation → Cause → Signal → Effect.</p></div>
+<div class="card"><b>Scale & Feedback</b><p class="idea">What happens if everyone responds this way?</p></div>
+<div class="card"><b>Measurement</b><p class="idea">Goal → Proxy → Incentive → Gaming.</p></div>
+</section></main>
+
+<div id="reader" class="reader hidden"><div class="readerInner"><div class="readerTop"><button class="ghost" onclick="closeArticle()">← Library</button><button id="saveArticle" class="ghost" onclick="toggleArticleSave()">☆ Save</button></div><div id="readerContent"></div></div></div>
+<div class="tabs"><div><button class="nav active" data-id="today" onclick="show('today')">⌂<br>Today</button><button class="nav" data-id="articles" onclick="show('articles')">▤<br>Articles</button><button class="nav" data-id="words" onclick="show('words')">Aa<br>Words</button><button class="nav" data-id="ideas" onclick="show('ideas')">◇<br>Speaking</button></div></div>
+
+<script>
+const articles=[
+{n:12,title:"Success: Why Achievement Does Not Always Bring Happiness",cat:"Society",framework:"Well-being",idea:"Achievement and well-being are related, but they are not identical."},
+{n:13,title:"Why We Pay More for Brands",cat:"Business",framework:"Symbolic Value",idea:"Consumers often buy identity and meaning, not only function."},
+{n:14,title:"Why Online Reviews Do Not Always Improve Our Decisions",cat:"Psychology",framework:"Judgment",idea:"More information does not automatically produce better judgment."},
+{n:15,title:"The Hidden Cost of Fast Fashion",cat:"Society",framework:"True Cost",idea:"A low price can hide costs paid elsewhere in the system."},
+{n:16,title:"Why Buy Now, Pay Later Feels So Easy",cat:"Finance",framework:"Present Bias",idea:"Easy payment is not the same as affordability."},
+{n:17,title:"Why Wanting Something Can Feel Better Than Having It",cat:"Psychology",framework:"Wanting vs Liking",idea:"Desire and enjoyment are related but psychologically distinct."},
+{n:18,title:"Why We Hate Losing More Than We Like Winning",cat:"Psychology",framework:"Loss Aversion",idea:"Past investment should not determine future value."},
+{n:19,title:"Why Waiting Can Be Part of the Pleasure",cat:"Psychology",framework:"Anticipation",idea:"Happiness can begin before consumption itself."},
+{n:20,title:"Why Boredom May Be More Useful Than It Feels",cat:"Psychology",framework:"Useful Discomfort",idea:"Removing discomfort is not the same as removing something useless."},
+{n:21,title:"Why Popular Things Become Even More Popular",cat:"Psychology",framework:"Social Proof",idea:"Popularity can create more popularity through feedback."},
+{n:22,title:"Why Earning More Does Not Always Make Us Feel Richer",cat:"Finance",framework:"Lifestyle Inflation",idea:"Higher income does not automatically create proportionally greater freedom."},
+{n:23,title:"Why Too Many Choices Can Make Us Less Happy",cat:"Psychology",framework:"Choice Overload",idea:"Optimization has a cost; more choice is not always better."},
+{n:24,title:"Why Free Things Make Us Spend More",cat:"Psychology",framework:"Zero-Price Effect",idea:"A zero price does not imply a zero cost."},
+{n:25,title:"Why We Keep Paying for Things We Barely Use",cat:"Business",framework:"Defaults",idea:"Defaults shape behavior even when preferences do not change."},
+{n:26,title:"Why AI May Make Some Skills More Valuable, Not Less",cat:"Technology",framework:"Scarcity",idea:"When one capability becomes abundant, value can move toward what remains scarce."},
+{n:27,title:"Why Companies Want Your Attention",cat:"Technology",framework:"Incentives",idea:"Information can be abundant while human attention remains scarce."},
+{n:28,title:"Why Paying Feels Different Depending on How You Pay",cat:"Psychology",framework:"Friction",idea:"Lower friction is not automatically better decision-making."},
+{n:29,title:"Why We Feel Richer When the Stock Market Goes Up",cat:"Finance",framework:"Stock vs Flow",idea:"Being wealthier is not identical to having more spendable cash."},
+{n:30,title:"Why Good News Can Be Bad News for the Stock Market",cat:"Finance",framework:"Second-order Effects",idea:"Markets react to surprises rather than information in isolation."},
+{n:31,title:"Why Lower Interest Rates Do Not Always Make Stocks Rise",cat:"Finance",framework:"Causality",idea:"The same policy move can mean different things depending on its underlying cause."},
+{n:32,title:"Why Saving Money Can Sometimes Hurt the Economy",cat:"Economics",framework:"Scale & Feedback",idea:"What is rational for one household may not produce the same result economy-wide."},
+{n:33,title:"Why Expensive Things Can Sometimes Become More Popular",cat:"Business",framework:"Signalling",idea:"Price can function not only as a cost but also as a signal."},
+{n:34,title:"Why Predictions Can Change the Future They Predict",cat:"Economics",framework:"Expectations",idea:"Expectations can influence outcomes without fully determining them."},
+{n:35,title:"Why Being Busy Can Feel Like Being Successful",cat:"Psychology",framework:"Measurement",idea:"The metric is a representation of the goal, not the goal itself."}];
+
+const words=[
+{w:"proxy",zh:"代理指标",type:"vocab",ex:"When something is difficult to measure, people often rely on a proxy.",src:"#35"},
+{w:"metric",zh:"衡量指标",type:"academic",ex:"A metric is a quantitative measure used to track performance.",src:"#35"},
+{w:"distort",zh:"扭曲",type:"vocab",ex:"Poorly designed targets can distort behavior.",src:"#35"},
+{w:"productivity",zh:"生产率；工作效率",type:"academic",ex:"Visible activity is not necessarily the same as productivity.",src:"#35"},
+{w:"self-fulfilling prophecy",zh:"自我实现预言",type:"academic",ex:"A belief may change behavior in ways that make itself more likely to become true.",src:"#34"},
+{w:"credibility",zh:"可信度",type:"vocab",ex:"Central-bank credibility can influence expectations.",src:"#34"},
+{w:"amplify",zh:"放大",type:"vocab",ex:"Fear can amplify market movements.",src:"#34"},
+{w:"Veblen goods",zh:"凡勃伦商品",type:"academic",ex:"A high price can sometimes contribute to a product's status value.",src:"#33"},
+{w:"Thorstein Veblen",zh:"索尔斯坦·凡勃伦",type:"proper",ex:"An economist and sociologist associated with conspicuous consumption.",src:"#33"},
+{w:"exclusivity",zh:"排他性；稀缺感",type:"vocab",ex:"Limited supply can create exclusivity.",src:"#33"},
+{w:"symbolic value",zh:"象征价值",type:"academic",ex:"Luxury goods can provide symbolic value beyond practical function.",src:"#33"},
+{w:"craftsmanship",zh:"工艺；手艺",type:"vocab",ex:"Customers may pay more for craftsmanship.",src:"#33"},
+{w:"paradox of thrift",zh:"节俭悖论",type:"academic",ex:"What is prudent for one household can weaken demand if everyone does it at once.",src:"#32"},
+{w:"aggregate demand",zh:"总需求",type:"academic",ex:"Weak aggregate demand can reduce employment.",src:"#32"},
+{w:"countercyclical",zh:"逆周期的",type:"academic",ex:"Governments sometimes use countercyclical policy.",src:"#32"},
+{w:"underlying cause",zh:"根本原因",type:"vocab",ex:"Policy should address the underlying cause.",src:"#31"},
+{w:"Federal Reserve",zh:"美国联邦储备系统",type:"proper",ex:"The central bank of the United States.",src:"#31"},
+{w:"priced in",zh:"已被市场计价",type:"academic",ex:"Good news may already be priced in.",src:"#30"},
+{w:"wealth effect",zh:"财富效应",type:"academic",ex:"Rising asset values can affect consumption through the wealth effect.",src:"#29"},
+{w:"liquidity",zh:"流动性",type:"academic",ex:"Investors often prefer liquidity during uncertainty.",src:"#29"},
+{w:"pain of paying",zh:"支付痛感",type:"academic",ex:"Payment methods can change the psychological pain of paying.",src:"#28"},
+{w:"friction",zh:"摩擦；阻力",type:"vocab",ex:"Useful friction can create a decision point.",src:"#28"},
+{w:"incentive",zh:"激励",type:"vocab",ex:"People respond to incentives.",src:"#27"},
+{w:"attention economy",zh:"注意力经济",type:"academic",ex:"In the attention economy, human attention is a scarce resource.",src:"#27"},
+{w:"scarcity",zh:"稀缺性",type:"academic",ex:"Abundance in one area can create scarcity elsewhere.",src:"#26"},
+{w:"Goodhart's Law",zh:"古德哈特定律",type:"proper",ex:"When a measure becomes a target, it can stop being a good measure.",src:"#35"}];
+
+const speakingCards=[
+{src:"#30",cat:"Finance",framework:"Expectation → Surprise → Price reaction",
+q:"Why can stock prices fall even when a company reports good results?",
+answer:"I think the key point is that financial markets react to surprises rather than information in isolation. Investors usually form expectations before earnings are announced, so a strong result may already be reflected in the share price. If the actual figures are good but still weaker than expected, investors may become disappointed and sell the stock. In other words, what matters is not simply whether the news is positive, but whether it is better or worse than what the market has already priced in.",
+expr:["Markets react to surprises rather than information in isolation.","What matters is not simply whether X, but whether Y."]},
+{src:"#31",cat:"Finance",framework:"Observation → Cause → Signal → Effect",
+q:"Do lower interest rates always have a positive effect on the stock market?",
+answer:"Not necessarily. Lower interest rates can support stock prices because borrowing becomes cheaper and future corporate earnings may be valued more highly. However, the same rate cut can send a very different signal if it happens because the economy is weakening rapidly. In that case, investors may focus more on the underlying cause than on the lower rate itself. So I would say the effect depends on context: the same policy action can have different implications depending on why it happened.",
+expr:["The same event can have different implications depending on its underlying cause.","The effect depends on context rather than the event in isolation."]},
+{src:"#35",cat:"Psychology",framework:"Goal → Proxy → Incentive → Gaming",
+q:"Why do people often confuse being busy with being productive?",
+answer:"One reason is that busyness is much easier to observe than real productivity. The value of good work can be difficult to measure, while meetings, messages and long working hours are highly visible. Once these visible activities become a proxy for performance, people have an incentive to optimize the proxy rather than the real goal. This is why someone can appear extremely busy without producing much useful output. The problem is not activity itself, but confusing a visible measure with the outcome we actually care about.",
+expr:["The problem is not X itself, but confusing X with Y.","What gets measured influences what people optimize for."]}];
+
+const expressions=[
+["The problem is not X itself, but confusing X with Y.","#35"],
+["What gets measured influences what people optimize for.","#35"],
+["Expectations do not have to determine reality in order to influence it.","#34"],
+["Price can function not only as a cost but also as a signal.","#33"],
+["What is rational for an individual may not produce the same result at the collective level.","#32"],
+["The same event can have different implications depending on its underlying cause.","#31"],
+["Markets react to surprises rather than information in isolation.","#30"],
+["An improvement in the aggregate does not necessarily benefit every group equally.","#29"],
+["Good design should make routine decisions easy while making important decisions visible.","#28"],
+["Interests can be aligned without being identical.","#27"],
+["When one thing becomes abundant, value often moves toward what remains scarce.","#26"]];
+
+let states=JSON.parse(localStorage.getItem("del-word-states")||"{}"),saved=JSON.parse(localStorage.getItem("del-saved")||"{}"),savedArticles=JSON.parse(localStorage.getItem("del-saved-articles")||"{}"),currentType="all",currentSpeakingType="all",currentArticle=null;
+function show(id){document.querySelectorAll("main>section").forEach(x=>x.classList.add("hidden"));document.getElementById(id).classList.remove("hidden");document.querySelectorAll(".nav").forEach(x=>x.classList.toggle("active",x.dataset.id===id));scrollTo(0,0)}
+function renderArticles(){let q=(articleSearch.value||"").toLowerCase();articleList.innerHTML=articles.filter(a=>JSON.stringify(a).toLowerCase().includes(q)).slice().reverse().map(a=>`<div class="card" onclick="openArticle(${a.n})"><div class="meta">#${a.n} · ${a.cat} · ${a.framework}</div><h3>${a.title}</h3><p class="idea">${a.idea}</p></div>`).join("")}
+function setType(t,b){currentType=t;b.parentElement.querySelectorAll(".filter").forEach(x=>x.classList.remove("active"));b.classList.add("active");renderWords()}
+function label(t){return t==="academic"?"Academic / Technical":t==="proper"?"Proper Noun":"Vocabulary"}
+function cycle(w){let order=["new","fuzzy","known"],v=states[w]||"new";states[w]=order[(order.indexOf(v)+1)%3];localStorage.setItem("del-word-states",JSON.stringify(states));renderWords()}
+function stateText(w){return states[w]==="known"?"✓ 认识":states[w]==="fuzzy"?"~ 模糊":"? 不认识"}
+function toggleSave(w){saved[w]=!saved[w];localStorage.setItem("del-saved",JSON.stringify(saved));renderWords()}
+function renderWords(){let q=(wordSearch.value||"").toLowerCase();wordList.innerHTML=words.filter(x=>(currentType==="all"||x.type===currentType||(currentType==="saved"&&saved[x.w]))&&(x.w+x.zh+x.ex).toLowerCase().includes(q)).map(x=>`<div class="card"><div class="type">${label(x.type)} · ${x.src}</div><div class="wordline"><div><div class="word">${x.w}</div><div class="zh">${x.zh}</div></div><button class="ghost" onclick='toggleSave(${JSON.stringify(x.w)})'>${saved[x.w]?"★":"☆"}</button></div><p class="example">${x.ex}</p><button class="ghost" onclick='cycle(${JSON.stringify(x.w)})'>${stateText(x.w)}</button></div>`).join("")}
+function setSpeakingType(t,b){currentSpeakingType=t;b.parentElement.querySelectorAll(".filter").forEach(x=>x.classList.remove("active"));b.classList.add("active");renderSpeaking()}
+function toggleAnswer(i){document.getElementById("answer-"+i).classList.toggle("hidden");let b=document.getElementById("reveal-"+i);b.textContent=document.getElementById("answer-"+i).classList.contains("hidden")?"Reveal answer ↓":"Hide answer ↑"}
+function renderSpeaking(){speakingList.innerHTML=speakingCards.filter(x=>currentSpeakingType==="all"||x.cat===currentSpeakingType).map((x,i)=>`<div class="card speaking-card"><div class="meta">${x.src} · ${x.cat}</div><div class="question">${x.q}</div><div class="framework"><b>Framework:</b> ${x.framework}</div><button id="reveal-${i}" class="ghost reveal" onclick="toggleAnswer(${i})">Reveal answer ↓</button><div id="answer-${i}" class="answer hidden"><div class="eyebrow">Full response</div><p>${x.answer}</p><div class="eyebrow">Reusable expressions</div>${x.expr.map(e=>`<div class="expression">${e}</div>`).join("")}<div class="related">Related article · ${x.src}</div></div></div>`).join("")}
+function renderExpr(){exprList.innerHTML=expressions.map(x=>`<div class="card"><div class="meta">${x[1]}</div><h3>${x[0]}</h3></div>`).join("")}
+function openArticle(n){let a=articles.find(x=>x.n===n);currentArticle=n;reader.classList.remove("hidden");document.body.style.overflow="hidden";saveArticle.textContent=savedArticles[n]?"★ Saved":"☆ Save";readerContent.innerHTML=`<div class="eyebrow" style="margin-top:28px">Daily English Article · #${a.n}</div><h2>${a.title}</h2><span class="pill">${a.cat}</span><span class="pill">${a.framework}</span><p class="idea"><b>Core idea:</b> ${a.idea}</p><div class="note">文章阅读页结构保留不变。等历史文章正式搬入后，这里会显示 English Article、中文 Summary、Vocabulary、Difficult Sentences、IELTS Part 3 和 Writing Prompt。</div><h3 class="sectionTitle">English Article</h3><p class="placeholder">Full archived text not imported yet.</p>`}
+function closeArticle(){reader.classList.add("hidden");document.body.style.overflow="";currentArticle=null}
+function toggleArticleSave(){if(!currentArticle)return;savedArticles[currentArticle]=!savedArticles[currentArticle];localStorage.setItem("del-saved-articles",JSON.stringify(savedArticles));saveArticle.textContent=savedArticles[currentArticle]?"★ Saved":"☆ Save"}
+function randomReview(){let p=[...articles.map(x=>({t:"#"+x.n+" · "+x.framework,v:x.idea})),...speakingCards.map(x=>({t:x.src+" · Speaking Question",v:x.q}))];let x=p[Math.floor(Math.random()*p.length)];randomTitle.textContent=x.t;randomText.textContent=x.v}
+renderArticles();renderWords();renderSpeaking();renderExpr();
+</script></body></html>
