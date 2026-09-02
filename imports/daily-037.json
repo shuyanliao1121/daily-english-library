@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "articleNumber": 37,
+  "article": {
+    "n": 37,
+    "title": "When AI Gives an Answer, Why Do We Stop Asking Questions?",
+    "category": "Technology & AI",
+    "themes": [
+      "automation bias",
+      "human judgment",
+      "decision-making",
+      "accountability",
+      "measurement"
+    ],
+    "framework": "Suggestion → Reduced Friction → Trust → Reduced Verification → Feedback",
+    "coreIdea": "AI can reduce the cost of producing an answer, but good judgment still requires deciding when an answer deserves trust and when it needs verification.",
+    "body": "Artificial intelligence is increasingly becoming an answer machine. It can summarize a report, suggest a diagnosis, rank job applicants, recommend an investment strategy, or draft a response to a customer. In many situations, this is genuinely useful. A task that once required an hour may take a few minutes. Information that was difficult to organize becomes easier to compare. But as AI lowers the cost of producing an answer, it may also create a less obvious problem: people may become less willing to question the answer they receive.\n\nPsychologists have long studied a tendency called automation bias. When a machine provides a recommendation, people can give that recommendation more weight than it deserves, especially when the system is usually reliable. This does not mean that humans blindly obey every computer. In fact, people sometimes distrust algorithms after seeing them make even a small mistake. The deeper point is that our relationship with automated advice is unstable. We may reject useful systems too quickly in some situations and rely on them too heavily in others.\n\nWhy does overreliance happen? One reason is friction. In an earlier lesson, we distinguished between execution friction and decision friction. AI removes enormous amounts of execution friction: it searches, calculates, summarizes, and drafts. That is often beneficial. Yet it can also remove decision friction—the small pause in which a person asks, “Does this make sense?” If checking an answer requires effort while accepting it requires one click, the design of the system quietly changes the incentives around verification.\n\nConsider a financial analyst using an AI tool to summarize a company’s quarterly results. The summary may correctly report that revenue increased by 15 percent. If the analyst stops there, however, an important question may disappear: increased compared with what? Perhaps investors expected 25 percent growth. As we learned when discussing market expectations, good news is not the same as a positive surprise. AI can provide the first-order fact, but the user still has to identify the relevant benchmark and interpret the second-order meaning.\n\nThis distinction matters because many real decisions are not simply information-retrieval problems. They are judgment problems. A judgment problem involves uncertainty, competing goals, incomplete evidence, or consequences that cannot be captured by one metric. Hiring is a good example. An AI system might rank candidates according to predicted performance, but managers still need to ask what “performance” means, how it was measured, and whether historical data contain biases that should not be reproduced. A precise score can create an illusion of objectivity even when the underlying measurement is imperfect.\n\nThis connects directly to Goodhart’s Law, which we discussed in the lesson on busyness and productivity: when a measure becomes a target, it can stop being a good measure. AI systems are often trained or evaluated using measurable proxies because reality itself is too complicated to put into a dataset. A customer-service model might optimize response time, for example, even though a fast response is not necessarily a helpful one. Once an organization begins trusting the score, workers may adapt their behavior to improve the metric rather than the real outcome.\n\nThere is also a feedback problem. Suppose an AI hiring system recommends candidates who resemble people the company previously hired. Managers accept most recommendations because reviewing every application manually is expensive. Those selected candidates then become the new training data. Over time, the system receives more evidence that people similar to its earlier choices are “successful.” The recommendation influences reality, and that changed reality later appears to confirm the recommendation. This is similar to the self-fulfilling dynamics we saw when studying predictions and social proof.\n\nNone of this means that human judgment is automatically superior. Humans are inconsistent, tired, emotional, and vulnerable to biases of their own. A doctor may overlook an unusual diagnosis. A recruiter may favor a candidate who feels familiar. An investor may become attached to a losing position because of loss aversion. The useful comparison, therefore, is not “perfect human versus imperfect machine.” It is one imperfect decision-maker interacting with another.\n\nThe strongest systems may be those that divide responsibilities carefully. AI is particularly valuable when it can process large amounts of information, identify patterns, or generate possible explanations. Humans remain important when the task requires choosing goals, evaluating unusual circumstances, understanding social context, or accepting responsibility for consequences. The boundary will move as technology improves, but the need to define that boundary will not disappear.\n\nDesign can help. Instead of presenting one confident answer, an AI system might show uncertainty, alternative explanations, or the evidence behind a recommendation. In high-stakes situations, it might deliberately introduce useful decision friction by asking the user to confirm an assumption or review a conflicting piece of evidence. This sounds less convenient, but convenience is not always the correct objective. As we saw in the previous lesson, good design does not eliminate every obstacle; it distinguishes wasteful friction from friction that improves a decision.\n\nOrganizations also need to measure whether AI improves outcomes rather than merely whether people use it. Adoption is an easy metric: How many employees opened the tool? How many tasks were completed with AI? But these numbers can become misleading proxies. A better evaluation might compare error rates, decision quality, time saved, and the kinds of mistakes humans and machines make together. Measurement should follow the real goal, not replace it.\n\nAt the individual level, a useful habit is to treat AI output as a proposal rather than a conclusion. Before accepting an important answer, ask three questions. First, what evidence would change this answer? Second, what assumption is doing the most work? Third, what would happen if the answer were wrong? These questions are especially valuable when the output feels polished, because fluency can be mistaken for reliability.\n\nThe economic significance of this skill may grow as AI becomes more abundant. Earlier, we explored the idea that when one capability becomes cheap and widely available, value moves toward what remains scarce. If generating summaries, forecasts, and drafts becomes easy, then producing an answer may become less valuable by itself. The scarce capability may instead be judgment: knowing which question to ask, which evidence matters, when to distrust a confident result, and who should remain accountable.\n\nAI may therefore change expertise in a surprising way. Experts will not necessarily be the people who can produce answers fastest. Machines may win that competition. Expertise may increasingly involve knowing when an apparently good answer is incomplete. The future of human judgment is not about refusing automation. It is about using automation without allowing convenience, confidence, or scale to replace thought."
+  },
+  "words": [
+    {
+      "word": "automation bias",
+      "type": "academic",
+      "meaningZh": "自动化偏误；对自动系统建议给予过高权重的倾向",
+      "example": "Automation bias can make users accept a machine's recommendation without sufficient verification.",
+      "source": 37
+    },
+    {
+      "word": "overreliance",
+      "type": "vocab",
+      "meaningZh": "过度依赖",
+      "example": "Overreliance on automated advice can weaken independent judgment.",
+      "source": 37
+    },
+    {
+      "word": "verification",
+      "type": "vocab",
+      "meaningZh": "核实；验证",
+      "example": "Important financial claims require independent verification.",
+      "source": 37
+    },
+    {
+      "word": "benchmark",
+      "type": "vocab",
+      "meaningZh": "基准；比较标准",
+      "example": "A growth rate is difficult to interpret without a relevant benchmark.",
+      "source": 37
+    },
+    {
+      "word": "retrieval",
+      "type": "academic",
+      "meaningZh": "检索；提取（信息）",
+      "example": "Some tasks are information-retrieval problems rather than judgment problems.",
+      "source": 37
+    },
+    {
+      "word": "competing goals",
+      "type": "vocab",
+      "meaningZh": "相互竞争或冲突的目标",
+      "example": "Policy decisions often involve competing goals such as efficiency and fairness.",
+      "source": 37
+    },
+    {
+      "word": "illusion of objectivity",
+      "type": "academic",
+      "meaningZh": "客观性的幻觉",
+      "example": "A precise numerical score can create an illusion of objectivity.",
+      "source": 37
+    },
+    {
+      "word": "proxy",
+      "type": "academic",
+      "meaningZh": "代理指标；用来间接衡量目标的指标",
+      "example": "Response time is only a proxy for service quality.",
+      "source": 37
+    },
+    {
+      "word": "self-fulfilling",
+      "type": "academic",
+      "meaningZh": "自我实现的",
+      "example": "Some predictions can become self-fulfilling when people act on them.",
+      "source": 37
+    },
+    {
+      "word": "inconsistent",
+      "type": "vocab",
+      "meaningZh": "不一致的；前后不稳定的",
+      "example": "Human decisions can become inconsistent when people are tired.",
+      "source": 37
+    },
+    {
+      "word": "vulnerable to",
+      "type": "vocab",
+      "meaningZh": "容易受到……影响",
+      "example": "Both humans and algorithms are vulnerable to different kinds of error.",
+      "source": 37
+    },
+    {
+      "word": "accountability",
+      "type": "academic",
+      "meaningZh": "问责；对结果承担责任",
+      "example": "Automation does not remove the need for human accountability.",
+      "source": 37
+    },
+    {
+      "word": "high-stakes",
+      "type": "vocab",
+      "meaningZh": "高风险、后果重大的",
+      "example": "High-stakes decisions deserve more careful review.",
+      "source": 37
+    },
+    {
+      "word": "assumption",
+      "type": "vocab",
+      "meaningZh": "假设；前提",
+      "example": "The conclusion changes if the underlying assumption is wrong.",
+      "source": 37
+    },
+    {
+      "word": "fluency",
+      "type": "academic",
+      "meaningZh": "流畅性；此处指表达顺畅给人的可信感",
+      "example": "Linguistic fluency should not be confused with factual reliability.",
+      "source": 37
+    },
+    {
+      "word": "scarce capability",
+      "type": "vocab",
+      "meaningZh": "稀缺能力",
+      "example": "As routine production becomes automated, judgment may become a scarcer capability.",
+      "source": 37
+    },
+    {
+      "word": "Goodhart's Law",
+      "type": "proper",
+      "meaningZh": "古德哈特定律",
+      "example": "Goodhart's Law explains why optimizing a proxy can damage the real objective.",
+      "source": 37
+    },
+    {
+      "word": "decision friction",
+      "type": "academic",
+      "meaningZh": "决策摩擦",
+      "example": "A small amount of decision friction can improve judgment in consequential situations.",
+      "source": 37
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Do you think people will rely too much on AI when making important decisions?",
+      "category": "Technology & AI",
+      "framework": "Capability → Lower friction → Overreliance risk → Human verification",
+      "response": "I think that risk is quite real, especially when AI systems become accurate enough to earn people's trust most of the time. The problem is that once getting an answer becomes almost effortless, checking that answer can start to feel like unnecessary work. In low-stakes situations that may not matter much, but in areas such as finance, healthcare or recruitment, a confident answer can hide uncertain assumptions. At the same time, I don't think the solution is to avoid AI, because human judgment is also inconsistent and biased. A better approach is to use AI for what it does well, such as processing large amounts of information, while keeping meaningful human verification for decisions where the cost of being wrong is high.",
+      "expressions": [
+        "The problem is that once X becomes almost effortless, Y can start to feel like unnecessary work.",
+        "The solution is not to avoid X, but to define where human judgment still matters.",
+        "The cost of being wrong is high."
+      ],
+      "source": 37
+    },
+    {
+      "question": "What skills may become more valuable as AI becomes more widely used?",
+      "category": "Technology & AI",
+      "framework": "Abundance → Scarcity shift → Judgment → Value",
+      "response": "I think judgment will become more valuable, although that word covers several different skills. If AI makes it cheap to generate summaries, forecasts and first drafts, simply producing an answer may no longer be enough to distinguish one worker from another. What matters more is knowing whether the answer addresses the right question, which assumptions need to be checked, and what evidence would change the conclusion. This is similar to what happens in economics when one resource becomes abundant: value tends to move toward whatever remains scarce. So I don't think expertise will disappear. It may shift from remembering or producing information toward evaluating it, combining it with context, and taking responsibility for the final decision.",
+      "expressions": [
+        "Simply producing an answer may no longer be enough to distinguish one person from another.",
+        "Value tends to move toward whatever remains scarce.",
+        "Expertise may shift from producing information toward evaluating it."
+      ],
+      "source": 37
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "The problem is that once X becomes almost effortless, Y can start to feel like unnecessary work.",
+      "meaningZh": "用于解释便利化带来的二阶副作用。",
+      "source": 37
+    },
+    {
+      "expression": "Value tends to move toward whatever remains scarce.",
+      "meaningZh": "用于分析技术进步后价值如何向新的稀缺能力转移。",
+      "source": 37
+    },
+    {
+      "expression": "Expertise may shift from producing information toward evaluating it.",
+      "meaningZh": "用于讨论 AI、教育或职业技能结构变化。",
+      "source": 37
+    }
+  ]
+}
