@@ -375,3 +375,32 @@ const speakingCards = [
     ]
   }
 ];
+
+
+// Imported Article #37
+speakingCards.push(...[
+  {
+    "src": "#37",
+    "cat": "Technology & AI",
+    "framework": "Capability → Lower friction → Overreliance risk → Human verification",
+    "q": "Do you think people will rely too much on AI when making important decisions?",
+    "answer": "I think that risk is quite real, especially when AI systems become accurate enough to earn people's trust most of the time. The problem is that once getting an answer becomes almost effortless, checking that answer can start to feel like unnecessary work. In low-stakes situations that may not matter much, but in areas such as finance, healthcare or recruitment, a confident answer can hide uncertain assumptions. At the same time, I don't think the solution is to avoid AI, because human judgment is also inconsistent and biased. A better approach is to use AI for what it does well, such as processing large amounts of information, while keeping meaningful human verification for decisions where the cost of being wrong is high.",
+    "expr": [
+      "The problem is that once X becomes almost effortless, Y can start to feel like unnecessary work.",
+      "The solution is not to avoid X, but to define where human judgment still matters.",
+      "The cost of being wrong is high."
+    ]
+  },
+  {
+    "src": "#37",
+    "cat": "Technology & AI",
+    "framework": "Abundance → Scarcity shift → Judgment → Value",
+    "q": "What skills may become more valuable as AI becomes more widely used?",
+    "answer": "I think judgment will become more valuable, although that word covers several different skills. If AI makes it cheap to generate summaries, forecasts and first drafts, simply producing an answer may no longer be enough to distinguish one worker from another. What matters more is knowing whether the answer addresses the right question, which assumptions need to be checked, and what evidence would change the conclusion. This is similar to what happens in economics when one resource becomes abundant: value tends to move toward whatever remains scarce. So I don't think expertise will disappear. It may shift from remembering or producing information toward evaluating it, combining it with context, and taking responsibility for the final decision.",
+    "expr": [
+      "Simply producing an answer may no longer be enough to distinguish one person from another.",
+      "Value tends to move toward whatever remains scarce.",
+      "Expertise may shift from producing information toward evaluating it."
+    ]
+  }
+]);

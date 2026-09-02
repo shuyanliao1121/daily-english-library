@@ -44,3 +44,20 @@ const expressions = [
     "#26"
   ]
 ];
+
+
+// Imported Article #37
+expressions.push(...[
+  [
+    "The problem is that once X becomes almost effortless, Y can start to feel like unnecessary work.",
+    "#37"
+  ],
+  [
+    "Value tends to move toward whatever remains scarce.",
+    "#37"
+  ],
+  [
+    "Expertise may shift from producing information toward evaluating it.",
+    "#37"
+  ]
+]);

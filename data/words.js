@@ -749,3 +749,134 @@ const words = [
     "src": "#36"
   }
 ];
+
+
+// Imported Article #37
+words.push(...[
+  {
+    "w": "automation bias",
+    "zh": "自动化偏误；对自动系统建议给予过高权重的倾向",
+    "type": "academic",
+    "ex": "Automation bias can make users accept a machine's recommendation without sufficient verification.",
+    "src": "#37"
+  },
+  {
+    "w": "overreliance",
+    "zh": "过度依赖",
+    "type": "vocab",
+    "ex": "Overreliance on automated advice can weaken independent judgment.",
+    "src": "#37"
+  },
+  {
+    "w": "verification",
+    "zh": "核实；验证",
+    "type": "vocab",
+    "ex": "Important financial claims require independent verification.",
+    "src": "#37"
+  },
+  {
+    "w": "benchmark",
+    "zh": "基准；比较标准",
+    "type": "vocab",
+    "ex": "A growth rate is difficult to interpret without a relevant benchmark.",
+    "src": "#37"
+  },
+  {
+    "w": "retrieval",
+    "zh": "检索；提取（信息）",
+    "type": "academic",
+    "ex": "Some tasks are information-retrieval problems rather than judgment problems.",
+    "src": "#37"
+  },
+  {
+    "w": "competing goals",
+    "zh": "相互竞争或冲突的目标",
+    "type": "vocab",
+    "ex": "Policy decisions often involve competing goals such as efficiency and fairness.",
+    "src": "#37"
+  },
+  {
+    "w": "illusion of objectivity",
+    "zh": "客观性的幻觉",
+    "type": "academic",
+    "ex": "A precise numerical score can create an illusion of objectivity.",
+    "src": "#37"
+  },
+  {
+    "w": "proxy",
+    "zh": "代理指标；用来间接衡量目标的指标",
+    "type": "academic",
+    "ex": "Response time is only a proxy for service quality.",
+    "src": "#37"
+  },
+  {
+    "w": "self-fulfilling",
+    "zh": "自我实现的",
+    "type": "academic",
+    "ex": "Some predictions can become self-fulfilling when people act on them.",
+    "src": "#37"
+  },
+  {
+    "w": "inconsistent",
+    "zh": "不一致的；前后不稳定的",
+    "type": "vocab",
+    "ex": "Human decisions can become inconsistent when people are tired.",
+    "src": "#37"
+  },
+  {
+    "w": "vulnerable to",
+    "zh": "容易受到……影响",
+    "type": "vocab",
+    "ex": "Both humans and algorithms are vulnerable to different kinds of error.",
+    "src": "#37"
+  },
+  {
+    "w": "accountability",
+    "zh": "问责；对结果承担责任",
+    "type": "academic",
+    "ex": "Automation does not remove the need for human accountability.",
+    "src": "#37"
+  },
+  {
+    "w": "high-stakes",
+    "zh": "高风险、后果重大的",
+    "type": "vocab",
+    "ex": "High-stakes decisions deserve more careful review.",
+    "src": "#37"
+  },
+  {
+    "w": "assumption",
+    "zh": "假设；前提",
+    "type": "vocab",
+    "ex": "The conclusion changes if the underlying assumption is wrong.",
+    "src": "#37"
+  },
+  {
+    "w": "fluency",
+    "zh": "流畅性；此处指表达顺畅给人的可信感",
+    "type": "academic",
+    "ex": "Linguistic fluency should not be confused with factual reliability.",
+    "src": "#37"
+  },
+  {
+    "w": "scarce capability",
+    "zh": "稀缺能力",
+    "type": "vocab",
+    "ex": "As routine production becomes automated, judgment may become a scarcer capability.",
+    "src": "#37"
+  },
+  {
+    "w": "Goodhart's Law",
+    "zh": "古德哈特定律",
+    "type": "proper",
+    "ex": "Goodhart's Law explains why optimizing a proxy can damage the real objective.",
+    "src": "#37"
+  },
+  {
+    "w": "decision friction",
+    "zh": "决策摩擦",
+    "type": "academic",
+    "ex": "A small amount of decision friction can improve judgment in consequential situations.",
+    "src": "#37"
+  }
+]);
