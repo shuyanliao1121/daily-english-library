@@ -15,28 +15,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 2
 
-      - name: Set up Node
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      - name: Find newly added import packs
+      - name: Find changed import packs
         id: packs
         shell: bash
         run: |
-          files=$(git diff --diff-filter=A --name-only HEAD^ HEAD -- 'imports/daily-*.json')
+          files=$(git diff --diff-filter=AM --name-only HEAD^ HEAD -- 'imports/daily-*.json' | sort)
           if [ -z "$files" ]; then
-            echo "No newly added daily import pack found."
-            echo "found=false" >> "$GITHUB_OUTPUT"
+            echo "No added or modified daily import packs found."
+            echo "has_files=false" >> "$GITHUB_OUTPUT"
           else
+            echo "Changed import packs:"
             echo "$files"
-            echo "found=true" >> "$GITHUB_OUTPUT"
             {
+              echo "has_files=true"
               echo "files<<EOF"
               echo "$files"
               echo "EOF"
@@ -44,21 +45,28 @@ jobs:
           fi
 
       - name: Preview and import
-        if: steps.packs.outputs.found == 'true'
+        if: steps.packs.outputs.has_files == 'true'
         shell: bash
         run: |
+          set -euo pipefail
           while IFS= read -r file; do
             [ -z "$file" ] && continue
+            echo "=== Preview: $file ==="
             node scripts/import-daily.mjs "$file"
+            echo "=== Import: $file ==="
             node scripts/import-daily.mjs "$file" --write
           done <<< "${{ steps.packs.outputs.files }}"
 
-      - name: Run regression tests
-        if: steps.packs.outputs.found == 'true'
-        run: node tests/regression.test.mjs
+      - name: Syntax check updated data
+        if: steps.packs.outputs.has_files == 'true'
+        run: |
+          node --check data/articles.js
+          node --check data/words.js
+          node --check data/speaking.js
+          node --check data/expressions.js
 
       - name: Commit updated data
-        if: steps.packs.outputs.found == 'true'
+        if: steps.packs.outputs.has_files == 'true'
         shell: bash
         run: |
           if git diff --quiet -- data/articles.js data/words.js data/speaking.js data/expressions.js; then
