@@ -1,1 +1,72 @@
+name: Import Daily English Pack
 
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'imports/daily-*.json'
+
+permissions:
+  contents: write
+
+jobs:
+  import-daily:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Find newly added import packs
+        id: packs
+        shell: bash
+        run: |
+          files=$(git diff --diff-filter=A --name-only HEAD^ HEAD -- 'imports/daily-*.json')
+          if [ -z "$files" ]; then
+            echo "No newly added daily import pack found."
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "$files"
+            echo "found=true" >> "$GITHUB_OUTPUT"
+            {
+              echo "files<<EOF"
+              echo "$files"
+              echo "EOF"
+            } >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Preview and import
+        if: steps.packs.outputs.found == 'true'
+        shell: bash
+        run: |
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            node scripts/import-daily.mjs "$file"
+            node scripts/import-daily.mjs "$file" --write
+          done <<< "${{ steps.packs.outputs.files }}"
+
+      - name: Run regression tests
+        if: steps.packs.outputs.found == 'true'
+        run: node tests/regression.test.mjs
+
+      - name: Commit updated data
+        if: steps.packs.outputs.found == 'true'
+        shell: bash
+        run: |
+          if git diff --quiet -- data/articles.js data/words.js data/speaking.js data/expressions.js; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/articles.js data/words.js data/speaking.js data/expressions.js
+          git commit -m "Import Daily English pack"
+          git push
