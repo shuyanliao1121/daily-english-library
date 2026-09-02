@@ -201,3 +201,25 @@ html:not([data-theme]) [class*="hero"]::before{
   pointer-events:none;
 }
 }
+/* Reading Lamp — Article Reader dark mode */
+html[data-theme="dark"] .reader{background:#141516!important;color:#dedbd4!important}
+html[data-theme="dark"] .reader h2,html[data-theme="dark"] .reader .sectionTitle{color:#e7e3dc!important}
+html[data-theme="dark"] .reader .eyebrow,html[data-theme="dark"] .reader .meta,html[data-theme="dark"] .reader .small,html[data-theme="dark"] .reader .sub,html[data-theme="dark"] .reader .idea{color:#aaa69e!important}
+html[data-theme="dark"] .reader .articleBody,html[data-theme="dark"] .reader .articleBody p{color:#d8d4cc!important}
+html[data-theme="dark"] .reader .ghost{background:transparent!important;color:#c8c3ba!important;border-color:#55514a!important}
+html[data-theme="dark"] .reader .pill{background:#242526!important;color:#bdb8af!important}
+html[data-theme="dark"] .reader .note,html[data-theme="dark"] .reader .framework{background:#1d1e1f!important;color:#bbb6ad!important;border-color:#303132!important}
+html[data-theme="dark"] .reader .placeholder{color:#aaa59c!important;border-left-color:#665d50!important}
+html[data-theme="dark"] .reader .archiveBadge{background:#202822!important;color:#aebdab!important}
+
+@media(prefers-color-scheme:dark){
+html:not([data-theme]) .reader{background:#141516!important;color:#dedbd4!important}
+html:not([data-theme]) .reader h2,html:not([data-theme]) .reader .sectionTitle{color:#e7e3dc!important}
+html:not([data-theme]) .reader .eyebrow,html:not([data-theme]) .reader .meta,html:not([data-theme]) .reader .small,html:not([data-theme]) .reader .sub,html:not([data-theme]) .reader .idea{color:#aaa69e!important}
+html:not([data-theme]) .reader .articleBody,html:not([data-theme]) .reader .articleBody p{color:#d8d4cc!important}
+html:not([data-theme]) .reader .ghost{background:transparent!important;color:#c8c3ba!important;border-color:#55514a!important}
+html:not([data-theme]) .reader .pill{background:#242526!important;color:#bdb8af!important}
+html:not([data-theme]) .reader .note,html:not([data-theme]) .reader .framework{background:#1d1e1f!important;color:#bbb6ad!important;border-color:#303132!important}
+html:not([data-theme]) .reader .placeholder{color:#aaa59c!important;border-left-color:#665d50!important}
+html:not([data-theme]) .reader .archiveBadge{background:#202822!important;color:#aebdab!important}
+}
