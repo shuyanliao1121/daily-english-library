@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "articleNumber": 36,
+  "article": {
+    "n": 36,
+    "title": "Why Convenience Can Quietly Change the Way We Make Decisions",
+    "category": "Consumer Psychology",
+    "themes": [
+      "convenience",
+      "friction",
+      "salience",
+      "decision quality"
+    ],
+    "framework": "Friction → Attention → Decision Quality",
+    "coreIdea": "Removing friction can change not only how easily people act, but how often and how carefully they decide.",
+    "body": "<p>Modern life is built around a simple promise: fewer steps.</p><p>A meal can arrive after three taps on a screen. A subscription can begin without entering a credit-card number because the information is already stored. A taxi can be ordered without speaking to anyone. An investment can be made in seconds. Even complicated tasks such as applying for a loan, buying insurance, or transferring money are becoming increasingly frictionless.</p><p>Most of the time, this is progress. Nobody seriously wants to return to an economy in which every payment requires cash, every ticket requires a physical queue, and every bank transaction requires a visit to a branch.</p><p>But convenience has an interesting side effect. When we remove the effort involved in doing something, we do not merely make the same decision faster. Sometimes we change the decision itself.</p><p>Economists and behavioral scientists often use the word friction to describe small obstacles that make an action more difficult. Friction can include time, paperwork, additional clicks, waiting periods, complicated forms, or simply the need to stop and think.</p><p>Traditional product design usually treats friction as a problem. Removing unnecessary friction can create enormous value. However, not all friction is equally useless.</p><p>Consider online shopping. Additional checkout steps create a brief period during which you may reconsider the purchase. A one-click purchase removes that decision point. The economic price is identical. The psychological experience is not.</p><p>This connects to the pain of paying. Spending money is not experienced as a purely mathematical event. The visibility and timing of payment influence how strongly consumers notice the loss. Convenience therefore interacts with salience: when the cost of an action becomes less noticeable, people may give it less weight in their decisions.</p><p>The same principle appears in subscription businesses. Most subscriptions use automatic renewal, so doing nothing means continuing. This is an example of the default effect. Defaults are powerful partly because changing them requires effort. Even tiny amounts of effort can create inertia.</p><p>Product design and business incentives are connected. If a company earns more money when users spend more time on a platform, it has an incentive to reduce the friction involved in continued engagement. Incentives can shape systems even without malicious intentions.</p><p>Convenience can also produce major social benefits. Complicated application procedures can impose sludge: friction that makes beneficial actions unnecessarily difficult. Removing this kind of friction can improve access to healthcare, education, government benefits, banking, and other essential services.</p><p>One useful distinction is between execution friction and decision friction. Execution friction makes it unnecessarily difficult to carry out a decision that has already been made. Decision friction, by contrast, creates a moment for reflection before a consequential action.</p><p>The key question is therefore not simply, “How can we make this easier?” It is, “Which part should be easier?”</p><p>This becomes particularly important in financial technology. Digital investing platforms have dramatically reduced the cost and difficulty of participating in financial markets. But lower friction can also change trading behavior. If the same trade requires one swipe, the behavioral threshold becomes much lower.</p><p>This is where first-order and second-order effects become useful. The first-order effect of removing friction is obvious: an action becomes easier. The second-order effects are more complicated. People may perform the action more frequently, businesses may redesign their revenue models around increased activity, and social norms may change.</p><p>Convenience can therefore create feedback loops. The easier an activity becomes, the more people may do it. Greater usage gives businesses stronger incentives to optimize the activity further. Better optimization makes it even easier.</p><p>This does not mean convenience is bad. It means convenience is not neutral. A useful way to evaluate a frictionless product is to ask three questions: whose friction is being reduced, which behavior becomes easier as a result, and who benefits when that behavior becomes more frequent?</p><p>Perhaps the best systems do not eliminate friction completely. Instead, they place it strategically. Routine and reversible actions can be almost effortless. Important, expensive, or irreversible decisions can contain small moments of reflection. Good design may not be about creating a world with zero friction. It may be about putting friction in the right places.</p>",
+    "summaryZh": "便利并不只是让同一个决定执行得更快；当摩擦被移除时，人的行为频率和决策质量本身也可能变化。文章区分 execution friction 与 decision friction：前者往往只是无意义地增加执行成本，后者却可能在重要决定前创造反思空间。结合支付痛感、显著性、默认效应和企业激励，可以继续追问：谁的摩擦被降低？什么行为因此更容易？当这种行为变得更频繁时谁获益？核心框架是 Friction → Salience → Behavior → Incentive → Feedback。"
+  },
+  "words": [
+    {
+      "word": "frictionless",
+      "type": "vocab",
+      "meaningZh": "几乎无阻力的；极其便捷的",
+      "example": "Frictionless is a useful concept from Article #36.",
+      "source": 36
+    },
+    {
+      "word": "reconsider",
+      "type": "vocab",
+      "meaningZh": "重新考虑",
+      "example": "Reconsider is a useful concept from Article #36.",
+      "source": 36
+    },
+    {
+      "word": "consequential",
+      "type": "vocab",
+      "meaningZh": "后果重大的",
+      "example": "Consequential is a useful concept from Article #36.",
+      "source": 36
+    },
+    {
+      "word": "irreversible",
+      "type": "vocab",
+      "meaningZh": "不可逆的",
+      "example": "Irreversible is a useful concept from Article #36.",
+      "source": 36
+    },
+    {
+      "word": "threshold",
+      "type": "vocab",
+      "meaningZh": "门槛；临界点",
+      "example": "Threshold is a useful concept from Article #36.",
+      "source": 36
+    },
+    {
+      "word": "execution friction",
+      "type": "academic",
+      "meaningZh": "执行摩擦",
+      "example": "Execution friction is a useful concept from Article #36.",
+      "source": 36
+    },
+    {
+      "word": "decision friction",
+      "type": "academic",
+      "meaningZh": "决策摩擦",
+      "example": "Decision friction is a useful concept from Article #36.",
+      "source": 36
+    },
+    {
+      "word": "sludge",
+      "type": "academic",
+      "meaningZh": "不必要的程序性摩擦",
+      "example": "Sludge is a useful concept from Article #36.",
+      "source": 36
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Do you think technology has made people more impulsive consumers?",
+      "category": "Psychology",
+      "framework": "Convenience → Lower friction → More frequent action → Qualification",
+      "response": "I think it has made impulsive consumption easier, although I wouldn't say technology automatically makes people less rational. The main difference is that many small barriers have disappeared. Those barriers were inconvenient, but they also created a moment to reconsider the purchase. So when companies reduce friction, they may unintentionally reduce reflection as well. At the same time, convenience is obviously useful for routine purchases, so I don't think the solution is to make everything difficult again. A better approach would be to make ordinary transactions easy while adding small decision points before unusually expensive or risky purchases.",
+      "expressions": [
+        "The main difference is that many small barriers have disappeared.",
+        "When we reduce friction, we may unintentionally reduce reflection as well."
+      ],
+      "source": 36
+    },
+    {
+      "question": "Should companies be responsible for preventing consumers from making bad decisions?",
+      "category": "Business",
+      "framework": "Individual responsibility → Business incentives → Balanced responsibility",
+      "response": "I think responsibility should be shared rather than placed entirely on either side. Consumers obviously have to make their own decisions. However, businesses also control the environment in which those decisions are made: they decide which option is the default, how visible the price is and how easy it is to cancel a service. I wouldn't expect companies to protect people from every poor decision, but I do think they should avoid deliberately exploiting predictable biases. A fair system gives consumers freedom while making important costs and consequences sufficiently visible.",
+      "expressions": [
+        "Responsibility should be shared rather than placed entirely on either side.",
+        "A fair system gives people freedom while making the consequences visible."
+      ],
+      "source": 36
+    }
+  ],
+  "expressions": []
+}
