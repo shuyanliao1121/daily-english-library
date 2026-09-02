@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN" data-glow="b">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f7f4ee">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Daily English Library v6</title>
+<link rel="stylesheet" href="./css/app.css">
+</head>
+<body><main>
+<section id="today">
+<div class="eyebrow">Your personal English knowledge base</div><h1>Daily English<br>Library</h1><div class="theme-switch"><button data-theme-choice="auto" onclick="setTheme('auto')">Auto</button><button data-theme-choice="light" onclick="setTheme('light')">Light</button><button data-theme-choice="dark" onclick="setTheme('dark')">Dark</button></div>
+<p class="sub">Articles grow into vocabulary, speaking answers and reusable ideas — made for small daily reviews on your phone.</p>
+<div class="grid"><div class="stat"><b id="articleCount"></b>Articles</div><div class="stat"><b id="wordCount"></b>Terms</div><div class="stat"><b id="speakingCount"></b>Speaking Cards</div></div>
+<div class="hero"><div class="eyebrow">v6 · Personal English Library</div><h2 class="serif" style="font-size:28px">Question → Think → Reveal</h2>
+<p class="idea">先看 IELTS Part 3 问题，自己想十几秒，再展开完整回答、分析框架和可迁移表达。</p>
+<button class="action" onclick="show('ideas')">Try Speaking Bank →</button></div>
+<div class="card"><div class="eyebrow">Random review</div><h3 id="randomTitle">Tap for one old idea</h3><p id="randomText" class="idea">A tiny review is better than letting good ideas disappear into chat history.</p><button class="ghost" onclick="randomReview()">Shuffle</button></div>
+</section>
+
+<section id="articles" class="hidden"><div class="eyebrow">Archive</div><h2 class="sectionTitle">Articles</h2><p class="small" id="archiveDescription"></p><input id="articleSearch" class="search" placeholder="Search title, topic, framework…" oninput="renderArticles()"><div id="articleList"></div></section>
+
+<section id="words" class="hidden"><div class="eyebrow">Language bank</div><h2 class="sectionTitle">Words & Terms</h2><p class="small">普通词汇、学术术语和专有名词分开复习。状态保存在这台设备。</p>
+<div class="filters"><button class="filter active" onclick="setType('all',this)">All</button><button class="filter" onclick="setType('vocab',this)">Vocabulary</button><button class="filter" onclick="setType('academic',this)">Academic Terms</button><button class="filter" onclick="setType('proper',this)">Proper Nouns</button><button class="filter" onclick="setType('saved',this)">★ Saved</button></div>
+<input id="wordSearch" class="search" placeholder="Search English or Chinese…" oninput="renderWords()"><div id="wordList"></div></section>
+
+<section id="ideas" class="hidden"><div class="eyebrow">IELTS · Speaking Part 3</div><h2 class="sectionTitle">Speaking Bank</h2>
+<p class="small">先回答，再展开。每张卡都把文章里的观点变成真正可以说出口的一段话。</p>
+<div class="filters"><button class="filter active" onclick="setSpeakingType('all',this)">All</button><button class="filter" onclick="setSpeakingType('Finance',this)">Finance</button><button class="filter" onclick="setSpeakingType('Psychology',this)">Psychology</button></div>
+<div id="speakingList"></div>
+<h2 class="sectionTitle">Reusable Expressions</h2><p class="small">从完整回答里抽出来，再迁移到别的话题。</p><div id="exprList"></div>
+<h2 class="sectionTitle">Analysis Toolbox</h2>
+<div class="card"><b>Scarcity</b><p class="idea">What becomes scarce when something else becomes abundant?</p></div>
+<div class="card"><b>Incentives</b><p class="idea">Who benefits, and what behavior does the reward system encourage?</p></div>
+<div class="card"><b>Causality</b><p class="idea">Observation → Cause → Signal → Effect.</p></div>
+<div class="card"><b>Scale & Feedback</b><p class="idea">What happens if everyone responds this way?</p></div>
+<div class="card"><b>Measurement</b><p class="idea">Goal → Proxy → Incentive → Gaming.</p></div>
+</section></main>
+
+<div id="reader" class="reader hidden"><div class="readerInner"><div class="readerTop"><button class="ghost" onclick="closeArticle()">← Library</button><button id="saveArticle" class="ghost" onclick="toggleArticleSave()">☆ Save</button></div><div id="readerContent"></div></div></div>
+<div class="tabs"><div><button class="nav active" data-id="today" onclick="show('today')">⌂<br>Today</button><button class="nav" data-id="articles" onclick="show('articles')">▤<br>Articles</button><button class="nav" data-id="words" onclick="show('words')">Aa<br>Words</button><button class="nav" data-id="ideas" onclick="show('ideas')">◇<br>Speaking</button></div></div>
+
+<script defer src="./data/articles.js"></script>
+<script defer src="./data/words.js"></script>
+<script defer src="./data/speaking.js"></script>
+<script defer src="./data/expressions.js"></script>
+<script defer src="./js/app.js"></script><!-- Data-driven v6 -->
+</body></html>
