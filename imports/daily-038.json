@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 38,
+  "article": {
+    "n": 38,
+    "title": "Why Free Shipping Makes Us Spend More",
+    "category": "Consumer Psychology",
+    "themes": [
+      "mental accounting",
+      "free shipping",
+      "loss aversion",
+      "friction",
+      "incentives",
+      "causality"
+    ],
+    "framework": "Fee → Threshold → Reference Point → Target Substitution → Extra Spending",
+    "coreIdea": "A reward threshold can change the goal of a decision: instead of asking whether another purchase is worthwhile, consumers start asking how to qualify for the reward.",
+    "body": "Imagine that you are shopping online for something that costs $32. At checkout, the website tells you that shipping will cost $6 unless your basket reaches $50. Suddenly, buying only what you planned feels strangely inefficient. You add a $12 notebook, then a $7 cable. Your final bill is $51. You have spent $19 more in order to avoid paying $6.\n\nThis behavior is common enough that many retailers deliberately use free-shipping thresholds. The strategy works because consumers do not evaluate every dollar in exactly the same way. Economically, spending an extra $19 to save $6 may be irrational if the added products have little value to you. Psychologically, however, the decision can feel satisfying. The shipping fee is experienced as a loss or a waste, while the extra products feel like something received in return.\n\nThis difference is closely related to mental accounting, a concept associated with behavioral economist Richard Thaler. People often divide money into separate mental categories instead of treating all money as perfectly interchangeable. We may think of one amount as “money for food,” another as “savings,” and another as “fun money.” The same process can happen inside a single purchase. Product spending and shipping spending occupy different mental accounts. Paying $6 for delivery can feel worse than paying $6 more for the product itself, even though the effect on your bank balance is identical.\n\nWhy? One reason is that shipping is often perceived as a surcharge rather than part of the product’s value. A customer can imagine enjoying a sweater or using a book, but it is harder to feel that delivery itself is something worth owning. This makes the fee psychologically salient. It appears as a separate line at checkout, often after the shopper has already become attached to the purchase. The fee therefore feels like an obstacle placed between the consumer and the desired item.\n\nThis is where friction enters the story. In earlier lessons, we saw that small obstacles can strongly affect behavior. A shipping charge creates transaction friction: it makes completing the purchase feel more costly. Retailers can remove that friction entirely by offering free delivery, but many instead use a threshold. The threshold does something more interesting. It turns friction into an incentive. Instead of saying, “Pay $6 to continue,” the website effectively says, “Spend $18 more and you can make this unpleasant fee disappear.”\n\nThe threshold also creates a reference point. Before seeing the message, the shopper may have thought only about the $32 item. After seeing “Free shipping over $50,” the number 50 becomes a new target. The question changes from “Do I want anything else?” to “How do I get to $50?” This is a subtle but important shift. The consumer is no longer evaluating additional products independently. Each new item is partly evaluated according to how much it helps close the gap.\n\nLoss aversion can strengthen the effect. Once free shipping seems attainable, paying for delivery may feel like failing to capture a benefit that was almost available. The closer the basket gets to the threshold, the stronger this feeling can become. Someone with $47 in their basket may search for a small item simply because paying $6 for shipping now feels especially painful. The customer is not only comparing products; they are comparing the emotional experience of “qualifying” with the experience of “missing out.”\n\nRetailers benefit because thresholds can increase average order value. But setting the threshold is a measurement problem rather than a simple rule. If it is too low, the company gives free shipping to customers who would have purchased anyway, reducing margins without changing behavior. If it is too high, customers may decide that reaching it requires too much unnecessary spending and abandon the basket. The useful threshold is often one that sits somewhat above the retailer’s normal basket size, making the target feel reachable but not automatic.\n\nThis illustrates the importance of counterfactual thinking. Suppose a company introduces free shipping above $50 and average order value rises from $40 to $47. It may be tempting to conclude that the policy “created” seven dollars of extra spending per order. But what would have happened without the policy? Perhaps a holiday season, a new product launch, or inflation was already increasing basket sizes. To measure the causal effect, the retailer needs a comparison: for example, an experiment in which similar customers see different shipping policies.\n\nThere are second-order effects too. Customers who add filler products may later regret them, return them, or become more price-sensitive. Warehouses may process more items per order. Packaging and delivery costs may rise. A strategy that improves one visible metric—average order value—does not necessarily improve long-term profit or customer satisfaction. This connects to Goodhart’s Law: when a metric becomes the target, optimizing it can produce behavior that looks successful according to the metric while damaging the broader objective.\n\nFree shipping also demonstrates how businesses can change the framing of a price without changing its total economic cost. A retailer could sell a product for $40 plus $5 shipping, or for $45 with “free” shipping. Many consumers prefer the second version even though the total is identical. The word “free” has unusual psychological power because zero is not always processed like an ordinary price. Moving from $1 to $0 can feel more significant than moving from $2 to $1, even though both changes save one dollar.\n\nThis does not mean consumers are foolish. Shopping decisions happen under limited attention. People cannot calculate every alternative, opportunity cost, and future consequence each time they buy something. Mental shortcuts are necessary. The important question is whether a shortcut aligns with the consumer’s real goal. If the extra item is genuinely useful, adding it to reach free shipping may be sensible. If it would never have been purchased otherwise, the shopper should compare the extra spending with the fee they are trying to avoid.\n\nA simple rule can help: ignore the label “free” and compare total outcomes. Ask, “Which option leaves me better off after all costs and benefits?” Sometimes the answer will still be to reach the threshold. But the calculation should include the value of the extra product, not merely the satisfaction of avoiding a fee.\n\nThe broader lesson extends far beyond shipping. Loyalty programs, credit-card rewards, limited-time discounts, and “buy two, get one free” offers all create targets that can change the question consumers ask. Instead of deciding whether a purchase is worthwhile, people begin deciding how to qualify for a reward. Once the target becomes psychologically important, spending can shift from serving a goal to serving the incentive itself.\n\nThat is why consumer psychology is not only about persuasion. It is also about architecture. Prices, thresholds, labels, and defaults structure the path through which a decision is made. The same person with the same preferences may choose differently when that path changes. Understanding the architecture does not make us immune to it, but it gives us a better question to ask: am I buying something because I value it, or because the system has made reaching a target feel like winning?",
+    "summaryZh": "这篇文章把“满额免邮”当作一个行为经济学实验来拆解。表面上，它只是运费政策；实际上，它同时操纵了 mental accounting、reference point、loss aversion 和 friction。消费者会把“商品支出”和“运费”放进不同的心理账户，因此花 19 美元买额外商品来避免 6 美元运费，主观上可能比直接支付运费更舒服。免邮门槛还会把 50 美元从一个普通数字变成目标，使问题从“我还需要什么吗？”悄悄变成“我怎样凑到 50？”。\n\n它延续了前几篇的工具链：#36 的 friction 在这里被企业从障碍转化为 incentive；#37 的判断框架提醒我们不要被一个显眼答案或标签替代真正目标；Goodhart’s Law 则解释为什么平均客单价上涨不一定意味着利润或满意度提高。文章还加入 causality：看到客单价从 40 涨到 47，不能直接把 7 美元都归因于免邮政策，必须问 counterfactual——没有这项政策时会怎样。\n\n今天最可迁移的思想是“Target Substitution”：制度设置一个容易看见的目标后，人可能从优化真实目标，转而优化“达到门槛”。分析促销、积分、信用卡奖励、KPI 甚至学习打卡时，都可以问：这个 incentive 是在帮助原目标，还是已经取代原目标？"
+  },
+  "words": [
+    {
+      "word": "threshold",
+      "type": "vocab",
+      "meaningZh": "门槛；达到某项优惠或条件所需的界线",
+      "example": "The retailer offers free delivery once customers reach a $50 threshold.",
+      "source": 38
+    },
+    {
+      "word": "mental accounting",
+      "type": "academic",
+      "meaningZh": "心理账户；人们把金钱按用途或来源分开看待的倾向",
+      "example": "Mental accounting can make a shipping fee feel different from an equal increase in product price.",
+      "source": 38
+    },
+    {
+      "word": "interchangeable",
+      "type": "vocab",
+      "meaningZh": "可互换的",
+      "example": "Economically, dollars are interchangeable, but people do not always treat them that way.",
+      "source": 38
+    },
+    {
+      "word": "surcharge",
+      "type": "vocab",
+      "meaningZh": "附加费",
+      "example": "Customers often react strongly to a surcharge shown at the end of checkout.",
+      "source": 38
+    },
+    {
+      "word": "salient",
+      "type": "academic",
+      "meaningZh": "显眼的；在心理上特别突出的",
+      "example": "A separate shipping fee becomes highly salient at checkout.",
+      "source": 38
+    },
+    {
+      "word": "transaction friction",
+      "type": "academic",
+      "meaningZh": "交易摩擦；增加完成交易难度或心理成本的障碍",
+      "example": "Shipping charges create transaction friction that may reduce purchases.",
+      "source": 38
+    },
+    {
+      "word": "reference point",
+      "type": "academic",
+      "meaningZh": "参照点；人们判断得失时使用的基准",
+      "example": "The free-shipping threshold becomes a new reference point for the shopper.",
+      "source": 38
+    },
+    {
+      "word": "loss aversion",
+      "type": "academic",
+      "meaningZh": "损失厌恶；损失带来的痛苦通常强于同等收益的快乐",
+      "example": "Loss aversion can make missing free shipping feel unusually painful.",
+      "source": 38
+    },
+    {
+      "word": "attainable",
+      "type": "vocab",
+      "meaningZh": "可达到的",
+      "example": "The target must feel attainable if it is going to influence behavior.",
+      "source": 38
+    },
+    {
+      "word": "average order value",
+      "type": "academic",
+      "meaningZh": "平均订单金额；平均客单价",
+      "example": "Free-shipping thresholds are often designed to raise average order value.",
+      "source": 38
+    },
+    {
+      "word": "margin",
+      "type": "vocab",
+      "meaningZh": "利润空间；毛利",
+      "example": "Offering free delivery too easily can reduce the retailer's margin.",
+      "source": 38
+    },
+    {
+      "word": "counterfactual",
+      "type": "academic",
+      "meaningZh": "反事实；用于比较“如果没有发生某件事会怎样”",
+      "example": "A causal claim requires a credible counterfactual.",
+      "source": 38
+    },
+    {
+      "word": "causal effect",
+      "type": "academic",
+      "meaningZh": "因果效应",
+      "example": "An experiment can help estimate the causal effect of a shipping policy.",
+      "source": 38
+    },
+    {
+      "word": "filler product",
+      "type": "vocab",
+      "meaningZh": "为了凑单而购买的填充商品",
+      "example": "A shopper may add a filler product simply to reach the threshold.",
+      "source": 38
+    },
+    {
+      "word": "opportunity cost",
+      "type": "academic",
+      "meaningZh": "机会成本；选择一个方案而放弃的最佳替代方案价值",
+      "example": "Consumers often ignore the opportunity cost of unnecessary purchases.",
+      "source": 38
+    },
+    {
+      "word": "framing",
+      "type": "academic",
+      "meaningZh": "框架效应；同一信息因呈现方式不同而改变判断",
+      "example": "Price framing can change preferences even when total cost is unchanged.",
+      "source": 38
+    },
+    {
+      "word": "qualify for",
+      "type": "vocab",
+      "meaningZh": "达到条件以获得……",
+      "example": "Customers may buy extra items to qualify for a reward.",
+      "source": 38
+    },
+    {
+      "word": "Richard Thaler",
+      "type": "proper",
+      "meaningZh": "理查德·塞勒；行为经济学家，心理账户等研究的重要代表人物",
+      "example": "Richard Thaler helped popularize the idea of mental accounting in behavioral economics.",
+      "source": 38
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why do discounts and rewards sometimes make people spend more rather than save money?",
+      "category": "Consumer Psychology",
+      "framework": "Incentive → New reference point → Target substitution → Extra spending",
+      "response": "I think the main reason is that a reward can change what people are trying to achieve. At first, a shopper may simply want to buy one useful product, but once a discount or free-shipping threshold appears, reaching that target can become a goal in itself. This is especially powerful when the reward feels almost within reach, because people dislike the feeling of missing a benefit they could have obtained. As a result, they may spend more to save a smaller amount. So I would say promotions do not just reduce prices; they can also reshape the decision by changing the reference point people use.",
+      "expressions": [
+        "A reward can change what people are trying to achieve.",
+        "Reaching the target can become a goal in itself.",
+        "Promotions can reshape the decision by changing the reference point."
+      ],
+      "source": 38
+    },
+    {
+      "question": "Do you think consumers are easily influenced by the way prices are presented?",
+      "category": "Consumer Psychology",
+      "framework": "Limited attention → Framing → Perceived value → Better comparison",
+      "response": "Yes, to some extent, because people usually make shopping decisions with limited time and attention. For example, many consumers may prefer a product advertised with free shipping even when another seller offers a lower total price but charges separately for delivery. The word 'free' is very noticeable, while the total cost requires a little more calculation. I don't think this means consumers are irrational in every situation; using shortcuts is often necessary. However, when the purchase is expensive or the promotion encourages extra spending, it is useful to ignore the label and compare the final outcomes instead.",
+      "expressions": [
+        "People usually make decisions with limited time and attention.",
+        "The label is more noticeable than the total cost.",
+        "It is useful to ignore the label and compare the final outcomes instead."
+      ],
+      "source": 38
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Reaching the target can become a goal in itself.",
+      "meaningZh": "达到门槛本身可能从手段变成目标；适合促销、KPI、积分等话题。",
+      "source": 38
+    },
+    {
+      "expression": "Promotions can reshape the decision by changing the reference point.",
+      "meaningZh": "促销会通过改变参照点重塑决策。",
+      "source": 38
+    },
+    {
+      "expression": "It is useful to ignore the label and compare the final outcomes instead.",
+      "meaningZh": "忽略标签，直接比较最终结果；适合价格、营销和决策类话题。",
+      "source": 38
+    }
+  ]
+}
