@@ -61,3 +61,20 @@ expressions.push(...[
     "#37"
   ]
 ]);
+
+
+// Imported Article #38
+expressions.push(...[
+  [
+    "Reaching the target can become a goal in itself.",
+    "#38"
+  ],
+  [
+    "Promotions can reshape the decision by changing the reference point.",
+    "#38"
+  ],
+  [
+    "It is useful to ignore the label and compare the final outcomes instead.",
+    "#38"
+  ]
+]);

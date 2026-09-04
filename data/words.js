@@ -880,3 +880,134 @@ words.push(...[
     "src": "#37"
   }
 ]);
+
+
+// Imported Article #38
+words.push(...[
+  {
+    "w": "threshold",
+    "zh": "门槛；达到某项优惠或条件所需的界线",
+    "type": "vocab",
+    "ex": "The retailer offers free delivery once customers reach a $50 threshold.",
+    "src": "#38"
+  },
+  {
+    "w": "mental accounting",
+    "zh": "心理账户；人们把金钱按用途或来源分开看待的倾向",
+    "type": "academic",
+    "ex": "Mental accounting can make a shipping fee feel different from an equal increase in product price.",
+    "src": "#38"
+  },
+  {
+    "w": "interchangeable",
+    "zh": "可互换的",
+    "type": "vocab",
+    "ex": "Economically, dollars are interchangeable, but people do not always treat them that way.",
+    "src": "#38"
+  },
+  {
+    "w": "surcharge",
+    "zh": "附加费",
+    "type": "vocab",
+    "ex": "Customers often react strongly to a surcharge shown at the end of checkout.",
+    "src": "#38"
+  },
+  {
+    "w": "salient",
+    "zh": "显眼的；在心理上特别突出的",
+    "type": "academic",
+    "ex": "A separate shipping fee becomes highly salient at checkout.",
+    "src": "#38"
+  },
+  {
+    "w": "transaction friction",
+    "zh": "交易摩擦；增加完成交易难度或心理成本的障碍",
+    "type": "academic",
+    "ex": "Shipping charges create transaction friction that may reduce purchases.",
+    "src": "#38"
+  },
+  {
+    "w": "reference point",
+    "zh": "参照点；人们判断得失时使用的基准",
+    "type": "academic",
+    "ex": "The free-shipping threshold becomes a new reference point for the shopper.",
+    "src": "#38"
+  },
+  {
+    "w": "loss aversion",
+    "zh": "损失厌恶；损失带来的痛苦通常强于同等收益的快乐",
+    "type": "academic",
+    "ex": "Loss aversion can make missing free shipping feel unusually painful.",
+    "src": "#38"
+  },
+  {
+    "w": "attainable",
+    "zh": "可达到的",
+    "type": "vocab",
+    "ex": "The target must feel attainable if it is going to influence behavior.",
+    "src": "#38"
+  },
+  {
+    "w": "average order value",
+    "zh": "平均订单金额；平均客单价",
+    "type": "academic",
+    "ex": "Free-shipping thresholds are often designed to raise average order value.",
+    "src": "#38"
+  },
+  {
+    "w": "margin",
+    "zh": "利润空间；毛利",
+    "type": "vocab",
+    "ex": "Offering free delivery too easily can reduce the retailer's margin.",
+    "src": "#38"
+  },
+  {
+    "w": "counterfactual",
+    "zh": "反事实；用于比较“如果没有发生某件事会怎样”",
+    "type": "academic",
+    "ex": "A causal claim requires a credible counterfactual.",
+    "src": "#38"
+  },
+  {
+    "w": "causal effect",
+    "zh": "因果效应",
+    "type": "academic",
+    "ex": "An experiment can help estimate the causal effect of a shipping policy.",
+    "src": "#38"
+  },
+  {
+    "w": "filler product",
+    "zh": "为了凑单而购买的填充商品",
+    "type": "vocab",
+    "ex": "A shopper may add a filler product simply to reach the threshold.",
+    "src": "#38"
+  },
+  {
+    "w": "opportunity cost",
+    "zh": "机会成本；选择一个方案而放弃的最佳替代方案价值",
+    "type": "academic",
+    "ex": "Consumers often ignore the opportunity cost of unnecessary purchases.",
+    "src": "#38"
+  },
+  {
+    "w": "framing",
+    "zh": "框架效应；同一信息因呈现方式不同而改变判断",
+    "type": "academic",
+    "ex": "Price framing can change preferences even when total cost is unchanged.",
+    "src": "#38"
+  },
+  {
+    "w": "qualify for",
+    "zh": "达到条件以获得……",
+    "type": "vocab",
+    "ex": "Customers may buy extra items to qualify for a reward.",
+    "src": "#38"
+  },
+  {
+    "w": "Richard Thaler",
+    "zh": "理查德·塞勒；行为经济学家，心理账户等研究的重要代表人物",
+    "type": "proper",
+    "ex": "Richard Thaler helped popularize the idea of mental accounting in behavioral economics.",
+    "src": "#38"
+  }
+]);

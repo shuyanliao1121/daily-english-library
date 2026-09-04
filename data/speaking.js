@@ -404,3 +404,32 @@ speakingCards.push(...[
     ]
   }
 ]);
+
+
+// Imported Article #38
+speakingCards.push(...[
+  {
+    "src": "#38",
+    "cat": "Consumer Psychology",
+    "framework": "Incentive → New reference point → Target substitution → Extra spending",
+    "q": "Why do discounts and rewards sometimes make people spend more rather than save money?",
+    "answer": "I think the main reason is that a reward can change what people are trying to achieve. At first, a shopper may simply want to buy one useful product, but once a discount or free-shipping threshold appears, reaching that target can become a goal in itself. This is especially powerful when the reward feels almost within reach, because people dislike the feeling of missing a benefit they could have obtained. As a result, they may spend more to save a smaller amount. So I would say promotions do not just reduce prices; they can also reshape the decision by changing the reference point people use.",
+    "expr": [
+      "A reward can change what people are trying to achieve.",
+      "Reaching the target can become a goal in itself.",
+      "Promotions can reshape the decision by changing the reference point."
+    ]
+  },
+  {
+    "src": "#38",
+    "cat": "Consumer Psychology",
+    "framework": "Limited attention → Framing → Perceived value → Better comparison",
+    "q": "Do you think consumers are easily influenced by the way prices are presented?",
+    "answer": "Yes, to some extent, because people usually make shopping decisions with limited time and attention. For example, many consumers may prefer a product advertised with free shipping even when another seller offers a lower total price but charges separately for delivery. The word 'free' is very noticeable, while the total cost requires a little more calculation. I don't think this means consumers are irrational in every situation; using shortcuts is often necessary. However, when the purchase is expensive or the promotion encourages extra spending, it is useful to ignore the label and compare the final outcomes instead.",
+    "expr": [
+      "People usually make decisions with limited time and attention.",
+      "The label is more noticeable than the total cost.",
+      "It is useful to ignore the label and compare the final outcomes instead."
+    ]
+  }
+]);
