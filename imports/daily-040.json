@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 40,
+  "article": {
+    "n": 40,
+    "title": "Why Successful Companies Start to Look the Same",
+    "category": "Business",
+    "themes": [
+      "competitive strategy",
+      "benchmarking",
+      "strategic convergence",
+      "incentives",
+      "differentiation",
+      "feedback"
+    ],
+    "framework": "Competitor Success → Benchmarking → Imitation → Strategic Convergence → Weaker Differentiation",
+    "coreIdea": "Learning from competitors can improve a company locally, but when every firm copies the same visible signals of success, the industry can converge on similar strategies and make genuine differentiation scarcer.",
+    "body": "Walk through an airport, open several banking apps, or compare the websites of modern technology companies, and you may notice something strange: competitors often begin to look alike. Airlines copy boarding systems and loyalty programs. Banks offer similar premium cards. Software companies adopt similar subscription plans, dashboards, and artificial-intelligence features. If businesses are supposed to compete by being different, why do successful firms so often converge?\n\nOne answer is benchmarking. Companies routinely compare their performance, products, and processes with those of competitors. This is sensible. If another firm delivers orders twice as quickly, has lower customer-acquisition costs, or retains more subscribers, managers should want to understand why. Ignoring useful information simply to appear original would be expensive. Benchmarking can reveal inefficiency and spread good practices through an industry.\n\nThe problem begins when companies copy the visible feature without understanding the mechanism that made it valuable. Imagine that a successful retailer launches a paid membership program. Competitors observe that its members buy more frequently, so they introduce similar programs. But perhaps the original program succeeds because the retailer already has a dense delivery network, a wide product range, and customers who purchase every week. The membership is not an isolated cause of loyalty; it works inside a larger system. Copying the surface feature may therefore produce a much weaker result.\n\nThis is a causality problem. Managers can observe that successful Company A does X, but that does not prove X caused the success. Perhaps successful companies can afford X because they are already profitable. Perhaps both X and success are produced by a third factor, such as strong distribution or brand trust. The distinction resembles a familiar analytical rule: correlation can suggest a question, but it does not by itself identify the mechanism.\n\nImitation is also encouraged by incentives inside organizations. A manager who proposes an unusual strategy takes a visible risk. If it fails, colleagues can ask why the company departed from industry practice. By contrast, copying a respected competitor is easier to defend. “The market leader is doing it” sounds like evidence, even when the situations are different. This creates an asymmetry: conventional mistakes may be less damaging to a manager’s reputation than unconventional mistakes.\n\nEconomists and organizational researchers sometimes describe related behavior as herding or institutional isomorphism: organizations facing similar pressures become more alike over time. The exact mechanisms vary. Some firms imitate successful peers under uncertainty. Some respond to the same regulations. Others hire people trained in similar professional standards. The result is strategic convergence: companies that began with different possibilities gradually choose similar structures, products, and language.\n\nThere is an important paradox here. At the individual-company level, imitation can be rational. If a competitor discovers a more efficient payment system, copying it may save money. Yet at the industry level, repeated imitation can reduce differentiation. When every hotel adds the same loyalty tiers, every streaming service produces similar content categories, or every phone manufacturer emphasizes the same features, customers have fewer meaningful reasons to prefer one firm over another.\n\nThis connects to scarcity. If a useful feature is rare, it can distinguish a company. Once everyone copies it, the feature becomes abundant and its strategic value falls. Free delivery is a good example. When only one retailer offers it, free delivery can be a competitive advantage. When nearly every retailer offers it, customers begin to treat it as a baseline expectation. The innovation has not become useless—it may still be necessary—but it no longer provides the same differentiation.\n\nCompetition therefore changes the value of a strategy over time. A decision cannot be evaluated only by asking whether it works in isolation. Managers must also ask what happens when competitors respond. This is second-order thinking. A discount may attract customers at first, but if every competitor matches it, the long-run result may be lower margins across the industry. A new feature may increase demand temporarily, but widespread imitation can turn it into an expensive requirement.\n\nThis dynamic can create a strategic treadmill. Companies keep investing simply to remain in the same relative position. One airline improves its app, so others improve theirs. One bank increases rewards, so competitors follow. Customers benefit from some of this competition, but firms may spend more without creating durable advantage. The relevant benchmark keeps moving because each company’s improvement changes what customers expect from everyone else.\n\nMeasurement can make convergence even stronger. Businesses naturally focus on metrics they can observe: conversion rates, monthly active users, delivery times, retention, or revenue per customer. If a competitor reports impressive numbers, managers may copy the practices associated with those metrics. But visible metrics rarely capture the whole system. A company can optimize engagement while weakening trust, or raise short-term sales through discounts while training customers to wait for promotions.\n\nGoodhart’s Law appears again: when a measure becomes a target, it can become less useful as a measure. In competitive strategy, there is an additional twist. Companies may not only optimize their own metrics; they may optimize toward the same metrics as everyone else. That can narrow the range of strategies considered. What is easy to compare becomes what is easy to copy.\n\nA useful question is: what must be true for this strategy to work? If a low-cost airline copies the lounge strategy of a premium carrier, the answer may reveal a conflict with its business model. If a small software company copies the broad product portfolio of a giant platform, it may spread scarce engineering resources too thinly. The visible strategy is only the final output of a deeper set of constraints and trade-offs.\n\nTrue differentiation often requires choosing what not to copy. Strategy is partly the allocation of scarce resources. A company cannot be the cheapest, most luxurious, most specialized, and most comprehensive provider at the same time without facing serious trade-offs. Saying yes to every industry trend can gradually remove the distinctive choices that made the company valuable.\n\nThis also explains why successful strategies can look uncomfortable at first. A genuinely different choice may appear inefficient when judged by the dominant industry benchmark. A company serving a narrow customer group may look smaller. A business refusing heavy discounts may grow more slowly. A firm investing in reliability rather than flashy features may receive less attention. The strategic question is whether the apparent weakness supports a different source of long-term value.\n\nThe broader lesson applies beyond companies. Students copy the routines of top performers, investors copy popular portfolios, and creators imitate successful formats. Learning from others is efficient, especially under uncertainty. But the more visible a success becomes, the more likely its surface features are to be copied—and the less scarce those features become.\n\nSo the right question is not simply, “What are successful competitors doing?” It is, “Why does it work for them, what would happen if everyone did it, and which parts fit our own constraints?” Benchmarking tells a company where others are going. Strategy begins when it decides which paths are worth following—and which ones are worth leaving crowded.",
+    "summaryZh": "今天讨论的是一个很有趣的商业悖论：企业明明需要 differentiation（差异化），为什么最后却经常越长越像？答案不是“管理者没创意”，而是 imitation 在局部往往非常理性。竞争对手已经试过一个做法，直接 benchmark 可以降低探索成本；而且在组织内部，“行业龙头也这么做”通常比一个未经验证的新策略更容易为失败辩护。\n\n真正的问题出现在“复制可见结果，却没有复制底层机制”。一家零售商的会员制成功，可能依赖密集物流、购买频率和品牌信任；会员制本身只是系统的一部分。因此这里首先接 causality：Successful company does X ≠ X caused the success。还要问是否存在 reverse causality 或第三个共同原因。\n\n第二层是 strategic convergence。每家公司单独模仿都可能合理，但所有公司一起模仿，就会让原本稀缺的 feature 变成 baseline expectation。于是我们又回到 scarcity：一个能力的战略价值不仅取决于它有没有用，也取决于它有多稀缺。免费配送从 competitive advantage 变成行业标配，就是典型例子。\n\n第三层是 second-order effects：不能只问“我采用这个策略会怎样”，还要问“竞争对手回应以后会怎样”。如果所有人都跟进折扣，最后可能不是谁获得优势，而是整个行业 margin 一起下降。\n\n今天加入 toolbox 的核心是 Context Before Copying：看到成功案例时依次问 Mechanism → Context → Competitor Response → Scarcity。真正的 strategy 并不是拒绝学习别人，而是知道哪些东西值得复制、哪些优势高度依赖环境，以及为了保持差异化必须主动不做什么。"
+  },
+  "words": [
+    {
+      "word": "benchmarking",
+      "type": "academic",
+      "meaningZh": "标杆分析；把自身表现或流程与优秀同行进行比较",
+      "example": "Benchmarking can help a company identify inefficient processes.",
+      "source": 40
+    },
+    {
+      "word": "converge",
+      "type": "vocab",
+      "meaningZh": "趋同；逐渐变得相似",
+      "example": "Competing products often converge as firms copy successful features.",
+      "source": 40
+    },
+    {
+      "word": "customer-acquisition cost",
+      "type": "academic",
+      "meaningZh": "获客成本；获得一个新客户所需的平均成本",
+      "example": "The company reduced its customer-acquisition cost through referrals.",
+      "source": 40
+    },
+    {
+      "word": "isolated cause",
+      "type": "academic",
+      "meaningZh": "孤立原因；脱离其他条件单独被视为原因的因素",
+      "example": "The membership program was not an isolated cause of customer loyalty.",
+      "source": 40
+    },
+    {
+      "word": "asymmetry",
+      "type": "academic",
+      "meaningZh": "不对称；两种情况的成本、风险或效果并不相等",
+      "example": "There is an asymmetry between the reputational risks of conventional and unconventional mistakes.",
+      "source": 40
+    },
+    {
+      "word": "legitimacy",
+      "type": "academic",
+      "meaningZh": "正当性；被群体认为合理、可信或符合规范的状态",
+      "example": "A practice can gain legitimacy simply because respected firms adopt it.",
+      "source": 40
+    },
+    {
+      "word": "herding",
+      "type": "academic",
+      "meaningZh": "羊群行为；在不确定性下跟随他人选择的行为",
+      "example": "Herding can cause investors and companies to make similar decisions.",
+      "source": 40
+    },
+    {
+      "word": "institutional isomorphism",
+      "type": "academic",
+      "meaningZh": "制度同形；组织在共同压力下逐渐变得相似的现象",
+      "example": "Institutional isomorphism helps explain why organizations in one industry often resemble each other.",
+      "source": 40
+    },
+    {
+      "word": "strategic convergence",
+      "type": "academic",
+      "meaningZh": "战略趋同；竞争者的战略逐渐相似",
+      "example": "Strategic convergence can make genuine differentiation more difficult.",
+      "source": 40
+    },
+    {
+      "word": "differentiation",
+      "type": "academic",
+      "meaningZh": "差异化；使产品或企业区别于竞争者",
+      "example": "Strong differentiation gives customers a reason to choose one brand over another.",
+      "source": 40
+    },
+    {
+      "word": "baseline expectation",
+      "type": "academic",
+      "meaningZh": "基准预期；消费者逐渐视为理所当然的最低标准",
+      "example": "Fast delivery has become a baseline expectation in many markets.",
+      "source": 40
+    },
+    {
+      "word": "durable advantage",
+      "type": "vocab",
+      "meaningZh": "持久优势；不容易被竞争者迅速复制或消除的优势",
+      "example": "A popular feature does not always create a durable advantage.",
+      "source": 40
+    },
+    {
+      "word": "strategic treadmill",
+      "type": "academic",
+      "meaningZh": "战略跑步机；不断投入却只能维持相对位置的竞争状态",
+      "example": "Feature competition can put firms on a strategic treadmill.",
+      "source": 40
+    },
+    {
+      "word": "trade-off",
+      "type": "academic",
+      "meaningZh": "权衡；获得某种优势时必须牺牲另一种东西",
+      "example": "Every business model involves trade-offs between cost, quality, and scope.",
+      "source": 40
+    },
+    {
+      "word": "transferable",
+      "type": "vocab",
+      "meaningZh": "可迁移的；能在不同环境中有效应用的",
+      "example": "Managers must decide whether a competitor's practice is genuinely transferable.",
+      "source": 40
+    },
+    {
+      "word": "context-dependent",
+      "type": "academic",
+      "meaningZh": "依赖具体情境的",
+      "example": "Some competitive advantages are highly context-dependent.",
+      "source": 40
+    },
+    {
+      "word": "allocate",
+      "type": "vocab",
+      "meaningZh": "分配；配置有限资源",
+      "example": "A company must allocate capital to the opportunities it values most.",
+      "source": 40
+    },
+    {
+      "word": "reverse causality",
+      "type": "academic",
+      "meaningZh": "反向因果；看似原因的变量实际上可能是结果",
+      "example": "Reverse causality may explain why profitable firms are more likely to adopt expensive technology.",
+      "source": 40
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Do you think companies should copy successful ideas from their competitors?",
+      "category": "Business",
+      "framework": "Learning benefit → Causality check → Context → Differentiation",
+      "response": "Yes, but I think they should copy very selectively. Learning from competitors can save time because a company does not need to rediscover every good practice from zero. However, the visible feature may not be the real reason a competitor is successful. A strategy can depend on its customer base, brand, technology or cost structure, so the same idea may produce a very different result elsewhere. I would therefore ask what makes the strategy work before copying it. Companies should learn from competitors without allowing benchmarking to replace independent judgment.",
+      "expressions": [
+        "The visible feature may not be the real reason for success.",
+        "The same idea may produce a very different result elsewhere.",
+        "Companies should learn from competitors without allowing benchmarking to replace independent judgment."
+      ],
+      "source": 40
+    },
+    {
+      "question": "Why is it difficult for businesses to remain different from their competitors?",
+      "category": "Business",
+      "framework": "Successful innovation → Imitation → New baseline → Scarcer differentiation",
+      "response": "I think successful ideas naturally attract imitation. If one company introduces a feature that customers clearly value, competitors have a strong incentive to offer something similar rather than risk falling behind. The interesting part is that once everyone adopts the feature, it stops being a major advantage and becomes a baseline expectation. This means companies are constantly searching for a new source of differentiation. In that sense, competition creates a moving target: today's innovation can become tomorrow's minimum requirement.",
+      "expressions": [
+        "Successful ideas naturally attract imitation.",
+        "It stops being a major advantage and becomes a baseline expectation.",
+        "Today's innovation can become tomorrow's minimum requirement."
+      ],
+      "source": 40
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Companies should learn from competitors without allowing benchmarking to replace independent judgment.",
+      "meaningZh": "企业应学习竞争者，但不能让标杆分析取代独立判断；适合商业、学习方法和模仿创新话题。",
+      "source": 40
+    },
+    {
+      "expression": "It stops being a major advantage and becomes a baseline expectation.",
+      "meaningZh": "某项优势普及后会从竞争优势变成基本预期；适合科技、服务和消费趋势话题。",
+      "source": 40
+    },
+    {
+      "expression": "Today's innovation can become tomorrow's minimum requirement.",
+      "meaningZh": "今天的创新可能成为明天的最低要求；适合竞争、技术扩散和消费者预期话题。",
+      "source": 40
+    }
+  ]
+}
