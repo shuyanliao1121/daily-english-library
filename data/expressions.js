@@ -78,3 +78,37 @@ expressions.push(...[
     "#38"
   ]
 ]);
+
+
+// Imported Article #39
+expressions.push(...[
+  [
+    "A higher salary does not automatically translate into greater financial security.",
+    "#39"
+  ],
+  [
+    "I would look at the broader financial position rather than one headline number.",
+    "#39"
+  ],
+  [
+    "Wealth and resilience show how many choices a person can actually afford to make.",
+    "#39"
+  ]
+]);
+
+
+// Imported Article #40
+expressions.push(...[
+  [
+    "Companies should learn from competitors without allowing benchmarking to replace independent judgment.",
+    "#40"
+  ],
+  [
+    "It stops being a major advantage and becomes a baseline expectation.",
+    "#40"
+  ],
+  [
+    "Today's innovation can become tomorrow's minimum requirement.",
+    "#40"
+  ]
+]);

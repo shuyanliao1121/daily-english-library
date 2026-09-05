@@ -433,3 +433,61 @@ speakingCards.push(...[
     ]
   }
 ]);
+
+
+// Imported Article #39
+speakingCards.push(...[
+  {
+    "src": "#39",
+    "cat": "Finance & Economics",
+    "framework": "Higher income → Lifestyle adaptation → Recurring costs → Limited wealth accumulation",
+    "q": "Why do some people fail to save more even after their income increases?",
+    "answer": "I think one major reason is that spending often adapts to income. When people start earning more, some upgrades are reasonable, but they can gradually become part of the normal lifestyle. A nicer apartment, more convenient transport or several small subscriptions may not seem expensive individually, yet together they can absorb most of the extra income. I also think recurring costs matter more than people expect because they continue every month. So a higher salary does not automatically translate into greater financial security; what matters is how much of the additional cash flow is eventually converted into savings, investments or lower debt.",
+    "expr": [
+      "Spending often adapts to income.",
+      "Small upgrades can gradually become part of the normal lifestyle.",
+      "A higher salary does not automatically translate into greater financial security."
+    ]
+  },
+  {
+    "src": "#39",
+    "cat": "Finance & Economics",
+    "framework": "Income flow → Assets and liabilities → Flexibility → Broader financial position",
+    "q": "Is salary the best way to judge whether someone is financially successful?",
+    "answer": "Not really. Salary is important because it determines how much money is coming in, but it only describes a flow of income. It tells us very little about a person's savings, debt, investments or fixed expenses. Someone with a high salary may still have little financial flexibility if most of that income is already committed, while someone earning less may have built substantial assets over time. I would therefore look at the broader financial position rather than one headline number. Income matters, but wealth and resilience show how many choices a person can actually afford to make.",
+    "expr": [
+      "It only describes a flow of income.",
+      "I would look at the broader financial position rather than one headline number.",
+      "Wealth and resilience show how many choices a person can actually afford to make."
+    ]
+  }
+]);
+
+
+// Imported Article #40
+speakingCards.push(...[
+  {
+    "src": "#40",
+    "cat": "Business",
+    "framework": "Learning benefit → Causality check → Context → Differentiation",
+    "q": "Do you think companies should copy successful ideas from their competitors?",
+    "answer": "Yes, but I think they should copy very selectively. Learning from competitors can save time because a company does not need to rediscover every good practice from zero. However, the visible feature may not be the real reason a competitor is successful. A strategy can depend on its customer base, brand, technology or cost structure, so the same idea may produce a very different result elsewhere. I would therefore ask what makes the strategy work before copying it. Companies should learn from competitors without allowing benchmarking to replace independent judgment.",
+    "expr": [
+      "The visible feature may not be the real reason for success.",
+      "The same idea may produce a very different result elsewhere.",
+      "Companies should learn from competitors without allowing benchmarking to replace independent judgment."
+    ]
+  },
+  {
+    "src": "#40",
+    "cat": "Business",
+    "framework": "Successful innovation → Imitation → New baseline → Scarcer differentiation",
+    "q": "Why is it difficult for businesses to remain different from their competitors?",
+    "answer": "I think successful ideas naturally attract imitation. If one company introduces a feature that customers clearly value, competitors have a strong incentive to offer something similar rather than risk falling behind. The interesting part is that once everyone adopts the feature, it stops being a major advantage and becomes a baseline expectation. This means companies are constantly searching for a new source of differentiation. In that sense, competition creates a moving target: today's innovation can become tomorrow's minimum requirement.",
+    "expr": [
+      "Successful ideas naturally attract imitation.",
+      "It stops being a major advantage and becomes a baseline expectation.",
+      "Today's innovation can become tomorrow's minimum requirement."
+    ]
+  }
+]);

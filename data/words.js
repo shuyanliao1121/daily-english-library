@@ -1011,3 +1011,265 @@ words.push(...[
     "src": "#38"
   }
 ]);
+
+
+// Imported Article #39
+words.push(...[
+  {
+    "w": "nominal",
+    "zh": "名义的；未扣除通胀等因素的",
+    "type": "academic",
+    "ex": "My nominal salary increased, but prices rose as well.",
+    "src": "#39"
+  },
+  {
+    "w": "real income",
+    "zh": "实际收入；按购买力调整后的收入",
+    "type": "academic",
+    "ex": "Real income matters more than the headline salary when measuring living standards.",
+    "src": "#39"
+  },
+  {
+    "w": "purchasing power",
+    "zh": "购买力；一笔钱能够购买商品和服务的能力",
+    "type": "academic",
+    "ex": "Inflation reduces the purchasing power of money.",
+    "src": "#39"
+  },
+  {
+    "w": "compensate for",
+    "zh": "补偿；抵消",
+    "type": "vocab",
+    "ex": "Part of the pay rise merely compensates for higher prices.",
+    "src": "#39"
+  },
+  {
+    "w": "lifestyle inflation",
+    "zh": "生活方式通胀；收入提高后支出随之升级",
+    "type": "academic",
+    "ex": "Lifestyle inflation can absorb a large share of a pay rise.",
+    "src": "#39"
+  },
+  {
+    "w": "baseline expectation",
+    "zh": "基准预期；逐渐被视为正常水平的标准",
+    "type": "academic",
+    "ex": "A luxury can eventually become a baseline expectation.",
+    "src": "#39"
+  },
+  {
+    "w": "reference point",
+    "zh": "参照点；用于判断得失的比较基准",
+    "type": "academic",
+    "ex": "People often judge a raise against a changing reference point.",
+    "src": "#39"
+  },
+  {
+    "w": "financial resilience",
+    "zh": "财务韧性；承受收入下降或意外支出的能力",
+    "type": "vocab",
+    "ex": "Emergency savings can improve financial resilience.",
+    "src": "#39"
+  },
+  {
+    "w": "balance sheet",
+    "zh": "资产负债表；也可泛指个人资产与负债状况",
+    "type": "academic",
+    "ex": "Two people with the same income can have very different personal balance sheets.",
+    "src": "#39"
+  },
+  {
+    "w": "recurring obligation",
+    "zh": "持续性财务义务；需要反复支付的固定支出",
+    "type": "vocab",
+    "ex": "A larger rent payment becomes a recurring obligation.",
+    "src": "#39"
+  },
+  {
+    "w": "gross salary",
+    "zh": "税前工资",
+    "type": "academic",
+    "ex": "The company announced an increase in gross salary.",
+    "src": "#39"
+  },
+  {
+    "w": "after-tax income",
+    "zh": "税后收入",
+    "type": "academic",
+    "ex": "Households make most spending decisions based on after-tax income.",
+    "src": "#39"
+  },
+  {
+    "w": "relative income",
+    "zh": "相对收入；与他人相比的收入水平",
+    "type": "academic",
+    "ex": "Relative income can influence how satisfied people feel with their earnings.",
+    "src": "#39"
+  },
+  {
+    "w": "retention",
+    "zh": "员工留任；企业留住员工的能力",
+    "type": "vocab",
+    "ex": "Higher compensation can improve employee retention.",
+    "src": "#39"
+  },
+  {
+    "w": "allocate",
+    "zh": "分配；配置",
+    "type": "vocab",
+    "ex": "She decided to allocate part of her raise to investments.",
+    "src": "#39"
+  },
+  {
+    "w": "net worth",
+    "zh": "净资产；资产减去负债后的价值",
+    "type": "academic",
+    "ex": "A higher salary does not guarantee faster growth in net worth.",
+    "src": "#39"
+  },
+  {
+    "w": "fixed commitment",
+    "zh": "固定承诺或固定支出",
+    "type": "vocab",
+    "ex": "Large fixed commitments reduce financial flexibility.",
+    "src": "#39"
+  },
+  {
+    "w": "stock vs flow",
+    "zh": "存量与流量；区分某一时点的累积量与一段时期内的变化量",
+    "type": "academic",
+    "ex": "Stock vs flow helps explain why a high salary is not the same as high wealth.",
+    "src": "#39"
+  }
+]);
+
+
+// Imported Article #40
+words.push(...[
+  {
+    "w": "benchmarking",
+    "zh": "标杆分析；把自身表现或流程与优秀同行进行比较",
+    "type": "academic",
+    "ex": "Benchmarking can help a company identify inefficient processes.",
+    "src": "#40"
+  },
+  {
+    "w": "converge",
+    "zh": "趋同；逐渐变得相似",
+    "type": "vocab",
+    "ex": "Competing products often converge as firms copy successful features.",
+    "src": "#40"
+  },
+  {
+    "w": "customer-acquisition cost",
+    "zh": "获客成本；获得一个新客户所需的平均成本",
+    "type": "academic",
+    "ex": "The company reduced its customer-acquisition cost through referrals.",
+    "src": "#40"
+  },
+  {
+    "w": "isolated cause",
+    "zh": "孤立原因；脱离其他条件单独被视为原因的因素",
+    "type": "academic",
+    "ex": "The membership program was not an isolated cause of customer loyalty.",
+    "src": "#40"
+  },
+  {
+    "w": "asymmetry",
+    "zh": "不对称；两种情况的成本、风险或效果并不相等",
+    "type": "academic",
+    "ex": "There is an asymmetry between the reputational risks of conventional and unconventional mistakes.",
+    "src": "#40"
+  },
+  {
+    "w": "legitimacy",
+    "zh": "正当性；被群体认为合理、可信或符合规范的状态",
+    "type": "academic",
+    "ex": "A practice can gain legitimacy simply because respected firms adopt it.",
+    "src": "#40"
+  },
+  {
+    "w": "herding",
+    "zh": "羊群行为；在不确定性下跟随他人选择的行为",
+    "type": "academic",
+    "ex": "Herding can cause investors and companies to make similar decisions.",
+    "src": "#40"
+  },
+  {
+    "w": "institutional isomorphism",
+    "zh": "制度同形；组织在共同压力下逐渐变得相似的现象",
+    "type": "academic",
+    "ex": "Institutional isomorphism helps explain why organizations in one industry often resemble each other.",
+    "src": "#40"
+  },
+  {
+    "w": "strategic convergence",
+    "zh": "战略趋同；竞争者的战略逐渐相似",
+    "type": "academic",
+    "ex": "Strategic convergence can make genuine differentiation more difficult.",
+    "src": "#40"
+  },
+  {
+    "w": "differentiation",
+    "zh": "差异化；使产品或企业区别于竞争者",
+    "type": "academic",
+    "ex": "Strong differentiation gives customers a reason to choose one brand over another.",
+    "src": "#40"
+  },
+  {
+    "w": "baseline expectation",
+    "zh": "基准预期；消费者逐渐视为理所当然的最低标准",
+    "type": "academic",
+    "ex": "Fast delivery has become a baseline expectation in many markets.",
+    "src": "#40"
+  },
+  {
+    "w": "durable advantage",
+    "zh": "持久优势；不容易被竞争者迅速复制或消除的优势",
+    "type": "vocab",
+    "ex": "A popular feature does not always create a durable advantage.",
+    "src": "#40"
+  },
+  {
+    "w": "strategic treadmill",
+    "zh": "战略跑步机；不断投入却只能维持相对位置的竞争状态",
+    "type": "academic",
+    "ex": "Feature competition can put firms on a strategic treadmill.",
+    "src": "#40"
+  },
+  {
+    "w": "trade-off",
+    "zh": "权衡；获得某种优势时必须牺牲另一种东西",
+    "type": "academic",
+    "ex": "Every business model involves trade-offs between cost, quality, and scope.",
+    "src": "#40"
+  },
+  {
+    "w": "transferable",
+    "zh": "可迁移的；能在不同环境中有效应用的",
+    "type": "vocab",
+    "ex": "Managers must decide whether a competitor's practice is genuinely transferable.",
+    "src": "#40"
+  },
+  {
+    "w": "context-dependent",
+    "zh": "依赖具体情境的",
+    "type": "academic",
+    "ex": "Some competitive advantages are highly context-dependent.",
+    "src": "#40"
+  },
+  {
+    "w": "allocate",
+    "zh": "分配；配置有限资源",
+    "type": "vocab",
+    "ex": "A company must allocate capital to the opportunities it values most.",
+    "src": "#40"
+  },
+  {
+    "w": "reverse causality",
+    "zh": "反向因果；看似原因的变量实际上可能是结果",
+    "type": "academic",
+    "ex": "Reverse causality may explain why profitable firms are more likely to adopt expensive technology.",
+    "src": "#40"
+  }
+]);
