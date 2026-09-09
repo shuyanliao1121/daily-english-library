@@ -491,3 +491,119 @@ speakingCards.push(...[
     ]
   }
 ]);
+
+
+// Imported Article #41
+speakingCards.push(...[
+  {
+    "src": "#41",
+    "cat": "Psychology",
+    "framework": "Freedom → Comparison cost → Opportunity cost → Satisfaction",
+    "q": "Do you think having more choices always makes consumers happier?",
+    "answer": "No, I don't think more choice always leads to greater satisfaction. Having several alternatives is useful because people have different needs, but after a certain point the comparison itself becomes costly. If I have to evaluate dozens of similar products, I may spend a lot of time worrying about small differences. More importantly, a large choice set makes the options I reject more visible, so even after making a good decision I can imagine that another one might have been better. I think choice is most helpful when people have enough alternatives to match their preferences but also have a clear way to narrow them down.",
+    "expr": [
+      "More choice does not always lead to greater satisfaction.",
+      "After a certain point, the comparison itself becomes costly.",
+      "Choice is most helpful when people have a clear way to narrow the options down."
+    ]
+  },
+  {
+    "src": "#41",
+    "cat": "Psychology",
+    "framework": "Lower search friction → More information → Higher evaluation cost → Greater reliance on filters",
+    "q": "How has technology changed the way people make decisions?",
+    "answer": "Technology has made it much easier to discover alternatives, which is generally a good thing, but it has also changed where the difficulty lies. In the past, people might struggle to find enough information, whereas today the problem is often deciding what deserves attention. We can compare hundreds of hotels, jobs or products in minutes, but processing all that information is impossible. As a result, people rely more on ratings, rankings, algorithms and recommendations. So technology has reduced the friction of finding options, but in many cases it has increased the importance of filtering them well.",
+    "expr": [
+      "Technology has changed where the difficulty lies.",
+      "The problem is often deciding what deserves attention.",
+      "Technology has reduced the friction of finding options."
+    ]
+  }
+]);
+
+
+// Imported Article #42
+speakingCards.push(...[
+  {
+    "src": "#42",
+    "cat": "Behavioral Economics",
+    "framework": "Past investment → Sunk cost → Fear of waste → Continued commitment",
+    "q": "Why do people sometimes continue doing something even when it is no longer enjoyable or useful?",
+    "answer": "I think people often become emotionally attached to what they have already invested. If someone has spent years on a course, a project or even a hobby, stopping can feel like admitting that all that effort was wasted. The problem is that past costs cannot usually be recovered by continuing. I think a better approach is to separate what is already gone from what the investment has actually created, such as skills or useful relationships. Then the person can ask whether continuing still makes sense from today onward rather than simply protecting the past.",
+    "expr": [
+      "Stopping can feel like admitting that all that effort was wasted.",
+      "Past costs cannot usually be recovered by continuing.",
+      "It makes more sense to ask whether continuing is worthwhile from today onward."
+    ]
+  },
+  {
+    "src": "#42",
+    "cat": "Behavioral Economics",
+    "framework": "Friction → Scarcity signal → Interpretation → Higher or lower perceived value",
+    "q": "Can making a product difficult to obtain make people want it more?",
+    "answer": "Yes, in some situations. If a product is difficult to obtain because demand is genuinely high or supply is limited, the difficulty can act as a signal that other people value it. Waiting can also create anticipation, so customers may become more emotionally invested before they receive the product. However, the effect depends heavily on how people interpret the obstacle. If the delay feels artificial or badly managed, it can reduce trust instead. So difficulty can increase perceived value, but only when the friction tells a convincing story.",
+    "expr": [
+      "The difficulty can act as a signal that other people value it.",
+      "The effect depends heavily on how people interpret the obstacle.",
+      "Friction can increase perceived value when it tells a convincing story."
+    ]
+  }
+]);
+
+
+// Imported Article #43
+speakingCards.push(...[
+  {
+    "src": "#43",
+    "cat": "Business",
+    "framework": "Existing system → Switching cost → Temporary disruption → Decision to stay",
+    "q": "Why do people sometimes keep using a product even when a better alternative exists?",
+    "answer": "I think the main reason is that people compare more than product quality. If I already have years of files, habits, subscriptions or contacts inside one system, moving to another one can take a lot of time and effort. The new product therefore has to be better by enough to justify the transition, not just slightly better on paper. In some cases staying is actually rational because the existing system already works well. So I would say a superior alternative does not automatically create a strong reason to switch; the cost of moving matters as well.",
+    "expr": [
+      "People compare more than product quality.",
+      "The new product has to be better by enough to justify the transition.",
+      "A superior alternative does not automatically create a strong reason to switch."
+    ]
+  },
+  {
+    "src": "#43",
+    "cat": "Business",
+    "framework": "Quality → Early adoption → Network effects → Market position",
+    "q": "Do you think the most popular products are usually the best products?",
+    "answer": "Not necessarily. Quality obviously matters, but popularity can also reflect timing, distribution and network effects. Once a product has many users, it may become more useful simply because other people and businesses already support it. That can attract even more users and make it difficult for a new competitor to enter, even if the competitor has some better features. I think market share tells us something important, but it does not tell us the whole causal story. We still need to ask how the product became popular and what keeps its position strong.",
+    "expr": [
+      "Popularity can reflect more than product quality.",
+      "Market share does not tell us the whole causal story.",
+      "We still need to ask what keeps its position strong."
+    ]
+  }
+]);
+
+
+// Imported Article #44
+speakingCards.push(...[
+  {
+    "src": "#44",
+    "cat": "Society & Culture",
+    "framework": "Uncertainty → Social proof → Lower information cost → Possible imitation",
+    "q": "Why are people often influenced by what other people choose?",
+    "answer": "I think other people's choices are useful when we do not have enough information ourselves. For example, if I am in an unfamiliar city, a busy restaurant may seem safer than an empty one because I assume local customers know something I don't. Following others can therefore save time and reduce uncertainty. However, I would not treat popularity as perfect evidence, because people may simply be copying one another. So the crowd is most useful when its members are making reasonably independent judgments rather than reacting to the same trend.",
+    "expr": [
+      "Following others can save time and reduce uncertainty.",
+      "I would not treat popularity as perfect evidence.",
+      "The crowd is most useful when its members are making reasonably independent judgments."
+    ]
+  },
+  {
+    "src": "#44",
+    "cat": "Society & Culture",
+    "framework": "Visible metrics → Social proof → Algorithmic amplification → Stronger conformity",
+    "q": "Can social media make people more likely to follow trends?",
+    "answer": "Yes, definitely, because social media makes popularity extremely visible. Users can immediately see view counts, likes, rankings and comments, so they receive social information before they have formed an independent opinion. Algorithms can strengthen this effect by giving already popular content more exposure, which then produces even more engagement. I think this can be useful for discovering interesting content, but it also means that a large number does not always represent a large amount of independent evidence. Sometimes popularity is partly the result of earlier popularity.",
+    "expr": [
+      "Social media makes popularity extremely visible.",
+      "A large number does not always represent a large amount of independent evidence.",
+      "Sometimes popularity is partly the result of earlier popularity."
+    ]
+  }
+]);

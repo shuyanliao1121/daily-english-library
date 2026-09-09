@@ -1273,3 +1273,527 @@ words.push(...[
     "src": "#40"
   }
 ]);
+
+
+// Imported Article #41
+words.push(...[
+  {
+    "w": "choice overload",
+    "zh": "选择过载；选项过多或过于复杂而增加决策困难的现象",
+    "type": "academic",
+    "ex": "Choice overload can make a simple purchase surprisingly stressful.",
+    "src": "#41"
+  },
+  {
+    "w": "cognitive load",
+    "zh": "认知负荷；处理信息时占用的心理资源",
+    "type": "academic",
+    "ex": "Too many product features can create unnecessary cognitive load.",
+    "src": "#41"
+  },
+  {
+    "w": "working memory",
+    "zh": "工作记忆；短时间内保存并处理信息的认知系统",
+    "type": "academic",
+    "ex": "Working memory cannot hold every detail of dozens of alternatives at once.",
+    "src": "#41"
+  },
+  {
+    "w": "opportunity cost",
+    "zh": "机会成本；选择某方案而放弃的最佳替代方案的价值",
+    "type": "academic",
+    "ex": "The opportunity cost of attending the concert is the best alternative use of that evening.",
+    "src": "#41"
+  },
+  {
+    "w": "comparison set",
+    "zh": "比较集合；用于评价当前选择的一组选项",
+    "type": "academic",
+    "ex": "A larger comparison set can make an otherwise good choice feel less satisfying.",
+    "src": "#41"
+  },
+  {
+    "w": "counterfactual",
+    "zh": "反事实；关于事情本可以如何不同的想象",
+    "type": "academic",
+    "ex": "After the purchase, she kept imagining a counterfactual in which she chose the cheaper model.",
+    "src": "#41"
+  },
+  {
+    "w": "regret",
+    "zh": "后悔；对未选择另一结果产生的负面感受",
+    "type": "vocab",
+    "ex": "Visible alternatives can increase regret after a decision.",
+    "src": "#41"
+  },
+  {
+    "w": "search friction",
+    "zh": "搜索摩擦；寻找可选方案所需的时间和成本",
+    "type": "academic",
+    "ex": "Online marketplaces have dramatically reduced search friction.",
+    "src": "#41"
+  },
+  {
+    "w": "comparison friction",
+    "zh": "比较摩擦；在多个方案之间评估和权衡的成本",
+    "type": "academic",
+    "ex": "Filters can reduce comparison friction by narrowing the relevant options.",
+    "src": "#41"
+  },
+  {
+    "w": "maximize",
+    "zh": "最大化；试图获得可能的最佳结果",
+    "type": "vocab",
+    "ex": "Some consumers try to maximize every important purchase.",
+    "src": "#41"
+  },
+  {
+    "w": "satisfice",
+    "zh": "满意化；找到达到要求的方案后停止继续寻找",
+    "type": "academic",
+    "ex": "It can be rational to satisfice when further comparison is costly.",
+    "src": "#41"
+  },
+  {
+    "w": "search space",
+    "zh": "搜索空间；所有可能被考察的方案集合",
+    "type": "academic",
+    "ex": "Clear criteria can shrink the search space.",
+    "src": "#41"
+  },
+  {
+    "w": "value of information",
+    "zh": "信息价值；新增信息对改善决策的预期价值",
+    "type": "academic",
+    "ex": "The value of information falls when another review is unlikely to change your choice.",
+    "src": "#41"
+  },
+  {
+    "w": "diminishing returns",
+    "zh": "边际收益递减；继续增加投入时新增收益逐渐减少",
+    "type": "academic",
+    "ex": "Reading more reviews often produces diminishing returns.",
+    "src": "#41"
+  },
+  {
+    "w": "choice architecture",
+    "zh": "选择架构；组织和呈现选项以影响决策的方式",
+    "type": "academic",
+    "ex": "Good choice architecture can simplify decisions without removing freedom.",
+    "src": "#41"
+  },
+  {
+    "w": "assortment",
+    "zh": "商品组合；商家提供的一系列不同产品",
+    "type": "vocab",
+    "ex": "A very large assortment can attract customers but also slow decisions.",
+    "src": "#41"
+  },
+  {
+    "w": "social proof",
+    "zh": "社会认同；依据他人的选择或评价判断某事是否值得",
+    "type": "academic",
+    "ex": "Best-seller labels provide social proof when shoppers are uncertain.",
+    "src": "#41"
+  },
+  {
+    "w": "criterion",
+    "zh": "标准；作出判断时使用的条件",
+    "type": "vocab",
+    "ex": "Price should be only one criterion when choosing a laptop.",
+    "src": "#41"
+  }
+]);
+
+
+// Imported Article #42
+words.push(...[
+  {
+    "w": "effort justification",
+    "zh": "努力合理化；因为为某结果付出很多而提高对其价值的评价",
+    "type": "academic",
+    "ex": "Effort justification can make a difficult achievement feel more valuable.",
+    "src": "#42"
+  },
+  {
+    "w": "cognitive dissonance",
+    "zh": "认知失调；信念、行为或结果不一致时产生的心理不适",
+    "type": "academic",
+    "ex": "Cognitive dissonance can encourage people to reinterpret a disappointing outcome.",
+    "src": "#42"
+  },
+  {
+    "w": "sunk cost",
+    "zh": "沉没成本；已经发生且无法收回的成本",
+    "type": "academic",
+    "ex": "The ticket price is a sunk cost once the film has started.",
+    "src": "#42"
+  },
+  {
+    "w": "sunk cost effect",
+    "zh": "沉没成本效应；因过去投入而影响未来决策的倾向",
+    "type": "academic",
+    "ex": "The sunk cost effect can keep people in projects that no longer make sense.",
+    "src": "#42"
+  },
+  {
+    "w": "persistence",
+    "zh": "坚持；持续做某事",
+    "type": "vocab",
+    "ex": "Past investment can increase persistence even when prospects worsen.",
+    "src": "#42"
+  },
+  {
+    "w": "selective",
+    "zh": "有选择性的；筛选严格的",
+    "type": "vocab",
+    "ex": "A long admissions process may make a program appear highly selective.",
+    "src": "#42"
+  },
+  {
+    "w": "capacity restriction",
+    "zh": "产能或容量限制；人为或客观限制可提供数量",
+    "type": "academic",
+    "ex": "Capacity restrictions can create queues even when demand is stable.",
+    "src": "#42"
+  },
+  {
+    "w": "attribution",
+    "zh": "归因；对某个结果原因的解释",
+    "type": "academic",
+    "ex": "Customer reactions depend partly on their attribution of the delay.",
+    "src": "#42"
+  },
+  {
+    "w": "functional friction",
+    "zh": "功能性摩擦；只增加操作难度而不创造有意义价值的障碍",
+    "type": "academic",
+    "ex": "A confusing checkout page creates functional friction.",
+    "src": "#42"
+  },
+  {
+    "w": "meaningful friction",
+    "zh": "有意义的摩擦；能够传递投入、稀缺或身份等意义的难度",
+    "type": "academic",
+    "ex": "Some training programs use meaningful friction to signal commitment.",
+    "src": "#42"
+  },
+  {
+    "w": "productive effort",
+    "zh": "生产性努力；真正促进技能或结果的付出",
+    "type": "academic",
+    "ex": "Challenging practice can create productive effort.",
+    "src": "#42"
+  },
+  {
+    "w": "unrecoverable",
+    "zh": "无法收回的",
+    "type": "vocab",
+    "ex": "Past time is unrecoverable, but the skills it created may still matter.",
+    "src": "#42"
+  },
+  {
+    "w": "forward-looking",
+    "zh": "前瞻性的；依据未来成本与收益进行判断的",
+    "type": "academic",
+    "ex": "A forward-looking decision focuses on what happens from today onward.",
+    "src": "#42"
+  },
+  {
+    "w": "status signal",
+    "zh": "地位信号；用于显示身份、稀缺性或社会位置的特征",
+    "type": "academic",
+    "ex": "An exclusive waiting list can become a status signal.",
+    "src": "#42"
+  },
+  {
+    "w": "artificial scarcity",
+    "zh": "人为稀缺；通过限制供应刻意制造的稀缺状态",
+    "type": "academic",
+    "ex": "Artificial scarcity can increase demand if consumers believe the product is exclusive.",
+    "src": "#42"
+  },
+  {
+    "w": "credibility",
+    "zh": "可信度",
+    "type": "vocab",
+    "ex": "A scarcity signal loses credibility when customers think it is manipulated.",
+    "src": "#42"
+  },
+  {
+    "w": "expected value",
+    "zh": "期望价值；考虑不同结果及其概率后的预期收益",
+    "type": "academic",
+    "ex": "The better choice depends on the expected value of continuing versus switching.",
+    "src": "#42"
+  },
+  {
+    "w": "commitment",
+    "zh": "投入；承诺",
+    "type": "vocab",
+    "ex": "Visible effort can signal commitment to a group or goal.",
+    "src": "#42"
+  }
+]);
+
+
+// Imported Article #43
+words.push(...[
+  {
+    "w": "switching cost",
+    "zh": "转换成本；从一个产品、服务或系统迁移到另一个所需承担的成本",
+    "type": "academic",
+    "ex": "A better product may still fail if customers face high switching costs.",
+    "src": "#43"
+  },
+  {
+    "w": "lock-in",
+    "zh": "锁定效应；因转换成本等原因而持续留在现有系统",
+    "type": "academic",
+    "ex": "Years of stored data can create customer lock-in.",
+    "src": "#43"
+  },
+  {
+    "w": "path dependence",
+    "zh": "路径依赖；早期事件和选择会改变之后可行结果的现象",
+    "type": "academic",
+    "ex": "Technology markets often display path dependence.",
+    "src": "#43"
+  },
+  {
+    "w": "network effect",
+    "zh": "网络效应；用户越多，产品对单个用户的价值越高",
+    "type": "academic",
+    "ex": "Messaging apps benefit from strong network effects.",
+    "src": "#43"
+  },
+  {
+    "w": "installed base",
+    "zh": "已安装用户基础；已经采用某项产品或技术的用户群",
+    "type": "academic",
+    "ex": "A large installed base can attract developers and partners.",
+    "src": "#43"
+  },
+  {
+    "w": "complementary goods",
+    "zh": "互补品；与另一产品共同使用并提高其价值的商品",
+    "type": "academic",
+    "ex": "Games are complementary goods for a game console.",
+    "src": "#43"
+  },
+  {
+    "w": "coordination problem",
+    "zh": "协调问题；个体需要配合行动才能实现更优结果的情形",
+    "type": "academic",
+    "ex": "A new platform faces a coordination problem when nobody wants to join first.",
+    "src": "#43"
+  },
+  {
+    "w": "critical mass",
+    "zh": "临界规模；使网络或系统能够自我维持增长的最低规模",
+    "type": "academic",
+    "ex": "The platform offered discounts until it reached critical mass.",
+    "src": "#43"
+  },
+  {
+    "w": "subsidy",
+    "zh": "补贴；为降低参与成本而提供的经济支持",
+    "type": "vocab",
+    "ex": "The company used a subsidy to attract early users.",
+    "src": "#43"
+  },
+  {
+    "w": "integration",
+    "zh": "整合；不同系统之间的连接与协同",
+    "type": "vocab",
+    "ex": "Deep software integration can make switching expensive.",
+    "src": "#43"
+  },
+  {
+    "w": "equilibrium",
+    "zh": "均衡；在既定条件下参与者缺乏单独改变行为动机的稳定状态",
+    "type": "academic",
+    "ex": "The market may settle into an equilibrium that is difficult to change.",
+    "src": "#43"
+  },
+  {
+    "w": "transition friction",
+    "zh": "转型摩擦；从当前状态迁移到新状态过程中产生的阻力和成本",
+    "type": "academic",
+    "ex": "Transition friction can delay adoption of a superior technology.",
+    "src": "#43"
+  },
+  {
+    "w": "ecosystem",
+    "zh": "生态系统；围绕核心产品形成的服务、工具和参与者网络",
+    "type": "vocab",
+    "ex": "A strong ecosystem can be more valuable than a single product feature.",
+    "src": "#43"
+  },
+  {
+    "w": "reinforce",
+    "zh": "强化；使某种趋势或优势进一步增强",
+    "type": "vocab",
+    "ex": "More users can reinforce a platform's market position.",
+    "src": "#43"
+  },
+  {
+    "w": "compatible",
+    "zh": "兼容的；能够与其他系统共同工作的",
+    "type": "vocab",
+    "ex": "Customers prefer accessories that are compatible with devices they already own.",
+    "src": "#43"
+  },
+  {
+    "w": "distribution",
+    "zh": "分销；产品到达消费者的渠道和体系",
+    "type": "vocab",
+    "ex": "Strong distribution helped the product reach customers early.",
+    "src": "#43"
+  },
+  {
+    "w": "durable advantage",
+    "zh": "持久竞争优势；难以被竞争者快速复制或消除的优势",
+    "type": "academic",
+    "ex": "Customer integration can create a durable advantage.",
+    "src": "#43"
+  },
+  {
+    "w": "historical accident",
+    "zh": "历史偶然；早期偶发事件对长期结果产生持续影响",
+    "type": "academic",
+    "ex": "A historical accident can sometimes shape which standard becomes dominant.",
+    "src": "#43"
+  }
+]);
+
+
+// Imported Article #44
+words.push(...[
+  {
+    "w": "social proof",
+    "zh": "社会认同；在不确定时把他人的行为当作判断依据",
+    "type": "academic",
+    "ex": "A long queue can provide social proof that a restaurant is worth trying.",
+    "src": "#44"
+  },
+  {
+    "w": "information cascade",
+    "zh": "信息级联；后来者忽略部分私人信息并跟随前人选择的过程",
+    "type": "academic",
+    "ex": "An information cascade can make one option look overwhelmingly popular.",
+    "src": "#44"
+  },
+  {
+    "w": "private information",
+    "zh": "私人信息；个人掌握但他人未必知道的信息",
+    "type": "academic",
+    "ex": "Each investor may have private information about the asset.",
+    "src": "#44"
+  },
+  {
+    "w": "independent signal",
+    "zh": "独立信号；不主要由其他观察结果复制而来的信息",
+    "type": "academic",
+    "ex": "Several independent signals provide stronger evidence than repeated copies of one source.",
+    "src": "#44"
+  },
+  {
+    "w": "correlated",
+    "zh": "相关的；彼此并非独立变化的",
+    "type": "academic",
+    "ex": "Online opinions may be correlated because users influence one another.",
+    "src": "#44"
+  },
+  {
+    "w": "normative conformity",
+    "zh": "规范性从众；为获得接纳或避免社会成本而服从群体",
+    "type": "academic",
+    "ex": "Normative conformity can keep employees silent in meetings.",
+    "src": "#44"
+  },
+  {
+    "w": "informational influence",
+    "zh": "信息性影响；因相信他人掌握更好信息而跟随",
+    "type": "academic",
+    "ex": "Informational influence is strongest when the correct answer is uncertain.",
+    "src": "#44"
+  },
+  {
+    "w": "consensus",
+    "zh": "共识；多数人共同接受的意见",
+    "type": "vocab",
+    "ex": "A visible consensus can be persuasive even when its origins are unclear.",
+    "src": "#44"
+  },
+  {
+    "w": "amplify",
+    "zh": "放大；增强某种差异或信号",
+    "type": "vocab",
+    "ex": "Recommendation systems can amplify small differences in early popularity.",
+    "src": "#44"
+  },
+  {
+    "w": "exposure",
+    "zh": "曝光；接触某内容或产品的机会",
+    "type": "vocab",
+    "ex": "More exposure usually creates more opportunities for engagement.",
+    "src": "#44"
+  },
+  {
+    "w": "premature",
+    "zh": "过早的；在适当时机之前发生的",
+    "type": "vocab",
+    "ex": "Premature discussion can reduce the independence of individual judgments.",
+    "src": "#44"
+  },
+  {
+    "w": "reputational cost",
+    "zh": "声誉成本；某种行为对个人社会评价造成的损失",
+    "type": "academic",
+    "ex": "Disagreeing with senior colleagues may carry a reputational cost.",
+    "src": "#44"
+  },
+  {
+    "w": "herding",
+    "zh": "羊群行为；跟随群体行动的现象",
+    "type": "academic",
+    "ex": "Herding can occur when people assume the crowd knows more than they do.",
+    "src": "#44"
+  },
+  {
+    "w": "aggregate",
+    "zh": "汇总；把多个个体信息合并起来",
+    "type": "vocab",
+    "ex": "Markets can aggregate information from many participants.",
+    "src": "#44"
+  },
+  {
+    "w": "fragile",
+    "zh": "脆弱的；容易因条件变化而瓦解的",
+    "type": "vocab",
+    "ex": "A consensus based mainly on imitation may be surprisingly fragile.",
+    "src": "#44"
+  },
+  {
+    "w": "exploratory",
+    "zh": "探索性的；用于尝试不同可能性的",
+    "type": "vocab",
+    "ex": "A team needs some exploratory projects rather than copying every competitor.",
+    "src": "#44"
+  },
+  {
+    "w": "signal quality",
+    "zh": "信号质量；一个观察结果反映真实情况的可靠程度",
+    "type": "academic",
+    "ex": "The number of reviews matters less when signal quality is poor.",
+    "src": "#44"
+  },
+  {
+    "w": "collective behavior",
+    "zh": "集体行为；群体成员相互影响后形成的整体行动模式",
+    "type": "academic",
+    "ex": "Social media can rapidly reshape collective behavior.",
+    "src": "#44"
+  }
+]);

@@ -112,3 +112,71 @@ expressions.push(...[
     "#40"
   ]
 ]);
+
+
+// Imported Article #41
+expressions.push(...[
+  [
+    "After a certain point, the comparison itself becomes costly.",
+    "#41"
+  ],
+  [
+    "Choice is most helpful when people have a clear way to narrow the options down.",
+    "#41"
+  ],
+  [
+    "Technology has changed where the difficulty lies.",
+    "#41"
+  ]
+]);
+
+
+// Imported Article #42
+expressions.push(...[
+  [
+    "Past costs cannot usually be recovered by continuing.",
+    "#42"
+  ],
+  [
+    "It makes more sense to ask whether continuing is worthwhile from today onward.",
+    "#42"
+  ],
+  [
+    "The effect depends heavily on how people interpret the obstacle.",
+    "#42"
+  ]
+]);
+
+
+// Imported Article #43
+expressions.push(...[
+  [
+    "The new product has to be better by enough to justify the transition.",
+    "#43"
+  ],
+  [
+    "Market share does not tell us the whole causal story.",
+    "#43"
+  ],
+  [
+    "We still need to ask what keeps its position strong.",
+    "#43"
+  ]
+]);
+
+
+// Imported Article #44
+expressions.push(...[
+  [
+    "The crowd is most useful when its members are making reasonably independent judgments.",
+    "#44"
+  ],
+  [
+    "A large number does not always represent a large amount of independent evidence.",
+    "#44"
+  ],
+  [
+    "Sometimes popularity is partly the result of earlier popularity.",
+    "#44"
+  ]
+]);
