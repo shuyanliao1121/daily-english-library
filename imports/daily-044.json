@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 44,
+  "article": {
+    "n": 44,
+    "title": "Why We Copy What Other People Choose",
+    "category": "Society & Culture",
+    "themes": [
+      "Social Proof",
+      "Information Cascades",
+      "Conformity",
+      "Reputation",
+      "Uncertainty",
+      "Collective Behavior"
+    ],
+    "framework": "Uncertainty → Observe Others → Infer Information → Imitation → Visible Majority → Reinforcement",
+    "coreIdea": "When people are uncertain, other people's choices become information. This can coordinate groups efficiently, but repeated imitation can create information cascades in which a visible majority looks more informative than it really is.",
+    "body": "Imagine arriving in an unfamiliar city and seeing two restaurants beside each other. One is almost empty. The other has a line outside the door. You know nothing about either restaurant, but you may immediately assume the crowded one is better. The people in line become a source of information. Perhaps they read reviews, live nearby, or have eaten there before. Following them can seem more sensible than making a completely independent guess.\n\nThis is an example of social proof: when we are uncertain, we often use other people's behavior as evidence about what is valuable, safe, normal, or correct. Social proof appears everywhere. We choose busy cafés, download highly rated apps, watch films that are already popular, and become interested in products after seeing them repeatedly online. None of this is automatically irrational. Other people really can possess useful information that we lack.\n\nThe logic is especially strong when direct evaluation is difficult. Before buying a book, you can inspect its cover and description, but you cannot know exactly how much you will enjoy it. Before choosing a university course, you cannot experience the entire semester in advance. When quality is uncertain, observing other people's choices can reduce information costs. Instead of investigating every option from zero, we borrow part of the crowd's judgment.\n\nThis connects naturally to scarcity. Attention and research time are limited. If thousands of alternatives compete for us, popularity can act as a filter. A “most purchased” label or a large number of reviews helps narrow the search space. In #41, we saw that abundant choice can increase comparison friction. Social proof partly solves that problem by telling us where other people have already concentrated their attention.\n\nBut a useful shortcut can also create a feedback loop. Suppose the first few customers choose Restaurant A for random reasons. Passers-by see more people there and infer that A must be better. Their decision makes the restaurant look even more popular, attracting another group. Eventually a large crowd may form even if the initial difference in quality was small or nonexistent. Popularity has begun producing more popularity.\n\nEconomists call a related process an information cascade. An information cascade can occur when people stop relying mainly on their own private information and instead follow the choices made before them. Imagine that you privately think Product B is slightly better, but ten people before you chose Product A. You may conclude that they collectively know something you do not. If you choose A too, the next person sees eleven votes for A, even though your own evidence actually favored B.\n\nThis reveals an important measurement problem. The visible number of people choosing A does not necessarily represent eleven independent pieces of evidence. Some of those choices may simply be copies of earlier choices. Counting behavior can therefore overstate the amount of underlying information. Ten people independently reaching the same conclusion is more informative than ten people following one influential person.\n\nThe distinction between independent and correlated information is crucial. If ten weather stations use different instruments and all report rain, confidence should rise substantially. If ten websites simply copy the same original forecast, the apparent agreement contains much less new information. The number of visible signals is not the same as the number of independent signals.\n\nOnline platforms can make this difficult to see. Likes, rankings, view counts, trending lists, and bestseller labels compress complicated histories into simple numbers. A video with five million views looks important, but the number does not tell us why people watched it. Perhaps it was genuinely excellent. Perhaps an algorithm promoted it early, creating exposure that generated more engagement and therefore more promotion.\n\nThis is where scale and feedback return. Platforms often learn from user behavior. Content that receives early engagement may be shown to more people; greater exposure creates more opportunities for engagement; the new engagement becomes evidence for further distribution. The system can therefore amplify small early differences. Like the network effects in #43, today's popularity can become an input into tomorrow's popularity.\n\nHowever, social influence is not purely informational. People also care about belonging and reputation. This creates normative conformity: individuals may follow a group not because they believe the group is factually correct, but because disagreement has a social cost. A student may laugh at a joke because everyone else does. An employee may remain silent in a meeting because senior colleagues support one proposal. A fashion trend may spread partly because wearing the accepted style signals membership.\n\nInformational influence and normative influence can look identical from outside. In both cases, a person follows others. But the mechanisms differ. Informational influence says, “They may know better.” Normative influence says, “I may pay a price for being different.” Good analysis therefore asks what incentive imitation is responding to: better information, lower decision effort, social acceptance, or reputational safety.\n\nOne protection against cascades is to collect judgments independently before revealing the group's answer. For example, a team can ask each member to write down an estimate before discussion. This preserves more private information. Once everyone sees the first confident speaker's opinion, later responses may become correlated with it. Independence is therefore a resource that can be destroyed by premature visibility.\n\nThere are also second-order effects. Once businesses know consumers use popularity as evidence, they have an incentive to display popularity prominently. Restaurants show customer counts, websites highlight “trending” products, and creators celebrate view milestones. These signals can be informative, but they can also become targets. Goodhart's Law appears again: once visible popularity strongly influences behavior, organizations have stronger incentives to optimize the appearance of popularity itself.\n\nThe same logic applies to financial markets, careers, culture, and education. Investors may buy an asset partly because others are buying it. Students may choose a major because high-performing peers prefer it. Employers may copy fashionable management practices. Creators may imitate formats that already perform well. In each case, copying can be individually reasonable while making the collective signal less independent.\n\nThis gives us a useful connection to #40. There, companies copied successful competitors until strategies converged. Today we can see a broader mechanism: imitation can reduce diversity in the information environment. If everyone watches everyone else, fewer people are testing genuinely different possibilities. The group may become more coordinated but less exploratory.\n\nSo the key question is not “Should I ignore what other people are doing?” That would throw away valuable information. A better question is: “How independent are the choices I am observing?” If many people reached the same conclusion using separate evidence, the crowd can be powerful. If they are mainly responding to one another, the apparent consensus may be more fragile than it looks.\n\nSocial proof works because other people can teach us something. Information cascades happen because we can forget that other people may also be looking at other people. The crowd is most informative when its members contribute independent knowledge. Once imitation becomes the main source of agreement, a large majority can contain surprisingly little new information.",
+    "summaryZh": "今天把 social proof 从“从众心理”升级成了一个信息问题。人在 uncertainty 下观察别人，本质上是在降低 information cost：当自己无法直接判断质量时，别人的选择可以成为 evidence。这和 #41 的 comparison friction 很自然地接上——选项太多时，popularity 是一种低成本筛选器。\n\n真正危险的地方是 feedback：最初几个人可能偶然选择 A，后来的人把“已有很多人选 A”当成信息，于是继续选 A，形成 information cascade。关键 distinction 是 independent signals vs correlated signals：10 个人独立判断 A 好，和 10 个人都跟着第一个人选 A，表面票数一样，但信息量完全不同。\n\n这又连接 measurement：visible count ≠ independent evidence。点赞数、销量、排名、热搜都把复杂生成过程压成一个数字，而平台算法还会加入 scale & feedback：early engagement → more exposure → more engagement，把早期小差异放大。\n\n文章同时区分 informational influence 和 normative influence。前者是“别人可能知道得更多”，后者是“和别人不同可能有社会或声誉成本”。两者外表都是 conformity，但 incentive 不同，所以解决方式也不同。\n\n今天加入 toolbox 的核心是 Independence Check：面对 consensus，不只问“有多少人同意”，而要问“这些判断有多独立？”它还能接 #40 strategic convergence、#43 reinforcement、Goodhart’s Law 和 second-order effects。"
+  },
+  "words": [
+    {
+      "word": "social proof",
+      "type": "academic",
+      "meaningZh": "社会认同；在不确定时把他人的行为当作判断依据",
+      "example": "A long queue can provide social proof that a restaurant is worth trying.",
+      "source": 44
+    },
+    {
+      "word": "information cascade",
+      "type": "academic",
+      "meaningZh": "信息级联；后来者忽略部分私人信息并跟随前人选择的过程",
+      "example": "An information cascade can make one option look overwhelmingly popular.",
+      "source": 44
+    },
+    {
+      "word": "private information",
+      "type": "academic",
+      "meaningZh": "私人信息；个人掌握但他人未必知道的信息",
+      "example": "Each investor may have private information about the asset.",
+      "source": 44
+    },
+    {
+      "word": "independent signal",
+      "type": "academic",
+      "meaningZh": "独立信号；不主要由其他观察结果复制而来的信息",
+      "example": "Several independent signals provide stronger evidence than repeated copies of one source.",
+      "source": 44
+    },
+    {
+      "word": "correlated",
+      "type": "academic",
+      "meaningZh": "相关的；彼此并非独立变化的",
+      "example": "Online opinions may be correlated because users influence one another.",
+      "source": 44
+    },
+    {
+      "word": "normative conformity",
+      "type": "academic",
+      "meaningZh": "规范性从众；为获得接纳或避免社会成本而服从群体",
+      "example": "Normative conformity can keep employees silent in meetings.",
+      "source": 44
+    },
+    {
+      "word": "informational influence",
+      "type": "academic",
+      "meaningZh": "信息性影响；因相信他人掌握更好信息而跟随",
+      "example": "Informational influence is strongest when the correct answer is uncertain.",
+      "source": 44
+    },
+    {
+      "word": "consensus",
+      "type": "vocab",
+      "meaningZh": "共识；多数人共同接受的意见",
+      "example": "A visible consensus can be persuasive even when its origins are unclear.",
+      "source": 44
+    },
+    {
+      "word": "amplify",
+      "type": "vocab",
+      "meaningZh": "放大；增强某种差异或信号",
+      "example": "Recommendation systems can amplify small differences in early popularity.",
+      "source": 44
+    },
+    {
+      "word": "exposure",
+      "type": "vocab",
+      "meaningZh": "曝光；接触某内容或产品的机会",
+      "example": "More exposure usually creates more opportunities for engagement.",
+      "source": 44
+    },
+    {
+      "word": "premature",
+      "type": "vocab",
+      "meaningZh": "过早的；在适当时机之前发生的",
+      "example": "Premature discussion can reduce the independence of individual judgments.",
+      "source": 44
+    },
+    {
+      "word": "reputational cost",
+      "type": "academic",
+      "meaningZh": "声誉成本；某种行为对个人社会评价造成的损失",
+      "example": "Disagreeing with senior colleagues may carry a reputational cost.",
+      "source": 44
+    },
+    {
+      "word": "herding",
+      "type": "academic",
+      "meaningZh": "羊群行为；跟随群体行动的现象",
+      "example": "Herding can occur when people assume the crowd knows more than they do.",
+      "source": 44
+    },
+    {
+      "word": "aggregate",
+      "type": "vocab",
+      "meaningZh": "汇总；把多个个体信息合并起来",
+      "example": "Markets can aggregate information from many participants.",
+      "source": 44
+    },
+    {
+      "word": "fragile",
+      "type": "vocab",
+      "meaningZh": "脆弱的；容易因条件变化而瓦解的",
+      "example": "A consensus based mainly on imitation may be surprisingly fragile.",
+      "source": 44
+    },
+    {
+      "word": "exploratory",
+      "type": "vocab",
+      "meaningZh": "探索性的；用于尝试不同可能性的",
+      "example": "A team needs some exploratory projects rather than copying every competitor.",
+      "source": 44
+    },
+    {
+      "word": "signal quality",
+      "type": "academic",
+      "meaningZh": "信号质量；一个观察结果反映真实情况的可靠程度",
+      "example": "The number of reviews matters less when signal quality is poor.",
+      "source": 44
+    },
+    {
+      "word": "collective behavior",
+      "type": "academic",
+      "meaningZh": "集体行为；群体成员相互影响后形成的整体行动模式",
+      "example": "Social media can rapidly reshape collective behavior.",
+      "source": 44
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why are people often influenced by what other people choose?",
+      "category": "Society & Culture",
+      "framework": "Uncertainty → Social proof → Lower information cost → Possible imitation",
+      "response": "I think other people's choices are useful when we do not have enough information ourselves. For example, if I am in an unfamiliar city, a busy restaurant may seem safer than an empty one because I assume local customers know something I don't. Following others can therefore save time and reduce uncertainty. However, I would not treat popularity as perfect evidence, because people may simply be copying one another. So the crowd is most useful when its members are making reasonably independent judgments rather than reacting to the same trend.",
+      "expressions": [
+        "Following others can save time and reduce uncertainty.",
+        "I would not treat popularity as perfect evidence.",
+        "The crowd is most useful when its members are making reasonably independent judgments."
+      ],
+      "source": 44
+    },
+    {
+      "question": "Can social media make people more likely to follow trends?",
+      "category": "Society & Culture",
+      "framework": "Visible metrics → Social proof → Algorithmic amplification → Stronger conformity",
+      "response": "Yes, definitely, because social media makes popularity extremely visible. Users can immediately see view counts, likes, rankings and comments, so they receive social information before they have formed an independent opinion. Algorithms can strengthen this effect by giving already popular content more exposure, which then produces even more engagement. I think this can be useful for discovering interesting content, but it also means that a large number does not always represent a large amount of independent evidence. Sometimes popularity is partly the result of earlier popularity.",
+      "expressions": [
+        "Social media makes popularity extremely visible.",
+        "A large number does not always represent a large amount of independent evidence.",
+        "Sometimes popularity is partly the result of earlier popularity."
+      ],
+      "source": 44
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "The crowd is most useful when its members are making reasonably independent judgments.",
+      "meaningZh": "群体在成员判断相对独立时最有信息价值；适合从众、市场和群体决策话题。",
+      "source": 44
+    },
+    {
+      "expression": "A large number does not always represent a large amount of independent evidence.",
+      "meaningZh": "一个很大的数字不一定代表同等数量的独立证据；适合数据、社媒和评价体系。",
+      "source": 44
+    },
+    {
+      "expression": "Sometimes popularity is partly the result of earlier popularity.",
+      "meaningZh": "有时当前的流行本身就是早期流行的结果；适合反馈循环、平台和文化趋势。",
+      "source": 44
+    }
+  ]
+}

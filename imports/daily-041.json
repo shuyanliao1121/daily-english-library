@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 41,
+  "article": {
+    "n": 41,
+    "title": "Why Too Many Choices Can Make Us Less Satisfied",
+    "category": "Psychology",
+    "themes": [
+      "choice overload",
+      "opportunity cost",
+      "regret",
+      "friction",
+      "reference points",
+      "decision-making"
+    ],
+    "framework": "More Options → Higher Comparison Cost → More Foregone Alternatives → Regret → Lower Satisfaction",
+    "coreIdea": "More choice increases opportunity as well as comparison costs: once alternatives become numerous and visible, people may gain freedom while also becoming more aware of everything they did not choose.",
+    "body": "Imagine opening a streaming service on Friday night. You have hundreds of films available, recommendations tailored to your taste, and almost no cost for switching from one title to another. This sounds like an ideal form of consumer freedom. Yet twenty minutes later, you may still be scrolling. Eventually you choose something, but halfway through the film you wonder whether another option would have been better. More choice has given you more possibilities, but not necessarily more satisfaction.\n\nThis tension is often described as choice overload. The basic idea is not that choice is bad. Having alternatives can protect people from poor products, allow different preferences to be served, and give individuals a sense of control. The problem appears when the number or complexity of options makes comparison costly. Choosing between three restaurants is one task; comparing eighty restaurants by price, distance, rating, cuisine, waiting time, and atmosphere is a different one.\n\nEvery additional option can provide potential value, but it also adds information to process. This creates cognitive load. Human attention and working memory are limited, so people cannot compare every feature of every alternative with equal care. They simplify. They filter by ratings, choose familiar brands, copy friends, or stop searching once an option seems good enough. These shortcuts are not necessarily irrational. They are responses to scarcity—specifically, scarcity of attention and decision time.\n\nChoice also creates opportunity cost. In economics, the opportunity cost of a decision is the value of the best alternative you give up. If you spend Saturday afternoon at a concert, you cannot use the same hours for a museum visit. With only one realistic alternative, the sacrifice may be easy to ignore. But when ten attractive alternatives are visible, the things you are giving up become psychologically harder to forget.\n\nThis helps explain why satisfaction can fall even when the chosen option itself is excellent. Suppose you order pasta from a menu with four dishes and enjoy it. Now imagine ordering the same pasta from a menu with forty dishes, including several meals you also like. The pasta has not changed. What has changed is the comparison set. Your mind can generate more counterfactuals: perhaps the steak would have been better, perhaps the seafood was more special, perhaps you should have tried something new.\n\nCounterfactual thinking means imagining how reality could have been different. It is useful because it helps us learn from mistakes. However, after a decision, it can also feed regret. The more attractive the rejected alternatives are, the easier it becomes to construct a better imaginary outcome. Satisfaction is therefore influenced not only by what we receive but also by what we can imagine having received instead.\n\nThis connects to reference points. In earlier lessons, we saw that people evaluate outcomes relative to a benchmark rather than in isolation. A large choice set can create multiple possible benchmarks at once. Your actual choice competes not with one clear alternative but with an ideal combination of features taken from many alternatives. A phone may have the best camera but not the longest battery life. Another may be cheaper but less attractive. The chosen phone can then be compared with an imaginary device that has every competitor's strongest feature.\n\nOnline platforms can intensify this effect because they make alternatives unusually visible. Before digital marketplaces, a shopper might compare products in two or three nearby stores. Today, search engines and platforms can display hundreds of options, reviews, rankings, and prices within seconds. Search friction has fallen dramatically. But reducing search friction can increase comparison friction: finding alternatives becomes easier while deciding among them becomes harder.\n\nThis is a useful reminder that friction is not a single thing. Removing one obstacle can move the difficulty elsewhere. A dating app may make meeting new people easier but make commitment harder if users remain aware of many possible alternatives. A job platform may make vacancies easier to discover while increasing anxiety about whether a better opportunity is still available. Technology can reduce the friction of access without reducing the friction of evaluation.\n\nNot everyone reacts to large choice sets in the same way. Psychologists sometimes distinguish between maximizing and satisficing. A maximizer tries to identify the best possible option, while a satisficer looks for an option that meets an acceptable standard. Maximizing can be useful when the decision is important and comparison is manageable. But when options are numerous, the search for the absolute best can become expensive because each additional possibility seems to deserve evaluation.\n\nA satisficing rule reduces the search space. Instead of asking, “Which laptop is objectively best?”, someone might ask, “Which laptop meets my requirements for battery life, weight, and price?” Once an option passes those thresholds, the search can stop. This does not guarantee the theoretical optimum, but it lowers decision costs. In many ordinary decisions, the value of finding a slightly better option may be smaller than the time and attention required to find it.\n\nThis introduces an important concept: the value of information. More information is useful only when it can improve the decision enough to justify the cost of obtaining and processing it. Reading one more review may reveal a serious product defect. Reading the fiftieth review may simply repeat what you already know while exposing you to another minor complaint. At some point, additional information has diminishing returns.\n\nMeasurement matters here too. If a platform measures success only by the number of available products, it may conclude that more is always better. But quantity is a poor proxy for decision quality. Better metrics might include purchase completion, return rates, time spent searching, post-purchase satisfaction, or whether customers come back. As with Goodhart's Law, optimizing an easy metric can move the system away from the broader objective.\n\nThat feedback loop matters. Popular items receive more clicks, which generate more reviews and data, which can improve their ranking, which creates still more visibility. The original abundance remains in theory, but attention becomes concentrated in practice. So the important resource is no longer merely the number of available options. It is the scarce attention through which those options must pass.\n\nThe broader lesson is not that we should always choose less. Some decisions deserve extensive comparison, especially when errors are costly or difficult to reverse. The lesson is to distinguish the value of another option from the cost of evaluating it. More possibilities improve a decision only when we can use them productively.\n\nA practical question is therefore: “What information could realistically change my decision?” If another hour of searching is unlikely to change the answer, continuing may create more counterfactuals than value. Setting criteria in advance can also prevent the target from moving every time a new option appears.\n\nChoice is valuable because it gives us alternatives. But alternatives have a psychological cost once we must compare them, reject them, and live with the knowledge that they existed. The goal is not to find a world with no missed opportunities. It is to make decisions in which the opportunities we give up do not become more important than the one we actually chose.",
+    "summaryZh": "今天把一个看似简单的命题拆开：more choice 为什么不一定带来 more satisfaction？关键是选择同时产生两种东西——option value 和 comparison cost。更多选项扩大了可能性，但也增加信息处理、机会成本和反事实想象。\n\n第一条机制是 attention scarcity。选项从 3 个增加到 80 个以后，我们并没有同步获得更多工作记忆和决策时间，于是会使用 rating、品牌、朋友意见、默认推荐等 shortcut。这可以接回 friction：数字平台降低了 search friction，却可能提高 comparison friction。一个摩擦被消除，并不代表系统总摩擦一定下降，它可能只是换了位置。\n\n第二条机制是 opportunity cost → counterfactual → regret。被放弃的优质选项越可见，我们越容易想象“另一个可能更好”。于是 satisfaction 不再只取决于 chosen outcome，还取决于 comparison set。大量选择甚至会制造一个现实中不存在的“完美参照物”：把 A 的相机、B 的续航、C 的价格拼成 imaginary benchmark，再拿真实产品与它比较。\n\n第三条是 maximizing vs satisficing。面对巨大 choice set，寻找绝对最优解的边际收益可能越来越低，而信息处理成本继续增加。今天因此加入一个新工具：Value of Information。继续搜索之前问：下一条信息有多大概率真正改变决定？如果不能改变决定，更多信息可能只是在制造更多 counterfactuals。\n\n它还能连接 measurement 和 feedback：平台若把“选择数量”当成功指标，可能忽视 decision quality；而选择越多，用户越依赖 rankings 和 algorithms，注意力反而可能集中到少数热门选项。今天的核心不是“少选项更好”，而是：More options are valuable only when the value of additional information exceeds the cost of evaluating it。"
+  },
+  "words": [
+    {
+      "word": "choice overload",
+      "type": "academic",
+      "meaningZh": "选择过载；选项过多或过于复杂而增加决策困难的现象",
+      "example": "Choice overload can make a simple purchase surprisingly stressful.",
+      "source": 41
+    },
+    {
+      "word": "cognitive load",
+      "type": "academic",
+      "meaningZh": "认知负荷；处理信息时占用的心理资源",
+      "example": "Too many product features can create unnecessary cognitive load.",
+      "source": 41
+    },
+    {
+      "word": "working memory",
+      "type": "academic",
+      "meaningZh": "工作记忆；短时间内保存并处理信息的认知系统",
+      "example": "Working memory cannot hold every detail of dozens of alternatives at once.",
+      "source": 41
+    },
+    {
+      "word": "opportunity cost",
+      "type": "academic",
+      "meaningZh": "机会成本；选择某方案而放弃的最佳替代方案的价值",
+      "example": "The opportunity cost of attending the concert is the best alternative use of that evening.",
+      "source": 41
+    },
+    {
+      "word": "comparison set",
+      "type": "academic",
+      "meaningZh": "比较集合；用于评价当前选择的一组选项",
+      "example": "A larger comparison set can make an otherwise good choice feel less satisfying.",
+      "source": 41
+    },
+    {
+      "word": "counterfactual",
+      "type": "academic",
+      "meaningZh": "反事实；关于事情本可以如何不同的想象",
+      "example": "After the purchase, she kept imagining a counterfactual in which she chose the cheaper model.",
+      "source": 41
+    },
+    {
+      "word": "regret",
+      "type": "vocab",
+      "meaningZh": "后悔；对未选择另一结果产生的负面感受",
+      "example": "Visible alternatives can increase regret after a decision.",
+      "source": 41
+    },
+    {
+      "word": "search friction",
+      "type": "academic",
+      "meaningZh": "搜索摩擦；寻找可选方案所需的时间和成本",
+      "example": "Online marketplaces have dramatically reduced search friction.",
+      "source": 41
+    },
+    {
+      "word": "comparison friction",
+      "type": "academic",
+      "meaningZh": "比较摩擦；在多个方案之间评估和权衡的成本",
+      "example": "Filters can reduce comparison friction by narrowing the relevant options.",
+      "source": 41
+    },
+    {
+      "word": "maximize",
+      "type": "vocab",
+      "meaningZh": "最大化；试图获得可能的最佳结果",
+      "example": "Some consumers try to maximize every important purchase.",
+      "source": 41
+    },
+    {
+      "word": "satisfice",
+      "type": "academic",
+      "meaningZh": "满意化；找到达到要求的方案后停止继续寻找",
+      "example": "It can be rational to satisfice when further comparison is costly.",
+      "source": 41
+    },
+    {
+      "word": "search space",
+      "type": "academic",
+      "meaningZh": "搜索空间；所有可能被考察的方案集合",
+      "example": "Clear criteria can shrink the search space.",
+      "source": 41
+    },
+    {
+      "word": "value of information",
+      "type": "academic",
+      "meaningZh": "信息价值；新增信息对改善决策的预期价值",
+      "example": "The value of information falls when another review is unlikely to change your choice.",
+      "source": 41
+    },
+    {
+      "word": "diminishing returns",
+      "type": "academic",
+      "meaningZh": "边际收益递减；继续增加投入时新增收益逐渐减少",
+      "example": "Reading more reviews often produces diminishing returns.",
+      "source": 41
+    },
+    {
+      "word": "choice architecture",
+      "type": "academic",
+      "meaningZh": "选择架构；组织和呈现选项以影响决策的方式",
+      "example": "Good choice architecture can simplify decisions without removing freedom.",
+      "source": 41
+    },
+    {
+      "word": "assortment",
+      "type": "vocab",
+      "meaningZh": "商品组合；商家提供的一系列不同产品",
+      "example": "A very large assortment can attract customers but also slow decisions.",
+      "source": 41
+    },
+    {
+      "word": "social proof",
+      "type": "academic",
+      "meaningZh": "社会认同；依据他人的选择或评价判断某事是否值得",
+      "example": "Best-seller labels provide social proof when shoppers are uncertain.",
+      "source": 41
+    },
+    {
+      "word": "criterion",
+      "type": "vocab",
+      "meaningZh": "标准；作出判断时使用的条件",
+      "example": "Price should be only one criterion when choosing a laptop.",
+      "source": 41
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Do you think having more choices always makes consumers happier?",
+      "category": "Psychology",
+      "framework": "Freedom → Comparison cost → Opportunity cost → Satisfaction",
+      "response": "No, I don't think more choice always leads to greater satisfaction. Having several alternatives is useful because people have different needs, but after a certain point the comparison itself becomes costly. If I have to evaluate dozens of similar products, I may spend a lot of time worrying about small differences. More importantly, a large choice set makes the options I reject more visible, so even after making a good decision I can imagine that another one might have been better. I think choice is most helpful when people have enough alternatives to match their preferences but also have a clear way to narrow them down.",
+      "expressions": [
+        "More choice does not always lead to greater satisfaction.",
+        "After a certain point, the comparison itself becomes costly.",
+        "Choice is most helpful when people have a clear way to narrow the options down."
+      ],
+      "source": 41
+    },
+    {
+      "question": "How has technology changed the way people make decisions?",
+      "category": "Psychology",
+      "framework": "Lower search friction → More information → Higher evaluation cost → Greater reliance on filters",
+      "response": "Technology has made it much easier to discover alternatives, which is generally a good thing, but it has also changed where the difficulty lies. In the past, people might struggle to find enough information, whereas today the problem is often deciding what deserves attention. We can compare hundreds of hotels, jobs or products in minutes, but processing all that information is impossible. As a result, people rely more on ratings, rankings, algorithms and recommendations. So technology has reduced the friction of finding options, but in many cases it has increased the importance of filtering them well.",
+      "expressions": [
+        "Technology has changed where the difficulty lies.",
+        "The problem is often deciding what deserves attention.",
+        "Technology has reduced the friction of finding options."
+      ],
+      "source": 41
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "After a certain point, the comparison itself becomes costly.",
+      "meaningZh": "超过某个临界点后，比较本身就会产生显著成本；适合选择、信息和决策类话题。",
+      "source": 41
+    },
+    {
+      "expression": "Choice is most helpful when people have a clear way to narrow the options down.",
+      "meaningZh": "当人们有清晰方法缩小选择范围时，选择自由最有价值；适合消费、教育和职业选择。",
+      "source": 41
+    },
+    {
+      "expression": "Technology has changed where the difficulty lies.",
+      "meaningZh": "技术没有必然消除困难，而可能改变困难出现的位置；可迁移到 AI、平台和自动化话题。",
+      "source": 41
+    }
+  ]
+}

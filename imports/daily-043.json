@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 43,
+  "article": {
+    "n": 43,
+    "title": "Why the Best Product Does Not Always Win",
+    "category": "Business",
+    "themes": [
+      "Switching Costs",
+      "Path Dependence",
+      "Network Effects",
+      "Lock-In",
+      "Competition",
+      "Consumer Choice"
+    ],
+    "framework": "Early Adoption → Installed Base → Switching Costs → Reinforcement → Lock-In",
+    "coreIdea": "Markets do not always converge on the objectively best product: early choices can create installed bases, habits, complementary systems, and switching costs that reinforce themselves over time.",
+    "body": "Imagine that a new messaging app appears tomorrow. It is faster than the one you currently use, has better privacy controls, and consumes less battery. On paper, it is clearly superior. Yet you may still refuse to switch. Your friends are somewhere else. Your group chats contain years of history. You already know where every button is. Moving would require not only downloading a better app but also rebuilding a small social system around it.\n\nThis is one reason the best product does not always win. In simple models of competition, consumers compare alternatives and choose the one that offers the highest value. Real markets are more complicated because choices are connected across time. What you selected yesterday changes the cost and benefit of what you can select today.\n\nA useful concept here is switching cost. A switching cost is any cost created by moving from one product, service, or system to another. Some switching costs are financial: a customer may need to pay a cancellation fee or buy new accessories. Others are informational or psychological. Learning unfamiliar software takes time. Moving files creates risk. Changing a bank account may require updating automatic payments. Leaving a social platform can mean losing access to a community.\n\nThese costs matter because competition is not only about attracting new customers. It is also about persuading existing customers to leave something they already use. A rival product can be somewhat better and still fail if the improvement is smaller than the cost of switching. This creates a gap between “Which product would I choose if I were starting today?” and “Is it worth changing from the product I already have?”\n\nThat gap can produce lock-in. Lock-in occurs when users remain with a system partly because leaving has become costly, even though alternatives may now be attractive. Lock-in does not necessarily mean customers are trapped unfairly. Sometimes staying is genuinely efficient. If software works well and employees already know how to use it, changing systems simply to obtain a small improvement may waste time and money. The important point is that current choice depends on history.\n\nThis leads to path dependence. A path-dependent outcome is one in which earlier events influence later possibilities. Imagine two technologies that are initially similar. One gains a small early lead because of timing, marketing, or luck. More users then attract more developers, retailers, or complementary products. That larger ecosystem makes the technology more useful, bringing in still more users. A small initial difference can therefore grow into a large market advantage.\n\nNetwork effects make this process especially powerful. A product has a network effect when its value to one user increases as more people use it. A telephone is not very useful if you are the only person who owns one. A payment system becomes more convenient when many shops accept it. A professional platform becomes more valuable when many employers and workers participate. In such markets, users care not only about product quality but also about who else is already there.\n\nNetwork effects can create feedback loops. More users increase value; higher value attracts more users; more users strengthen the network again. This can help a market scale quickly, but it can also make entry difficult for competitors. A new platform may need to solve a coordination problem: users do not want to join until other users join, but other users are waiting for the same reason.\n\nBusinesses often respond with subsidies or incentives. A platform may offer free services to one side of a market, pay creators to produce content, or give discounts to early users. The immediate goal may not be profit. It may be to build an installed base large enough that the network becomes useful. Once participation reaches a critical mass, growth can become easier because the system begins reinforcing itself.\n\nThis connects directly to our earlier work on incentives and second-order effects. A discount can look expensive in the short run but valuable if it changes the future network. The first-order effect is lost revenue on one transaction. The second-order effect may be a larger user base that attracts partners, creates data, and raises future switching costs. Evaluating the strategy requires looking beyond the visible transaction.\n\nComplementary goods create another source of path dependence. A game console is more useful when it has many games. A smartphone becomes more useful when developers create apps and accessory makers support it. A company using one software system may build internal processes, training materials, and databases around it. These complements become a stock accumulated over time.\n\nHere #39's stock-versus-flow distinction becomes useful. The monthly subscription fee is a flow. The accumulated files, habits, integrations, trained employees, and compatible tools form a stock. When comparing systems, users are not comparing two monthly prices in isolation. They are comparing one established stock with the cost of building another.\n\nThis also helps explain why low introductory prices can be strategically powerful. A company may make adoption easy when switching costs are still low. After customers have invested time, data, and routines, leaving becomes harder. That does not automatically make the strategy harmful; stable systems can create real convenience. But it means consumers should distinguish product quality from the value created by their own accumulated investment.\n\nMeasurement becomes important too. Market share is often treated as evidence that a product is better. Sometimes it is. High-quality products can attract many customers. But market share can also reflect early entry, distribution, network effects, switching costs, or historical accidents. As with our earlier causality lessons, an observed outcome does not identify the mechanism that produced it.\n\nThis is why “the market chose it” is not a complete explanation. Markets are processes, not neutral judges standing outside history. The result we observe today may depend on a sequence of earlier decisions that changed later incentives. If history had started differently, another equilibrium might have emerged.\n\nThis is another form of friction. In #41, we saw that technology can reduce search friction while increasing comparison friction. Here, the relevant friction is transition friction. The destination may be better, but the path from the old state to the new one is costly. Good analysis therefore asks not only whether state B is better than state A, but also what it costs to travel from A to B.\n\nThe reasoning applies beyond technology. People stay with banks because payment systems are connected, companies keep suppliers because procedures and relationships are established, and careers become path-dependent as skills accumulate. Earlier choices can create assets while narrowing which changes feel economical.\n\nThis connects to #42's Cost vs Asset framework. A sunk cost is gone regardless of what you do next, while a switching cost is a future cost you would actually pay if you changed. Decisions include genuine transition costs but exclude the emotional desire to justify unrecoverable past investment.\n\nThe broader lesson is that quality is only one force shaping outcomes. History, coordination, accumulated stocks, and feedback loops matter too. Sometimes the winner is the best product. Sometimes winning itself creates new advantages. To understand a dominant product, ask not only why it is good, but what makes leaving costly and what keeps its position reinforcing itself.",
+    "summaryZh": "今天把“为什么更好的产品不一定赢”拆成了一个动态竞争问题。静态比较只问 A 和 B 哪个更好；现实市场却还要问：用户已经在哪个系统里、迁移需要付出什么、其他人在哪里，以及过去积累了哪些互补资产。\n\n第一条机制是 switching cost。新产品即使更好，只要 improvement < switching cost，用户仍可能留在旧系统。于是当前决策和“如果今天从零开始会选谁”可能完全不同。第二条是 path dependence：早期一个很小的领先，通过 installed base、complements 和 network effects 被不断放大，最后形成 lock-in。这里的关键不是简单说“大公司垄断”，而是理解 More users → More value → More users 的 feedback loop。\n\n文章还把 #39 的 stock vs flow 接进来：订阅费是 flow，但文件、习惯、插件、训练过的员工和社交关系是长期积累的 stock。比较两个系统时，不能只比较今天的价格。与此同时，#42 的 Cost vs Asset 帮我们区分 sunk cost 和 switching cost：过去已经花掉的钱不该影响未来；但如果转移明天真的要付出成本，那就是 forward-looking decision 中必须计算的真实 switching cost。\n\n今天的新工具是 Transition Friction。不要只比较 State A 和 State B，而要加入 A → B 的迁移路径。它能解释软件生态、银行账户、公司供应商、城市交通甚至职业路径。最终判断链是：新状态有多好？迁移成本是什么？哪些成本只是 sunk cost？哪些是未来真实成本？网络和互补资产会不会继续强化现状？这让我们从“谁最好”的静态问题，进入“为什么某个结果会自我强化”的动态分析。"
+  },
+  "words": [
+    {
+      "word": "switching cost",
+      "type": "academic",
+      "meaningZh": "转换成本；从一个产品、服务或系统迁移到另一个所需承担的成本",
+      "example": "A better product may still fail if customers face high switching costs.",
+      "source": 43
+    },
+    {
+      "word": "lock-in",
+      "type": "academic",
+      "meaningZh": "锁定效应；因转换成本等原因而持续留在现有系统",
+      "example": "Years of stored data can create customer lock-in.",
+      "source": 43
+    },
+    {
+      "word": "path dependence",
+      "type": "academic",
+      "meaningZh": "路径依赖；早期事件和选择会改变之后可行结果的现象",
+      "example": "Technology markets often display path dependence.",
+      "source": 43
+    },
+    {
+      "word": "network effect",
+      "type": "academic",
+      "meaningZh": "网络效应；用户越多，产品对单个用户的价值越高",
+      "example": "Messaging apps benefit from strong network effects.",
+      "source": 43
+    },
+    {
+      "word": "installed base",
+      "type": "academic",
+      "meaningZh": "已安装用户基础；已经采用某项产品或技术的用户群",
+      "example": "A large installed base can attract developers and partners.",
+      "source": 43
+    },
+    {
+      "word": "complementary goods",
+      "type": "academic",
+      "meaningZh": "互补品；与另一产品共同使用并提高其价值的商品",
+      "example": "Games are complementary goods for a game console.",
+      "source": 43
+    },
+    {
+      "word": "coordination problem",
+      "type": "academic",
+      "meaningZh": "协调问题；个体需要配合行动才能实现更优结果的情形",
+      "example": "A new platform faces a coordination problem when nobody wants to join first.",
+      "source": 43
+    },
+    {
+      "word": "critical mass",
+      "type": "academic",
+      "meaningZh": "临界规模；使网络或系统能够自我维持增长的最低规模",
+      "example": "The platform offered discounts until it reached critical mass.",
+      "source": 43
+    },
+    {
+      "word": "subsidy",
+      "type": "vocab",
+      "meaningZh": "补贴；为降低参与成本而提供的经济支持",
+      "example": "The company used a subsidy to attract early users.",
+      "source": 43
+    },
+    {
+      "word": "integration",
+      "type": "vocab",
+      "meaningZh": "整合；不同系统之间的连接与协同",
+      "example": "Deep software integration can make switching expensive.",
+      "source": 43
+    },
+    {
+      "word": "equilibrium",
+      "type": "academic",
+      "meaningZh": "均衡；在既定条件下参与者缺乏单独改变行为动机的稳定状态",
+      "example": "The market may settle into an equilibrium that is difficult to change.",
+      "source": 43
+    },
+    {
+      "word": "transition friction",
+      "type": "academic",
+      "meaningZh": "转型摩擦；从当前状态迁移到新状态过程中产生的阻力和成本",
+      "example": "Transition friction can delay adoption of a superior technology.",
+      "source": 43
+    },
+    {
+      "word": "ecosystem",
+      "type": "vocab",
+      "meaningZh": "生态系统；围绕核心产品形成的服务、工具和参与者网络",
+      "example": "A strong ecosystem can be more valuable than a single product feature.",
+      "source": 43
+    },
+    {
+      "word": "reinforce",
+      "type": "vocab",
+      "meaningZh": "强化；使某种趋势或优势进一步增强",
+      "example": "More users can reinforce a platform's market position.",
+      "source": 43
+    },
+    {
+      "word": "compatible",
+      "type": "vocab",
+      "meaningZh": "兼容的；能够与其他系统共同工作的",
+      "example": "Customers prefer accessories that are compatible with devices they already own.",
+      "source": 43
+    },
+    {
+      "word": "distribution",
+      "type": "vocab",
+      "meaningZh": "分销；产品到达消费者的渠道和体系",
+      "example": "Strong distribution helped the product reach customers early.",
+      "source": 43
+    },
+    {
+      "word": "durable advantage",
+      "type": "academic",
+      "meaningZh": "持久竞争优势；难以被竞争者快速复制或消除的优势",
+      "example": "Customer integration can create a durable advantage.",
+      "source": 43
+    },
+    {
+      "word": "historical accident",
+      "type": "academic",
+      "meaningZh": "历史偶然；早期偶发事件对长期结果产生持续影响",
+      "example": "A historical accident can sometimes shape which standard becomes dominant.",
+      "source": 43
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why do people sometimes keep using a product even when a better alternative exists?",
+      "category": "Business",
+      "framework": "Existing system → Switching cost → Temporary disruption → Decision to stay",
+      "response": "I think the main reason is that people compare more than product quality. If I already have years of files, habits, subscriptions or contacts inside one system, moving to another one can take a lot of time and effort. The new product therefore has to be better by enough to justify the transition, not just slightly better on paper. In some cases staying is actually rational because the existing system already works well. So I would say a superior alternative does not automatically create a strong reason to switch; the cost of moving matters as well.",
+      "expressions": [
+        "People compare more than product quality.",
+        "The new product has to be better by enough to justify the transition.",
+        "A superior alternative does not automatically create a strong reason to switch."
+      ],
+      "source": 43
+    },
+    {
+      "question": "Do you think the most popular products are usually the best products?",
+      "category": "Business",
+      "framework": "Quality → Early adoption → Network effects → Market position",
+      "response": "Not necessarily. Quality obviously matters, but popularity can also reflect timing, distribution and network effects. Once a product has many users, it may become more useful simply because other people and businesses already support it. That can attract even more users and make it difficult for a new competitor to enter, even if the competitor has some better features. I think market share tells us something important, but it does not tell us the whole causal story. We still need to ask how the product became popular and what keeps its position strong.",
+      "expressions": [
+        "Popularity can reflect more than product quality.",
+        "Market share does not tell us the whole causal story.",
+        "We still need to ask what keeps its position strong."
+      ],
+      "source": 43
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "The new product has to be better by enough to justify the transition.",
+      "meaningZh": "新方案必须好到足以覆盖迁移成本；适合科技、职业选择和制度变革话题。",
+      "source": 43
+    },
+    {
+      "expression": "Market share does not tell us the whole causal story.",
+      "meaningZh": "市场份额无法单独解释完整的因果机制；适合商业、平台和竞争分析。",
+      "source": 43
+    },
+    {
+      "expression": "We still need to ask what keeps its position strong.",
+      "meaningZh": "还需要追问是什么机制持续强化它的位置；适合分析竞争优势与反馈循环。",
+      "source": 43
+    }
+  ]
+}

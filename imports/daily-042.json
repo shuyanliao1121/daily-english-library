@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 42,
+  "article": {
+    "n": 42,
+    "title": "Why Waiting Can Make Something Feel More Valuable",
+    "category": "Behavioral Economics",
+    "themes": [
+      "sunk cost",
+      "effort justification",
+      "waiting",
+      "scarcity",
+      "commitment",
+      "consumer behavior"
+    ],
+    "framework": "Waiting or Effort → Personal Investment → Need for Consistency → Higher Perceived Value → Persistence",
+    "coreIdea": "Time and effort spent obtaining something can change how we evaluate it: instead of being only a cost, prior investment can become part of the story we use to justify continued interest and higher perceived value.",
+    "body": "Imagine two cafés selling almost identical pastries. At the first, you walk in, pay, and leave within a minute. At the second, there is a twenty-minute queue. Strangely, after finally reaching the counter, the pastry from the second café may feel more special. You took photos while waiting, watched other customers order, and told yourself the line must exist for a reason. By the time you eat, you are not evaluating only the pastry. You are also evaluating an experience in which you have already invested time.\n\nEconomics usually treats waiting as a cost. Time spent in a queue cannot be used elsewhere, so it has an opportunity cost. A rational consumer should prefer the same product with a shorter wait, all else being equal. Yet psychology complicates this simple picture. Once people have spent time, effort, or money pursuing something, that investment can influence how valuable the outcome feels.\n\nOne mechanism is effort justification. People sometimes value an outcome more highly when obtaining it required effort. This does not mean difficult things are automatically better. Rather, effort can create psychological pressure for our beliefs to remain consistent with our actions. If I voluntarily waited an hour for a restaurant, admitting that the meal was completely ordinary may make the hour feel wasted. Evaluating the meal more positively reduces that tension.\n\nThis idea is related to cognitive dissonance: discomfort produced when beliefs, actions, or outcomes do not fit together neatly. Suppose someone works extremely hard to join an exclusive club and later discovers that membership is less exciting than expected. Two interpretations are possible. “I invested a great deal for something mediocre” is uncomfortable. “The club must be valuable because I worked so hard to enter” creates a more consistent story.\n\nA second mechanism is the sunk cost effect. A sunk cost is a cost that has already been paid and cannot be recovered. Standard economic reasoning says sunk costs should not determine future choices. If you bought a movie ticket and discover after thirty minutes that you hate the film, the ticket price is gone whether you stay or leave. The relevant question is which option gives you a better next ninety minutes.\n\nIn practice, however, people often continue because quitting would make the earlier investment feel wasted. We finish books we dislike, remain in long queues, keep repairing unreliable devices, or continue projects after their prospects have weakened. The past cost cannot actually be recovered by continuing, but persistence can make the investment feel less pointless.\n\nEffort justification and sunk costs are related but not identical. Effort justification changes evaluation: “I worked hard for it, so perhaps it is better than it looks.” The sunk cost effect changes continuation decisions: “I have already invested so much, so I should keep going.” One influences perceived value; the other influences whether we stop. In real life, they can reinforce each other.\n\nWaiting can also function as a signal. A crowded restaurant may be good precisely because many people want to eat there. A long application process may signal that a program is selective. Limited product drops may attract queues because supply is scarce. In these cases, people are not necessarily irrational to use waiting as information. The challenge is separating informative waiting from waiting that merely creates an impression of value.\n\nThis is a causality problem. Queue → quality is not a universal rule. High quality can cause a queue, but a queue can also result from slow service, limited staffing, deliberate capacity restrictions, or temporary hype. Observing the line does not tell us which mechanism produced it. As in earlier lessons, the visible signal must be separated from the underlying cause.\n\nBut deliberately adding friction is risky. If customers believe a wait is pointless or manipulative, the same mechanism can reverse. A thirty-minute line outside a famous bakery may create anticipation; a thirty-minute delay caused by a broken payment system creates irritation. The difference lies partly in attribution—what customers believe caused the inconvenience.\n\nThis gives us a more precise view of friction. Earlier, we treated friction mainly as an obstacle that reduces action. Today we can divide it into at least two types. Functional friction simply makes a task harder: confusing forms, slow websites, unnecessary steps. Meaningful friction can sometimes signal scarcity, commitment, skill, or identity. The strategic question is not “Is there friction?” but “What story does the friction tell?”\n\nThe same distinction matters in careers. People can become attached to a path because they have already invested years in it. Training, qualifications, and relationships are real assets, so abandoning a path can genuinely be costly. But past investment should not automatically decide the future. The correct question is whether those accumulated resources still improve the expected value of continuing compared with realistic alternatives.\n\nThis is where stock versus flow becomes useful. Past effort may have created a valuable stock: knowledge, reputation, savings, relationships, or skills. Those stocks are relevant because they affect future possibilities. The hours themselves, however, are gone. Good decision-making separates the unrecoverable cost from the useful assets the cost may have produced.\n\nImagine studying a subject for three years and considering a change. “I cannot switch because I already spent three years” is sunk-cost reasoning. But “Those three years gave me quantitative skills that make this new field easier to enter” is different. The first looks backward at unrecoverable time. The second identifies a stock that changes future returns.\n\nMeasurement helps clarify the difference. Instead of asking, “How much have I already put into this?”, ask, “What do I possess now because of that investment, and how does it affect my options from today onward?” This converts an emotional accounting problem into a forward-looking comparison.\n\nA further consequence appears when institutions learn from these reactions. If customers repeatedly treat difficult access as evidence of value, organizations may preserve barriers that are no longer technically necessary. An exclusive waiting list or complicated application can become part of a status system. This creates a second-order incentive: instead of removing every inconvenience, the institution may keep some friction because the friction helps maintain an image of selectivity. Yet the strategy remains fragile. Once people conclude that the scarcity is artificial rather than meaningful, the same barrier can reduce trust instead of increasing desire.\n\nThe broader lesson is not to avoid effort. Many valuable outcomes genuinely require patience and work. Nor should we ignore everything we have invested in the past, because investment can create useful assets. The important distinction is between cost and evidence. Effort may be evidence of commitment or skill, but it is not evidence that an outcome remains worthwhile.\n\nSo when you catch yourself thinking, “I have come this far, so I cannot stop,” try changing the question. Ask: “If I were making the decision from this point today, with the skills and information I now have, would continuing still be the best option?” The past can shape what resources you possess. It does not have to own the decision you make next.",
+    "summaryZh": "今天把 waiting / effort 拆成了一个很有意思的双重角色：在经济学里，它首先是 cost；但在心理上，已经付出的成本又可能反过来改变我们对结果的评价。\n\n第一条机制是 effort justification。付出越多，人越容易产生“它应该值得”的解释，因为承认结果普通，会让之前的努力显得浪费。第二条是 sunk cost effect：过去已经无法收回的投入，本来不该决定未来选择，但人会因为“不想让它白费”而继续。两者区别很重要：effort justification 更偏向改变 perceived value，sunk cost 更偏向改变 continuation decision。\n\n文章又把 #36 的 friction 推进一步：friction 不只有“越少越好”。Functional friction 只是制造麻烦；meaningful friction 有时会传递 scarcity、commitment、skill 或 identity。但这里必须接 causality：有排队可能因为质量好，也可能只是服务慢。Visible signal 不能直接等同于 underlying cause。\n\n今天最值得加入工具箱的是 Cost vs Asset。过去投入的时间本身已经消失，是 sunk cost；但它可能留下 skill、knowledge、reputation、relationship 这些 stock。#39 的 stock vs flow 因此可以帮助我们避免两种极端：既不因为“已经投入很多”就机械坚持，也不因为过去不可回收就假装它什么都没留下。\n\n最终判断要从 backward-looking accounting 转成 forward-looking comparison：不要只问“我已经投入多少”，而问“这些投入现在留下了什么资产？从今天开始，继续和转向哪个 expected value 更高？”"
+  },
+  "words": [
+    {
+      "word": "effort justification",
+      "type": "academic",
+      "meaningZh": "努力合理化；因为为某结果付出很多而提高对其价值的评价",
+      "example": "Effort justification can make a difficult achievement feel more valuable.",
+      "source": 42
+    },
+    {
+      "word": "cognitive dissonance",
+      "type": "academic",
+      "meaningZh": "认知失调；信念、行为或结果不一致时产生的心理不适",
+      "example": "Cognitive dissonance can encourage people to reinterpret a disappointing outcome.",
+      "source": 42
+    },
+    {
+      "word": "sunk cost",
+      "type": "academic",
+      "meaningZh": "沉没成本；已经发生且无法收回的成本",
+      "example": "The ticket price is a sunk cost once the film has started.",
+      "source": 42
+    },
+    {
+      "word": "sunk cost effect",
+      "type": "academic",
+      "meaningZh": "沉没成本效应；因过去投入而影响未来决策的倾向",
+      "example": "The sunk cost effect can keep people in projects that no longer make sense.",
+      "source": 42
+    },
+    {
+      "word": "persistence",
+      "type": "vocab",
+      "meaningZh": "坚持；持续做某事",
+      "example": "Past investment can increase persistence even when prospects worsen.",
+      "source": 42
+    },
+    {
+      "word": "selective",
+      "type": "vocab",
+      "meaningZh": "有选择性的；筛选严格的",
+      "example": "A long admissions process may make a program appear highly selective.",
+      "source": 42
+    },
+    {
+      "word": "capacity restriction",
+      "type": "academic",
+      "meaningZh": "产能或容量限制；人为或客观限制可提供数量",
+      "example": "Capacity restrictions can create queues even when demand is stable.",
+      "source": 42
+    },
+    {
+      "word": "attribution",
+      "type": "academic",
+      "meaningZh": "归因；对某个结果原因的解释",
+      "example": "Customer reactions depend partly on their attribution of the delay.",
+      "source": 42
+    },
+    {
+      "word": "functional friction",
+      "type": "academic",
+      "meaningZh": "功能性摩擦；只增加操作难度而不创造有意义价值的障碍",
+      "example": "A confusing checkout page creates functional friction.",
+      "source": 42
+    },
+    {
+      "word": "meaningful friction",
+      "type": "academic",
+      "meaningZh": "有意义的摩擦；能够传递投入、稀缺或身份等意义的难度",
+      "example": "Some training programs use meaningful friction to signal commitment.",
+      "source": 42
+    },
+    {
+      "word": "productive effort",
+      "type": "academic",
+      "meaningZh": "生产性努力；真正促进技能或结果的付出",
+      "example": "Challenging practice can create productive effort.",
+      "source": 42
+    },
+    {
+      "word": "unrecoverable",
+      "type": "vocab",
+      "meaningZh": "无法收回的",
+      "example": "Past time is unrecoverable, but the skills it created may still matter.",
+      "source": 42
+    },
+    {
+      "word": "forward-looking",
+      "type": "academic",
+      "meaningZh": "前瞻性的；依据未来成本与收益进行判断的",
+      "example": "A forward-looking decision focuses on what happens from today onward.",
+      "source": 42
+    },
+    {
+      "word": "status signal",
+      "type": "academic",
+      "meaningZh": "地位信号；用于显示身份、稀缺性或社会位置的特征",
+      "example": "An exclusive waiting list can become a status signal.",
+      "source": 42
+    },
+    {
+      "word": "artificial scarcity",
+      "type": "academic",
+      "meaningZh": "人为稀缺；通过限制供应刻意制造的稀缺状态",
+      "example": "Artificial scarcity can increase demand if consumers believe the product is exclusive.",
+      "source": 42
+    },
+    {
+      "word": "credibility",
+      "type": "vocab",
+      "meaningZh": "可信度",
+      "example": "A scarcity signal loses credibility when customers think it is manipulated.",
+      "source": 42
+    },
+    {
+      "word": "expected value",
+      "type": "academic",
+      "meaningZh": "期望价值；考虑不同结果及其概率后的预期收益",
+      "example": "The better choice depends on the expected value of continuing versus switching.",
+      "source": 42
+    },
+    {
+      "word": "commitment",
+      "type": "vocab",
+      "meaningZh": "投入；承诺",
+      "example": "Visible effort can signal commitment to a group or goal.",
+      "source": 42
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why do people sometimes continue doing something even when it is no longer enjoyable or useful?",
+      "category": "Behavioral Economics",
+      "framework": "Past investment → Sunk cost → Fear of waste → Continued commitment",
+      "response": "I think people often become emotionally attached to what they have already invested. If someone has spent years on a course, a project or even a hobby, stopping can feel like admitting that all that effort was wasted. The problem is that past costs cannot usually be recovered by continuing. I think a better approach is to separate what is already gone from what the investment has actually created, such as skills or useful relationships. Then the person can ask whether continuing still makes sense from today onward rather than simply protecting the past.",
+      "expressions": [
+        "Stopping can feel like admitting that all that effort was wasted.",
+        "Past costs cannot usually be recovered by continuing.",
+        "It makes more sense to ask whether continuing is worthwhile from today onward."
+      ],
+      "source": 42
+    },
+    {
+      "question": "Can making a product difficult to obtain make people want it more?",
+      "category": "Behavioral Economics",
+      "framework": "Friction → Scarcity signal → Interpretation → Higher or lower perceived value",
+      "response": "Yes, in some situations. If a product is difficult to obtain because demand is genuinely high or supply is limited, the difficulty can act as a signal that other people value it. Waiting can also create anticipation, so customers may become more emotionally invested before they receive the product. However, the effect depends heavily on how people interpret the obstacle. If the delay feels artificial or badly managed, it can reduce trust instead. So difficulty can increase perceived value, but only when the friction tells a convincing story.",
+      "expressions": [
+        "The difficulty can act as a signal that other people value it.",
+        "The effect depends heavily on how people interpret the obstacle.",
+        "Friction can increase perceived value when it tells a convincing story."
+      ],
+      "source": 42
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Past costs cannot usually be recovered by continuing.",
+      "meaningZh": "继续投入通常无法收回过去已经发生的成本；适合沉没成本、职业选择和项目决策。",
+      "source": 42
+    },
+    {
+      "expression": "It makes more sense to ask whether continuing is worthwhile from today onward.",
+      "meaningZh": "更合理的是从今天开始判断继续是否值得；适合任何需要避免沉没成本的决策。",
+      "source": 42
+    },
+    {
+      "expression": "The effect depends heavily on how people interpret the obstacle.",
+      "meaningZh": "效果很大程度取决于人们如何解释这个障碍；适合营销、制度设计和摩擦类话题。",
+      "source": 42
+    }
+  ]
+}
