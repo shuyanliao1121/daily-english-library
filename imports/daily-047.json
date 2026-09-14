@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 47,
+  "article": {
+    "n": 47,
+    "title": "Why Faster Technology Does Not Always Save Us Time",
+    "category": "Technology & AI",
+    "themes": [
+      "Productivity",
+      "Jevons Paradox",
+      "Automation",
+      "Rebound Effects",
+      "Friction",
+      "Second-Order Effects"
+    ],
+    "framework": "Efficiency Gain → Lower Cost per Task → More Tasks Attempted → New Expectations → Partial Rebound",
+    "coreIdea": "Technology can reduce the time or cost required for each task while simultaneously increasing how many tasks people attempt and how quickly others expect them to respond. Efficiency therefore changes behavior, so time saved per task does not automatically become free time.",
+    "body": "Imagine that an AI tool cuts the time needed to write a routine report from two hours to twenty minutes. It seems obvious that the worker has gained one hour and forty minutes. Yet a few months later, the worker may feel busier than before. Managers request more reports, colleagues expect faster replies, and the worker begins polishing documents that previously would not have been worth producing. The technology has made each task cheaper, but the total amount of work has expanded.\n\nThis is a useful example of a rebound effect. When a technology makes an activity more efficient, people do not always keep the quantity of that activity unchanged. Lowering the cost of doing something can increase demand for it. As a result, part of the expected saving is “taken back” by behavioral change.\n\nEconomics offers a famous related idea known as Jevons paradox. In the nineteenth century, economist William Stanley Jevons observed that improvements in the efficiency of coal use could increase, rather than decrease, total coal consumption because cheaper energy encouraged wider use. The strongest form of this result is not inevitable, but the mechanism is important: efficiency changes incentives, and changed incentives can change scale.\n\nThe same logic can apply to time. Suppose software reduces the time required to create a presentation from four hours to one. If the number of presentations stays constant, three hours are saved. But if the company now produces twice as many presentations, adds more revisions, and expects more customized versions, the final time saving becomes much smaller. Productivity per task rises while the number of tasks also rises.\n\nThis distinction matters because people often measure technology using first-order effects. We ask, “How much faster is this tool?” That is a useful question, but it assumes behavior remains fixed. A second-order analysis asks, “What will people do differently because the tool is faster?” Once the cost of an action changes, the surrounding system may adapt.\n\nEmail provides a familiar example. Digital communication made sending a written message dramatically faster and cheaper than physical mail. This created enormous value. But it also made sending messages so easy that people began sending far more of them. The recipient's scarce resource shifted from postage and delivery time to attention. A technology that removed communication friction for senders created a new filtering problem for receivers.\n\nHowever, abundance changes expectations. If producing a first draft takes minutes rather than hours, people may expect more drafts. If analyzing a dataset becomes easier, managers may request more analyses. If software can answer messages quickly, customers may become less tolerant of waiting. The standard of “reasonable output” can move upward as the cost of producing output falls.\n\nThis is a reference-point effect at the level of organizations. Yesterday's excellent response time can become tomorrow's baseline expectation. In #40, we saw how a competitive advantage can become a minimum requirement once competitors copy it. The same process can happen with productivity tools: when one firm uses automation to respond in an hour, others may need to match that speed simply to remain competitive.\n\nThere is also a stock-versus-flow issue. A productivity tool creates a flow of time savings on individual tasks. Whether those savings accumulate into a durable stock of free time, deeper knowledge, or organizational capability depends on where the saved time goes. If every saved minute is immediately filled with another low-value task, productivity rises without creating much slack.\n\nSlack may sound inefficient, but it has value. Free capacity allows people to think, recover, handle unexpected problems, and experiment. A system operating at 100 percent visible utilization can be fragile because any surprise creates a queue. In this sense, the scarce resource produced by efficiency may be flexibility rather than raw output.\n\nMeasurement can easily miss this. A company might celebrate the number of documents generated per employee while overlooking whether those documents improve decisions. AI can increase measurable output faster than useful outcomes. This connects to Goodhart's Law: once output volume becomes a target, workers and systems can produce more material without creating proportional value.\n\nThe problem is especially clear when automation reduces the friction of creating requests but not the friction of evaluating them. Imagine that AI allows employees to generate ten project proposals in the time previously needed for one. Someone still has to compare those proposals, check assumptions, choose among them, and take responsibility for the final decision. Production becomes abundant while judgment becomes the bottleneck.\n\nThis connects directly to #37, where we argued that as answers become abundant, evaluating answers becomes more valuable. Efficiency can move scarcity rather than eliminate it. Faster generation may shift the bottleneck from writing to reviewing, from searching to filtering, or from coding to deciding what should be built.\n\nThis is why productivity should not be understood only as speed. A better definition is value created relative to resources used. Finishing a useless report in ten minutes is faster than finishing it in two hours, but eliminating the report entirely may be more productive. Automation can therefore create its greatest value not by accelerating every existing task but by forcing us to ask which tasks deserve to exist.\n\nA useful analytical tool is the rebound check. First, estimate the direct efficiency gain. Second, ask whether lower cost will increase the quantity demanded. Third, identify where the new bottleneck will appear. Finally, ask whether expectations will rise enough to absorb part of the saving. This turns a simple “faster is better” story into a system-level analysis.\n\nThe rebound does not mean efficiency is pointless. More emails, analyses, or designs can create real value, just as greater energy use can support useful economic activity. The important point is that the benefit may appear as more output rather than more leisure. If we expected technology to give people free time, but organizations choose to convert the saving into additional production, the technology has not failed; the allocation decision has changed the outcome.\n\nThis also changes the meaning of convenience. A tool can make one action easier while increasing the number of actions that compete for our attention. The relevant question is therefore not whether technology removes effort somewhere, but whether the whole system ends up demanding less effort from the person using it.\n\nThe broader lesson is that efficiency is not an endpoint. It changes the price of an activity, which changes behavior, expectations, and sometimes the location of scarcity. Whenever a technology promises to save time, we should ask not only how much faster the original task becomes, but what new activity the lower cost will encourage.\n\nSo the next time an AI feature promises to make you twice as productive, ask a second question: “What will happen to the number of things I am expected to produce?” The answer may determine whether the technology creates genuine slack—or simply helps more work fit into the same day.",
+    "summaryZh": "今天把“AI 提效”从单任务视角拉到 system level。最直觉的算法是：原来 2 小时的任务现在 20 分钟完成，所以省下 100 分钟。但这个算法默认 task quantity 不变。现实里效率提升会改变 incentive：任务变便宜以后，人们往往会做更多任务，于是出现 rebound effect。\n\n文章借用了 Jevons paradox 的机制：Efficiency Gain → Lower Cost → Higher Demand → Partial Rebound。它不意味着“效率提升一定让总消耗增加”，而是提醒我们不能只看 first-order effect。真正的问题是：工具变快以后，行为、规模和 expectations 会怎么变？\n\n这和前面的 toolbox 能连成一条很漂亮的链。#40 讲 baseline expectation：竞争者都提速以后，昨天的优势会变成明天的最低要求；#37 讲 judgment scarcity：生成答案变便宜后，review 和判断可能成为新 bottleneck；stock vs flow 则提醒我们，单任务节省的是 time-saving flow，只有当这些时间沉淀成休息、学习、深度工作或组织能力时，才形成真正有价值的 stock。\n\n文章还加入 slack 的概念。100% utilization 看起来高效，却可能让系统非常脆弱；空余能力可以吸收突发任务、支持探索和恢复。因此 productivity 不应只测 output volume，而应看 value created relative to resources used。AI 让文档数量翻倍，不代表决策质量也翻倍，这又接回 Goodhart’s Law。\n\n今天的新工具是 Rebound Check：先问 direct efficiency gain，再问 lower cost 会不会增加 demand，随后找 new bottleneck，最后检查 expectations 是否上升并吞掉部分节省。核心问题从“How much time does this save?”升级成“What will the system do with the time it saves?”"
+  },
+  "words": [
+    {
+      "word": "rebound effect",
+      "type": "academic",
+      "meaningZh": "反弹效应；效率提升后因使用量增加而抵消部分预期节省的现象",
+      "example": "The rebound effect can reduce the amount of time an efficiency tool actually frees.",
+      "source": 47
+    },
+    {
+      "word": "Jevons paradox",
+      "type": "academic",
+      "meaningZh": "杰文斯悖论；效率提升可能因需求扩大而导致资源总使用量反而上升",
+      "example": "Jevons paradox shows why efficiency and total consumption do not always move in opposite directions.",
+      "source": 47
+    },
+    {
+      "word": "efficiency gain",
+      "type": "academic",
+      "meaningZh": "效率增益；完成同一任务所需资源下降",
+      "example": "The software produced a large efficiency gain in routine reporting.",
+      "source": 47
+    },
+    {
+      "word": "first-order effect",
+      "type": "academic",
+      "meaningZh": "一阶效应；变化直接产生的最初影响",
+      "example": "The first-order effect of automation is that each draft takes less time.",
+      "source": 47
+    },
+    {
+      "word": "second-order effect",
+      "type": "academic",
+      "meaningZh": "二阶效应；行为和系统调整后进一步产生的影响",
+      "example": "Higher expectations can be a second-order effect of faster technology.",
+      "source": 47
+    },
+    {
+      "word": "bottleneck",
+      "type": "vocab",
+      "meaningZh": "瓶颈；限制整个系统速度或产出的环节",
+      "example": "Reviewing became the bottleneck after content generation became cheap.",
+      "source": 47
+    },
+    {
+      "word": "baseline expectation",
+      "type": "academic",
+      "meaningZh": "基准预期；逐渐被视为正常最低水平的标准",
+      "example": "Fast replies can quickly become a baseline expectation.",
+      "source": 47
+    },
+    {
+      "word": "slack",
+      "type": "academic",
+      "meaningZh": "余量；未被立即占用、可用于应对变化的资源或能力",
+      "example": "A little slack makes an organization more resilient to unexpected problems.",
+      "source": 47
+    },
+    {
+      "word": "utilization",
+      "type": "academic",
+      "meaningZh": "利用率；资源被使用的程度",
+      "example": "Very high utilization can create long queues when demand suddenly rises.",
+      "source": 47
+    },
+    {
+      "word": "filtering",
+      "type": "vocab",
+      "meaningZh": "筛选；从大量信息中挑出相关或有价值内容",
+      "example": "Cheap content generation increases the importance of filtering.",
+      "source": 47
+    },
+    {
+      "word": "coordination cost",
+      "type": "academic",
+      "meaningZh": "协调成本；使多人、多任务或多部门保持一致所需的时间和资源",
+      "example": "More projects can create substantial coordination costs.",
+      "source": 47
+    },
+    {
+      "word": "output volume",
+      "type": "academic",
+      "meaningZh": "产出量；一定时期内生成的产品、内容或工作成果数量",
+      "example": "Output volume is a poor measure if most documents are never used.",
+      "source": 47
+    },
+    {
+      "word": "productive",
+      "type": "vocab",
+      "meaningZh": "富有成效的；能有效创造有价值结果的",
+      "example": "Removing an unnecessary task can be more productive than completing it faster.",
+      "source": 47
+    },
+    {
+      "word": "capacity",
+      "type": "vocab",
+      "meaningZh": "能力；系统能够处理的工作量",
+      "example": "Automation increased the team's capacity to answer routine questions.",
+      "source": 47
+    },
+    {
+      "word": "allocation",
+      "type": "academic",
+      "meaningZh": "配置；把有限资源分配到不同用途",
+      "example": "The allocation of saved time determines whether workers gain more leisure.",
+      "source": 47
+    },
+    {
+      "word": "marginal cost",
+      "type": "academic",
+      "meaningZh": "边际成本；额外生产一个单位所增加的成本",
+      "example": "AI can reduce the marginal cost of producing another draft.",
+      "source": 47
+    },
+    {
+      "word": "scale",
+      "type": "academic",
+      "meaningZh": "规模；活动或系统运作的数量级",
+      "example": "An efficiency improvement can change the scale at which an activity is performed.",
+      "source": 47
+    },
+    {
+      "word": "William Stanley Jevons",
+      "type": "proper",
+      "meaningZh": "威廉·斯坦利·杰文斯；19世纪英国经济学家，提出与煤炭效率相关的杰文斯悖论",
+      "example": "William Stanley Jevons argued that greater coal efficiency could encourage wider coal use.",
+      "source": 47
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Do you think technology always gives people more free time?",
+      "category": "Technology & AI",
+      "framework": "Efficiency → More capacity → Higher demand and expectations → Actual time outcome",
+      "response": "Not necessarily. Technology can make individual tasks much faster, but that does not mean the saved time automatically becomes leisure. Once a task is cheaper and easier, people often do more of it, and employers or customers may also raise their expectations. For example, if AI makes reports much faster to produce, a company may simply request more reports. So I think the key question is not only how much time a tool saves per task, but what happens to the amount of work afterwards. Efficiency can create free time, but only if some of the new capacity is deliberately left unused.",
+      "expressions": [
+        "Saved time does not automatically become leisure.",
+        "The key question is what happens to the amount of work afterwards.",
+        "Efficiency can create free time, but only if some of the new capacity is deliberately left unused."
+      ],
+      "source": 47
+    },
+    {
+      "question": "How might AI change what employers expect from workers?",
+      "category": "Technology & AI",
+      "framework": "Lower production cost → Higher baseline → New bottleneck → Value of judgment",
+      "response": "I think AI may raise the baseline for how quickly routine work is expected to be completed. If drafting, summarizing and basic analysis become much cheaper, employers may reasonably expect workers to produce more in the same amount of time. However, this could also make human judgment more important, because generating ten options is not useful unless someone can identify which one is actually good. In that sense, automation may move the bottleneck rather than remove it. The valuable skill may shift from producing the first answer to evaluating alternatives and deciding what deserves attention.",
+      "expressions": [
+        "AI may raise the baseline for how quickly routine work is expected to be completed.",
+        "Automation may move the bottleneck rather than remove it.",
+        "The valuable skill may shift from producing the first answer to evaluating alternatives."
+      ],
+      "source": 47
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Saved time does not automatically become leisure.",
+      "meaningZh": "节省下来的时间不会自动转化成休闲；适合科技、效率和工作生活平衡话题。",
+      "source": 47
+    },
+    {
+      "expression": "Automation may move the bottleneck rather than remove it.",
+      "meaningZh": "自动化可能只是转移瓶颈，而不是消除瓶颈；适合 AI、组织和生产力分析。",
+      "source": 47
+    },
+    {
+      "expression": "The valuable skill may shift from producing the first answer to evaluating alternatives.",
+      "meaningZh": "有价值的能力可能从生成第一个答案转向评估多个方案；适合 AI、教育和未来技能话题。",
+      "source": 47
+    }
+  ]
+}

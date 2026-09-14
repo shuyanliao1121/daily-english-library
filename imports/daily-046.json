@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 46,
+  "article": {
+    "n": 46,
+    "title": "Why the Default Option Is So Powerful",
+    "category": "Behavioral Economics",
+    "themes": [
+      "Default Effect",
+      "Status Quo Bias",
+      "Choice Architecture",
+      "Friction",
+      "Inertia",
+      "Consumer Decision-Making"
+    ],
+    "framework": "Default → Lower Immediate Friction → Inaction → Repeated Choice → Status Quo Reinforcement",
+    "coreIdea": "A default does not remove choice, but it changes the cost of doing nothing. Because attention, effort, and certainty are scarce, the option selected automatically can shape behavior far more than its apparent neutrality suggests.",
+    "body": "Imagine starting a new job and receiving a form about retirement savings. One box says that 5 percent of your salary will automatically go into a retirement account unless you choose a different amount. You are free to change it, reduce it to zero, or increase it. Yet many employees simply leave the box as it is. Now imagine the opposite system: nothing is saved unless you actively enroll. The economic options may be almost identical, but participation can look very different.\n\nThis is the power of a default. A default is the option that takes effect when a person does nothing. It appears in pension plans, software settings, subscriptions, privacy controls, organ-donation systems, delivery preferences, and countless digital services. Defaults are interesting because they do not necessarily restrict freedom. People may still be allowed to choose anything. What changes is the path of least resistance.\n\nWhy should such a small design choice matter? One reason is friction. Taking action requires time and attention. Even a simple decision may involve opening a page, understanding unfamiliar terms, remembering a password, or comparing several alternatives. Each step is minor, but minor steps accumulate. When the expected benefit of changing a setting feels uncertain, doing nothing becomes attractive.\n\nThis connects directly to scarcity. Attention is limited, and most people face many decisions every day. A worker may care about retirement savings but also need to answer emails, pay bills, plan dinner, and solve immediate problems. The default effectively says, “If you do not spend attention here, this is what will happen.” It therefore allocates outcomes partly according to where people do not focus.\n\nInertia is another mechanism. Once an option is already in place, changing it can feel like an active decision while keeping it feels passive. This difference matters because action creates a sense of responsibility. If I switch investment funds and performance becomes worse, I may blame myself. If I leave the existing fund unchanged and it performs badly, the outcome can feel less directly caused by me. Staying with the default may therefore reduce anticipated regret.\n\nDefaults can also act as recommendations. People sometimes assume that the organization designing the system has chosen the default for a reason. A new employee may think the standard savings rate is what financial experts consider appropriate. A user may interpret a privacy setting as normal or safe because the platform preselected it. In situations of uncertainty, the default becomes not only an easy option but also an informational signal.\n\nBehavioral economists often discuss the default effect alongside status quo bias, the tendency to prefer the current state simply because it is current. The two ideas overlap but are not identical. A default is a feature of the environment; status quo bias describes a pattern in behavior. A well-designed default can take advantage of inertia, but people may also remain with an existing option for rational reasons, such as switching costs or genuine satisfaction.\n\nThat distinction matters for causality. Suppose 80 percent of customers keep a default electricity plan. We cannot immediately conclude that 80 percent are psychologically biased. Perhaps alternative plans are genuinely worse, switching is complicated, or customers have already compared them. Observing persistence tells us what people did, not why they did it. To identify the default effect, researchers need a credible comparison between similar groups facing different starting options.\n\nThe ethics of defaults depend heavily on alignment. If a default helps people achieve goals they already have but often fail to act on, it can reduce harmful friction. Automatic retirement enrollment is a common example: many people say they want to save for the future, yet enrollment paperwork can delay action. A sensible default can convert intention into behavior without eliminating the right to opt out.\n\nBut defaults can also exploit inattention. A free trial that automatically becomes a paid subscription uses the same basic mechanism. The customer can cancel, but the company benefits when people forget, postpone, or find cancellation annoying. Here the default may be aligned with the seller's revenue rather than the user's original goal. The design still preserves formal choice, but the practical burden is unevenly distributed.\n\nThis introduces an important distinction between formal freedom and effective freedom. Formal freedom asks whether an option is legally or technically available. Effective freedom asks how costly it is to exercise that option in practice. If cancelling a service requires six screens, a phone call, and a long wait while joining requires one click, the two choices are not equally frictionless even if both are technically possible.\n\nMeasurement can reveal this asymmetry. Instead of asking only how many customers remain subscribed, we might examine cancellation attempts, time required to leave, complaints, accidental renewals, and how behavior changes when cancellation becomes easier. A high retention rate can look like customer satisfaction, but it may partly reflect friction. This is another Goodhart-style warning: a visible outcome can become misleading when we ignore the mechanism producing it.\n\nDefaults also create second-order effects over time. Consider a workplace savings plan. Automatic enrollment may increase the number of employees who save, which is a first-order effect. But if the default contribution rate is too low, some employees may treat it as a recommendation and save less than they otherwise would have. The same design can therefore increase participation while anchoring contribution levels. Improving one metric does not guarantee that the entire system is optimized.\n\nA useful analytical question is therefore: who benefits from inaction? When people do nothing, some outcome still occurs. Money may remain in an account, a subscription may renew, data may be shared, or an employee may remain outside a savings plan. The default determines who receives the advantage when attention is absent.\n\nThis question connects to incentives. Organizations choose defaults, and organizations have objectives. Sometimes those objectives align with users; sometimes they conflict. A company that earns money from renewal has an incentive to make continuation easy. A pension administrator may have an incentive to increase participation. Understanding the designer's incentive does not prove manipulation, but it helps identify which direction the architecture is likely to push.\n\nThe broader lesson is that doing nothing is still a decision pathway. Inaction does not produce a neutral outcome; it produces the outcome chosen by the system's architecture. Once we see that, defaults become easier to analyze. We can ask what friction they remove, what information they signal, whose incentives they serve, and what happens over time.\n\nSo when an option is already selected for you, the most useful question may not be “Can I change this?” It may be: “What happens if I do nothing, and who designed that outcome?” That question turns an invisible starting point into something we can actually evaluate.",
+    "summaryZh": "今天讨论 default effect，但重点不是“人懒所以不改默认选项”，而是把 default 看成一种对 inaction outcome 的设计：当你什么都不做时，系统仍然必须决定会发生什么。于是 default 的真正力量来自 Default → Lower Immediate Friction → Inaction → Repeated Choice → Status Quo Reinforcement。\n\n第一层接回 friction 与 attention scarcity。改变设置需要时间、理解和行动，而保持默认值几乎不消耗注意力。因此 default 实际上是在分配“当注意力缺席时谁得到什么结果”。\n\n第二层加入重要 distinction：formal freedom ≠ effective freedom。一个选项技术上“可以退出”，不代表退出和加入的实际成本相同。如果订阅一键加入、取消却要六个页面和客服电话，choice 在形式上存在，但 friction 明显不对称。\n\n第三层接 measurement 与 causality。80% 用户保留默认方案，并不能直接证明他们有 status quo bias；他们也可能真的喜欢方案，或 switching cost 很高。同样，高 retention 也不一定等于高 satisfaction，它可能部分来自 cancellation friction。因此仍然要问 mechanism 和 counterfactual。\n\n第四层是 second-order effects：自动加入养老金可能提高 participation，却也可能让默认缴费比例变成 anchor，使一部分人少存钱。一个 default 改善一个指标，不代表整个系统都更优。\n\n今天加入 toolbox 的核心问题是 Who Benefits from Inaction? 面对自动续费、隐私权限、养老金、投资配置或软件设置时，依次问：如果我什么都不做会怎样？改变它需要多少 friction？默认值传递了什么 recommendation signal？设计者的 incentive 是什么？长期 second-order effect 又是什么？"
+  },
+  "words": [
+    {
+      "word": "default",
+      "type": "academic",
+      "meaningZh": "默认选项；当个人不采取行动时自动生效的选择",
+      "example": "The default determines what happens when the user takes no action.",
+      "source": 46
+    },
+    {
+      "word": "default effect",
+      "type": "academic",
+      "meaningZh": "默认效应；默认选项显著影响最终选择的现象",
+      "example": "The default effect can increase participation even when people remain free to opt out.",
+      "source": 46
+    },
+    {
+      "word": "status quo bias",
+      "type": "academic",
+      "meaningZh": "现状偏误；仅因为某状态已经存在而倾向于维持它",
+      "example": "Status quo bias can make switching feel less attractive than staying put.",
+      "source": 46
+    },
+    {
+      "word": "inertia",
+      "type": "academic",
+      "meaningZh": "惯性；在没有强烈推动力时维持原有状态的倾向",
+      "example": "Inertia helps explain why many users never change standard settings.",
+      "source": 46
+    },
+    {
+      "word": "opt out",
+      "type": "vocab",
+      "meaningZh": "选择退出；主动离开自动加入的安排",
+      "example": "Employees can opt out of the savings plan at any time.",
+      "source": 46
+    },
+    {
+      "word": "opt in",
+      "type": "vocab",
+      "meaningZh": "主动选择加入",
+      "example": "Under an opt-in system, workers must actively enroll.",
+      "source": 46
+    },
+    {
+      "word": "path of least resistance",
+      "type": "vocab",
+      "meaningZh": "阻力最小的路径；最省力的行动方式",
+      "example": "People often follow the path of least resistance when the stakes seem low.",
+      "source": 46
+    },
+    {
+      "word": "anticipated regret",
+      "type": "academic",
+      "meaningZh": "预期后悔；预先担心某项主动决定将来导致后悔",
+      "example": "Anticipated regret can make people reluctant to change an investment.",
+      "source": 46
+    },
+    {
+      "word": "switching cost",
+      "type": "academic",
+      "meaningZh": "转换成本；从一个方案转向另一个方案所需的金钱、时间或精力",
+      "example": "High switching costs can keep customers with a service they no longer prefer.",
+      "source": 46
+    },
+    {
+      "word": "choice architecture",
+      "type": "academic",
+      "meaningZh": "选择架构；选项被组织、排序和呈现的方式",
+      "example": "Choice architecture influences behavior without necessarily removing alternatives.",
+      "source": 46
+    },
+    {
+      "word": "formal freedom",
+      "type": "academic",
+      "meaningZh": "形式自由；某个选择在规则或技术上是否可用",
+      "example": "Formal freedom exists if customers are technically allowed to cancel.",
+      "source": 46
+    },
+    {
+      "word": "effective freedom",
+      "type": "academic",
+      "meaningZh": "有效自由；实际行使某项选择需要承担多少成本",
+      "example": "Effective freedom depends partly on how difficult it is to exercise an option.",
+      "source": 46
+    },
+    {
+      "word": "automatic renewal",
+      "type": "vocab",
+      "meaningZh": "自动续费",
+      "example": "Automatic renewal can turn temporary inattention into another paid month.",
+      "source": 46
+    },
+    {
+      "word": "alignment",
+      "type": "academic",
+      "meaningZh": "目标一致性；不同参与者的利益或目标是否一致",
+      "example": "A good default requires alignment between the designer and the user.",
+      "source": 46
+    },
+    {
+      "word": "anchor",
+      "type": "academic",
+      "meaningZh": "锚点；影响后续判断的初始数值或参照",
+      "example": "A default contribution rate can become an anchor for future saving decisions.",
+      "source": 46
+    },
+    {
+      "word": "retention rate",
+      "type": "academic",
+      "meaningZh": "留存率；一段时间后仍继续使用服务的用户比例",
+      "example": "A high retention rate does not always prove strong customer satisfaction.",
+      "source": 46
+    },
+    {
+      "word": "asymmetry",
+      "type": "academic",
+      "meaningZh": "不对称；两个方向的成本或条件并不相等",
+      "example": "There is a clear asymmetry when joining takes one click but leaving takes ten minutes.",
+      "source": 46
+    },
+    {
+      "word": "selective attention",
+      "type": "academic",
+      "meaningZh": "选择性注意；把有限注意力集中在少数重要事项上",
+      "example": "Selective attention is useful because not every default deserves equal scrutiny.",
+      "source": 46
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why do people often keep default settings instead of changing them?",
+      "category": "Behavioral Economics",
+      "framework": "Limited attention → Friction → Inertia → Possible recommendation signal",
+      "response": "I think the main reason is that changing a setting requires some effort, while keeping the default requires almost none. People have limited attention, so they naturally focus on decisions that feel more urgent. In addition, a default can look like a recommendation because users may assume that the organization chose it for a good reason. This does not mean people are always irrational; sometimes the default is perfectly suitable. However, when the decision has long-term consequences, I think it is worth checking whether the easiest option is also the option that actually fits our goals.",
+      "expressions": [
+        "Keeping the default requires almost no effort.",
+        "A default can look like a recommendation.",
+        "The easiest option is not always the option that best fits our goals."
+      ],
+      "source": 46
+    },
+    {
+      "question": "Should companies be allowed to automatically renew customers' subscriptions?",
+      "category": "Behavioral Economics",
+      "framework": "Convenience → Consumer consent → Friction asymmetry → Fair design",
+      "response": "Yes, but I think automatic renewal should be designed very carefully. It can be convenient for customers who genuinely want an uninterrupted service, so banning it completely would remove some value. The problem appears when companies make renewal effortless but cancellation deliberately difficult. In that case, the business may be earning money from inattention rather than satisfaction. I would prefer a system with clear reminders, transparent prices and a simple cancellation process. Formal choice is not enough if exercising that choice involves unnecessary friction.",
+      "expressions": [
+        "The business may be earning money from inattention rather than satisfaction.",
+        "Formal choice is not enough if exercising that choice involves unnecessary friction.",
+        "Convenience should not depend on making the alternative artificially difficult."
+      ],
+      "source": 46
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "The easiest option is not always the option that best fits our goals.",
+      "meaningZh": "最省力的选项不一定最符合我们的真实目标；适合消费、学习和决策话题。",
+      "source": 46
+    },
+    {
+      "expression": "The business may be earning money from inattention rather than satisfaction.",
+      "meaningZh": "企业的收入可能来自用户疏忽，而非真正满意；适合订阅制、消费者保护和商业模式话题。",
+      "source": 46
+    },
+    {
+      "expression": "Formal choice is not enough if exercising that choice involves unnecessary friction.",
+      "meaningZh": "如果实际行使选择权需要承担不必要的摩擦，仅有形式上的选择并不足够；适合政策、平台和消费者权利话题。",
+      "source": 46
+    }
+  ]
+}

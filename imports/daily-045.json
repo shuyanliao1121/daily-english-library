@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 45,
+  "article": {
+    "n": 45,
+    "title": "Why We Notice Evidence That Agrees With Us",
+    "category": "Psychology",
+    "themes": [
+      "Confirmation Bias",
+      "Belief Updating",
+      "Selective Attention",
+      "Motivated Reasoning",
+      "Causality",
+      "Decision-Making"
+    ],
+    "framework": "Prior Belief → Selective Search → Selective Interpretation → Reinforced Belief → Less Exploration",
+    "coreIdea": "Beliefs influence which evidence we seek, notice, remember, and trust. Better judgment requires deliberately searching for evidence that could change them.",
+    "body": "Imagine that you are deciding whether a new study method works. You try it before an exam and receive a high score. The result feels convincing: the method must be effective. A week later, you hear that a friend used the same method and also improved. Now you feel even more certain. But perhaps you had already studied more hours, the second exam was easier, and your friend was unusually motivated. Evidence that agrees with an existing belief often feels stronger than evidence that challenges it.\n\nThis tendency is commonly called confirmation bias. Once people have a hypothesis, preference, or expectation, they may search for information that supports it, interpret ambiguous evidence in its favor, and remember confirming examples more easily. The bias does not require dishonesty. A person can sincerely believe they are being objective while their attention is being guided by what they already expect to find.\n\nPrior beliefs are not themselves a problem. In fact, reasoning would be impossible without them. We constantly use past experience to form expectations: dark clouds suggest rain, a familiar brand suggests a certain level of quality, and a strong academic record may suggest that a student is well prepared. The problem begins when a prior belief stops functioning as a starting point and becomes a filter that prevents meaningful updating.\n\nConsider online research. Suppose someone believes that coffee is extremely beneficial for health. If they search “benefits of coffee,” they have already shaped the evidence they are likely to encounter. Search engines may return relevant pages, but relevance is defined partly by the question. Someone searching “risks of coffee” may enter a very different information environment. Both people can spend an hour “doing research” while mainly collecting evidence for the position they began with.\n\nThis creates search selection. Before we evaluate evidence, we choose which evidence enters the room. That selection can matter as much as later interpretation. In #41, we discussed the value of information and asked whether another piece of information could realistically change a decision. Today we add a prior question: are we searching in places where disconfirming information is even allowed to appear?\n\nInterpretation creates another layer. The same mixed result can be explained differently depending on expectations. If a company launches a product and sales rise by 3 percent, an enthusiastic manager may call the launch successful. A skeptical manager may point out that the company expected 10 percent growth. Neither statement changes the observed number. What changes is the benchmark and the causal story attached to it.\n\nThis connects to measurement. Data do not interpret themselves. Analysts choose time periods, comparison groups, definitions, and metrics. A politician, investor, company, or ordinary consumer can emphasize the measurement that makes a preferred story look strongest. That does not mean all interpretations are equally valid. It means good analysis must examine why one metric was selected and what alternative measurements might show.\n\nCausality makes the challenge harder. Suppose a city introduces a new policy and crime falls the following year. Supporters may treat the decline as proof that the policy worked; opponents may attribute it to broader economic conditions. The observed correlation alone cannot settle the disagreement. If people begin with different beliefs, each side can construct a plausible explanation that protects its original position.\n\nConfirmation bias therefore interacts with motivated reasoning. Motivated reasoning occurs when a desired conclusion influences how evidence is processed. The motivation can be financial, social, emotional, or connected to identity. If admitting that a project is failing threatens someone's reputation, they have an incentive to interpret weak signals optimistically. If a belief is shared by a close social group, changing one's mind may also carry a social cost.\n\nThere is a useful connection to #44. Social proof asks how independent the people in a crowd really are. Confirmation bias asks how independent our evidence is from our prior belief. If I choose the search terms, sources, examples, and metrics because they support my expectation, then ten pieces of evidence may not represent ten independent opportunities to learn. They may be ten outputs of the same selection process.\n\nA stronger approach is to search for falsification. Instead of asking only, “What evidence supports my idea?”, ask, “What evidence would make me change my mind?” This question forces a belief to become testable. If no possible result could count against a claim, the claim is protected from evidence rather than supported by it.\n\nOne practical method is a pre-mortem. Before making an important decision, imagine that the decision has failed and ask what most likely caused the failure. A team excited about a new product might list weak demand, technical delays, competitor responses, or excessive costs. The exercise creates space for negative evidence before people become committed to defending the project.\n\nAnother method is to define decision thresholds in advance. An investor might decide before buying an asset what evidence would cause them to sell. A company can specify what performance would count as an unsuccessful experiment before seeing the results. Predefined criteria reduce the temptation to move the goalposts after the outcome becomes known.\n\nThis connects directly to incentives and sunk costs from #42. Once people invest money, time, or reputation in a decision, admitting error becomes more expensive psychologically. The belief is no longer merely an idea; it is connected to past action. That can turn evidence evaluation into self-protection. Separating “Was the original decision reasonable?” from “Is continuing still reasonable now?” helps preserve the ability to update.\n\nFeedback loops can make the problem larger at scale. Recommendation systems learn what users click and show them more similar material. Users then encounter more evidence consistent with their interests, which produces more clicks and further personalization. The system does not need to know anyone's ideology or intention. A simple engagement loop can gradually narrow the range of information a person sees.\n\nThe broader lesson is that rational thinking is not the absence of beliefs. It is the ability to update beliefs when the evidence changes. Good judgment therefore depends partly on information architecture: how we search, which comparisons we use, when we set criteria, and whether disagreement can enter before commitment becomes too strong.\n\nSo the next time evidence seems overwhelmingly supportive, try one additional question: “What would I expect to see if I were wrong?” Then look for it. Confidence should come not only from finding evidence that fits a belief, but from giving the belief a serious chance to fail and watching it survive.",
+    "summaryZh": "今天讨论 confirmation bias，但重点不是“人喜欢听自己想听的”这么简单，而是把它拆成一个 information architecture 问题：Prior Belief 会影响 Search → Interpretation → Memory → Updating。也就是说，在我们开始“分析证据”之前，证据池本身可能已经被选择过。\n\n第一层是 search selection。搜索“coffee benefits”和“coffee risks”的人都可能认真研究一小时，但进入的是不同 evidence set。因此 #41 的 Value of Information 要再加一道门：不仅问“下一条信息能不能改变决定”，还要问“我的搜索方式有没有允许反例出现？”\n\n第二层接 measurement 和 causality。同一个 3% 增长，可以因为 benchmark 不同被解释成成功或失败；同一个政策后犯罪率下降，也不能只凭时间先后证明因果。Data do not interpret themselves——指标、比较组和因果机制都需要被检查。\n\n第三层接 #44 的 Independence Check：群体意见可能不独立，我们自己的 evidence 也可能不独立。如果十条证据都是由同一个 prior belief 通过搜索词、来源和指标筛出来的，它们并不是十次真正独立的学习机会。\n\n今天的新工具是 Disconfirmation Test：不要只问“What supports my belief?”，而要问“What evidence would make me change my mind?”。再配合 pre-mortem 和 predefined thresholds，可以在 sunk cost、identity 和 reputation 介入之前保留更新空间。\n\n核心不是永远怀疑，而是 calibration：让 confidence 与 evidence quality 相匹配。"
+  },
+  "words": [
+    {
+      "word": "confirmation bias",
+      "type": "academic",
+      "meaningZh": "确认偏误；倾向于寻找、解释和记住支持既有信念的信息",
+      "example": "Confirmation bias can make supportive evidence feel more convincing than contradictory evidence.",
+      "source": 45
+    },
+    {
+      "word": "prior belief",
+      "type": "academic",
+      "meaningZh": "先验信念；在获得新证据之前已有的判断或预期",
+      "example": "A prior belief should be a starting point rather than a barrier to updating.",
+      "source": 45
+    },
+    {
+      "word": "belief updating",
+      "type": "academic",
+      "meaningZh": "信念更新；根据新证据调整原有判断",
+      "example": "Good decision-making requires belief updating when the evidence changes.",
+      "source": 45
+    },
+    {
+      "word": "selective attention",
+      "type": "academic",
+      "meaningZh": "选择性注意；更容易注意某些信息而忽略其他信息",
+      "example": "Selective attention can make confirming examples easier to notice.",
+      "source": 45
+    },
+    {
+      "word": "search selection",
+      "type": "academic",
+      "meaningZh": "搜索选择；搜索方式决定哪些证据有机会进入判断过程",
+      "example": "Search selection can shape the evidence before evaluation begins.",
+      "source": 45
+    },
+    {
+      "word": "ambiguous",
+      "type": "vocab",
+      "meaningZh": "模棱两可的；可以有多种解释的",
+      "example": "People may interpret ambiguous results in ways that support their expectations.",
+      "source": 45
+    },
+    {
+      "word": "motivated reasoning",
+      "type": "academic",
+      "meaningZh": "动机性推理；希望得到某种结论而影响证据处理的过程",
+      "example": "Motivated reasoning can become stronger when reputation is at stake.",
+      "source": 45
+    },
+    {
+      "word": "falsification",
+      "type": "academic",
+      "meaningZh": "证伪；寻找能够推翻某个假设的证据",
+      "example": "Falsification asks what evidence would show that a claim is wrong.",
+      "source": 45
+    },
+    {
+      "word": "calibration",
+      "type": "academic",
+      "meaningZh": "校准；使信心程度与实际证据可靠性相匹配",
+      "example": "Good calibration means being confident only when the evidence justifies it.",
+      "source": 45
+    },
+    {
+      "word": "contrarian",
+      "type": "vocab",
+      "meaningZh": "逆向的；故意采取与主流相反立场的",
+      "example": "Being contrarian is not automatically the same as being independent.",
+      "source": 45
+    },
+    {
+      "word": "pre-mortem",
+      "type": "academic",
+      "meaningZh": "事前验尸法；预先假设计划失败并分析可能原因",
+      "example": "A pre-mortem can reveal risks before a team becomes too committed.",
+      "source": 45
+    },
+    {
+      "word": "decision threshold",
+      "type": "academic",
+      "meaningZh": "决策阈值；预先设定触发某项行动的证据或表现标准",
+      "example": "The investor defined a decision threshold before buying the asset.",
+      "source": 45
+    },
+    {
+      "word": "move the goalposts",
+      "type": "vocab",
+      "meaningZh": "移动门槛；结果出现后改变原先的评价标准",
+      "example": "Teams may move the goalposts to avoid admitting that an experiment failed.",
+      "source": 45
+    },
+    {
+      "word": "disconfirming evidence",
+      "type": "academic",
+      "meaningZh": "反证；与现有信念不一致或可能推翻它的证据",
+      "example": "Strong analysis actively searches for disconfirming evidence.",
+      "source": 45
+    },
+    {
+      "word": "self-protection",
+      "type": "vocab",
+      "meaningZh": "自我保护；避免心理、声誉或身份受到威胁",
+      "example": "Evidence evaluation can become self-protection when identity is involved.",
+      "source": 45
+    },
+    {
+      "word": "information architecture",
+      "type": "academic",
+      "meaningZh": "信息架构；信息被搜索、筛选、组织和呈现的方式",
+      "example": "Information architecture influences which facts people encounter first.",
+      "source": 45
+    },
+    {
+      "word": "personalization",
+      "type": "vocab",
+      "meaningZh": "个性化；根据用户行为调整内容或服务",
+      "example": "Personalization can reduce noise but also narrow the information people see.",
+      "source": 45
+    },
+    {
+      "word": "credible challenge",
+      "type": "academic",
+      "meaningZh": "可信挑战；有足够证据基础、值得认真回应的反对意见",
+      "example": "A strong argument should survive credible challenges.",
+      "source": 45
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why is it sometimes difficult for people to change their opinions even when they receive new information?",
+      "category": "Psychology",
+      "framework": "Prior belief → Selective interpretation → Identity or commitment → Weak updating",
+      "response": "I think one reason is that people do not process every piece of information in a completely neutral way. Once we already believe something, evidence that supports it is easier to notice and accept, while contradictory evidence may receive much more criticism. This becomes even stronger when the opinion is connected to identity, reputation or a decision we have already invested in. So changing an opinion is not always just an intellectual process; it can also feel like admitting that an earlier judgment was wrong. I think a useful habit is to decide in advance what kind of evidence would genuinely make us reconsider our view.",
+      "expressions": [
+        "People do not process every piece of information in a completely neutral way.",
+        "Changing an opinion is not always just an intellectual process.",
+        "It is useful to decide in advance what kind of evidence would make us reconsider our view."
+      ],
+      "source": 45
+    },
+    {
+      "question": "Do you think the internet helps people become better informed?",
+      "category": "Psychology",
+      "framework": "More access → Selective search → Personalization → Quality of exposure",
+      "response": "It can, because the internet gives people access to an enormous range of information that would have been difficult to find in the past. However, access and exposure are not the same thing. People may search mainly for information that agrees with them, and recommendation systems can keep showing similar material because that is what they usually click. As a result, having more information available does not automatically mean encountering a wider range of evidence. I think the internet is most useful when people actively compare credible sources and make room for information that could challenge their first impression.",
+      "expressions": [
+        "Access and exposure are not the same thing.",
+        "Having more information available does not automatically mean encountering a wider range of evidence.",
+        "People should make room for information that could challenge their first impression."
+      ],
+      "source": 45
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "It is useful to decide in advance what kind of evidence would make us reconsider our view.",
+      "meaningZh": "提前设定什么证据足以让自己重新考虑观点；适合决策、争论和批判性思维话题。",
+      "source": 45
+    },
+    {
+      "expression": "Access and exposure are not the same thing.",
+      "meaningZh": "信息可获得并不等于人实际会接触到它；适合互联网、教育和媒体话题。",
+      "source": 45
+    },
+    {
+      "expression": "Having more information available does not automatically mean encountering a wider range of evidence.",
+      "meaningZh": "信息总量更多并不自动意味着接触到更多样的证据；适合社媒、算法和信息环境话题。",
+      "source": 45
+    }
+  ]
+}

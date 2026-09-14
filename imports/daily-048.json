@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 48,
+  "article": {
+    "n": 48,
+    "title": "Why Cheap Products Can Become Expensive Habits",
+    "category": "Consumer Psychology",
+    "themes": [
+      "Mental Accounting",
+      "Small Purchases",
+      "Subscription Spending",
+      "Salience",
+      "Friction",
+      "Cumulative Cost"
+    ],
+    "framework": "Low Unit Price → Low Decision Salience → Frequent Repetition → Weak Memory → Large Cumulative Cost",
+    "coreIdea": "Consumers often evaluate small purchases one at a time, while their financial impact accumulates across time. Low prices reduce the psychological importance of each decision, so frequency and repetition can matter more than the cost of any single purchase.",
+    "body": "Imagine buying a five-dollar drink on the way to class. The purchase feels too small to deserve serious thought. The next day you buy another one, and perhaps a snack as well. None of these decisions feels financially important. Yet if the pattern repeats several times a week, the annual cost can become surprisingly large. The interesting question is not whether five dollars is objectively expensive. It is why repeated small purchases often escape the level of attention we give to a single large purchase.\n\nOne reason is salience. A large payment is easy to notice because it creates a clear moment of loss. Paying $800 for a laptop usually feels like a financial event. Paying $5 for a drink feels ordinary. The smaller transaction creates less psychological resistance, even when many such transactions eventually add up to the same amount.\n\nThis connects to mental accounting, the tendency to organize money into separate psychological categories. People may have one mental account for rent, another for entertainment, another for food, and perhaps an informal category for “small treats.” A purchase can feel acceptable because it fits comfortably inside its local category, even if the total spending across categories is higher than intended.\n\nMental accounting is not necessarily irrational. Categories can simplify decisions. Instead of recalculating an entire personal budget every time we buy lunch, we use rough rules. The problem appears when the category hides accumulation. If every coffee is judged as “only five dollars,” the relevant comparison becomes five dollars versus zero today, rather than perhaps one thousand dollars versus zero over a year.\n\nFrequency therefore matters. A cheap purchase repeated often can have a larger financial effect than an expensive purchase made rarely. This sounds obvious when stated mathematically, but consumer attention is often attracted to unit price rather than frequency. Retailers understand this. Describing a service as “less than a dollar a day” makes the daily cost vivid while pushing the annual total into the background.\n\nSubscriptions intensify this effect because they separate the original decision from later payments. The consumer chooses once, but the charge repeats automatically. After several months, the payment may become part of the background of everyday finances. The spending continues without requiring a fresh decision each time.\n\nThis is where #46 on defaults becomes useful. Automatic renewal defines what happens when the consumer does nothing. The default is continuation. If cancelling requires effort while renewal requires none, inaction favors the seller. A small monthly price can make the issue even less salient, reducing the chance that the consumer will spend attention on reviewing the subscription.\n\nPayment technology can reduce salience further. Cash creates a visible exchange: money physically leaves your hand. Cards, digital wallets, and one-click payments remove much of that friction. This convenience creates real value, but it can also weaken the immediate feeling of paying. Economists and psychologists sometimes describe this discomfort as the “pain of paying.”\n\nThis creates an interesting tension with #47. Yesterday we saw that efficiency can move scarcity rather than eliminate it. Faster payments save time, but they also increase the number of transactions that can occur with almost no effort. The scarce resource shifts toward monitoring: someone still needs to notice whether repeated convenient purchases are consistent with longer-term goals.\n\nConsider a streaming service costing $15 per month. Many people will compare $15 with the entertainment they expect to receive this month. A yearly price of $180 may trigger a different comparison: perhaps with a pair of shoes, a short trip, or several books. The economic cost is similar, but the reference point changes.\n\nThis is why framing matters. Consumers do not evaluate prices in a vacuum; they evaluate them relative to alternatives that are mentally available. “Only 50 cents per day” invites comparison with other tiny daily purchases. “$182.50 per year” invites comparison with larger annual uses of money. Neither description is false, but each directs attention toward a different scale.\n\nScale is therefore central to good financial reasoning. A useful habit is to translate repeated expenses across time. Daily costs can be converted into monthly or annual costs; annual memberships can be converted back into cost per use. The purpose is not to make every purchase look expensive. It is to choose the scale that matches the decision.\n\nCost per use is especially helpful because expensive items can sometimes be good value. A $200 pair of shoes worn 200 times costs roughly one dollar per use. A $40 item worn once costs forty dollars per use. Focusing only on sticker price would reverse the apparent ranking. Frequency can make cheap things expensive, but it can also make expensive things economical.\n\nThis prevents the lesson from turning into “small pleasures are bad.” That conclusion would confuse measurement with value. A daily coffee may provide enough enjoyment, convenience, or social connection to justify its annual cost. The analytical question is whether the consumer would still choose the pattern after seeing its cumulative cost clearly.\n\nThere is also an opportunity-cost dimension. Money spent repeatedly on one category cannot be spent elsewhere. But opportunity cost is often invisible because the alternative is not physically present at the moment of purchase. Five dollars today does not feel like part of a future trip, investment, or emergency fund. Translating repeated spending into a longer time horizon makes those alternatives easier to see.\n\nA practical tool is the frequency check. First, note the unit price. Second, estimate how often the purchase repeats. Third, calculate the monthly or annual total. Fourth, compare that total with the value received and with realistic alternatives. Finally, check whether automatic renewal or low payment friction is allowing the pattern to continue without deliberate review.\n\nFor businesses, the same framework explains why small recurring payments can be powerful. Predictable subscription revenue creates a steady flow rather than relying on repeated active purchases. For consumers, however, many small flows can gradually become a large claim on income. This is another stock-versus-flow connection: each payment is a small flow, but its cumulative effect changes the stock of savings over time.\n\nThe broader lesson is that cheapness is partly a matter of scale. A price can be small at the moment of purchase and large as a repeated pattern. Good consumer judgment therefore requires switching between perspectives: zoom in to ask whether an individual purchase provides value, then zoom out to see what repetition does.\n\nSo the next time something feels “too cheap to matter,” do not automatically reject it. Simply change the unit of analysis. Ask: “How often will this happen, and what does the pattern cost?” Sometimes the answer will confirm that the purchase is trivial. Sometimes it will reveal that the real product you are buying is not a five-dollar item, but a five-dollar habit.",
+    "summaryZh": "今天的重点不是“少买咖啡就能发财”，而是训练一个更通用的 consumer-analysis 技能：改变分析单位（unit of analysis）。单次价格很低时，我们容易把每次消费独立判断，于是 Low Unit Price → Low Salience → Frequent Repetition → Weak Memory → Large Cumulative Cost。\n\n第一层是 salience + mental accounting。800 美元的电脑会被大脑标记成“重大支出”，5 美元饮料则容易进入“小享受”账户。分类本身能降低决策成本，但也可能隐藏 accumulation。真正该比较的有时不是 $5 vs $0 today，而是 repeated pattern 在一年中的总成本。\n\n第二层接 #46 的 default + friction。subscription 只需要第一次主动决定，之后 automatic renewal 让“什么都不做”自动等于继续付费；如果取消还有额外 friction，小额月费就更容易退到注意力背景里。\n\n第三层接 #47：支付技术提高 efficiency、降低 pain of paying，却可能把 scarcity 转移到 monitoring。交易本身越来越容易，但消费者仍需要判断这些大量低摩擦交易是否符合长期目标。\n\n今天特别重要的是 scale switching。不要只看 sticker price，而是在 cost per transaction / cost per year / cost per use 之间切换。频率可以让便宜商品变贵，也可以让昂贵商品变得划算，因此结论不是“小额消费不好”，而是必须选择与问题匹配的 measurement scale。\n\n今天加入 toolbox 的新工具是 Frequency Check：Unit Price → Frequency → Cumulative Cost → Value / Opportunity Cost → Renewal & Friction Check。核心问题是：不要只问“How much does this cost now?”，还要问“What pattern am I actually buying?”"
+  },
+  "words": [
+    {
+      "word": "salience",
+      "type": "academic",
+      "meaningZh": "显著性；某件事在注意力中有多突出、容易被察觉",
+      "example": "A large one-time payment usually has greater salience than a small recurring charge.",
+      "source": 48
+    },
+    {
+      "word": "mental accounting",
+      "type": "academic",
+      "meaningZh": "心理账户；把金钱按用途或来源划分成不同心理类别的倾向",
+      "example": "Mental accounting can make a small treat feel separate from the rest of a budget.",
+      "source": 48
+    },
+    {
+      "word": "cumulative",
+      "type": "vocab",
+      "meaningZh": "累积的；随着时间不断叠加的",
+      "example": "The cumulative cost of a small daily purchase can be surprisingly high.",
+      "source": 48
+    },
+    {
+      "word": "unit price",
+      "type": "academic",
+      "meaningZh": "单位价格；单个商品或单次交易的价格",
+      "example": "A low unit price can make a purchase feel financially unimportant.",
+      "source": 48
+    },
+    {
+      "word": "frequency",
+      "type": "academic",
+      "meaningZh": "频率；某行为在一定时期内重复的次数",
+      "example": "Frequency matters as much as price when spending repeats.",
+      "source": 48
+    },
+    {
+      "word": "automatic renewal",
+      "type": "vocab",
+      "meaningZh": "自动续费",
+      "example": "Automatic renewal allows a subscription to continue without a new decision.",
+      "source": 48
+    },
+    {
+      "word": "pain of paying",
+      "type": "academic",
+      "meaningZh": "支付痛感；付款时感受到的心理不适",
+      "example": "Contactless payments can reduce the immediate pain of paying.",
+      "source": 48
+    },
+    {
+      "word": "payment friction",
+      "type": "academic",
+      "meaningZh": "支付摩擦；完成付款所需的步骤、时间或心理阻力",
+      "example": "One-click checkout dramatically reduces payment friction.",
+      "source": 48
+    },
+    {
+      "word": "framing",
+      "type": "academic",
+      "meaningZh": "框架效应；同一信息因呈现方式不同而影响判断",
+      "example": "Pricing a service per day is a form of framing.",
+      "source": 48
+    },
+    {
+      "word": "reference point",
+      "type": "academic",
+      "meaningZh": "参照点；评价价格或结果时用来比较的基准",
+      "example": "A yearly price may create a different reference point from a monthly price.",
+      "source": 48
+    },
+    {
+      "word": "cost per use",
+      "type": "academic",
+      "meaningZh": "单次使用成本；总价格除以实际使用次数",
+      "example": "Cost per use can make an expensive but frequently used item look economical.",
+      "source": 48
+    },
+    {
+      "word": "sticker price",
+      "type": "vocab",
+      "meaningZh": "标价；商品表面显示的购买价格",
+      "example": "Sticker price alone does not tell us whether a product offers good value.",
+      "source": 48
+    },
+    {
+      "word": "opportunity cost",
+      "type": "academic",
+      "meaningZh": "机会成本；选择一个方案时放弃的最佳替代方案的价值",
+      "example": "The opportunity cost of repeated spending may be less money available for travel.",
+      "source": 48
+    },
+    {
+      "word": "time horizon",
+      "type": "academic",
+      "meaningZh": "时间跨度；分析决策时所考虑的未来期间",
+      "example": "A longer time horizon makes recurring costs easier to see.",
+      "source": 48
+    },
+    {
+      "word": "monitoring cost",
+      "type": "academic",
+      "meaningZh": "监控成本；持续检查和管理某件事所需的注意力、时间或资源",
+      "example": "Tracking every tiny purchase can create an unnecessary monitoring cost.",
+      "source": 48
+    },
+    {
+      "word": "recurring payment",
+      "type": "vocab",
+      "meaningZh": "周期性付款；按固定周期重复发生的支付",
+      "example": "Several small recurring payments can quietly take a large share of income.",
+      "source": 48
+    },
+    {
+      "word": "subscription revenue",
+      "type": "academic",
+      "meaningZh": "订阅收入；企业通过周期性订阅获得的稳定收入",
+      "example": "Subscription revenue gives businesses a more predictable cash flow.",
+      "source": 48
+    },
+    {
+      "word": "unit of analysis",
+      "type": "academic",
+      "meaningZh": "分析单位；进行判断时所选择的观察尺度或基本对象",
+      "example": "Changing the unit of analysis from one purchase to one year can change the conclusion.",
+      "source": 48
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why do people sometimes spend more money on small purchases than they realize?",
+      "category": "Consumer Psychology",
+      "framework": "Low salience → Repetition → Weak tracking → Cumulative cost",
+      "response": "I think small purchases are easy to underestimate because each individual payment feels insignificant. People usually notice a large purchase immediately, but spending a few dollars does not create the same sense of financial loss. The problem is that these decisions can repeat very frequently, so a small unit price can turn into a meaningful annual cost. I do not think the solution is to avoid every small pleasure. It is more useful to zoom out occasionally and look at the pattern rather than judging every purchase in isolation.",
+      "expressions": [
+        "A small unit price can turn into a meaningful annual cost.",
+        "The solution is not to avoid every small pleasure.",
+        "It is useful to look at the pattern rather than judging every purchase in isolation."
+      ],
+      "source": 48
+    },
+    {
+      "question": "Do modern payment methods make people more likely to spend money?",
+      "category": "Consumer Psychology",
+      "framework": "Convenience → Lower payment friction → Lower salience → Need for monitoring",
+      "response": "In some situations, yes. Digital wallets and one-click payments remove a lot of unnecessary friction, which is convenient, but that also means there is less time to notice the act of spending. When payment becomes almost invisible, people may focus more on the product and less on the money leaving their account. However, I would not say convenient payments are inherently harmful. The real issue is whether people have another way to monitor their overall spending. Removing friction from payment increases the value of good feedback and budgeting tools.",
+      "expressions": [
+        "There is less time to notice the act of spending.",
+        "Convenient payments are not inherently harmful.",
+        "Removing friction from payment increases the value of good feedback."
+      ],
+      "source": 48
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "A small unit price can turn into a meaningful annual cost.",
+      "meaningZh": "很低的单次价格累积后也可能形成显著的年度成本；适合消费和理财话题。",
+      "source": 48
+    },
+    {
+      "expression": "It is useful to look at the pattern rather than judging every purchase in isolation.",
+      "meaningZh": "比起孤立判断每次消费，更有用的是观察整体模式；适合消费、习惯和行为分析。",
+      "source": 48
+    },
+    {
+      "expression": "Removing friction from payment increases the value of good feedback.",
+      "meaningZh": "支付摩擦越低，清晰反馈的重要性越高；适合数字支付、科技和消费者行为话题。",
+      "source": 48
+    }
+  ]
+}
