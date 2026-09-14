@@ -180,3 +180,71 @@ expressions.push(...[
     "#44"
   ]
 ]);
+
+
+// Imported Article #45
+expressions.push(...[
+  [
+    "It is useful to decide in advance what kind of evidence would make us reconsider our view.",
+    "#45"
+  ],
+  [
+    "Access and exposure are not the same thing.",
+    "#45"
+  ],
+  [
+    "Having more information available does not automatically mean encountering a wider range of evidence.",
+    "#45"
+  ]
+]);
+
+
+// Imported Article #46
+expressions.push(...[
+  [
+    "The easiest option is not always the option that best fits our goals.",
+    "#46"
+  ],
+  [
+    "The business may be earning money from inattention rather than satisfaction.",
+    "#46"
+  ],
+  [
+    "Formal choice is not enough if exercising that choice involves unnecessary friction.",
+    "#46"
+  ]
+]);
+
+
+// Imported Article #47
+expressions.push(...[
+  [
+    "Saved time does not automatically become leisure.",
+    "#47"
+  ],
+  [
+    "Automation may move the bottleneck rather than remove it.",
+    "#47"
+  ],
+  [
+    "The valuable skill may shift from producing the first answer to evaluating alternatives.",
+    "#47"
+  ]
+]);
+
+
+// Imported Article #48
+expressions.push(...[
+  [
+    "A small unit price can turn into a meaningful annual cost.",
+    "#48"
+  ],
+  [
+    "It is useful to look at the pattern rather than judging every purchase in isolation.",
+    "#48"
+  ],
+  [
+    "Removing friction from payment increases the value of good feedback.",
+    "#48"
+  ]
+]);

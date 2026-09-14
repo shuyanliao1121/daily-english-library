@@ -607,3 +607,119 @@ speakingCards.push(...[
     ]
   }
 ]);
+
+
+// Imported Article #45
+speakingCards.push(...[
+  {
+    "src": "#45",
+    "cat": "Psychology",
+    "framework": "Prior belief → Selective interpretation → Identity or commitment → Weak updating",
+    "q": "Why is it sometimes difficult for people to change their opinions even when they receive new information?",
+    "answer": "I think one reason is that people do not process every piece of information in a completely neutral way. Once we already believe something, evidence that supports it is easier to notice and accept, while contradictory evidence may receive much more criticism. This becomes even stronger when the opinion is connected to identity, reputation or a decision we have already invested in. So changing an opinion is not always just an intellectual process; it can also feel like admitting that an earlier judgment was wrong. I think a useful habit is to decide in advance what kind of evidence would genuinely make us reconsider our view.",
+    "expr": [
+      "People do not process every piece of information in a completely neutral way.",
+      "Changing an opinion is not always just an intellectual process.",
+      "It is useful to decide in advance what kind of evidence would make us reconsider our view."
+    ]
+  },
+  {
+    "src": "#45",
+    "cat": "Psychology",
+    "framework": "More access → Selective search → Personalization → Quality of exposure",
+    "q": "Do you think the internet helps people become better informed?",
+    "answer": "It can, because the internet gives people access to an enormous range of information that would have been difficult to find in the past. However, access and exposure are not the same thing. People may search mainly for information that agrees with them, and recommendation systems can keep showing similar material because that is what they usually click. As a result, having more information available does not automatically mean encountering a wider range of evidence. I think the internet is most useful when people actively compare credible sources and make room for information that could challenge their first impression.",
+    "expr": [
+      "Access and exposure are not the same thing.",
+      "Having more information available does not automatically mean encountering a wider range of evidence.",
+      "People should make room for information that could challenge their first impression."
+    ]
+  }
+]);
+
+
+// Imported Article #46
+speakingCards.push(...[
+  {
+    "src": "#46",
+    "cat": "Behavioral Economics",
+    "framework": "Limited attention → Friction → Inertia → Possible recommendation signal",
+    "q": "Why do people often keep default settings instead of changing them?",
+    "answer": "I think the main reason is that changing a setting requires some effort, while keeping the default requires almost none. People have limited attention, so they naturally focus on decisions that feel more urgent. In addition, a default can look like a recommendation because users may assume that the organization chose it for a good reason. This does not mean people are always irrational; sometimes the default is perfectly suitable. However, when the decision has long-term consequences, I think it is worth checking whether the easiest option is also the option that actually fits our goals.",
+    "expr": [
+      "Keeping the default requires almost no effort.",
+      "A default can look like a recommendation.",
+      "The easiest option is not always the option that best fits our goals."
+    ]
+  },
+  {
+    "src": "#46",
+    "cat": "Behavioral Economics",
+    "framework": "Convenience → Consumer consent → Friction asymmetry → Fair design",
+    "q": "Should companies be allowed to automatically renew customers' subscriptions?",
+    "answer": "Yes, but I think automatic renewal should be designed very carefully. It can be convenient for customers who genuinely want an uninterrupted service, so banning it completely would remove some value. The problem appears when companies make renewal effortless but cancellation deliberately difficult. In that case, the business may be earning money from inattention rather than satisfaction. I would prefer a system with clear reminders, transparent prices and a simple cancellation process. Formal choice is not enough if exercising that choice involves unnecessary friction.",
+    "expr": [
+      "The business may be earning money from inattention rather than satisfaction.",
+      "Formal choice is not enough if exercising that choice involves unnecessary friction.",
+      "Convenience should not depend on making the alternative artificially difficult."
+    ]
+  }
+]);
+
+
+// Imported Article #47
+speakingCards.push(...[
+  {
+    "src": "#47",
+    "cat": "Technology & AI",
+    "framework": "Efficiency → More capacity → Higher demand and expectations → Actual time outcome",
+    "q": "Do you think technology always gives people more free time?",
+    "answer": "Not necessarily. Technology can make individual tasks much faster, but that does not mean the saved time automatically becomes leisure. Once a task is cheaper and easier, people often do more of it, and employers or customers may also raise their expectations. For example, if AI makes reports much faster to produce, a company may simply request more reports. So I think the key question is not only how much time a tool saves per task, but what happens to the amount of work afterwards. Efficiency can create free time, but only if some of the new capacity is deliberately left unused.",
+    "expr": [
+      "Saved time does not automatically become leisure.",
+      "The key question is what happens to the amount of work afterwards.",
+      "Efficiency can create free time, but only if some of the new capacity is deliberately left unused."
+    ]
+  },
+  {
+    "src": "#47",
+    "cat": "Technology & AI",
+    "framework": "Lower production cost → Higher baseline → New bottleneck → Value of judgment",
+    "q": "How might AI change what employers expect from workers?",
+    "answer": "I think AI may raise the baseline for how quickly routine work is expected to be completed. If drafting, summarizing and basic analysis become much cheaper, employers may reasonably expect workers to produce more in the same amount of time. However, this could also make human judgment more important, because generating ten options is not useful unless someone can identify which one is actually good. In that sense, automation may move the bottleneck rather than remove it. The valuable skill may shift from producing the first answer to evaluating alternatives and deciding what deserves attention.",
+    "expr": [
+      "AI may raise the baseline for how quickly routine work is expected to be completed.",
+      "Automation may move the bottleneck rather than remove it.",
+      "The valuable skill may shift from producing the first answer to evaluating alternatives."
+    ]
+  }
+]);
+
+
+// Imported Article #48
+speakingCards.push(...[
+  {
+    "src": "#48",
+    "cat": "Consumer Psychology",
+    "framework": "Low salience → Repetition → Weak tracking → Cumulative cost",
+    "q": "Why do people sometimes spend more money on small purchases than they realize?",
+    "answer": "I think small purchases are easy to underestimate because each individual payment feels insignificant. People usually notice a large purchase immediately, but spending a few dollars does not create the same sense of financial loss. The problem is that these decisions can repeat very frequently, so a small unit price can turn into a meaningful annual cost. I do not think the solution is to avoid every small pleasure. It is more useful to zoom out occasionally and look at the pattern rather than judging every purchase in isolation.",
+    "expr": [
+      "A small unit price can turn into a meaningful annual cost.",
+      "The solution is not to avoid every small pleasure.",
+      "It is useful to look at the pattern rather than judging every purchase in isolation."
+    ]
+  },
+  {
+    "src": "#48",
+    "cat": "Consumer Psychology",
+    "framework": "Convenience → Lower payment friction → Lower salience → Need for monitoring",
+    "q": "Do modern payment methods make people more likely to spend money?",
+    "answer": "In some situations, yes. Digital wallets and one-click payments remove a lot of unnecessary friction, which is convenient, but that also means there is less time to notice the act of spending. When payment becomes almost invisible, people may focus more on the product and less on the money leaving their account. However, I would not say convenient payments are inherently harmful. The real issue is whether people have another way to monitor their overall spending. Removing friction from payment increases the value of good feedback and budgeting tools.",
+    "expr": [
+      "There is less time to notice the act of spending.",
+      "Convenient payments are not inherently harmful.",
+      "Removing friction from payment increases the value of good feedback."
+    ]
+  }
+]);

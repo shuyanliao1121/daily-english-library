@@ -1797,3 +1797,527 @@ words.push(...[
     "src": "#44"
   }
 ]);
+
+
+// Imported Article #45
+words.push(...[
+  {
+    "w": "confirmation bias",
+    "zh": "确认偏误；倾向于寻找、解释和记住支持既有信念的信息",
+    "type": "academic",
+    "ex": "Confirmation bias can make supportive evidence feel more convincing than contradictory evidence.",
+    "src": "#45"
+  },
+  {
+    "w": "prior belief",
+    "zh": "先验信念；在获得新证据之前已有的判断或预期",
+    "type": "academic",
+    "ex": "A prior belief should be a starting point rather than a barrier to updating.",
+    "src": "#45"
+  },
+  {
+    "w": "belief updating",
+    "zh": "信念更新；根据新证据调整原有判断",
+    "type": "academic",
+    "ex": "Good decision-making requires belief updating when the evidence changes.",
+    "src": "#45"
+  },
+  {
+    "w": "selective attention",
+    "zh": "选择性注意；更容易注意某些信息而忽略其他信息",
+    "type": "academic",
+    "ex": "Selective attention can make confirming examples easier to notice.",
+    "src": "#45"
+  },
+  {
+    "w": "search selection",
+    "zh": "搜索选择；搜索方式决定哪些证据有机会进入判断过程",
+    "type": "academic",
+    "ex": "Search selection can shape the evidence before evaluation begins.",
+    "src": "#45"
+  },
+  {
+    "w": "ambiguous",
+    "zh": "模棱两可的；可以有多种解释的",
+    "type": "vocab",
+    "ex": "People may interpret ambiguous results in ways that support their expectations.",
+    "src": "#45"
+  },
+  {
+    "w": "motivated reasoning",
+    "zh": "动机性推理；希望得到某种结论而影响证据处理的过程",
+    "type": "academic",
+    "ex": "Motivated reasoning can become stronger when reputation is at stake.",
+    "src": "#45"
+  },
+  {
+    "w": "falsification",
+    "zh": "证伪；寻找能够推翻某个假设的证据",
+    "type": "academic",
+    "ex": "Falsification asks what evidence would show that a claim is wrong.",
+    "src": "#45"
+  },
+  {
+    "w": "calibration",
+    "zh": "校准；使信心程度与实际证据可靠性相匹配",
+    "type": "academic",
+    "ex": "Good calibration means being confident only when the evidence justifies it.",
+    "src": "#45"
+  },
+  {
+    "w": "contrarian",
+    "zh": "逆向的；故意采取与主流相反立场的",
+    "type": "vocab",
+    "ex": "Being contrarian is not automatically the same as being independent.",
+    "src": "#45"
+  },
+  {
+    "w": "pre-mortem",
+    "zh": "事前验尸法；预先假设计划失败并分析可能原因",
+    "type": "academic",
+    "ex": "A pre-mortem can reveal risks before a team becomes too committed.",
+    "src": "#45"
+  },
+  {
+    "w": "decision threshold",
+    "zh": "决策阈值；预先设定触发某项行动的证据或表现标准",
+    "type": "academic",
+    "ex": "The investor defined a decision threshold before buying the asset.",
+    "src": "#45"
+  },
+  {
+    "w": "move the goalposts",
+    "zh": "移动门槛；结果出现后改变原先的评价标准",
+    "type": "vocab",
+    "ex": "Teams may move the goalposts to avoid admitting that an experiment failed.",
+    "src": "#45"
+  },
+  {
+    "w": "disconfirming evidence",
+    "zh": "反证；与现有信念不一致或可能推翻它的证据",
+    "type": "academic",
+    "ex": "Strong analysis actively searches for disconfirming evidence.",
+    "src": "#45"
+  },
+  {
+    "w": "self-protection",
+    "zh": "自我保护；避免心理、声誉或身份受到威胁",
+    "type": "vocab",
+    "ex": "Evidence evaluation can become self-protection when identity is involved.",
+    "src": "#45"
+  },
+  {
+    "w": "information architecture",
+    "zh": "信息架构；信息被搜索、筛选、组织和呈现的方式",
+    "type": "academic",
+    "ex": "Information architecture influences which facts people encounter first.",
+    "src": "#45"
+  },
+  {
+    "w": "personalization",
+    "zh": "个性化；根据用户行为调整内容或服务",
+    "type": "vocab",
+    "ex": "Personalization can reduce noise but also narrow the information people see.",
+    "src": "#45"
+  },
+  {
+    "w": "credible challenge",
+    "zh": "可信挑战；有足够证据基础、值得认真回应的反对意见",
+    "type": "academic",
+    "ex": "A strong argument should survive credible challenges.",
+    "src": "#45"
+  }
+]);
+
+
+// Imported Article #46
+words.push(...[
+  {
+    "w": "default",
+    "zh": "默认选项；当个人不采取行动时自动生效的选择",
+    "type": "academic",
+    "ex": "The default determines what happens when the user takes no action.",
+    "src": "#46"
+  },
+  {
+    "w": "default effect",
+    "zh": "默认效应；默认选项显著影响最终选择的现象",
+    "type": "academic",
+    "ex": "The default effect can increase participation even when people remain free to opt out.",
+    "src": "#46"
+  },
+  {
+    "w": "status quo bias",
+    "zh": "现状偏误；仅因为某状态已经存在而倾向于维持它",
+    "type": "academic",
+    "ex": "Status quo bias can make switching feel less attractive than staying put.",
+    "src": "#46"
+  },
+  {
+    "w": "inertia",
+    "zh": "惯性；在没有强烈推动力时维持原有状态的倾向",
+    "type": "academic",
+    "ex": "Inertia helps explain why many users never change standard settings.",
+    "src": "#46"
+  },
+  {
+    "w": "opt out",
+    "zh": "选择退出；主动离开自动加入的安排",
+    "type": "vocab",
+    "ex": "Employees can opt out of the savings plan at any time.",
+    "src": "#46"
+  },
+  {
+    "w": "opt in",
+    "zh": "主动选择加入",
+    "type": "vocab",
+    "ex": "Under an opt-in system, workers must actively enroll.",
+    "src": "#46"
+  },
+  {
+    "w": "path of least resistance",
+    "zh": "阻力最小的路径；最省力的行动方式",
+    "type": "vocab",
+    "ex": "People often follow the path of least resistance when the stakes seem low.",
+    "src": "#46"
+  },
+  {
+    "w": "anticipated regret",
+    "zh": "预期后悔；预先担心某项主动决定将来导致后悔",
+    "type": "academic",
+    "ex": "Anticipated regret can make people reluctant to change an investment.",
+    "src": "#46"
+  },
+  {
+    "w": "switching cost",
+    "zh": "转换成本；从一个方案转向另一个方案所需的金钱、时间或精力",
+    "type": "academic",
+    "ex": "High switching costs can keep customers with a service they no longer prefer.",
+    "src": "#46"
+  },
+  {
+    "w": "choice architecture",
+    "zh": "选择架构；选项被组织、排序和呈现的方式",
+    "type": "academic",
+    "ex": "Choice architecture influences behavior without necessarily removing alternatives.",
+    "src": "#46"
+  },
+  {
+    "w": "formal freedom",
+    "zh": "形式自由；某个选择在规则或技术上是否可用",
+    "type": "academic",
+    "ex": "Formal freedom exists if customers are technically allowed to cancel.",
+    "src": "#46"
+  },
+  {
+    "w": "effective freedom",
+    "zh": "有效自由；实际行使某项选择需要承担多少成本",
+    "type": "academic",
+    "ex": "Effective freedom depends partly on how difficult it is to exercise an option.",
+    "src": "#46"
+  },
+  {
+    "w": "automatic renewal",
+    "zh": "自动续费",
+    "type": "vocab",
+    "ex": "Automatic renewal can turn temporary inattention into another paid month.",
+    "src": "#46"
+  },
+  {
+    "w": "alignment",
+    "zh": "目标一致性；不同参与者的利益或目标是否一致",
+    "type": "academic",
+    "ex": "A good default requires alignment between the designer and the user.",
+    "src": "#46"
+  },
+  {
+    "w": "anchor",
+    "zh": "锚点；影响后续判断的初始数值或参照",
+    "type": "academic",
+    "ex": "A default contribution rate can become an anchor for future saving decisions.",
+    "src": "#46"
+  },
+  {
+    "w": "retention rate",
+    "zh": "留存率；一段时间后仍继续使用服务的用户比例",
+    "type": "academic",
+    "ex": "A high retention rate does not always prove strong customer satisfaction.",
+    "src": "#46"
+  },
+  {
+    "w": "asymmetry",
+    "zh": "不对称；两个方向的成本或条件并不相等",
+    "type": "academic",
+    "ex": "There is a clear asymmetry when joining takes one click but leaving takes ten minutes.",
+    "src": "#46"
+  },
+  {
+    "w": "selective attention",
+    "zh": "选择性注意；把有限注意力集中在少数重要事项上",
+    "type": "academic",
+    "ex": "Selective attention is useful because not every default deserves equal scrutiny.",
+    "src": "#46"
+  }
+]);
+
+
+// Imported Article #47
+words.push(...[
+  {
+    "w": "rebound effect",
+    "zh": "反弹效应；效率提升后因使用量增加而抵消部分预期节省的现象",
+    "type": "academic",
+    "ex": "The rebound effect can reduce the amount of time an efficiency tool actually frees.",
+    "src": "#47"
+  },
+  {
+    "w": "Jevons paradox",
+    "zh": "杰文斯悖论；效率提升可能因需求扩大而导致资源总使用量反而上升",
+    "type": "academic",
+    "ex": "Jevons paradox shows why efficiency and total consumption do not always move in opposite directions.",
+    "src": "#47"
+  },
+  {
+    "w": "efficiency gain",
+    "zh": "效率增益；完成同一任务所需资源下降",
+    "type": "academic",
+    "ex": "The software produced a large efficiency gain in routine reporting.",
+    "src": "#47"
+  },
+  {
+    "w": "first-order effect",
+    "zh": "一阶效应；变化直接产生的最初影响",
+    "type": "academic",
+    "ex": "The first-order effect of automation is that each draft takes less time.",
+    "src": "#47"
+  },
+  {
+    "w": "second-order effect",
+    "zh": "二阶效应；行为和系统调整后进一步产生的影响",
+    "type": "academic",
+    "ex": "Higher expectations can be a second-order effect of faster technology.",
+    "src": "#47"
+  },
+  {
+    "w": "bottleneck",
+    "zh": "瓶颈；限制整个系统速度或产出的环节",
+    "type": "vocab",
+    "ex": "Reviewing became the bottleneck after content generation became cheap.",
+    "src": "#47"
+  },
+  {
+    "w": "baseline expectation",
+    "zh": "基准预期；逐渐被视为正常最低水平的标准",
+    "type": "academic",
+    "ex": "Fast replies can quickly become a baseline expectation.",
+    "src": "#47"
+  },
+  {
+    "w": "slack",
+    "zh": "余量；未被立即占用、可用于应对变化的资源或能力",
+    "type": "academic",
+    "ex": "A little slack makes an organization more resilient to unexpected problems.",
+    "src": "#47"
+  },
+  {
+    "w": "utilization",
+    "zh": "利用率；资源被使用的程度",
+    "type": "academic",
+    "ex": "Very high utilization can create long queues when demand suddenly rises.",
+    "src": "#47"
+  },
+  {
+    "w": "filtering",
+    "zh": "筛选；从大量信息中挑出相关或有价值内容",
+    "type": "vocab",
+    "ex": "Cheap content generation increases the importance of filtering.",
+    "src": "#47"
+  },
+  {
+    "w": "coordination cost",
+    "zh": "协调成本；使多人、多任务或多部门保持一致所需的时间和资源",
+    "type": "academic",
+    "ex": "More projects can create substantial coordination costs.",
+    "src": "#47"
+  },
+  {
+    "w": "output volume",
+    "zh": "产出量；一定时期内生成的产品、内容或工作成果数量",
+    "type": "academic",
+    "ex": "Output volume is a poor measure if most documents are never used.",
+    "src": "#47"
+  },
+  {
+    "w": "productive",
+    "zh": "富有成效的；能有效创造有价值结果的",
+    "type": "vocab",
+    "ex": "Removing an unnecessary task can be more productive than completing it faster.",
+    "src": "#47"
+  },
+  {
+    "w": "capacity",
+    "zh": "能力；系统能够处理的工作量",
+    "type": "vocab",
+    "ex": "Automation increased the team's capacity to answer routine questions.",
+    "src": "#47"
+  },
+  {
+    "w": "allocation",
+    "zh": "配置；把有限资源分配到不同用途",
+    "type": "academic",
+    "ex": "The allocation of saved time determines whether workers gain more leisure.",
+    "src": "#47"
+  },
+  {
+    "w": "marginal cost",
+    "zh": "边际成本；额外生产一个单位所增加的成本",
+    "type": "academic",
+    "ex": "AI can reduce the marginal cost of producing another draft.",
+    "src": "#47"
+  },
+  {
+    "w": "scale",
+    "zh": "规模；活动或系统运作的数量级",
+    "type": "academic",
+    "ex": "An efficiency improvement can change the scale at which an activity is performed.",
+    "src": "#47"
+  },
+  {
+    "w": "William Stanley Jevons",
+    "zh": "威廉·斯坦利·杰文斯；19世纪英国经济学家，提出与煤炭效率相关的杰文斯悖论",
+    "type": "proper",
+    "ex": "William Stanley Jevons argued that greater coal efficiency could encourage wider coal use.",
+    "src": "#47"
+  }
+]);
+
+
+// Imported Article #48
+words.push(...[
+  {
+    "w": "salience",
+    "zh": "显著性；某件事在注意力中有多突出、容易被察觉",
+    "type": "academic",
+    "ex": "A large one-time payment usually has greater salience than a small recurring charge.",
+    "src": "#48"
+  },
+  {
+    "w": "mental accounting",
+    "zh": "心理账户；把金钱按用途或来源划分成不同心理类别的倾向",
+    "type": "academic",
+    "ex": "Mental accounting can make a small treat feel separate from the rest of a budget.",
+    "src": "#48"
+  },
+  {
+    "w": "cumulative",
+    "zh": "累积的；随着时间不断叠加的",
+    "type": "vocab",
+    "ex": "The cumulative cost of a small daily purchase can be surprisingly high.",
+    "src": "#48"
+  },
+  {
+    "w": "unit price",
+    "zh": "单位价格；单个商品或单次交易的价格",
+    "type": "academic",
+    "ex": "A low unit price can make a purchase feel financially unimportant.",
+    "src": "#48"
+  },
+  {
+    "w": "frequency",
+    "zh": "频率；某行为在一定时期内重复的次数",
+    "type": "academic",
+    "ex": "Frequency matters as much as price when spending repeats.",
+    "src": "#48"
+  },
+  {
+    "w": "automatic renewal",
+    "zh": "自动续费",
+    "type": "vocab",
+    "ex": "Automatic renewal allows a subscription to continue without a new decision.",
+    "src": "#48"
+  },
+  {
+    "w": "pain of paying",
+    "zh": "支付痛感；付款时感受到的心理不适",
+    "type": "academic",
+    "ex": "Contactless payments can reduce the immediate pain of paying.",
+    "src": "#48"
+  },
+  {
+    "w": "payment friction",
+    "zh": "支付摩擦；完成付款所需的步骤、时间或心理阻力",
+    "type": "academic",
+    "ex": "One-click checkout dramatically reduces payment friction.",
+    "src": "#48"
+  },
+  {
+    "w": "framing",
+    "zh": "框架效应；同一信息因呈现方式不同而影响判断",
+    "type": "academic",
+    "ex": "Pricing a service per day is a form of framing.",
+    "src": "#48"
+  },
+  {
+    "w": "reference point",
+    "zh": "参照点；评价价格或结果时用来比较的基准",
+    "type": "academic",
+    "ex": "A yearly price may create a different reference point from a monthly price.",
+    "src": "#48"
+  },
+  {
+    "w": "cost per use",
+    "zh": "单次使用成本；总价格除以实际使用次数",
+    "type": "academic",
+    "ex": "Cost per use can make an expensive but frequently used item look economical.",
+    "src": "#48"
+  },
+  {
+    "w": "sticker price",
+    "zh": "标价；商品表面显示的购买价格",
+    "type": "vocab",
+    "ex": "Sticker price alone does not tell us whether a product offers good value.",
+    "src": "#48"
+  },
+  {
+    "w": "opportunity cost",
+    "zh": "机会成本；选择一个方案时放弃的最佳替代方案的价值",
+    "type": "academic",
+    "ex": "The opportunity cost of repeated spending may be less money available for travel.",
+    "src": "#48"
+  },
+  {
+    "w": "time horizon",
+    "zh": "时间跨度；分析决策时所考虑的未来期间",
+    "type": "academic",
+    "ex": "A longer time horizon makes recurring costs easier to see.",
+    "src": "#48"
+  },
+  {
+    "w": "monitoring cost",
+    "zh": "监控成本；持续检查和管理某件事所需的注意力、时间或资源",
+    "type": "academic",
+    "ex": "Tracking every tiny purchase can create an unnecessary monitoring cost.",
+    "src": "#48"
+  },
+  {
+    "w": "recurring payment",
+    "zh": "周期性付款；按固定周期重复发生的支付",
+    "type": "vocab",
+    "ex": "Several small recurring payments can quietly take a large share of income.",
+    "src": "#48"
+  },
+  {
+    "w": "subscription revenue",
+    "zh": "订阅收入；企业通过周期性订阅获得的稳定收入",
+    "type": "academic",
+    "ex": "Subscription revenue gives businesses a more predictable cash flow.",
+    "src": "#48"
+  },
+  {
+    "w": "unit of analysis",
+    "zh": "分析单位；进行判断时所选择的观察尺度或基本对象",
+    "type": "academic",
+    "ex": "Changing the unit of analysis from one purchase to one year can change the conclusion.",
+    "src": "#48"
+  }
+]);
