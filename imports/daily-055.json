@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 55,
+  "article": {
+    "n": 55,
+    "title": "Why Free Trials Are So Hard to Leave",
+    "category": "Behavioral Economics",
+    "themes": [
+      "Free Trials",
+      "Endowment Effect",
+      "Defaults",
+      "Switching Costs",
+      "Loss Aversion",
+      "Consumer Choice"
+    ],
+    "framework": "Free Access → Experience & Setup → Psychological Ownership → Default Continuation → Perceived Loss from Leaving → Conversion",
+    "coreIdea": "A free trial does more than lower the initial price to zero. By letting users build routines, data, preferences, and psychological ownership before payment begins, it can transform a future purchase decision into a decision about whether to give something up.",
+    "body": "Suppose two companies offer the same software for $12 a month. Company A asks you to pay before using it. Company B gives you thirty days free and asks for a card only so the subscription can continue automatically afterward. Even if the product is identical, these two offers do not create the same decision. The first asks, “Is this worth buying?” The second eventually asks, “Is this worth giving up?”\n\nThat difference helps explain why free trials are so powerful. The obvious explanation is price: zero is attractive, and removing the initial payment lowers the barrier to experimentation. But a free trial does more than reduce the first cost. It gives users time to build routines, save information, customize settings, and imagine the product as part of everyday life. By the end of the trial, cancellation may feel less like rejecting a new purchase and more like losing something already possessed.\n\nBehavioral economists describe a related pattern as the endowment effect: people can value something more once they feel that they own it. Traditional economic reasoning often assumes that willingness to pay for an item and willingness to accept compensation for giving it up should be similar. In practice, ownership can change the reference point. Once an object or service feels like “mine,” losing it may carry more psychological weight than never obtaining it.\n\nDigital services create a particularly interesting version of this effect because ownership is often temporary or incomplete. You do not own a streaming platform, cloud service, or premium app in the traditional sense. Yet during a trial, you may create playlists, store files, train recommendations, build a study streak, or organize a workflow. These actions create what we might call usage capital: value that develops through interaction with the service.\n\nUsage capital connects directly to #42's Cost vs Asset framework. Time spent configuring a service is a cost in one sense, but it can also create an asset: a personalized environment that becomes useful later. The problem is that this asset may be partly locked inside the platform. Leaving does not merely remove future access; it can make past setup less useful.\n\nThis is where switching costs enter. In #43, we saw that people can remain with a product because moving elsewhere requires effort. A free trial can create switching costs before the first paid month even begins. Importing contacts, learning shortcuts, setting preferences, or building a recommendation history all make the current service easier to continue using than a new alternative.\n\nNotice the sequence. At the start, the company faces a high-friction problem: the user does not yet know whether the product is valuable. A free trial reduces that friction. During the trial, however, the user accumulates familiarity and data. When payment begins, a different friction appears: leaving now requires giving up the familiar setup or rebuilding it somewhere else.\n\nDefaults strengthen this effect. If the trial simply ends unless the customer actively subscribes, the company must persuade the user to make a purchase at the end. If the trial converts automatically into a paid plan, doing nothing means staying. The product may be the same, but the decision architecture has changed from active purchase to passive continuation.\n\nThis connects closely to #51's Active Repurchase Test. Automatic continuation can hide an important counterfactual: if the service disappeared tonight and you had to buy it again tomorrow, would you? A user may continue a trial-turned-subscription not because they would actively choose it today, but because cancelling requires attention and creates a feeling of loss.\n\nLoss aversion helps explain that feeling. People often react more strongly to losses relative to a reference point than to equivalent gains. Before the trial, premium features are potential gains. After a month of using them, the same features may become part of the reference point. Losing offline access, extra storage, advanced tools, or an ad-free experience can now feel like a downgrade.\n\nThis does not mean free trials are manipulative by definition. They solve a real information problem. Experience goods are difficult to evaluate before use. A trial lets consumers learn whether a product fits their needs without paying for that information. For unfamiliar software, a trial can reduce uncertainty more effectively than advertisements or reviews.\n\nCompanies face incentives on both sides. A good trial should demonstrate value quickly enough that users understand the product. But firms also monitor conversion rates: the percentage of trial users who become paying customers. If conversion becomes the dominant target, teams may have an incentive to design defaults, reminders, or cancellation processes that increase continuation even when long-term customer value is weak.\n\nThis is another application of #49's Incentive Audit. Conversion is measurable, but it is a proxy. A company ultimately benefits from customers who receive enough value to remain satisfied, recommend the product, and continue voluntarily. A high conversion rate created by confusion can improve a short-term metric while damaging trust, increasing complaints, or producing rapid cancellations later.\n\nMeasurement therefore needs a longer time horizon. Suppose two trial designs both convert 50 percent of users. In Design A, most paying users remain for a year. In Design B, many cancel after the first charge. The initial conversion rate is identical, but the underlying quality of conversion is different. Retention, usage, refunds, complaints, and customer satisfaction provide additional evidence.\n\nThere are second-order effects for consumers as well. Easy trials encourage experimentation, which can be valuable. People can test more tools and discover products they would never have risked buying immediately. But when many trials require payment details and automatic renewal, experimentation creates a future attention burden. Each “free” test adds another date to remember and another default to manage.\n\nThis gives us a useful stock-and-flow interpretation. New trials are a flow of commitments entering your life. Attention is a limited stock available to monitor them. If commitments accumulate faster than attention can review them, forgotten subscriptions become more likely. What feels costless at the moment of sign-up can create management costs later.\n\nToday's transferable tool is the Reference-Point Reset. When a trial is about to become paid, mentally remove the product from your current life. Ignore the fact that you already configured it, unless that setup creates genuine future value. Then ask: at this price, with what I now know, would I actively choose to add this service today?\n\nThe second step is to separate three forces. First, learning: did the trial reveal real value? Second, switching cost: would leaving destroy useful assets or require meaningful effort? Third, inertia: am I continuing mainly because continuation is the default? These forces can coexist, but naming them makes the decision clearer.\n\nFree trials work partly because they let consumers experience value before paying. But their deeper power comes from changing the question. At first, the product competes to become part of your life. Later, it may only need to avoid being removed. Whenever access changes your reference point, good decision-making requires asking whether continued ownership reflects present value or merely the discomfort of giving something up.",
+    "summaryZh": "今天把 #51 的 subscription inertia 往前追了一步：为什么 free trial 能把一个原本需要主动购买的东西，变成后来很难主动放弃的东西？\n\n核心机制是：Free Access → Experience & Setup → Psychological Ownership → Default Continuation → Perceived Loss from Leaving → Conversion。免费试用表面上只是把 initial price 降到 0，但更重要的是，它允许用户在付款前建立 routine、preferences、saved data 和 familiarity。于是 trial 开始时的问题是“我要不要得到它？”，结束时却可能变成“我要不要失去它？”\n\n这里接到 endowment effect 和 loss aversion：premium features 在试用前是 potential gain，使用一段时间后却可能进入 reference point；取消时，同样的功能不再像“没买到”，而像“被拿走”。数字服务还会形成 usage capital，例如 playlist、推荐记录、文件、学习 streak、工作流设置。它们既是过去投入的结果，也可能成为真实 future asset，因此不能简单把所有“不愿离开”都归结为非理性。\n\n文章进一步连接 #42 Cost vs Asset 与 #43 switching costs：setup time 已经发生的部分可能是 sunk cost，但如果离开会丢失有价值的数据、习惯或需要重新配置，这就是未来真实 switching cost。再接 #51 Active Repurchase Test：自动续费把 active purchase 变成 passive continuation，因此需要人为 reset default。\n\n商业端连接 #49 Incentive Audit。Free-trial conversion rate 很容易测量，但它只是 proxy。两个方案都可能有相同 conversion，其中一个用户持续一年，另一个大量用户首月扣款后立即取消；相同指标背后的 customer value 完全不同。因此 measurement 必须延长 time horizon，看 retention、usage、refunds、complaints 等。\n\n今天的新工具是 Reference-Point Reset：试用即将收费时，先在心理上把产品从当前生活中拿掉，再问“以我现在掌握的信息和这个价格，我今天会主动把它加回来吗？”随后把 continuation 拆成三股力量：Learning、Switching Cost、Inertia。这样既不会把所有续费都当成被骗，也不会把默认续费误认为真实 preference。"
+  },
+  "words": [
+    {
+      "word": "free trial",
+      "type": "vocab",
+      "meaningZh": "免费试用；正式收费前限时使用产品或服务",
+      "example": "A free trial can reduce uncertainty before a customer pays.",
+      "source": 55
+    },
+    {
+      "word": "endowment effect",
+      "type": "academic",
+      "meaningZh": "禀赋效应；感觉拥有某物后对它估值上升的倾向",
+      "example": "The endowment effect can make giving up a familiar service feel unusually costly.",
+      "source": 55
+    },
+    {
+      "word": "reference point",
+      "type": "academic",
+      "meaningZh": "参照点；判断得失时所依据的基准状态",
+      "example": "A month of premium access can shift the user's reference point.",
+      "source": 55
+    },
+    {
+      "word": "psychological ownership",
+      "type": "academic",
+      "meaningZh": "心理所有权；即使法律上不拥有，也产生“这是我的”的感受",
+      "example": "Customization can create psychological ownership of a digital service.",
+      "source": 55
+    },
+    {
+      "word": "usage capital",
+      "type": "academic",
+      "meaningZh": "使用资本；通过使用、设置和积累数据形成的持续价值",
+      "example": "Saved playlists and personalized settings can become usage capital.",
+      "source": 55
+    },
+    {
+      "word": "switching cost",
+      "type": "academic",
+      "meaningZh": "转换成本；离开当前选择并迁移所需的未来成本",
+      "example": "Moving stored data to another platform creates a switching cost.",
+      "source": 55
+    },
+    {
+      "word": "conversion rate",
+      "type": "academic",
+      "meaningZh": "转化率；从试用等状态转为付费客户的比例",
+      "example": "The team tracks the conversion rate from free trials to paid plans.",
+      "source": 55
+    },
+    {
+      "word": "inertia",
+      "type": "academic",
+      "meaningZh": "惯性；没有主动干预时维持当前状态的倾向",
+      "example": "Automatic renewal can turn inertia into continued payment.",
+      "source": 55
+    },
+    {
+      "word": "counterfactual",
+      "type": "academic",
+      "meaningZh": "反事实；用于比较另一种情况会怎样的假设情形",
+      "example": "The useful counterfactual is whether you would buy the service again today.",
+      "source": 55
+    },
+    {
+      "word": "downgrade",
+      "type": "vocab",
+      "meaningZh": "降级；转向功能、质量或待遇较低的状态",
+      "example": "After using premium features, cancellation may feel like a downgrade.",
+      "source": 55
+    },
+    {
+      "word": "experience good",
+      "type": "academic",
+      "meaningZh": "体验品；实际使用前难以准确判断质量或适配度的产品",
+      "example": "Software is often an experience good because reviews cannot reveal personal fit perfectly.",
+      "source": 55
+    },
+    {
+      "word": "learning value",
+      "type": "academic",
+      "meaningZh": "学习价值；通过尝试获得产品适配度信息的价值",
+      "example": "A trial has learning value even when the user decides not to subscribe.",
+      "source": 55
+    },
+    {
+      "word": "retention",
+      "type": "vocab",
+      "meaningZh": "留存；客户在一段时间后仍继续使用或付费的程度",
+      "example": "Long-term retention can reveal more than first-month conversion.",
+      "source": 55
+    },
+    {
+      "word": "time horizon",
+      "type": "academic",
+      "meaningZh": "时间跨度；分析结果时采用的观察期限",
+      "example": "A longer time horizon can expose weak-quality conversions.",
+      "source": 55
+    },
+    {
+      "word": "attention burden",
+      "type": "academic",
+      "meaningZh": "注意力负担；持续记忆、检查和管理事项占用的认知资源",
+      "example": "Multiple automatic trials can create a future attention burden.",
+      "source": 55
+    },
+    {
+      "word": "active continuation",
+      "type": "academic",
+      "meaningZh": "主动延续；重新判断后有意识地选择继续",
+      "example": "A good renewal decision should reflect active continuation rather than unnoticed inertia.",
+      "source": 55
+    },
+    {
+      "word": "loss aversion",
+      "type": "academic",
+      "meaningZh": "损失厌恶；相较于同等收益，人通常对损失反应更强",
+      "example": "Loss aversion can make the removal of premium features feel painful.",
+      "source": 55
+    },
+    {
+      "word": "Reference-Point Reset",
+      "type": "proper",
+      "meaningZh": "参照点重置；暂时移除当前默认状态后重新判断是否主动选择的框架",
+      "example": "The Reference-Point Reset asks whether you would actively add the service back today.",
+      "source": 55
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why are free trials so effective at persuading people to pay for services later?",
+      "category": "Behavioral Economics",
+      "framework": "Lower entry friction → Experience → New reference point → Loss aversion and default continuation",
+      "response": "I think free trials work partly because they reduce uncertainty, since people can experience a service before paying for it. But there is also a psychological effect. After using premium features for a few weeks, those features can start to feel normal, so cancelling feels more like losing something than simply deciding not to buy it. If the subscription also renews automatically, continuation requires almost no effort. So the trial changes both the information people have and the reference point from which they evaluate the purchase.",
+      "expressions": [
+        "The trial changes the reference point from which people evaluate the purchase.",
+        "Cancelling can feel more like losing something than deciding not to buy it.",
+        "Free trials reduce uncertainty before payment."
+      ],
+      "source": 55
+    },
+    {
+      "question": "Should companies be allowed to convert free trials into paid subscriptions automatically?",
+      "category": "Behavioral Economics",
+      "framework": "Convenience → Informed consent → Default effects → Trust and regulation",
+      "response": "I think automatic conversion can be reasonable if the terms are extremely clear and cancellation is simple. It is convenient for people who genuinely want to continue, so requiring a new payment process every time could create unnecessary friction. However, companies should not rely on customers forgetting the renewal date. A reminder before the first charge would preserve most of the convenience while making the decision more visible. In my view, a good business model should benefit from customers choosing to stay, not from making inattention profitable.",
+      "expressions": [
+        "A good business model should benefit from customers choosing to stay.",
+        "A reminder can preserve convenience while making the decision more visible.",
+        "Companies should not make inattention profitable."
+      ],
+      "source": 55
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "The trial changes the reference point from which people evaluate the purchase.",
+      "meaningZh": "试用会改变人们评估购买行为时所依据的参照点。",
+      "source": 55
+    },
+    {
+      "expression": "Cancelling can feel more like losing something than deciding not to buy it.",
+      "meaningZh": "取消可能更像是在失去某样东西，而不是单纯决定不购买。",
+      "source": 55
+    },
+    {
+      "expression": "A good business model should benefit from customers choosing to stay.",
+      "meaningZh": "好的商业模式应该从客户主动选择留下中获益。",
+      "source": 55
+    }
+  ]
+}

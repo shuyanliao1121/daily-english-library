@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 51,
+  "article": {
+    "n": 51,
+    "title": "Why We Keep Paying for Things We Barely Use",
+    "category": "Consumer Psychology",
+    "themes": [
+      "Subscription Economy",
+      "Inertia",
+      "Default Effects",
+      "Transaction Costs",
+      "Mental Accounting",
+      "Consumer Choice"
+    ],
+    "framework": "Easy Sign-Up → Recurring Default → Low Salience → Cancellation Friction → Inertia → Accumulated Spending",
+    "coreIdea": "Recurring payments can persist even when current value is low because each renewal requires no new decision, while cancellation requires attention and action. The relevant question is not whether the original purchase was reasonable, but whether the next payment is still worth making.",
+    "body": "Imagine checking your bank statement and finding a small monthly charge for a service you have barely used since spring. Perhaps it is a streaming platform, a fitness app, cloud storage, a premium newsletter, or a software tool. The amount is not large enough to feel urgent, so you tell yourself you might use it next month. The charge appears again. Months later, the service is still active.\n\nThis pattern is common in the subscription economy. Companies increasingly sell access rather than one-time ownership, turning individual purchases into recurring relationships. Subscriptions can be genuinely convenient. Customers avoid repeated checkout decisions, businesses receive predictable revenue, and useful services remain available whenever they are needed. Yet the same structure changes the psychology of spending because continuing often requires no action while stopping requires a deliberate decision.\n\nThat asymmetry creates inertia. Inertia means a tendency for the current state to continue unless something actively changes it. If a subscription renews automatically, doing nothing means paying again. If it expires automatically, doing nothing means losing access. The product can be identical in both cases, but the default determines which outcome occurs without effort.\n\nThis connects to the default effect. People are more likely to remain with a preselected option than to switch away from it. Part of this is simple friction. Cancelling may require logging in, finding a settings page, remembering a password, answering a survey, or deciding whether future use might justify staying. Each step is small, but small costs can matter when the monthly payment is also small.\n\nThe comparison is therefore not “subscription price versus zero.” It is often “subscription price versus the attention and effort required to reconsider the subscription.” If the charge is $8 and cancellation feels like a ten-minute task, many people postpone the task even when they would not actively buy the same service today. The recurring default converts a purchasing decision into a maintenance decision.\n\nSalience matters too. A one-time purchase is highly visible at the moment of payment. You choose the product, see the price, and authorize the transaction. Automatic renewal separates consumption from payment. The service may renew while you are asleep, and the charge may disappear among dozens of transactions. Low salience reduces the chance that the consumer will ask whether the service still creates enough value.\n\nThis is a form of transaction friction, but it works differently from the friction we discussed in #41. There, abundant choice made comparison harder. Here, the difficulty is not choosing among many products. It is reopening a decision that has already been placed on autopilot. The subscription survives partly because the consumer is not repeatedly asked to choose it.\n\nMental accounting can strengthen the effect. People often organize money into informal categories rather than evaluating every expense as part of one perfectly integrated budget. A $10 entertainment subscription may feel too small to matter inside a monthly budget, even if six similar subscriptions together cost $60. Each payment is evaluated locally, while the total opportunity cost is distributed across many small decisions.\n\nThis creates a measurement problem. Looking at the monthly price can make a subscription appear cheap, while annualizing the same payment changes the reference point. Twelve dollars a month is $144 a year. Neither number is more “true,” but the yearly figure makes the accumulated flow easier to compare with other uses of money. Changing the measurement window can therefore change perceived significance.\n\nHowever, unused subscriptions are not always mistakes. Option value matters. A person may rationally pay for access they use only occasionally if having the service available at the right moment is valuable. Cloud backup, professional software, or a transport membership may provide benefits even during months of low visible usage. Frequency of use is therefore an imperfect proxy for value.\n\nThe better question is expected future value. Suppose you paid for a language-learning app for the past eight months but stopped using it recently. The money already paid is a sunk cost. It should not determine whether you renew next month. The relevant comparison is forward-looking: what benefits are you realistically likely to receive during the next billing period, and what else could the money buy?\n\nThis connects directly to #42's Cost vs Asset framework. Past subscription payments are gone, but they may have created useful assets such as saved files, learned skills, accumulated data, or membership benefits. Those assets can matter for the future. The past payments themselves do not create a reason to keep paying.\n\nThere is also a connection to #43's switching costs. Cancelling one service may require moving files, losing playlists, rebuilding a workflow, or giving up a discount connected to a larger bundle. These are genuine future costs, not sunk costs. A careful decision separates “I have already paid so much” from “leaving now will actually cost me something tomorrow.”\n\nThe incentive structure matters as well. A company paid once has a strong reason to persuade you at the moment of purchase. A subscription company has a reason to acquire you and retain you. Ideally, retention comes from continuing value. But if cancellation friction also improves retention, firms may face a temptation to make leaving less convenient. This is where #49's Incentive Audit becomes useful: the measured target may be retention, while the true objective should include customer value and trust.\n\nRegulation and platform design can change the balance. Clear renewal reminders, simple cancellation, and transparent annual costs increase decision visibility. They add a small moment of reconsideration without requiring consumers to rebuild every choice from zero. In our earlier language, this is selective friction: a carefully placed pause can improve a decision when automatic continuation has become too easy.\n\nConsumers can create their own selective friction too. One method is a subscription audit at a fixed interval. Instead of evaluating services randomly whenever a charge becomes annoying, review all recurring payments together. This reduces the repeated attention cost and reveals the aggregate amount. It also changes the decision question from “Can I afford another month?” to “Would I actively buy another month today?”\n\nThat question is powerful because it removes the default. Imagine the subscription disappeared tonight and tomorrow you received an offer to restart it at the same price. Would you click “buy”? If yes, continuation probably reflects current value. If no, inertia may be doing more work than preference.\n\nToday's transferable tool is the Active Repurchase Test. For any recurring commitment, temporarily imagine that the default has been reset. Ignore the fact that you already have it and ask whether you would deliberately choose it again under current conditions. Then add genuine switching costs and option value back into the calculation.\n\nA recurring payment is therefore more than a repeated purchase. It is a decision architecture in which time, attention, defaults, and friction shape what happens next. The most useful question is not “Why did I sign up?” It is “If the decision were placed in front of me again today, would I still say yes?”",
+    "summaryZh": "今天从 subscription economy 切入一个很日常但很有分析价值的问题：为什么我们会持续为几乎不用的东西付钱？关键不一定是“舍不得钱”或“忘了取消”，而是 recurring payment 改变了 decision architecture。\n\n核心链条是：Easy Sign-Up → Recurring Default → Low Salience → Cancellation Friction → Inertia → Accumulated Spending。一次性购买每次都需要主动说 yes；自动续费却把 continuation 变成默认状态。于是消费者不是每个月重新购买，而是在“什么都不做就继续”的环境里维持旧决定。\n\n这里接回 #41 friction：当月费很小，取消所需的注意力、登录、比较未来需求等微小 friction 就足以让 reconsideration 被推迟。Mental accounting 又会把每个 $8、$10 的订阅分别看成“小钱”，而忽视它们合并后的 aggregate opportunity cost。把 monthly flow 年化，是一种 measurement-window change：$12/month 与 $144/year 是同一个事实，却会产生不同 salience。\n\n文章同时避免“低使用率=一定该取消”的错误，因为 option value 存在。偶尔使用但关键时刻很有价值的服务仍可能值得保留。因此判断应该 forward-looking：past payments 是 sunk cost；已有文件、技能、数据等可能是 asset；迁移数据或重建 workflow 则是真实 switching cost。这里分别接回 #42 Cost vs Asset 和 #43 switching costs。\n\n商业端又能接 #49 Incentive Audit：subscription company 会优化 retention，但 retention 既可能来自持续价值，也可能来自 cancellation friction。指标上涨不自动等于消费者福利上涨。\n\n今天的新工具是 Active Repurchase Test：假设今晚订阅自动消失，明天同样价格重新摆到你面前，你还会主动点击购买吗？然后再把真实的 switching cost 和 option value 加回来。它本质上是在人工 reset default，让“继续”重新成为一个需要被证明的选择。"
+  },
+  "words": [
+    {
+      "word": "subscription economy",
+      "type": "academic",
+      "meaningZh": "订阅经济；以持续付费换取持续访问或服务的商业模式",
+      "example": "The subscription economy turns many one-time purchases into recurring relationships.",
+      "source": 51
+    },
+    {
+      "word": "recurring payment",
+      "type": "vocab",
+      "meaningZh": "周期性付款；按固定周期自动或重复发生的支付",
+      "example": "A recurring payment can continue long after usage has fallen.",
+      "source": 51
+    },
+    {
+      "word": "inertia",
+      "type": "academic",
+      "meaningZh": "惯性；当前状态在没有主动干预时继续维持的倾向",
+      "example": "Consumer inertia can keep an unwanted subscription active.",
+      "source": 51
+    },
+    {
+      "word": "default effect",
+      "type": "academic",
+      "meaningZh": "默认效应；人更倾向保留预先设定的选项",
+      "example": "Automatic renewal makes use of the default effect.",
+      "source": 51
+    },
+    {
+      "word": "automatic renewal",
+      "type": "vocab",
+      "meaningZh": "自动续费",
+      "example": "Automatic renewal removes the need to make a fresh purchase decision each month.",
+      "source": 51
+    },
+    {
+      "word": "salience",
+      "type": "academic",
+      "meaningZh": "显著性；某信息在注意力中有多突出",
+      "example": "Automatic payments often have lower salience than one-time purchases.",
+      "source": 51
+    },
+    {
+      "word": "transaction friction",
+      "type": "academic",
+      "meaningZh": "交易摩擦；完成、改变或取消交易所需的时间与努力",
+      "example": "Even small transaction friction can delay cancellation.",
+      "source": 51
+    },
+    {
+      "word": "mental accounting",
+      "type": "academic",
+      "meaningZh": "心理账户；人把钱分进不同心理类别分别评价的倾向",
+      "example": "Mental accounting can make several small subscriptions seem harmless individually.",
+      "source": 51
+    },
+    {
+      "word": "annualize",
+      "type": "vocab",
+      "meaningZh": "年化；把较短周期的金额换算为一年尺度",
+      "example": "Annualizing a monthly fee can make its total cost more visible.",
+      "source": 51
+    },
+    {
+      "word": "option value",
+      "type": "academic",
+      "meaningZh": "选择权价值；保留未来使用某项资源或机会所带来的价值",
+      "example": "An infrequently used service may still have option value.",
+      "source": 51
+    },
+    {
+      "word": "sunk cost",
+      "type": "academic",
+      "meaningZh": "沉没成本；已经发生且无法收回的成本",
+      "example": "Past subscription fees are sunk costs when deciding whether to renew.",
+      "source": 51
+    },
+    {
+      "word": "forward-looking",
+      "type": "academic",
+      "meaningZh": "前瞻性的；以未来成本和收益为判断依据",
+      "example": "A renewal decision should be forward-looking rather than based on past payments.",
+      "source": 51
+    },
+    {
+      "word": "switching cost",
+      "type": "academic",
+      "meaningZh": "转换成本；从现有服务转向另一状态时未来实际需要付出的成本",
+      "example": "Moving years of stored files can create a genuine switching cost.",
+      "source": 51
+    },
+    {
+      "word": "retention",
+      "type": "vocab",
+      "meaningZh": "留存；用户继续保持订阅或关系的状态",
+      "example": "High retention can reflect value, friction, or both.",
+      "source": 51
+    },
+    {
+      "word": "aggregate",
+      "type": "vocab",
+      "meaningZh": "汇总的；合并多个项目后的整体",
+      "example": "The aggregate cost of six small subscriptions may be surprisingly large.",
+      "source": 51
+    },
+    {
+      "word": "decision architecture",
+      "type": "academic",
+      "meaningZh": "决策架构；默认、顺序、摩擦等共同塑造选择的环境",
+      "example": "Automatic billing changes the decision architecture of consumption.",
+      "source": 51
+    },
+    {
+      "word": "selective friction",
+      "type": "academic",
+      "meaningZh": "选择性摩擦；在关键节点加入少量额外思考或确认步骤",
+      "example": "A renewal reminder can create selective friction without making the service inconvenient.",
+      "source": 51
+    },
+    {
+      "word": "Active Repurchase Test",
+      "type": "proper",
+      "meaningZh": "主动复购测试；假设默认状态被重置后，判断自己今天是否仍会主动购买",
+      "example": "The Active Repurchase Test helps separate current preference from inertia.",
+      "source": 51
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why do people sometimes keep paying for services they rarely use?",
+      "category": "Consumer Psychology",
+      "framework": "Automatic renewal → Low salience → Cancellation friction → Inertia",
+      "response": "I think one reason is that automatic payments change the decision from an active purchase into a passive continuation. If a service renews every month, people do not have to decide again whether they want it, while cancelling usually requires at least some attention and effort. The fee may also be small enough that it never feels urgent. As a result, people can keep paying even when their current usage is low. I think a useful test is to ask whether they would actively buy the same service today if the subscription suddenly disappeared.",
+      "expressions": [
+        "Automatic payments turn an active purchase into a passive continuation.",
+        "A small cost may never feel urgent enough to reconsider.",
+        "I would ask whether I would actively buy the same service today."
+      ],
+      "source": 51
+    },
+    {
+      "question": "Do you think companies should make subscriptions easier to cancel?",
+      "category": "Consumer Psychology",
+      "framework": "Consumer convenience → Fair choice → Retention incentives → Long-term trust",
+      "response": "Yes, I think cancellation should generally be simple and transparent. Companies obviously want to retain customers, but retention is more meaningful when it comes from continuing value rather than unnecessary friction. If leaving is deliberately difficult, a company may improve its short-term numbers while damaging trust in the long run. At the same time, I do not think every renewal needs a complicated confirmation process because that would remove much of the convenience of subscriptions. A clear reminder and an easy cancellation route seem like a reasonable balance.",
+      "expressions": [
+        "Retention is more meaningful when it comes from continuing value.",
+        "Short-term numbers can improve while long-term trust is damaged.",
+        "A clear reminder and an easy cancellation route seem like a reasonable balance."
+      ],
+      "source": 51
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Automatic payments turn an active purchase into a passive continuation.",
+      "meaningZh": "自动付款把主动购买变成了被动延续。",
+      "source": 51
+    },
+    {
+      "expression": "Retention is more meaningful when it comes from continuing value.",
+      "meaningZh": "当留存来自持续价值时，它才更有意义。",
+      "source": 51
+    },
+    {
+      "expression": "Short-term numbers can improve while long-term trust is damaged.",
+      "meaningZh": "短期数字可以改善，同时长期信任却受损。",
+      "source": 51
+    }
+  ]
+}

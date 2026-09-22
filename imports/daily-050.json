@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 50,
+  "article": {
+    "n": 50,
+    "title": "Why AI Gets More Useful When Humans Disagree",
+    "category": "Technology & AI",
+    "themes": [
+      "Human-AI Collaboration",
+      "Disagreement",
+      "Uncertainty",
+      "Calibration",
+      "Decision-Making",
+      "Information Diversity"
+    ],
+    "framework": "AI Recommendation → Human Judgment → Disagreement → Diagnose the Source → Verify → Better-Calibrated Decision",
+    "coreIdea": "Human-AI disagreement is not merely an error to eliminate. When the two sides rely on different information or assumptions, disagreement can reveal uncertainty, hidden context, or model limits and create a valuable trigger for verification.",
+    "body": "Imagine a doctor, analyst, teacher, or customer-service worker using an AI system that recommends an answer. Most of the time, the recommendation seems reasonable. Then one day the system suggests something that feels wrong. The easiest response is to decide that either the human or the machine must be mistaken. But there is another possibility: the disagreement itself contains information.\n\nModern AI systems are often presented as tools for producing answers faster. That is useful, but speed is only one source of value. In difficult decisions, an AI system and a human may notice different parts of the same problem. The model can process patterns across large amounts of data, while the human may understand local context, unusual circumstances, or goals that were never fully written down. When their conclusions differ, the gap can reveal what each side is missing.\n\nThis gives us a useful concept: complementary error. Two decision-makers are complementary when they do not make exactly the same mistakes. Suppose a model is excellent at detecting common patterns but weak when a case is rare. A human expert may be slower and less consistent on routine cases but unusually good at recognizing exceptions. If their errors are different, combining them can outperform simply choosing the side with the higher average accuracy.\n\nThe key word is different. In #44, we learned that ten opinions are not ten independent signals if everyone is copying the same source. The same principle applies to human-AI teams. If the human simply accepts the model's suggestion, there are not really two judgments. There is one judgment displayed twice. The potential value of collaboration comes partly from preserving some independence before the final decision.\n\nThis is why automation bias matters. In #37, we saw that when AI makes answers easy to obtain, people may reduce verification. A confident recommendation can become a default, especially when the user is busy. Over time, the human may stop forming an independent view before looking at the model. That lowers friction, but it can also destroy the very diversity of judgment that made the human useful.\n\nDisagreement can therefore serve as a verification trigger. Instead of checking every AI output with equal effort, a system could devote more attention to cases in which the human and model disagree strongly. This is a scarcity solution. Verification time is limited, so it should be concentrated where the expected value of additional checking is highest.\n\nHowever, disagreement is not automatically evidence that the AI is wrong. The human may be relying on an outdated rule, personal intuition, or a misleading first impression. Nor is agreement automatically evidence that both are right. Human and model can share the same biased data, assumptions, or popular narrative. Agreement and disagreement are signals whose value depends on how they were produced.\n\nThis brings us to calibration. A well-calibrated decision-maker matches confidence to reliability. If a system says it is 90 percent confident across many similar cases, roughly 90 percent of those cases should be correct. Humans also need calibration: strong confidence should be reserved for situations in which our knowledge deserves it. The most useful question is not simply “Who is more confident?” but “Whose confidence is better supported in this type of case?”\n\nContext can shift that answer. Imagine an AI model trained on thousands of standard loan applications. It may estimate repayment risk accurately for ordinary cases. But a loan officer may know that a local industry has just suffered a shock not yet visible in historical data. The model has scale; the human has fresh context. In another case, the officer's intuition may reflect an irrelevant stereotype, while the model relies on more predictive variables. The source of disagreement matters more than the fact of disagreement.\n\nA practical framework is to classify disagreement. First, is there missing information? Perhaps the human knows something the model never received. Second, is there a measurement problem? The model may be optimizing a proxy that does not fully match the real objective. Third, is the case outside the model's usual experience? This is sometimes called distribution shift: the environment has changed, so patterns learned from older data may no longer transfer reliably.\n\nFourth, there may be a value judgment. AI can estimate consequences, but many decisions also require choosing which consequences matter. A hiring system might predict employee retention, for example, but a company may also care about creativity, fairness, or building new capabilities. Prediction and objective are not the same thing. This connects directly to #49's Incentive Audit: a measurable target can be useful without being identical to the goal.\n\nMeasurement should also go beyond overall accuracy. Suppose an AI system is correct 92 percent of the time and a human is correct 88 percent. It is tempting to replace the human. But the more important question may be: what happens on the 8 percent of cases where the AI is wrong? If the human catches many of those errors, the team can be more valuable than either member alone. Average accuracy hides the structure of errors.\n\nThis is similar to diversification in finance. A portfolio does not become safer merely by adding more assets; the assets need sufficiently different risk patterns. Two investments that always rise and fall together provide less diversification than two with less correlated returns. Likewise, two decision-makers with highly correlated errors provide less protection than two whose weaknesses differ.\n\nThere are second-order effects too. If humans know that the AI usually performs well, they may practice difficult judgments less often. Their skills can weaken, making future disagreement less informative. This is a stock-versus-flow problem: immediate efficiency is a flow, while human expertise is a stock. A workflow that maximizes today's speed may gradually consume the expertise needed to supervise tomorrow's system.\n\nThe goal, then, is not permanent human resistance to AI. Contradicting the model for the sake of independence would waste information. Nor should every disagreement trigger an expensive investigation. The goal is selective friction: preserve enough independent judgment to detect meaningful differences, then spend verification effort where those differences suggest a higher risk of error.\n\nToday's transferable tool is the Disagreement Diagnostic. When two credible sources disagree, ask: Do they have different information? Are they measuring the same objective? Is one operating outside its normal domain? Are their errors independent? What evidence could resolve the conflict? This turns disagreement from an uncomfortable obstacle into a map of where uncertainty lives.\n\nAs AI becomes more capable, agreement with machines may become common. That makes disagreement more interesting, not less. A human who merely repeats the model adds little information. A human who can identify when context, objectives, or unusual conditions make the model less reliable can add a great deal. The future value of human judgment may depend not on beating AI at every task, but on knowing when a difference of opinion deserves attention.",
+    "summaryZh": "今天把 #37 的 automation bias 和 #44 的 Independence Check 接到 Human-AI Collaboration：AI 与人类意见不一致，不一定只是“总有一方错了”，disagreement 本身也可能是一条高价值信号。\n\n核心链条是：AI Recommendation → Human Judgment → Disagreement → Diagnose the Source → Verify → Better-Calibrated Decision。真正有价值的前提，是两边的 error pattern 不完全相同。若人类只是看到 AI 后复述它的答案，表面上有两个判断，实际上只有一个 signal。\n\n因此今天引入 complementary error：模型可能擅长大量常规 pattern，人类可能更擅长 local context、exception 或刚发生的变化。重点不是比较谁的 average accuracy 更高，而是看 AI 错的时候，人类能不能抓住其中一部分。\n\n它和金融里的 diversification 很像：增加资产数量不等于分散风险，关键是 correlation。同样，AI + Human 也不天然比 AI 更可靠；如果两边总在同一个地方犯错，第二个判断的增量信息很少。\n\n它还连接 scarcity 与 friction：verification time 是稀缺资源，不可能每条 AI 输出都同等检查。所以 disagreement 可以作为 verification trigger，把有限注意力集中到 expected value of checking 更高的案例。这里需要的是 selective friction，而不是把所有摩擦重新加回来。\n\n文章进一步加入 calibration 和 distribution shift。Confidence 本身没有价值，confidence 与真实可靠性匹配才有价值；历史数据上表现好的模型，在环境改变或 rare case 中可能失效。\n\n同时：Prediction ≠ Objective\n\n这又接回 #49 Incentive Audit：模型能很好预测一个 proxy，不代表那个 proxy 就是我们真正想优化的目标。\n\n今天的新工具是：Disagreement Diagnostic\n\nDifferent Information? → Same Objective? → Outside Normal Domain? → Independent Errors? → What Evidence Resolves It?\n\n以后遇到 AI、专家、朋友、市场观点互相冲突时，不急着选边，而是先定位 disagreement 到底来自 information、measurement、distribution、values 还是 noise。"
+  },
+  "words": [
+    {
+      "word": "complementary error",
+      "type": "academic",
+      "meaningZh": "互补性错误；两个判断者的错误模式不同，因此组合后可能互相弥补",
+      "example": "Human experts and AI can be valuable together when they make complementary errors.",
+      "source": 50
+    },
+    {
+      "word": "automation bias",
+      "type": "academic",
+      "meaningZh": "自动化偏误；过度依赖自动系统建议而减少独立判断或核查",
+      "example": "Automation bias becomes risky when users stop checking unusual recommendations.",
+      "source": 50
+    },
+    {
+      "word": "verification trigger",
+      "type": "academic",
+      "meaningZh": "核查触发器；提示某个案例值得投入额外检查资源的信号",
+      "example": "A large disagreement can serve as a verification trigger.",
+      "source": 50
+    },
+    {
+      "word": "calibration",
+      "type": "academic",
+      "meaningZh": "校准；置信度与实际正确率之间的匹配程度",
+      "example": "Good calibration means confidence rises only when reliability really rises.",
+      "source": 50
+    },
+    {
+      "word": "distribution shift",
+      "type": "academic",
+      "meaningZh": "分布漂移；现实环境与模型训练时的数据分布发生变化",
+      "example": "Distribution shift can make historical patterns less reliable.",
+      "source": 50
+    },
+    {
+      "word": "local context",
+      "type": "vocab",
+      "meaningZh": "局部情境；特定地点、时间或案例才具有的信息",
+      "example": "The employee understood local context that was missing from the dataset.",
+      "source": 50
+    },
+    {
+      "word": "exception",
+      "type": "vocab",
+      "meaningZh": "例外；不符合通常规律的特殊情况",
+      "example": "Humans may notice an exception that a general model treats as routine.",
+      "source": 50
+    },
+    {
+      "word": "independent judgment",
+      "type": "academic",
+      "meaningZh": "独立判断；在未被其他结论明显影响前形成的判断",
+      "example": "Recording an independent judgment before seeing the AI answer can preserve useful information.",
+      "source": 50
+    },
+    {
+      "word": "correlated error",
+      "type": "academic",
+      "meaningZh": "相关错误；多个判断者因共享来源或机制而倾向犯相同错误",
+      "example": "Two systems trained on similar data may produce correlated errors.",
+      "source": 50
+    },
+    {
+      "word": "uncertainty",
+      "type": "vocab",
+      "meaningZh": "不确定性；无法充分确定结果或判断的状态",
+      "example": "Disagreement can reveal uncertainty that an average score hides.",
+      "source": 50
+    },
+    {
+      "word": "anchor",
+      "type": "vocab",
+      "meaningZh": "锚定因素；先出现并影响后续判断的信息",
+      "example": "An AI recommendation can become an anchor for the human reviewer.",
+      "source": 50
+    },
+    {
+      "word": "selective friction",
+      "type": "academic",
+      "meaningZh": "选择性摩擦；只在高价值或高风险节点增加额外检查步骤",
+      "example": "Selective friction can preserve safety without slowing every routine decision.",
+      "source": 50
+    },
+    {
+      "word": "error structure",
+      "type": "academic",
+      "meaningZh": "错误结构；错误在不同类型案例中的分布与关联方式",
+      "example": "Overall accuracy tells us less than the error structure in some high-stakes settings.",
+      "source": 50
+    },
+    {
+      "word": "out-of-domain",
+      "type": "academic",
+      "meaningZh": "域外的；超出模型熟悉或训练范围的",
+      "example": "The model may be less reliable on an out-of-domain case.",
+      "source": 50
+    },
+    {
+      "word": "diagnostic",
+      "type": "vocab",
+      "meaningZh": "诊断性的；有助于识别问题来源的",
+      "example": "A disagreement is useful when it is diagnostic of missing information.",
+      "source": 50
+    },
+    {
+      "word": "diversification",
+      "type": "academic",
+      "meaningZh": "分散化；通过组合不同风险来源降低整体风险",
+      "example": "Diversification works best when the components do not fail in exactly the same way.",
+      "source": 50
+    },
+    {
+      "word": "human oversight",
+      "type": "academic",
+      "meaningZh": "人工监督；由人类审查、干预或负责自动系统决策的机制",
+      "example": "Human oversight is most useful when reviewers retain relevant skills.",
+      "source": 50
+    },
+    {
+      "word": "Disagreement Diagnostic",
+      "type": "proper",
+      "meaningZh": "分歧诊断；本课用于定位两个判断为何冲突的分析框架",
+      "example": "The Disagreement Diagnostic separates missing information from measurement and domain problems.",
+      "source": 50
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Do you think people should always follow AI advice when it is usually more accurate than humans?",
+      "category": "Technology & AI",
+      "framework": "Average accuracy → Type of case → Independent context → Selective verification",
+      "response": "No, I don't think higher average accuracy means people should follow AI advice automatically. A system can be excellent on routine cases but still struggle when the situation is unusual or when important local information is missing. Humans can add value if they understand context that the model has not received, although human intuition can obviously be wrong as well. I think the best approach is selective rather than absolute: use AI heavily where it is reliable, but treat meaningful disagreement as a reason to check what information or assumptions differ.",
+      "expressions": [
+        "Higher average accuracy does not justify automatic trust.",
+        "Humans can add value when they understand context the model has not received.",
+        "Meaningful disagreement can be a reason to check the underlying assumptions."
+      ],
+      "source": 50
+    },
+    {
+      "question": "How can companies make sure that employees do not become too dependent on AI?",
+      "category": "Technology & AI",
+      "framework": "Efficiency → Skill preservation → Independent judgment → Feedback and review",
+      "response": "I think companies need to protect some opportunities for independent judgment. If employees always see the AI answer first, they may gradually stop forming their own view and simply confirm what the system suggests. One practical solution is to ask people to make an initial assessment before seeing the recommendation in important cases, and then investigate large disagreements. Training also matters because human expertise is a stock that can weaken when it is not used. The goal should not be to create unnecessary resistance to AI, but to preserve the skills needed to recognize when the system may be outside its comfort zone.",
+      "expressions": [
+        "Companies need to protect some opportunities for independent judgment.",
+        "Human expertise is a stock that can weaken when it is not used.",
+        "The goal is to preserve the skills needed to recognize unusual cases."
+      ],
+      "source": 50
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Higher average accuracy does not justify automatic trust.",
+      "meaningZh": "更高的平均准确率并不能证明应该自动信任。",
+      "source": 50
+    },
+    {
+      "expression": "Meaningful disagreement can be a reason to check the underlying assumptions.",
+      "meaningZh": "有意义的分歧可以成为检查底层假设的理由。",
+      "source": 50
+    },
+    {
+      "expression": "Human expertise is a stock that can weaken when it is not used.",
+      "meaningZh": "人类专业能力是一种会因长期不用而衰减的存量。",
+      "source": 50
+    }
+  ]
+}

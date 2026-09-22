@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 56,
+  "article": {
+    "n": 56,
+    "title": "Why More Choice Can Make a Market Feel Worse",
+    "category": "Business",
+    "themes": [
+      "Choice Architecture",
+      "Marketplaces",
+      "Search Costs",
+      "Ranking",
+      "Trust",
+      "Platform Design"
+    ],
+    "framework": "More Supply → More Search → Higher Comparison Cost → Reliance on Filters & Rankings → Gatekeeper Power → Market Outcome",
+    "coreIdea": "Expanding choice creates value only when people can evaluate the additional options. As supply grows, scarcity can shift from products to attention, making search tools, rankings, and trust systems increasingly important—and powerful.",
+    "body": "Imagine opening a food-delivery app with five restaurants available. You can scan the options quickly, compare prices, and choose. Now imagine the same app with five thousand restaurants. The larger market clearly contains more possible matches. Somewhere inside it may be the perfect meal at the perfect price. Yet your experience can become worse, not better, because the scarce resource is no longer supply. It is your attention.\n\nEconomics often treats greater variety as a benefit because consumers with different preferences can find products closer to what they want. Digital marketplaces have pushed this logic further by making shelf space almost unlimited. An online store can list millions of products, a streaming service can host enormous libraries, and a job platform can display thousands of vacancies. But abundance creates a second problem: finding the right option.\n\nThis is a search-cost problem. Search costs include the time, effort, and information required to locate and evaluate alternatives. When there are only a few options, consumers can inspect each one. As the set expands, exhaustive comparison becomes impossible. People need shortcuts: categories, filters, reviews, recommendations, bestseller lists, or rankings.\n\nThese tools reduce friction, but they also change the market. Once consumers depend on a ranking system, being visible near the top becomes economically valuable. A restaurant on page one may receive far more orders than an equally good restaurant buried on page twenty. The marketplace is no longer merely hosting supply and demand. It is organizing attention.\n\nThis creates what we can call an attention bottleneck. In #54, we used the Bottleneck Shift Test to show that making one part of a system abundant can move scarcity elsewhere. Marketplaces illustrate the same mechanism. Digital technology makes listing capacity abundant, so the bottleneck shifts toward discovery. As discovery becomes scarce, the systems controlling discovery gain power.\n\nRankings are therefore not neutral decorations. They allocate a limited resource: user attention. The exact rule matters. A platform might rank products by relevance, popularity, predicted purchase probability, customer ratings, advertising payments, or some combination. Each metric creates different incentives for sellers and different experiences for consumers.\n\nSuppose a marketplace rewards products that receive many clicks. Sellers then have an incentive to improve thumbnails, titles, and prices in ways that attract clicks. Some of this competition is useful: clearer presentation helps customers. But if clicks become the dominant proxy for quality, sellers may learn to optimize curiosity rather than satisfaction. This is another version of #49's Incentive Audit: the measured target can gradually reshape behavior around itself.\n\nFeedback loops can amplify the effect. A product ranked highly receives more views. More views create more purchases and reviews. Those signals may cause the algorithm to rank the product even higher. Early visibility can therefore produce later visibility. Meanwhile, a new product may struggle to collect evidence of quality because few people see it in the first place.\n\nThis is sometimes called a rich-get-richer dynamic. It does not mean the popular product is bad. Popularity can contain useful information: if thousands of customers repeatedly choose and rate an item highly, that is evidence. The problem is causal ambiguity. Did the product become popular because it was better, or does it now appear better because early popularity gave it more opportunities to be chosen?\n\nThat distinction connects to our earlier causality tools. Observing that highly ranked products sell more does not prove that the ranking merely identified superior products. The ranking itself may cause some of the sales. In other words, selection and treatment are mixed together: the algorithm selects products based on expected performance, then changes performance by exposing them to more people.\n\nReviews provide another solution to abundance, but they introduce measurement problems of their own. A five-star average compresses many dimensions—quality, delivery, price, expectations, customer type—into one number. Two products with identical averages may have very different distributions of experiences. One may satisfy almost everyone; another may delight half its users and disappoint the rest.\n\nThe number of reviews also matters. A 4.9 rating from twelve people and a 4.7 rating from twelve thousand people carry different levels of uncertainty. Consumers often understand this intuitively, but interfaces can make the distinction more or less salient. Good marketplace design does not merely provide more information; it helps users interpret the reliability of that information.\n\nTrust becomes especially important when quality is difficult to observe before purchase. Marketplaces may respond with verified-purchase labels, refund policies, seller histories, quality checks, or guarantees. These mechanisms are costly, but they reduce uncertainty and can support transactions that otherwise would not happen. Trust infrastructure is therefore not an optional extra. In markets with many unfamiliar sellers, it can be part of the product.\n\nThere is a business trade-off here. A platform wants enough sellers to increase variety and competition, but unlimited low-quality supply can increase search costs and weaken trust. Removing too many sellers reduces choice; admitting everyone without effective organization can create noise. The optimal marketplace is not necessarily the one with the largest raw inventory. It is the one that turns inventory into useful matches.\n\nThis extends #41's lesson on choice overload from individual psychology to market structure. As choice expands, an entire layer of intermediaries becomes more valuable. Search engines, recommendation algorithms, comparison sites, influencers, curators, and rating systems all exist partly because abundance creates demand for selection.\n\nThat layer can become a new gatekeeper. If most customers discover products through a few ranking systems, sellers must adapt to those systems. A small change in an algorithm can shift demand across thousands of businesses. Power therefore moves from controlling production or shelf space toward controlling discovery.\n\nThere are second-order effects on product design. When sellers know how discovery works, they may design not only for customers but also for the ranking mechanism. Writers think about search keywords, restaurants think about app photography, creators think about recommendation algorithms, and merchants think about review scores. The interface between seller and algorithm becomes part of competition.\n\nToday's transferable tool is the Discovery Gap Test. Whenever supply expands rapidly, ask four questions. First, how much has the number of options increased? Second, has the user's ability to evaluate them increased at the same rate? Third, what intermediary now helps allocate attention? Fourth, what incentives and feedback loops does that intermediary create?\n\nThe framework applies far beyond shopping. Universities face thousands of applicants, employers receive enormous numbers of résumés, investors scan huge numbers of assets, and social-media users encounter more content than they could consume in a lifetime. In each case, more supply increases potential value but also raises the value of filtering.\n\nThis gives us a stock-and-flow interpretation. New options arrive as a flow. Human attention is a limited stock. Filters and rankings determine which part of that flow reaches the stock of attention. If supply grows faster than evaluation capacity, discovery becomes the scarce layer.\n\nSo “more choice” is not a complete description of a better market. Variety creates opportunity, but opportunity must be discoverable. When abundance grows, the most important economic question may shift from “Who can produce?” to “Who gets seen?” And once visibility becomes scarce, the rules that allocate it become part of the market itself.",
+    "summaryZh": "今天把 #41 的 choice overload 和 #54 的 Bottleneck Shift Test 推到市场层面：当商品、内容、职位或卖家数量暴增时，scarcity 会从 supply 转移到 discovery 与 attention。\n\n核心机制是：More Supply → More Search → Higher Comparison Cost → Reliance on Filters & Rankings → Gatekeeper Power → Market Outcome。数字平台几乎消除了 shelf-space scarcity，但人的 attention 没有同步增长，于是 search cost 上升。消费者开始依赖 filters、reviews、rankings、recommendations，而这些原本只是辅助工具的系统，逐渐变成真正分配稀缺注意力的基础设施。\n\n这直接连接 #54：abundance in one stage creates a new bottleneck elsewhere。产品供给 abundant 之后，discovery 成为 bottleneck。也连接 #49 Incentive Audit：如果 ranking 奖励 clicks，卖家就会优化 clicks；如果奖励 review score，就会围绕评分机制竞争。Metric 不只是测量市场，还会反过来塑造市场行为。\n\n文章进一步加入 feedback loop 与 causality。高排名 → 更多曝光 → 更多购买/评价 → 更高排名，因此 popularity 既可能是 quality 的 signal，也可能部分是 visibility 的结果。看到“排名高的卖得更多”不能直接推出“算法只是准确识别了更好的商品”，因为 ranking 本身就是 treatment。\n\nReviews 同样涉及 measurement：4.9/5 把很多维度压成一个数字，而且 sample size 决定 uncertainty。好的平台不是单纯塞给用户更多信息，而是帮助用户判断信息可靠性。\n\n商业上因此出现新的 trade-off：更多 sellers 能提高 variety 和 competition，但低质量供给无限增加也会提高 search cost、降低 trust。真正优秀的 marketplace 不是 raw inventory 最大，而是把 inventory 转化成 useful matches 的能力最强。\n\n今天的新工具是 Discovery Gap Test：Supply 增长多少？→ Evaluation capacity 是否同步增长？→ 谁开始负责 filtering？→ 这个 intermediary 创造了什么 incentives 与 feedback loops？它可以迁移到招聘、大学申请、投资、社交媒体等“供给爆炸”的场景。最终问题会从“谁能生产？”转成“谁能被看见？”"
+  },
+  "words": [
+    {
+      "word": "search cost",
+      "type": "academic",
+      "meaningZh": "搜索成本；寻找、比较和评估选项所需的时间、精力与信息",
+      "example": "Online marketplaces reduce some transaction costs while creating new search costs.",
+      "source": 56
+    },
+    {
+      "word": "attention bottleneck",
+      "type": "academic",
+      "meaningZh": "注意力瓶颈；供给远多于人能处理的信息时，注意力成为限制因素",
+      "example": "Once product supply becomes abundant, attention can become the main bottleneck.",
+      "source": 56
+    },
+    {
+      "word": "ranking system",
+      "type": "academic",
+      "meaningZh": "排序系统；按特定规则决定展示顺序的机制",
+      "example": "A ranking system can strongly influence which sellers receive demand.",
+      "source": 56
+    },
+    {
+      "word": "discovery",
+      "type": "vocab",
+      "meaningZh": "发现；用户找到原本不知道或难以定位的选项的过程",
+      "example": "Good discovery tools help consumers navigate large markets.",
+      "source": 56
+    },
+    {
+      "word": "exhaustive",
+      "type": "vocab",
+      "meaningZh": "穷尽的；把所有可能选项都检查一遍的",
+      "example": "Exhaustive comparison becomes impossible when a platform lists millions of products.",
+      "source": 56
+    },
+    {
+      "word": "proxy",
+      "type": "academic",
+      "meaningZh": "代理指标；用来近似衡量真正目标的可观测指标",
+      "example": "Clicks are an imperfect proxy for customer satisfaction.",
+      "source": 56
+    },
+    {
+      "word": "feedback loop",
+      "type": "academic",
+      "meaningZh": "反馈回路；某结果反过来加强产生该结果的机制",
+      "example": "Early visibility can create a feedback loop that produces even more visibility.",
+      "source": 56
+    },
+    {
+      "word": "rich-get-richer dynamic",
+      "type": "academic",
+      "meaningZh": "强者愈强机制；已有优势通过反馈进一步累积",
+      "example": "Recommendation systems can sometimes create a rich-get-richer dynamic.",
+      "source": 56
+    },
+    {
+      "word": "causal ambiguity",
+      "type": "academic",
+      "meaningZh": "因果歧义；观察结果无法清楚区分不同因果机制",
+      "example": "Popularity creates causal ambiguity because visibility can itself generate sales.",
+      "source": 56
+    },
+    {
+      "word": "exposure",
+      "type": "vocab",
+      "meaningZh": "曝光；商品、内容或信息被用户看到的机会",
+      "example": "Higher exposure gives a product more opportunities to be purchased.",
+      "source": 56
+    },
+    {
+      "word": "verified purchase",
+      "type": "academic",
+      "meaningZh": "已验证购买；平台确认评价者实际购买过商品的标记",
+      "example": "A verified-purchase label can make reviews more trustworthy.",
+      "source": 56
+    },
+    {
+      "word": "trust infrastructure",
+      "type": "academic",
+      "meaningZh": "信任基础设施；帮助陌生交易双方降低不确定性的制度和工具",
+      "example": "Refund policies and seller histories are forms of trust infrastructure.",
+      "source": 56
+    },
+    {
+      "word": "gatekeeper",
+      "type": "vocab",
+      "meaningZh": "把关者；控制他人进入、曝光或获得机会的主体",
+      "example": "A dominant recommendation system can become a powerful gatekeeper.",
+      "source": 56
+    },
+    {
+      "word": "intermediary",
+      "type": "academic",
+      "meaningZh": "中介；连接供需双方并帮助完成匹配的主体",
+      "example": "Search engines act as intermediaries between abundant information and limited attention.",
+      "source": 56
+    },
+    {
+      "word": "raw inventory",
+      "type": "vocab",
+      "meaningZh": "原始库存规模；平台拥有的全部未筛选供给",
+      "example": "A larger raw inventory does not guarantee a better user experience.",
+      "source": 56
+    },
+    {
+      "word": "evaluation capacity",
+      "type": "academic",
+      "meaningZh": "评估能力；有效比较和判断选项的处理能力",
+      "example": "Supply can grow much faster than evaluation capacity.",
+      "source": 56
+    },
+    {
+      "word": "choice architecture",
+      "type": "academic",
+      "meaningZh": "选择架构；选项排列、默认值和呈现方式构成的决策环境",
+      "example": "Marketplace rankings are part of the consumer's choice architecture.",
+      "source": 56
+    },
+    {
+      "word": "Discovery Gap Test",
+      "type": "proper",
+      "meaningZh": "发现缺口测试；分析供给增长是否超过筛选与评估能力的框架",
+      "example": "The Discovery Gap Test asks who controls attention when supply becomes abundant.",
+      "source": 56
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Do you think having more choices always benefits consumers?",
+      "category": "Business",
+      "framework": "Variety benefit → Search costs → Filtering → Quality of choice",
+      "response": "Not necessarily. More choice can be valuable because people have a better chance of finding something that matches their preferences, but that only works if they can evaluate the options. When there are thousands of alternatives, search costs rise and people become more dependent on rankings, reviews and recommendations. So I think the quality of the filtering system matters almost as much as the amount of choice itself. In some cases, a smaller but well-organized set of options may actually produce better decisions than a huge catalogue.",
+      "expressions": [
+        "More choice is useful only if people can evaluate the options.",
+        "The quality of filtering matters almost as much as the amount of choice.",
+        "A larger catalogue does not automatically produce better decisions."
+      ],
+      "source": 56
+    },
+    {
+      "question": "Why do recommendation algorithms have so much influence on online businesses?",
+      "category": "Business",
+      "framework": "Limited attention → Ranking → Visibility → Demand → Feedback",
+      "response": "I think their influence comes from the scarcity of attention. Online platforms may contain millions of products or pieces of content, so users cannot inspect everything themselves. Recommendation systems decide what becomes visible, and visibility can directly affect demand. There is also a feedback effect: items that receive more exposure may collect more clicks, sales and reviews, which can then improve their future ranking. That means algorithms do not simply describe what is popular; they can partly shape popularity as well.",
+      "expressions": [
+        "Their influence comes from the scarcity of attention.",
+        "Visibility can directly affect demand.",
+        "Algorithms can partly shape popularity rather than merely measure it."
+      ],
+      "source": 56
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "More choice is useful only if people can evaluate the options.",
+      "meaningZh": "只有当人们能够评估这些选项时，更多选择才真正有用。",
+      "source": 56
+    },
+    {
+      "expression": "The quality of filtering matters almost as much as the amount of choice.",
+      "meaningZh": "筛选质量几乎和选择数量本身一样重要。",
+      "source": 56
+    },
+    {
+      "expression": "Algorithms can partly shape popularity rather than merely measure it.",
+      "meaningZh": "算法不只是衡量流行度，也可能部分塑造流行度。",
+      "source": 56
+    }
+  ]
+}

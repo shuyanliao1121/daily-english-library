@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 53,
+  "article": {
+    "n": 53,
+    "title": "Why a Higher Price Can Sometimes Increase Demand",
+    "category": "Finance & Economics",
+    "themes": [
+      "Price Signals",
+      "Information Asymmetry",
+      "Status Goods",
+      "Demand",
+      "Signaling",
+      "Consumer Behavior"
+    ],
+    "framework": "Uncertain Quality or Status → Observe Price → Infer Hidden Information → Update Perceived Value → Demand Response",
+    "coreIdea": "Price is not only a cost. When buyers cannot directly observe quality, scarcity, or status, price can also become information. In some markets, raising price can therefore increase perceived value or desirability, although this effect has strict limits.",
+    "body": "Imagine walking into a shop and seeing two bottles of olive oil. They look similar, the labels provide little information you understand, and you cannot taste either one before buying. One costs $12 and the other $38. If you know almost nothing else, you may suspect that the expensive bottle is better. The higher price makes the product harder to buy, but it also gives you a clue about something you cannot directly observe.\n\nIn basic economics, price is usually treated as a cost. When the price of a normal good rises, consumers tend to buy less of it, all else being equal. This relationship is so useful that it forms the familiar downward-sloping demand curve. Yet real markets contain uncertainty. Buyers often cannot perfectly judge quality before purchase, and sometimes they care about what a product communicates to other people. Under those conditions, price can play a second role: it can become a signal.\n\nThis is especially important when there is information asymmetry. Information asymmetry exists when one side of a transaction knows something the other side does not. A restaurant knows more about its ingredients than a first-time customer. A university applicant cannot fully observe the future quality of a course. A buyer of professional services may struggle to judge expertise before receiving the service. When direct evaluation is difficult, people search for proxies.\n\nPrice can become one of those proxies. If producing higher quality is genuinely more expensive, a higher price may contain useful information. Better materials, skilled labor, careful testing, or limited production can raise costs. Consumers may therefore learn that, on average, very cheap versions are less likely to contain these features. \nThe problem is causality. “Expensive products are sometimes high quality” does not imply “making a product expensive makes it high quality.” A price can reflect quality without causing quality. This is the same distinction we have used throughout earlier lessons: a visible signal must be separated from the mechanism that generated it.\n\nSuppose a company takes an ordinary product and doubles its price without changing anything else. Some buyers may initially infer higher quality, especially if they lack other information. But if reviews, repeated experience, or expert comparisons reveal that the product is ordinary, the signal loses credibility. Price can support a belief only while the surrounding evidence remains consistent with it.\n\nThis introduces signaling. A signal is an observable feature that communicates hidden information. For a signal to remain informative, it often needs to be harder for low-quality sellers to imitate. A professional qualification, for example, can signal knowledge partly because earning it requires time and effort. In markets, warranties, return policies, reputation, and price can all function as signals sometimes.\n\nHere we can connect to reference points. A $100 pair of headphones may seem expensive next to a $40 pair but inexpensive next to a $500 pair. The surrounding price range changes what counts as “premium,” “reasonable,” or “cheap.” Firms understand this, which is why product lines often contain multiple tiers. The highest-priced option may sell relatively little while still changing how customers interpret the middle option.\n\nStatus creates another mechanism. Some goods are valuable partly because they are expensive and difficult for everyone to obtain. Economists sometimes discuss Veblen goods, named after economist Thorstein Veblen, in which higher prices can increase desirability for some consumers because the price itself contributes to the product's status function. A luxury watch does more than tell time; it may also communicate wealth, taste, membership, or exclusivity.\n\nThis is different from ordinary quality signaling. With quality signaling, the buyer thinks, “It costs more, so perhaps it is better made.” With status signaling, the buyer may think, “It costs more, so owning it communicates something.” The first is an inference about the product. The second is partly an inference about the owner.\n\nScarcity can reinforce both effects. Limited supply may justify a higher price, while the higher price and limited availability together make the product feel exclusive. But #42 gives us a warning: difficulty of access can signal value without proving it. Artificial scarcity can create attention in the short run, yet damage trust if consumers conclude that the restriction exists only to manufacture hype.\n\nSocial proof from #44 can amplify the process. If high-status consumers adopt an expensive product, observers may infer that those consumers possess better information or desirable taste. Their adoption creates attention, which attracts more buyers, which strengthens the product's cultural position. Price, status, and social proof can therefore form a feedback loop.\n\nHowever, this does not repeal the law of demand. For most products and most consumers, higher prices still reduce quantity demanded. Even luxury brands face limits. A price increase can strengthen a status signal while simultaneously making the product unaffordable to more people. The final effect depends on which force is stronger.\n\nThis is why market segmentation matters. Different consumers can interpret the same price differently. A price-sensitive buyer sees a higher sacrifice. A quality-uncertain buyer may see reassurance. A status-oriented buyer may see exclusivity. There is no single psychological response to price because buyers have different objectives and information.\n\nMeasurement becomes important when companies test pricing. Suppose a brand raises prices and revenue increases. Did consumers suddenly value the product more? Not necessarily. Revenue equals price multiplied by quantity, so revenue can rise even if fewer units are sold. The company must separate changes in unit demand, customer mix, repeat purchases, and long-term brand perception.\n\nThis connects directly to #52's Process-Outcome Split. A successful price increase does not automatically prove the pricing theory was correct. Perhaps competitors raised prices at the same time, demand in the whole category increased, or loyal customers had not yet adjusted. One favorable outcome is evidence, but it does not identify the causal mechanism.\n\nThere are second-order effects as well. If high prices become a strong quality signal, firms gain an incentive to spend resources on maintaining a premium image. Some of that investment may improve the product; some may go toward packaging, locations, endorsements, or controlled distribution. The signal can gradually influence the thing it was originally supposed to describe.\n\nToday's transferable tool is the Price Decomposition. When a price seems to affect demand, separate four possible roles: Cost, Quality Signal, Status Signal, and Reference Point. Then ask which mechanism is active for which consumers. A price change can move all four at once, sometimes in opposite directions.\n\nThis framework is useful beyond luxury products. Tuition, professional fees, software plans, restaurant menus, investment products, and even salaries can be interpreted partly through price-like signals. A low price may attract buyers while also creating doubt; a high price may discourage buyers while reassuring others. The relevant question is not simply whether price went up or down, but what information people believe the price contains.\n\nPrice is therefore both arithmetic and communication. It determines what buyers must give up, but in uncertain markets it can also shape what they think they are getting. Good analysis keeps those roles separate. Before concluding that people irrationally “want something because it is expensive,” ask what the price is signaling, whether the signal is credible, and whether the buyer is paying for quality, status, or merely a story.",
+    "summaryZh": "今天把最基础的“价格上涨 → 需求下降”往前推了一层：price 首先是 cost，但在存在 uncertainty 和 information asymmetry 的市场里，它也可能成为 information。于是同一次涨价可能同时产生两个方向相反的力量：更贵让购买成本上升，却也可能让一部分消费者推断质量、稀缺性或地位更高。\n\n核心链条是：Uncertain Quality or Status → Observe Price → Infer Hidden Information → Update Perceived Value → Demand Response。这里必须接 causality：High Price 与 High Quality 可以相关，但“把价格抬高”并不会自动制造质量。只有当 reviews、experience、reputation 等其他证据与价格一致时，price signal 才能长期保持 credibility。\n\n文章进一步区分 Quality Signal 和 Status Signal。前者是“贵，所以可能做得更好”；后者是“贵，所以拥有它本身能传递 exclusivity / wealth / taste”。Veblen goods 是后一机制的极端案例，但这并不推翻一般 demand law：更高价格仍会让很多消费者退出，最终效果取决于 cost effect 与 signaling effect 谁更强，以及面对的是哪一类消费者。\n\n它还能接 #42 scarcity：难获得可以传递价值，却不证明价值；接 #44 social proof：高地位人群的采用可能与高价一起形成 feedback；接 #52 Process-Outcome Split：涨价后 revenue 上升不等于“高价提升需求”的理论就被证明，因为 revenue、quantity、customer mix 与 market trend 必须拆开测量。\n\n今天的新工具是 Price Decomposition：Cost → Quality Signal → Status Signal → Reference Point。看到任何“价格影响选择”的案例，不直接用“贵/便宜”解释，而是问价格在这个消费者眼里究竟扮演哪几个角色，以及这些角色是否朝同一方向作用。"
+  },
+  "words": [
+    {
+      "word": "information asymmetry",
+      "type": "academic",
+      "meaningZh": "信息不对称；交易一方掌握的信息多于另一方",
+      "example": "Information asymmetry makes it difficult for buyers to judge quality before purchase.",
+      "source": 53
+    },
+    {
+      "word": "price signal",
+      "type": "academic",
+      "meaningZh": "价格信号；价格向消费者传递的质量、稀缺性或定位信息",
+      "example": "A high price can act as a price signal when quality is difficult to observe.",
+      "source": 53
+    },
+    {
+      "word": "proxy",
+      "type": "academic",
+      "meaningZh": "代理指标；用来间接代表难以直接观察事物的指标",
+      "example": "Consumers sometimes use price as a proxy for quality.",
+      "source": 53
+    },
+    {
+      "word": "signaling",
+      "type": "academic",
+      "meaningZh": "信号传递；通过可观察特征传递隐藏信息的过程",
+      "example": "Professional qualifications can function as a form of signaling.",
+      "source": 53
+    },
+    {
+      "word": "credibility",
+      "type": "vocab",
+      "meaningZh": "可信度",
+      "example": "A price signal loses credibility when experience repeatedly contradicts it.",
+      "source": 53
+    },
+    {
+      "word": "reference point",
+      "type": "academic",
+      "meaningZh": "参照点；评价价格或结果时使用的比较基准",
+      "example": "The premium option can change the reference point for the middle-priced product.",
+      "source": 53
+    },
+    {
+      "word": "status signal",
+      "type": "academic",
+      "meaningZh": "地位信号；用于传递财富、身份或群体归属的信息",
+      "example": "Luxury products can operate partly as status signals.",
+      "source": 53
+    },
+    {
+      "word": "quality signal",
+      "type": "academic",
+      "meaningZh": "质量信号；用于推断产品隐藏质量的信息",
+      "example": "A long warranty may provide a stronger quality signal than a high price alone.",
+      "source": 53
+    },
+    {
+      "word": "Veblen good",
+      "type": "academic",
+      "meaningZh": "凡勃伦商品；价格较高可能因地位展示功能而增强部分消费者需求的商品",
+      "example": "A Veblen good may become more desirable to some buyers when its price reinforces exclusivity.",
+      "source": 53
+    },
+    {
+      "word": "exclusivity",
+      "type": "vocab",
+      "meaningZh": "专属性；因稀缺或限制获得而产生的独特地位",
+      "example": "Limited distribution can increase a brand's sense of exclusivity.",
+      "source": 53
+    },
+    {
+      "word": "market segmentation",
+      "type": "academic",
+      "meaningZh": "市场细分；按照需求、行为或特征将消费者划分为不同群体",
+      "example": "Market segmentation helps explain why buyers respond differently to the same price.",
+      "source": 53
+    },
+    {
+      "word": "price-sensitive",
+      "type": "vocab",
+      "meaningZh": "价格敏感的",
+      "example": "Price-sensitive consumers may leave quickly after a large increase.",
+      "source": 53
+    },
+    {
+      "word": "unit demand",
+      "type": "academic",
+      "meaningZh": "单位需求量；实际购买的产品数量",
+      "example": "Revenue can rise even while unit demand falls.",
+      "source": 53
+    },
+    {
+      "word": "customer mix",
+      "type": "academic",
+      "meaningZh": "客户构成；不同类型客户在总体客户中的组合",
+      "example": "A higher price may change the customer mix even if total revenue increases.",
+      "source": 53
+    },
+    {
+      "word": "controlled distribution",
+      "type": "academic",
+      "meaningZh": "控制性分销；限制销售渠道以管理品牌定位或稀缺性的策略",
+      "example": "Some luxury brands use controlled distribution to protect exclusivity.",
+      "source": 53
+    },
+    {
+      "word": "premium",
+      "type": "vocab",
+      "meaningZh": "高端的；相对更高价或更高定位的",
+      "example": "The company introduced a premium version for customers seeking additional features.",
+      "source": 53
+    },
+    {
+      "word": "Thorstein Veblen",
+      "type": "proper",
+      "meaningZh": "索尔斯坦·凡勃伦；提出炫耀性消费等思想的经济学家、社会学家",
+      "example": "Thorstein Veblen analyzed how consumption can communicate social status.",
+      "source": 53
+    },
+    {
+      "word": "Price Decomposition",
+      "type": "proper",
+      "meaningZh": "价格拆解；本课将价格分为成本、质量信号、地位信号和参照点四种作用的框架",
+      "example": "The Price Decomposition helps explain why the same price increase can produce different reactions.",
+      "source": 53
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why do some people believe that expensive products are better quality?",
+      "category": "Finance & Economics",
+      "framework": "Uncertain quality → Price as proxy → Supporting evidence → Possible error",
+      "response": "I think price becomes especially influential when people cannot judge quality directly. If two products look similar but one is much more expensive, consumers may assume that the higher price reflects better materials, skilled production or stronger quality control. That inference can sometimes be reasonable, but price is only a proxy, not proof. A company can charge more without improving the product. So I think people should treat price as one signal among several and compare it with reviews, reputation and their own experience.",
+      "expressions": [
+        "Price becomes influential when quality is difficult to judge directly.",
+        "Price is a proxy, not proof.",
+        "I would treat price as one signal among several."
+      ],
+      "source": 53
+    },
+    {
+      "question": "Do you think luxury goods are mainly about quality or social status?",
+      "category": "Finance & Economics",
+      "framework": "Functional quality → Scarcity → Status communication → Different consumer motives",
+      "response": "I think it depends on both the product and the buyer. Some luxury goods genuinely use better materials or more skilled craftsmanship, so part of the price can reflect functional quality. However, exclusivity also matters because owning something expensive can communicate wealth, taste or membership in a particular group. For some consumers that social meaning is part of the value rather than an accidental side effect. I would therefore avoid saying luxury is purely irrational; the important question is what kind of value the buyer is actually purchasing.",
+      "expressions": [
+        "Exclusivity can be part of the value rather than an accidental side effect.",
+        "Different consumers may be purchasing different kinds of value.",
+        "The important question is what kind of value the buyer is actually purchasing."
+      ],
+      "source": 53
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Price is a proxy, not proof.",
+      "meaningZh": "价格是代理信号，而不是证明；适合消费、质量判断和数据指标话题。",
+      "source": 53
+    },
+    {
+      "expression": "I would treat price as one signal among several.",
+      "meaningZh": "我会把价格视为多个信号之一；适合表达审慎判断。",
+      "source": 53
+    },
+    {
+      "expression": "Different consumers may be purchasing different kinds of value.",
+      "meaningZh": "不同消费者可能购买的是不同类型的价值；适合消费、奢侈品和市场细分话题。",
+      "source": 53
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 49,
+  "article": {
+    "n": 49,
+    "title": "Why Good Incentives Can Produce Bad Results",
+    "category": "Finance & Economics",
+    "themes": [
+      "Principal-Agent Problem",
+      "Incentives",
+      "Information Asymmetry",
+      "Measurement",
+      "Goodhart's Law",
+      "Risk"
+    ],
+    "framework": "Different Objectives → Hidden Information or Action → Measurable Target → Strategic Response → Intended and Unintended Outcomes",
+    "coreIdea": "Incentives work through what people can observe, measure, and control. Rewarding an imperfect proxy can improve the metric while weakening the underlying objective.",
+    "body": "Imagine that a company wants its sales team to grow revenue, so it pays employees a large bonus for every new contract they sign. Sales rise quickly. At first, the incentive looks successful. But several months later, customer complaints increase, discounts become unusually generous, and some clients cancel because they were sold products that did not fit their needs. The employees responded exactly to the reward they were given. The problem was that “number of contracts” was only an imperfect measure of what the company actually wanted.\n\nThis is a classic incentive problem. Incentives change the benefits and costs attached to different actions, so they can be powerful tools for shaping behavior. Yet an incentive does not directly reward an abstract goal such as “create long-term value.” It usually rewards something observable: sales, test scores, clicks, profit, attendance, output, or another measurable result. The gap between the true objective and the measurable target is where many unintended consequences begin.\n\nEconomists often analyze this through the principal-agent problem. A principal is a person or organization that wants someone else to act on its behalf. The agent is the person making the decision or performing the work. A shareholder may be the principal and a manager the agent. A patient may rely on a professional adviser. A company may hire employees to serve customers. The difficulty is that the principal and agent may not have exactly the same objectives.\n\nThe problem becomes stronger when there is information asymmetry. The agent often knows more about their own actions than the principal can observe. A manager knows how much effort went into a project. A salesperson knows what was promised during a private conversation. An employee may understand which tasks are genuinely useful and which ones merely look productive. Monitoring every action would be expensive or impossible.\n\nBecause direct observation is limited, principals use proxies. A proxy is a measurable variable that stands in for something harder to observe. Revenue may stand in for business performance. Grades may stand in for learning. Response time may stand in for customer service. Proxies are necessary because complex goals cannot always be measured directly. But every proxy captures some parts of reality better than others.\n\nThis connects immediately to Goodhart's Law from earlier lessons: when a measure becomes a target, it can stop being a good measure. Before bonuses are introduced, the number of contracts may correlate reasonably well with good sales performance. After contracts become the basis for pay, employees have a new reason to maximize that number specifically. They may discover ways to increase the metric without creating proportional value.\n\nThis does not mean employees are dishonest. Strategic response can be completely rational. Suppose a teacher is evaluated mainly through student test scores. The teacher may spend more time on material likely to appear on the exam and less time on broader discussion. Test performance can improve even if deeper learning does not improve by the same amount. The incentive changes the allocation of scarce classroom time.\n\nThe first-order effect may therefore look excellent. The measured target improves. The second-order effects appear elsewhere: quality falls, risk rises, neglected tasks accumulate, or people learn to game the system. This is why incentive design requires system-level thinking rather than simply asking whether the rewarded metric increased.\n\nRisk is especially important in finance. Imagine a trader who receives a large bonus when annual profits are high but does not personally bear an equivalent loss when risky bets fail. The reward is asymmetric: much of the upside is private, while part of the downside may be absorbed by the firm, investors, or even the wider financial system. This can encourage excessive risk-taking.\n\nEconomists use the term moral hazard for situations in which protection from some consequences changes behavior. Insurance provides a simple example. If a person is fully protected from the financial cost of damage, they may have slightly less incentive to avoid risk.\n\nNotice the difference between moral hazard and adverse selection. Moral hazard concerns behavior after protection or a contract changes incentives. Adverse selection concerns hidden information before an agreement is made. For example, people who know they face unusually high health risks may be more eager to buy generous insurance. One is mainly a hidden-action problem; the other is mainly a hidden-information problem.\n\nThese ideas connect to #44's Independence Check and #45's Disconfirmation Test because measurement systems can create their own evidence. If a company rewards employees for increasing a metric, and the metric then rises, management should not automatically treat the increase as independent proof that the underlying strategy is working. The incentive itself helped produce the observation.\n\nThey also connect to #47's rebound effect. Making one behavior more rewarding can change the scale of that behavior and shift scarcity elsewhere. If customer-support workers are rewarded only for answering tickets quickly, response time may fall while the scarce resource becomes careful problem solving. Efficiency in the measured dimension can create congestion or quality problems in an unmeasured dimension.\n\nAnother solution is to change the time horizon. Short-term incentives often encourage actions that improve current results while creating future costs. A manager rewarded only for this year's profit may delay maintenance or cut investment. If part of the reward depends on performance several years later, long-term consequences become more relevant. The design changes which future costs the agent has reason to consider.\n\nThis is a stock-versus-flow problem too. Quarterly profit is a flow. Brand reputation, employee capability, customer trust, infrastructure, and research knowledge are stocks built over time. Maximizing a visible flow can damage the stocks that produce future flows. A company can appear efficient today by consuming assets that will be expensive to rebuild tomorrow.\n\nStill, no incentive system is perfect. Adding more metrics can create confusion, and monitoring can become costly. Some important qualities, such as judgment, creativity, trust, and cooperation, are difficult to quantify. If organizations try to measure everything, employees may spend more time proving that they are working than doing valuable work.\n\nThe practical tool for today is the Incentive Audit. First, identify the real objective. Second, identify the metric or behavior being rewarded. Third, ask what information the agent has that the principal cannot easily observe. Fourth, imagine how a rational person could improve the metric without improving the objective. Finally, check where risks and delayed costs are likely to appear.\n\nThe broader lesson is not that incentives are dangerous. Without incentives, many forms of cooperation would be harder. The lesson is that people respond to the incentive that actually exists, not the goal that the designer had in mind. A well-designed system therefore asks not only, “What behavior do we want?” but also, “What behavior will a smart person produce if this is exactly how we measure and reward them?”\n\nWhen a metric suddenly improves after an incentive is introduced, celebrate carefully. The number may represent real progress. But before concluding that the underlying goal has improved, ask one more question: “If I were rewarded for this metric, how would I make the number go up?” The answer often reveals what the measurement is missing.",
+    "summaryZh": "今天把 incentives 从“奖励会让人更努力”推进到一个更完整的 principal-agent framework。核心链条是：Different Objectives → Hidden Information / Action → Measurable Proxy → Strategic Response → Intended + Unintended Outcomes。Principal 想要长期价值、真正学习或优质服务，但这些目标往往无法直接观察，于是只能奖励 revenue、test scores、response time 等 proxy。只要 proxy ≠ true objective，优化空间就出现了。\n\n这直接接 Goodhart's Law：一个指标在“只是测量”时可能很好，一旦变成奖金、考核或排名目标，人会主动优化它，原来的相关性就可能被破坏。第一阶效果可能是 metric ↑，第二阶效果却可能是 quality ↓、risk ↑、unmeasured work 被忽视。\n\n今天还区分 moral hazard 与 adverse selection：前者偏 hidden action，指合同或保护建立后，因为后果承担方式变化而改变行为；后者偏 hidden information，发生在签约前的信息不对称。\n\n文章也接 #47 的 scarcity relocation：客服只奖励速度时，response time 会下降，但 careful problem solving 可能成为新 bottleneck；又接 stock vs flow：季度利润是 flow，品牌、能力、信任和基础设施是 stock。为了漂亮的短期 flow 消耗长期 stock，可能只是把成本推迟。\n\n今天的新工具是 Incentive Audit：Real Objective → Rewarded Metric → Hidden Information → Gaming Route → Risk / Delayed Cost。最关键的问题不是“这个指标涨了吗”，而是：“如果我就是被这个指标奖励的人，我会怎样让它上涨？”"
+  },
+  "words": [
+    {
+      "word": "principal-agent problem",
+      "type": "academic",
+      "meaningZh": "委托—代理问题；委托人与行动者目标或信息不完全一致",
+      "example": "The principal-agent problem becomes serious when managers can take actions shareholders cannot easily observe.",
+      "source": 49
+    },
+    {
+      "word": "principal",
+      "type": "academic",
+      "meaningZh": "委托人；授权他人代表自己行动的一方",
+      "example": "The principal wants the agent to protect the long-term value of the business.",
+      "source": 49
+    },
+    {
+      "word": "agent",
+      "type": "academic",
+      "meaningZh": "代理人；代表委托人采取行动的一方",
+      "example": "An agent may have more information about daily operations than the principal.",
+      "source": 49
+    },
+    {
+      "word": "information asymmetry",
+      "type": "academic",
+      "meaningZh": "信息不对称",
+      "example": "Information asymmetry makes it difficult to design perfect contracts.",
+      "source": 49
+    },
+    {
+      "word": "proxy",
+      "type": "academic",
+      "meaningZh": "代理指标；用可测量变量代替难以直接观察的目标",
+      "example": "Customer retention can be used as a proxy for satisfaction.",
+      "source": 49
+    },
+    {
+      "word": "strategic response",
+      "type": "academic",
+      "meaningZh": "策略性反应；根据规则和激励调整行为",
+      "example": "A new bonus system produced a strategic response from the sales team.",
+      "source": 49
+    },
+    {
+      "word": "moral hazard",
+      "type": "academic",
+      "meaningZh": "道德风险；因部分后果由他人承担而改变风险行为",
+      "example": "Insurance can create moral hazard if protection reduces incentives to avoid preventable risks.",
+      "source": 49
+    },
+    {
+      "word": "adverse selection",
+      "type": "academic",
+      "meaningZh": "逆向选择；签约前因隐藏信息导致参与者构成偏差",
+      "example": "Adverse selection can occur when high-risk customers are more likely to seek generous insurance.",
+      "source": 49
+    },
+    {
+      "word": "asymmetric",
+      "type": "vocab",
+      "meaningZh": "不对称的",
+      "example": "The bonus created an asymmetric payoff.",
+      "source": 49
+    },
+    {
+      "word": "downside",
+      "type": "vocab",
+      "meaningZh": "下行风险；可能的不利结果",
+      "example": "The trader received much of the upside while the firm carried the downside.",
+      "source": 49
+    },
+    {
+      "word": "gaming the system",
+      "type": "vocab",
+      "meaningZh": "钻制度空子；提高指标而不实现真正目标",
+      "example": "Employees may start gaming the system when one narrow metric determines their pay.",
+      "source": 49
+    },
+    {
+      "word": "qualitative",
+      "type": "academic",
+      "meaningZh": "定性的；依靠性质或判断而非纯数字的",
+      "example": "Qualitative review can capture aspects of performance that numbers miss.",
+      "source": 49
+    },
+    {
+      "word": "time horizon",
+      "type": "academic",
+      "meaningZh": "时间跨度",
+      "example": "A longer time horizon can make delayed costs more visible.",
+      "source": 49
+    },
+    {
+      "word": "retention",
+      "type": "vocab",
+      "meaningZh": "留存",
+      "example": "Customer retention may reveal more about long-term value than initial sales.",
+      "source": 49
+    },
+    {
+      "word": "delayed cost",
+      "type": "academic",
+      "meaningZh": "延迟成本",
+      "example": "Cutting maintenance can create a delayed cost that does not appear in this year's profit.",
+      "source": 49
+    },
+    {
+      "word": "monitoring cost",
+      "type": "academic",
+      "meaningZh": "监督成本",
+      "example": "Complex incentive systems can raise monitoring costs.",
+      "source": 49
+    },
+    {
+      "word": "alignment",
+      "type": "academic",
+      "meaningZh": "目标一致性",
+      "example": "Long-term bonuses can improve alignment between managers and shareholders.",
+      "source": 49
+    },
+    {
+      "word": "Incentive Audit",
+      "type": "proper",
+      "meaningZh": "激励审计；本课检查目标、指标、信息差与副作用的框架",
+      "example": "An Incentive Audit asks how a rational person could improve the metric without improving the real objective.",
+      "source": 49
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Do you think giving employees bonuses always improves their performance?",
+      "category": "Finance & Economics",
+      "framework": "Reward → Targeted behavior → Metric improvement → Possible quality or risk trade-off",
+      "response": "No, I think bonuses can be useful, but the result depends heavily on what is being rewarded. If employees receive money for a clear and meaningful outcome, the incentive may increase effort. However, if the company rewards a narrow metric, people may focus on improving that number even when it does not fully represent good performance. For example, rewarding sales volume alone could encourage unnecessary discounts or poor-quality sales. So I think the important question is not whether an incentive is strong, but whether the rewarded behavior is well aligned with the real objective.",
+      "expressions": [
+        "The result depends heavily on what is being rewarded.",
+        "People may focus on improving the number rather than the underlying objective.",
+        "The rewarded behavior should be well aligned with the real objective."
+      ],
+      "source": 49
+    },
+    {
+      "question": "Why can it be difficult for companies to measure employee performance fairly?",
+      "category": "Finance & Economics",
+      "framework": "Complex work → Imperfect measurement → Hidden effort → Multiple indicators",
+      "response": "I think the main difficulty is that valuable work is often more complicated than a single number can show. Some results are easy to measure, such as sales or response time, but qualities like judgment, teamwork and creativity are much harder to quantify. Managers also cannot observe every action an employee takes, so there is always some information asymmetry. In my view, companies usually need a combination of quantitative measures and human judgment. No metric is perfect, so the goal should be to understand what each measure captures and what it leaves out.",
+      "expressions": [
+        "Valuable work is often more complicated than a single number can show.",
+        "There is always some information asymmetry.",
+        "We need to understand what a measure captures and what it leaves out."
+      ],
+      "source": 49
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "The result depends heavily on what is being rewarded.",
+      "meaningZh": "结果很大程度取决于奖励机制实际奖励的是什么。",
+      "source": 49
+    },
+    {
+      "expression": "The rewarded behavior should be well aligned with the real objective.",
+      "meaningZh": "被奖励的行为应与真正目标保持一致。",
+      "source": 49
+    },
+    {
+      "expression": "We need to understand what a measure captures and what it leaves out.",
+      "meaningZh": "需要理解一个指标捕捉到了什么、又遗漏了什么。",
+      "source": 49
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 52,
+  "article": {
+    "n": 52,
+    "title": "Why Good Decisions Can Still Produce Bad Results",
+    "category": "Behavioral Economics",
+    "themes": [
+      "Outcome Bias",
+      "Decision Quality",
+      "Uncertainty",
+      "Expected Value",
+      "Causality",
+      "Learning"
+    ],
+    "framework": "Information Available → Decision Process → Probability Distribution → Realized Outcome → Separate Evaluation",
+    "coreIdea": "A decision should be judged mainly by the information and reasoning available when it was made, not only by the outcome that happened afterward. Good processes can produce bad outcomes, and bad processes can sometimes get lucky.",
+    "body": "Imagine two investors making very different decisions. The first carefully studies a company, considers several scenarios, limits the size of the investment, and concludes that the expected return justifies the risk. Soon afterward, an unexpected political event causes the stock to fall sharply. The second investor buys another stock because a stranger online says it will rise. By chance, the price doubles. Who made the better decision?\n\nIf we judge only by outcomes, the answer seems obvious: the second investor made money and the first lost it. But this conclusion confuses decision quality with realized result. Under uncertainty, the two are related but not identical. A sensible decision can lead to a bad outcome, while a careless decision can be rewarded by luck.\n\nPsychologists call one version of this mistake outcome bias. Outcome bias occurs when people evaluate the quality of a past decision mainly according to what happened afterward, even when that result could not have been known at the time. Once we know the ending, it becomes difficult to reconstruct the uncertainty that existed before it.\n\nThis distinction depends on probability. Before a decision, we face a distribution of possible outcomes. Afterward, we observe only one realized outcome. The fact that one branch occurred does not erase the probability of the branches that did not. A 90 percent chance is not a promise. If an event with a 10 percent probability happens, the probability estimate was not necessarily wrong.\n\nThis connects to counterfactual thinking from #41. After a bad result, we easily imagine the better branch: “If only I had chosen differently.” Counterfactuals can help us learn, but they can also create an illusion that the alternative outcome was guaranteed. If you reject a job offer and your current company later struggles, it is tempting to imagine that accepting the other job would certainly have produced a better life. In reality, that path contained uncertainty too.\n\nHindsight bias makes the problem stronger. After learning an outcome, people often feel that it was more predictable than it actually was. Warning signs that once seemed ambiguous become obvious in retrospect. A failed company suddenly appears “clearly doomed”; a successful technology looks “inevitable.” The final result reorganizes our memory of the evidence.\n\nThis creates a learning problem. If we reward every decision that ends well and punish every decision that ends badly, people may learn the wrong lessons. A manager who takes an unreasonable risk and gets lucky may become more confident. Another manager who makes a careful decision but experiences an unlikely loss may become excessively cautious. Outcomes provide information, but without examining the process, feedback can reinforce bad behavior.\n\nThe solution is not to ignore outcomes. Results matter because they contain new evidence. If a strategy repeatedly fails, our model of the world may be wrong. The key word is repeatedly. One observation usually provides less information than a pattern across many comparable cases. This is a measurement issue: a single realized outcome is a noisy measure of the quality of a probabilistic decision.\n\nExpected value helps clarify the logic. Expected value combines possible outcomes with their probabilities. Suppose a decision has an 80 percent chance of gaining $100 and a 20 percent chance of losing $100. Its expected monetary value is positive: $60. If the loss occurs once, the realized return is negative, but the decision can still have been attractive before the uncertainty was resolved.\n\nOf course, expected value is not the only consideration. People have different risk tolerances, losses may have nonlinear consequences, and some outcomes cannot be reduced to money. A decision with positive expected value may still be inappropriate if the downside could destroy something essential. Good process therefore includes both probability and consequence.\n\nThis connects to #39's stock-versus-flow framework. A single gain or loss is a flow-like event, while decision skill is a stock that affects many future choices. Sacrificing good decision habits to avoid the emotional pain of one bad outcome can damage that stock. The goal is not to win every round; it is to preserve a process that performs well across repeated decisions.\n\nIt also connects to #50's calibration. A calibrated thinker does not say, “I was right because the event happened.” Instead, they ask whether events assigned high probabilities happen more often than events assigned low probabilities over time. Calibration requires a record of forecasts, not just memories of dramatic successes and failures.\n\nThis is why decision journals can be useful. Before making an important choice, write down the information available, the alternatives considered, the main assumptions, the expected benefits and risks, and what evidence would change your mind. Later, compare the outcome with the original reasoning. The journal prevents hindsight from quietly rewriting what you believed before the result was known.\n\nA decision journal also helps separate process errors from outcome noise. Perhaps the outcome was bad because an unlikely event occurred. That is outcome noise. Or perhaps you ignored relevant evidence, misunderstood an incentive, used a weak proxy, or failed to consider a realistic alternative. Those are process errors. Only the second category clearly demands a change in reasoning.\n\nCausality matters here as well. A good result does not prove that the action caused it. A company may launch a new advertising campaign just before sales rise, but perhaps the entire market was expanding. A student may adopt a new study technique before receiving a high score, but the exam may also have been easier. As in earlier lessons, visible sequence is not enough to identify mechanism.\n\nThere are second-order effects in organizations. If employees know they will be judged entirely by outcomes, they may avoid reasonable risks whose failures would look embarrassing. They may also hide uncertainty and present decisions as more certain than they really are. An outcome-only culture can therefore reduce experimentation and encourage defensive decision-making.\n\nThe opposite extreme is also dangerous. “The process was good” should not become an excuse that protects people from evidence forever. A process deserves trust only if it is updated when enough results contradict its assumptions. Good decision-making requires both process accountability and empirical feedback.\n\nToday's transferable tool is the Process-Outcome Split. After any important result, make two evaluations. First, judge the decision using only information that was reasonably available beforehand: Was the objective clear? Were relevant alternatives considered? Were probabilities and consequences treated seriously? Second, use the outcome as new evidence: What did it teach us about our assumptions?\n\nThis creates a healthier relationship with uncertainty. Instead of asking only, “Did I win?”, ask, “Was the bet sensible given what I knew?” And instead of asking only, “Was my reasoning sensible?”, ask, “What should the result now change?” The first question protects us from outcome bias. The second protects us from stubbornness.\n\nA mature decision system needs both. We cannot control which branch of uncertainty becomes reality, but we can improve how we choose among branches before the answer is known. Good decisions do not guarantee good outcomes. Their value is that, across many uncertain situations, they make good outcomes more likely.",
+    "summaryZh": "今天把一个很容易被结果“骗过去”的问题拆开：Good Decision 和 Good Outcome 不是同一个概念。只要世界里存在 uncertainty，一个高质量决策就可能遇到低概率坏结果；一个随意决策也可能因为 luck 获得漂亮结果。\n\n核心链条是：Information Available → Decision Process → Probability Distribution → Realized Outcome → Separate Evaluation。决策发生时，我们面对的是一整组 possible outcomes；事后却只看到其中一个 realized outcome。Outcome bias 会让我们拿事后结果倒推事前决策质量，而 hindsight bias 又会让已经发生的结果显得“早就很明显”。\n\n这里最重要的 measurement distinction 是：single outcome 是一个 noisy measure。一次亏损不能自动证明策略差，一次盈利也不能自动证明策略好。Expected value 帮我们把 probability 重新放回分析；同时还要考虑 consequence，因为正期望值也可能包含无法承受的 downside。\n\n文章接回 #41 counterfactual：事后想象另一条路时，我们容易把“另一条路也有不确定性”忘掉；接 #50 calibration：真正的 calibration 需要长期比较预测概率和实际频率，而不是用一次结果宣布“我预测对了”；接 stock vs flow：单次输赢更像 flow，而 decision skill 是会影响未来大量选择的 stock。\n\n今天的新工具是 Process-Outcome Split。复盘时强制做两次评价：第一遍只使用事前合理可得的信息，判断 process 是否清楚、是否考虑 alternatives/probability/consequence；第二遍再把 outcome 当作 new evidence，问它应该如何更新 assumptions。这样既避免“结果差=决策差”，也避免用“过程没问题”拒绝现实反馈。\n\n最终原则是：Judge the decision by what was knowable then; use the outcome to learn what is knowable now。"
+  },
+  "words": [
+    {
+      "word": "outcome bias",
+      "type": "academic",
+      "meaningZh": "结果偏误；根据事后结果过度评价事前决策质量的倾向",
+      "example": "Outcome bias can make a reasonable decision look foolish after an unlucky result.",
+      "source": 52
+    },
+    {
+      "word": "hindsight bias",
+      "type": "academic",
+      "meaningZh": "后见之明偏误；知道结果后觉得它原本就更容易预测",
+      "example": "Hindsight bias makes past warning signs look more obvious than they were.",
+      "source": 52
+    },
+    {
+      "word": "realized outcome",
+      "type": "academic",
+      "meaningZh": "已实现结果；多个可能结果中最终实际发生的那个",
+      "example": "A realized outcome is only one branch of the original probability distribution.",
+      "source": 52
+    },
+    {
+      "word": "probability distribution",
+      "type": "academic",
+      "meaningZh": "概率分布；不同可能结果及其概率的整体",
+      "example": "A decision should be evaluated across the full probability distribution.",
+      "source": 52
+    },
+    {
+      "word": "expected value",
+      "type": "academic",
+      "meaningZh": "期望值；按概率加权后的平均预期结果",
+      "example": "A positive expected value does not guarantee a profit on every attempt.",
+      "source": 52
+    },
+    {
+      "word": "outcome noise",
+      "type": "academic",
+      "meaningZh": "结果噪声；由随机性造成、不能直接归因于决策过程的结果波动",
+      "example": "One unlucky event may be outcome noise rather than evidence of a bad process.",
+      "source": 52
+    },
+    {
+      "word": "process error",
+      "type": "academic",
+      "meaningZh": "过程错误；推理、信息处理或决策步骤本身存在的问题",
+      "example": "Ignoring an important alternative is a process error.",
+      "source": 52
+    },
+    {
+      "word": "counterfactual",
+      "type": "academic",
+      "meaningZh": "反事实；对没有实际发生的另一种可能结果的想象",
+      "example": "A counterfactual can be useful without proving that the alternative would have succeeded.",
+      "source": 52
+    },
+    {
+      "word": "risk tolerance",
+      "type": "academic",
+      "meaningZh": "风险承受度；个人或组织可以接受风险的程度",
+      "example": "The same investment may be unsuitable for people with different risk tolerances.",
+      "source": 52
+    },
+    {
+      "word": "downside",
+      "type": "vocab",
+      "meaningZh": "下行风险；可能出现的不利结果",
+      "example": "A high expected return may not justify an unbearable downside.",
+      "source": 52
+    },
+    {
+      "word": "decision journal",
+      "type": "academic",
+      "meaningZh": "决策日志；在结果未知前记录信息、假设和预期的工具",
+      "example": "A decision journal makes it harder for hindsight to rewrite your original beliefs.",
+      "source": 52
+    },
+    {
+      "word": "process accountability",
+      "type": "academic",
+      "meaningZh": "过程问责；根据决策过程质量进行评价和负责",
+      "example": "Process accountability can encourage careful reasoning under uncertainty.",
+      "source": 52
+    },
+    {
+      "word": "empirical feedback",
+      "type": "academic",
+      "meaningZh": "实证反馈；来自实际观察结果、用于检验和更新判断的信息",
+      "example": "A good model should change when enough empirical feedback contradicts it.",
+      "source": 52
+    },
+    {
+      "word": "defensive decision-making",
+      "type": "academic",
+      "meaningZh": "防御性决策；为了避免被责备而非最大化真实目标所做的选择",
+      "example": "Outcome-only evaluation can encourage defensive decision-making.",
+      "source": 52
+    },
+    {
+      "word": "nonlinear",
+      "type": "academic",
+      "meaningZh": "非线性的；影响不会随数量按固定比例变化的",
+      "example": "Large losses can have nonlinear consequences for a small business.",
+      "source": 52
+    },
+    {
+      "word": "reconstruct",
+      "type": "vocab",
+      "meaningZh": "重建；根据证据重新还原过去状态",
+      "example": "It is difficult to reconstruct uncertainty after the final result is known.",
+      "source": 52
+    },
+    {
+      "word": "stubbornness",
+      "type": "vocab",
+      "meaningZh": "固执；面对反证仍拒绝更新判断",
+      "example": "Respecting process should not become an excuse for stubbornness.",
+      "source": 52
+    },
+    {
+      "word": "Process-Outcome Split",
+      "type": "proper",
+      "meaningZh": "过程—结果拆分；分别评价事前决策质量和事后新证据的本课框架",
+      "example": "The Process-Outcome Split prevents a lucky result from automatically validating poor reasoning.",
+      "source": 52
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Do you think people judge decisions too much by their results?",
+      "category": "Behavioral Economics",
+      "framework": "Uncertainty → Outcome bias → Process quality → Learning from results",
+      "response": "Yes, I think people often treat a good result as proof of a good decision, even when luck played a large role. The problem is that decisions are made before uncertainty is resolved, so we should ask whether the person used the information available at the time sensibly. At the same time, outcomes should not be ignored because repeated failures can reveal weaknesses in our assumptions. I think the fairest approach is to judge the process first and then use the result as new evidence rather than as the entire verdict.",
+      "expressions": [
+        "A good result is not always proof of a good decision.",
+        "Decisions are made before uncertainty is resolved.",
+        "The result should be treated as new evidence rather than the entire verdict."
+      ],
+      "source": 52
+    },
+    {
+      "question": "Why is it useful for people to record their reasons before making an important decision?",
+      "category": "Behavioral Economics",
+      "framework": "Initial beliefs → Written record → Outcome → Honest comparison → Better learning",
+      "response": "I think writing down the reasoning creates a more honest record of what someone actually knew and expected. After an outcome occurs, people naturally remember the past differently and may convince themselves that the result was obvious. A written record makes that harder. It also helps separate an unlucky outcome from a genuine mistake in the decision process. Over time, people can compare their predictions with what actually happened and improve their calibration instead of learning too much from one dramatic success or failure.",
+      "expressions": [
+        "A written record creates a more honest picture of what we knew at the time.",
+        "It helps separate an unlucky outcome from a genuine process error.",
+        "We should avoid learning too much from one dramatic result."
+      ],
+      "source": 52
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "A good result is not always proof of a good decision.",
+      "meaningZh": "好结果并不总能证明决策本身好；适合投资、学习、管理和风险话题。",
+      "source": 52
+    },
+    {
+      "expression": "The result should be treated as new evidence rather than the entire verdict.",
+      "meaningZh": "结果应被当作新的证据，而不是对决策的全部判决；适合复盘和不确定性话题。",
+      "source": 52
+    },
+    {
+      "expression": "It helps separate an unlucky outcome from a genuine process error.",
+      "meaningZh": "它有助于区分倒霉的结果和真正的决策过程错误；适合反思、风险和学习话题。",
+      "source": 52
+    }
+  ]
+}
