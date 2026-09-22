@@ -723,3 +723,235 @@ speakingCards.push(...[
     ]
   }
 ]);
+
+
+// Imported Article #49
+speakingCards.push(...[
+  {
+    "src": "#49",
+    "cat": "Finance & Economics",
+    "framework": "Reward → Targeted behavior → Metric improvement → Possible quality or risk trade-off",
+    "q": "Do you think giving employees bonuses always improves their performance?",
+    "answer": "No, I think bonuses can be useful, but the result depends heavily on what is being rewarded. If employees receive money for a clear and meaningful outcome, the incentive may increase effort. However, if the company rewards a narrow metric, people may focus on improving that number even when it does not fully represent good performance. For example, rewarding sales volume alone could encourage unnecessary discounts or poor-quality sales. So I think the important question is not whether an incentive is strong, but whether the rewarded behavior is well aligned with the real objective.",
+    "expr": [
+      "The result depends heavily on what is being rewarded.",
+      "People may focus on improving the number rather than the underlying objective.",
+      "The rewarded behavior should be well aligned with the real objective."
+    ]
+  },
+  {
+    "src": "#49",
+    "cat": "Finance & Economics",
+    "framework": "Complex work → Imperfect measurement → Hidden effort → Multiple indicators",
+    "q": "Why can it be difficult for companies to measure employee performance fairly?",
+    "answer": "I think the main difficulty is that valuable work is often more complicated than a single number can show. Some results are easy to measure, such as sales or response time, but qualities like judgment, teamwork and creativity are much harder to quantify. Managers also cannot observe every action an employee takes, so there is always some information asymmetry. In my view, companies usually need a combination of quantitative measures and human judgment. No metric is perfect, so the goal should be to understand what each measure captures and what it leaves out.",
+    "expr": [
+      "Valuable work is often more complicated than a single number can show.",
+      "There is always some information asymmetry.",
+      "We need to understand what a measure captures and what it leaves out."
+    ]
+  }
+]);
+
+
+// Imported Article #50
+speakingCards.push(...[
+  {
+    "src": "#50",
+    "cat": "Technology & AI",
+    "framework": "Average accuracy → Type of case → Independent context → Selective verification",
+    "q": "Do you think people should always follow AI advice when it is usually more accurate than humans?",
+    "answer": "No, I don't think higher average accuracy means people should follow AI advice automatically. A system can be excellent on routine cases but still struggle when the situation is unusual or when important local information is missing. Humans can add value if they understand context that the model has not received, although human intuition can obviously be wrong as well. I think the best approach is selective rather than absolute: use AI heavily where it is reliable, but treat meaningful disagreement as a reason to check what information or assumptions differ.",
+    "expr": [
+      "Higher average accuracy does not justify automatic trust.",
+      "Humans can add value when they understand context the model has not received.",
+      "Meaningful disagreement can be a reason to check the underlying assumptions."
+    ]
+  },
+  {
+    "src": "#50",
+    "cat": "Technology & AI",
+    "framework": "Efficiency → Skill preservation → Independent judgment → Feedback and review",
+    "q": "How can companies make sure that employees do not become too dependent on AI?",
+    "answer": "I think companies need to protect some opportunities for independent judgment. If employees always see the AI answer first, they may gradually stop forming their own view and simply confirm what the system suggests. One practical solution is to ask people to make an initial assessment before seeing the recommendation in important cases, and then investigate large disagreements. Training also matters because human expertise is a stock that can weaken when it is not used. The goal should not be to create unnecessary resistance to AI, but to preserve the skills needed to recognize when the system may be outside its comfort zone.",
+    "expr": [
+      "Companies need to protect some opportunities for independent judgment.",
+      "Human expertise is a stock that can weaken when it is not used.",
+      "The goal is to preserve the skills needed to recognize unusual cases."
+    ]
+  }
+]);
+
+
+// Imported Article #51
+speakingCards.push(...[
+  {
+    "src": "#51",
+    "cat": "Consumer Psychology",
+    "framework": "Automatic renewal → Low salience → Cancellation friction → Inertia",
+    "q": "Why do people sometimes keep paying for services they rarely use?",
+    "answer": "I think one reason is that automatic payments change the decision from an active purchase into a passive continuation. If a service renews every month, people do not have to decide again whether they want it, while cancelling usually requires at least some attention and effort. The fee may also be small enough that it never feels urgent. As a result, people can keep paying even when their current usage is low. I think a useful test is to ask whether they would actively buy the same service today if the subscription suddenly disappeared.",
+    "expr": [
+      "Automatic payments turn an active purchase into a passive continuation.",
+      "A small cost may never feel urgent enough to reconsider.",
+      "I would ask whether I would actively buy the same service today."
+    ]
+  },
+  {
+    "src": "#51",
+    "cat": "Consumer Psychology",
+    "framework": "Consumer convenience → Fair choice → Retention incentives → Long-term trust",
+    "q": "Do you think companies should make subscriptions easier to cancel?",
+    "answer": "Yes, I think cancellation should generally be simple and transparent. Companies obviously want to retain customers, but retention is more meaningful when it comes from continuing value rather than unnecessary friction. If leaving is deliberately difficult, a company may improve its short-term numbers while damaging trust in the long run. At the same time, I do not think every renewal needs a complicated confirmation process because that would remove much of the convenience of subscriptions. A clear reminder and an easy cancellation route seem like a reasonable balance.",
+    "expr": [
+      "Retention is more meaningful when it comes from continuing value.",
+      "Short-term numbers can improve while long-term trust is damaged.",
+      "A clear reminder and an easy cancellation route seem like a reasonable balance."
+    ]
+  }
+]);
+
+
+// Imported Article #52
+speakingCards.push(...[
+  {
+    "src": "#52",
+    "cat": "Behavioral Economics",
+    "framework": "Uncertainty → Outcome bias → Process quality → Learning from results",
+    "q": "Do you think people judge decisions too much by their results?",
+    "answer": "Yes, I think people often treat a good result as proof of a good decision, even when luck played a large role. The problem is that decisions are made before uncertainty is resolved, so we should ask whether the person used the information available at the time sensibly. At the same time, outcomes should not be ignored because repeated failures can reveal weaknesses in our assumptions. I think the fairest approach is to judge the process first and then use the result as new evidence rather than as the entire verdict.",
+    "expr": [
+      "A good result is not always proof of a good decision.",
+      "Decisions are made before uncertainty is resolved.",
+      "The result should be treated as new evidence rather than the entire verdict."
+    ]
+  },
+  {
+    "src": "#52",
+    "cat": "Behavioral Economics",
+    "framework": "Initial beliefs → Written record → Outcome → Honest comparison → Better learning",
+    "q": "Why is it useful for people to record their reasons before making an important decision?",
+    "answer": "I think writing down the reasoning creates a more honest record of what someone actually knew and expected. After an outcome occurs, people naturally remember the past differently and may convince themselves that the result was obvious. A written record makes that harder. It also helps separate an unlucky outcome from a genuine mistake in the decision process. Over time, people can compare their predictions with what actually happened and improve their calibration instead of learning too much from one dramatic success or failure.",
+    "expr": [
+      "A written record creates a more honest picture of what we knew at the time.",
+      "It helps separate an unlucky outcome from a genuine process error.",
+      "We should avoid learning too much from one dramatic result."
+    ]
+  }
+]);
+
+
+// Imported Article #53
+speakingCards.push(...[
+  {
+    "src": "#53",
+    "cat": "Finance & Economics",
+    "framework": "Uncertain quality → Price as proxy → Supporting evidence → Possible error",
+    "q": "Why do some people believe that expensive products are better quality?",
+    "answer": "I think price becomes especially influential when people cannot judge quality directly. If two products look similar but one is much more expensive, consumers may assume that the higher price reflects better materials, skilled production or stronger quality control. That inference can sometimes be reasonable, but price is only a proxy, not proof. A company can charge more without improving the product. So I think people should treat price as one signal among several and compare it with reviews, reputation and their own experience.",
+    "expr": [
+      "Price becomes influential when quality is difficult to judge directly.",
+      "Price is a proxy, not proof.",
+      "I would treat price as one signal among several."
+    ]
+  },
+  {
+    "src": "#53",
+    "cat": "Finance & Economics",
+    "framework": "Functional quality → Scarcity → Status communication → Different consumer motives",
+    "q": "Do you think luxury goods are mainly about quality or social status?",
+    "answer": "I think it depends on both the product and the buyer. Some luxury goods genuinely use better materials or more skilled craftsmanship, so part of the price can reflect functional quality. However, exclusivity also matters because owning something expensive can communicate wealth, taste or membership in a particular group. For some consumers that social meaning is part of the value rather than an accidental side effect. I would therefore avoid saying luxury is purely irrational; the important question is what kind of value the buyer is actually purchasing.",
+    "expr": [
+      "Exclusivity can be part of the value rather than an accidental side effect.",
+      "Different consumers may be purchasing different kinds of value.",
+      "The important question is what kind of value the buyer is actually purchasing."
+    ]
+  }
+]);
+
+
+// Imported Article #54
+speakingCards.push(...[
+  {
+    "src": "#54",
+    "cat": "Technology & AI",
+    "framework": "Task speed → Workflow bottlenecks → Verification → Real output",
+    "q": "Do you think AI will make most office workers much more productive?",
+    "answer": "I think AI will make many individual tasks much faster, but the effect on overall productivity will depend on the rest of the workflow. Producing a draft may take minutes instead of hours, but someone may still need to check the facts, approve the work and coordinate implementation. In that case, the bottleneck simply moves. So I would measure productivity by useful outcomes rather than by how much content people generate. The biggest gains will probably come when organizations redesign the surrounding process instead of just adding AI to an old workflow.",
+    "expr": [
+      "The bottleneck may simply move to another stage.",
+      "I would measure productivity by useful outcomes rather than output volume.",
+      "The biggest gains require changes to the surrounding process."
+    ]
+  },
+  {
+    "src": "#54",
+    "cat": "Technology & AI",
+    "framework": "Abundant generation → Scarce judgment → Verification → Context and responsibility",
+    "q": "What human skills may become more important as AI becomes more capable?",
+    "answer": "I think judgment will become more valuable because generating a plausible answer is becoming cheaper. People will still need to decide whether an answer is relevant, whether the evidence is reliable and whether an error would have serious consequences. Context also matters because the same AI output may be acceptable for brainstorming but unsafe for a high-stakes decision. So rather than saying human skills will simply disappear, I think their relative value will change: routine production may matter less, while evaluation, questioning and responsibility become more important.",
+    "expr": [
+      "Generating a plausible answer is becoming cheaper.",
+      "The relative value of human skills will change.",
+      "Evaluation and judgment become more valuable when production is abundant."
+    ]
+  }
+]);
+
+
+// Imported Article #55
+speakingCards.push(...[
+  {
+    "src": "#55",
+    "cat": "Behavioral Economics",
+    "framework": "Lower entry friction → Experience → New reference point → Loss aversion and default continuation",
+    "q": "Why are free trials so effective at persuading people to pay for services later?",
+    "answer": "I think free trials work partly because they reduce uncertainty, since people can experience a service before paying for it. But there is also a psychological effect. After using premium features for a few weeks, those features can start to feel normal, so cancelling feels more like losing something than simply deciding not to buy it. If the subscription also renews automatically, continuation requires almost no effort. So the trial changes both the information people have and the reference point from which they evaluate the purchase.",
+    "expr": [
+      "The trial changes the reference point from which people evaluate the purchase.",
+      "Cancelling can feel more like losing something than deciding not to buy it.",
+      "Free trials reduce uncertainty before payment."
+    ]
+  },
+  {
+    "src": "#55",
+    "cat": "Behavioral Economics",
+    "framework": "Convenience → Informed consent → Default effects → Trust and regulation",
+    "q": "Should companies be allowed to convert free trials into paid subscriptions automatically?",
+    "answer": "I think automatic conversion can be reasonable if the terms are extremely clear and cancellation is simple. It is convenient for people who genuinely want to continue, so requiring a new payment process every time could create unnecessary friction. However, companies should not rely on customers forgetting the renewal date. A reminder before the first charge would preserve most of the convenience while making the decision more visible. In my view, a good business model should benefit from customers choosing to stay, not from making inattention profitable.",
+    "expr": [
+      "A good business model should benefit from customers choosing to stay.",
+      "A reminder can preserve convenience while making the decision more visible.",
+      "Companies should not make inattention profitable."
+    ]
+  }
+]);
+
+
+// Imported Article #56
+speakingCards.push(...[
+  {
+    "src": "#56",
+    "cat": "Business",
+    "framework": "Variety benefit → Search costs → Filtering → Quality of choice",
+    "q": "Do you think having more choices always benefits consumers?",
+    "answer": "Not necessarily. More choice can be valuable because people have a better chance of finding something that matches their preferences, but that only works if they can evaluate the options. When there are thousands of alternatives, search costs rise and people become more dependent on rankings, reviews and recommendations. So I think the quality of the filtering system matters almost as much as the amount of choice itself. In some cases, a smaller but well-organized set of options may actually produce better decisions than a huge catalogue.",
+    "expr": [
+      "More choice is useful only if people can evaluate the options.",
+      "The quality of filtering matters almost as much as the amount of choice.",
+      "A larger catalogue does not automatically produce better decisions."
+    ]
+  },
+  {
+    "src": "#56",
+    "cat": "Business",
+    "framework": "Limited attention → Ranking → Visibility → Demand → Feedback",
+    "q": "Why do recommendation algorithms have so much influence on online businesses?",
+    "answer": "I think their influence comes from the scarcity of attention. Online platforms may contain millions of products or pieces of content, so users cannot inspect everything themselves. Recommendation systems decide what becomes visible, and visibility can directly affect demand. There is also a feedback effect: items that receive more exposure may collect more clicks, sales and reviews, which can then improve their future ranking. That means algorithms do not simply describe what is popular; they can partly shape popularity as well.",
+    "expr": [
+      "Their influence comes from the scarcity of attention.",
+      "Visibility can directly affect demand.",
+      "Algorithms can partly shape popularity rather than merely measure it."
+    ]
+  }
+]);

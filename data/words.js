@@ -2321,3 +2321,1051 @@ words.push(...[
     "src": "#48"
   }
 ]);
+
+
+// Imported Article #49
+words.push(...[
+  {
+    "w": "principal-agent problem",
+    "zh": "委托—代理问题；委托人与行动者目标或信息不完全一致",
+    "type": "academic",
+    "ex": "The principal-agent problem becomes serious when managers can take actions shareholders cannot easily observe.",
+    "src": "#49"
+  },
+  {
+    "w": "principal",
+    "zh": "委托人；授权他人代表自己行动的一方",
+    "type": "academic",
+    "ex": "The principal wants the agent to protect the long-term value of the business.",
+    "src": "#49"
+  },
+  {
+    "w": "agent",
+    "zh": "代理人；代表委托人采取行动的一方",
+    "type": "academic",
+    "ex": "An agent may have more information about daily operations than the principal.",
+    "src": "#49"
+  },
+  {
+    "w": "information asymmetry",
+    "zh": "信息不对称",
+    "type": "academic",
+    "ex": "Information asymmetry makes it difficult to design perfect contracts.",
+    "src": "#49"
+  },
+  {
+    "w": "proxy",
+    "zh": "代理指标；用可测量变量代替难以直接观察的目标",
+    "type": "academic",
+    "ex": "Customer retention can be used as a proxy for satisfaction.",
+    "src": "#49"
+  },
+  {
+    "w": "strategic response",
+    "zh": "策略性反应；根据规则和激励调整行为",
+    "type": "academic",
+    "ex": "A new bonus system produced a strategic response from the sales team.",
+    "src": "#49"
+  },
+  {
+    "w": "moral hazard",
+    "zh": "道德风险；因部分后果由他人承担而改变风险行为",
+    "type": "academic",
+    "ex": "Insurance can create moral hazard if protection reduces incentives to avoid preventable risks.",
+    "src": "#49"
+  },
+  {
+    "w": "adverse selection",
+    "zh": "逆向选择；签约前因隐藏信息导致参与者构成偏差",
+    "type": "academic",
+    "ex": "Adverse selection can occur when high-risk customers are more likely to seek generous insurance.",
+    "src": "#49"
+  },
+  {
+    "w": "asymmetric",
+    "zh": "不对称的",
+    "type": "vocab",
+    "ex": "The bonus created an asymmetric payoff.",
+    "src": "#49"
+  },
+  {
+    "w": "downside",
+    "zh": "下行风险；可能的不利结果",
+    "type": "vocab",
+    "ex": "The trader received much of the upside while the firm carried the downside.",
+    "src": "#49"
+  },
+  {
+    "w": "gaming the system",
+    "zh": "钻制度空子；提高指标而不实现真正目标",
+    "type": "vocab",
+    "ex": "Employees may start gaming the system when one narrow metric determines their pay.",
+    "src": "#49"
+  },
+  {
+    "w": "qualitative",
+    "zh": "定性的；依靠性质或判断而非纯数字的",
+    "type": "academic",
+    "ex": "Qualitative review can capture aspects of performance that numbers miss.",
+    "src": "#49"
+  },
+  {
+    "w": "time horizon",
+    "zh": "时间跨度",
+    "type": "academic",
+    "ex": "A longer time horizon can make delayed costs more visible.",
+    "src": "#49"
+  },
+  {
+    "w": "retention",
+    "zh": "留存",
+    "type": "vocab",
+    "ex": "Customer retention may reveal more about long-term value than initial sales.",
+    "src": "#49"
+  },
+  {
+    "w": "delayed cost",
+    "zh": "延迟成本",
+    "type": "academic",
+    "ex": "Cutting maintenance can create a delayed cost that does not appear in this year's profit.",
+    "src": "#49"
+  },
+  {
+    "w": "monitoring cost",
+    "zh": "监督成本",
+    "type": "academic",
+    "ex": "Complex incentive systems can raise monitoring costs.",
+    "src": "#49"
+  },
+  {
+    "w": "alignment",
+    "zh": "目标一致性",
+    "type": "academic",
+    "ex": "Long-term bonuses can improve alignment between managers and shareholders.",
+    "src": "#49"
+  },
+  {
+    "w": "Incentive Audit",
+    "zh": "激励审计；本课检查目标、指标、信息差与副作用的框架",
+    "type": "proper",
+    "ex": "An Incentive Audit asks how a rational person could improve the metric without improving the real objective.",
+    "src": "#49"
+  }
+]);
+
+
+// Imported Article #50
+words.push(...[
+  {
+    "w": "complementary error",
+    "zh": "互补性错误；两个判断者的错误模式不同，因此组合后可能互相弥补",
+    "type": "academic",
+    "ex": "Human experts and AI can be valuable together when they make complementary errors.",
+    "src": "#50"
+  },
+  {
+    "w": "automation bias",
+    "zh": "自动化偏误；过度依赖自动系统建议而减少独立判断或核查",
+    "type": "academic",
+    "ex": "Automation bias becomes risky when users stop checking unusual recommendations.",
+    "src": "#50"
+  },
+  {
+    "w": "verification trigger",
+    "zh": "核查触发器；提示某个案例值得投入额外检查资源的信号",
+    "type": "academic",
+    "ex": "A large disagreement can serve as a verification trigger.",
+    "src": "#50"
+  },
+  {
+    "w": "calibration",
+    "zh": "校准；置信度与实际正确率之间的匹配程度",
+    "type": "academic",
+    "ex": "Good calibration means confidence rises only when reliability really rises.",
+    "src": "#50"
+  },
+  {
+    "w": "distribution shift",
+    "zh": "分布漂移；现实环境与模型训练时的数据分布发生变化",
+    "type": "academic",
+    "ex": "Distribution shift can make historical patterns less reliable.",
+    "src": "#50"
+  },
+  {
+    "w": "local context",
+    "zh": "局部情境；特定地点、时间或案例才具有的信息",
+    "type": "vocab",
+    "ex": "The employee understood local context that was missing from the dataset.",
+    "src": "#50"
+  },
+  {
+    "w": "exception",
+    "zh": "例外；不符合通常规律的特殊情况",
+    "type": "vocab",
+    "ex": "Humans may notice an exception that a general model treats as routine.",
+    "src": "#50"
+  },
+  {
+    "w": "independent judgment",
+    "zh": "独立判断；在未被其他结论明显影响前形成的判断",
+    "type": "academic",
+    "ex": "Recording an independent judgment before seeing the AI answer can preserve useful information.",
+    "src": "#50"
+  },
+  {
+    "w": "correlated error",
+    "zh": "相关错误；多个判断者因共享来源或机制而倾向犯相同错误",
+    "type": "academic",
+    "ex": "Two systems trained on similar data may produce correlated errors.",
+    "src": "#50"
+  },
+  {
+    "w": "uncertainty",
+    "zh": "不确定性；无法充分确定结果或判断的状态",
+    "type": "vocab",
+    "ex": "Disagreement can reveal uncertainty that an average score hides.",
+    "src": "#50"
+  },
+  {
+    "w": "anchor",
+    "zh": "锚定因素；先出现并影响后续判断的信息",
+    "type": "vocab",
+    "ex": "An AI recommendation can become an anchor for the human reviewer.",
+    "src": "#50"
+  },
+  {
+    "w": "selective friction",
+    "zh": "选择性摩擦；只在高价值或高风险节点增加额外检查步骤",
+    "type": "academic",
+    "ex": "Selective friction can preserve safety without slowing every routine decision.",
+    "src": "#50"
+  },
+  {
+    "w": "error structure",
+    "zh": "错误结构；错误在不同类型案例中的分布与关联方式",
+    "type": "academic",
+    "ex": "Overall accuracy tells us less than the error structure in some high-stakes settings.",
+    "src": "#50"
+  },
+  {
+    "w": "out-of-domain",
+    "zh": "域外的；超出模型熟悉或训练范围的",
+    "type": "academic",
+    "ex": "The model may be less reliable on an out-of-domain case.",
+    "src": "#50"
+  },
+  {
+    "w": "diagnostic",
+    "zh": "诊断性的；有助于识别问题来源的",
+    "type": "vocab",
+    "ex": "A disagreement is useful when it is diagnostic of missing information.",
+    "src": "#50"
+  },
+  {
+    "w": "diversification",
+    "zh": "分散化；通过组合不同风险来源降低整体风险",
+    "type": "academic",
+    "ex": "Diversification works best when the components do not fail in exactly the same way.",
+    "src": "#50"
+  },
+  {
+    "w": "human oversight",
+    "zh": "人工监督；由人类审查、干预或负责自动系统决策的机制",
+    "type": "academic",
+    "ex": "Human oversight is most useful when reviewers retain relevant skills.",
+    "src": "#50"
+  },
+  {
+    "w": "Disagreement Diagnostic",
+    "zh": "分歧诊断；本课用于定位两个判断为何冲突的分析框架",
+    "type": "proper",
+    "ex": "The Disagreement Diagnostic separates missing information from measurement and domain problems.",
+    "src": "#50"
+  }
+]);
+
+
+// Imported Article #51
+words.push(...[
+  {
+    "w": "subscription economy",
+    "zh": "订阅经济；以持续付费换取持续访问或服务的商业模式",
+    "type": "academic",
+    "ex": "The subscription economy turns many one-time purchases into recurring relationships.",
+    "src": "#51"
+  },
+  {
+    "w": "recurring payment",
+    "zh": "周期性付款；按固定周期自动或重复发生的支付",
+    "type": "vocab",
+    "ex": "A recurring payment can continue long after usage has fallen.",
+    "src": "#51"
+  },
+  {
+    "w": "inertia",
+    "zh": "惯性；当前状态在没有主动干预时继续维持的倾向",
+    "type": "academic",
+    "ex": "Consumer inertia can keep an unwanted subscription active.",
+    "src": "#51"
+  },
+  {
+    "w": "default effect",
+    "zh": "默认效应；人更倾向保留预先设定的选项",
+    "type": "academic",
+    "ex": "Automatic renewal makes use of the default effect.",
+    "src": "#51"
+  },
+  {
+    "w": "automatic renewal",
+    "zh": "自动续费",
+    "type": "vocab",
+    "ex": "Automatic renewal removes the need to make a fresh purchase decision each month.",
+    "src": "#51"
+  },
+  {
+    "w": "salience",
+    "zh": "显著性；某信息在注意力中有多突出",
+    "type": "academic",
+    "ex": "Automatic payments often have lower salience than one-time purchases.",
+    "src": "#51"
+  },
+  {
+    "w": "transaction friction",
+    "zh": "交易摩擦；完成、改变或取消交易所需的时间与努力",
+    "type": "academic",
+    "ex": "Even small transaction friction can delay cancellation.",
+    "src": "#51"
+  },
+  {
+    "w": "mental accounting",
+    "zh": "心理账户；人把钱分进不同心理类别分别评价的倾向",
+    "type": "academic",
+    "ex": "Mental accounting can make several small subscriptions seem harmless individually.",
+    "src": "#51"
+  },
+  {
+    "w": "annualize",
+    "zh": "年化；把较短周期的金额换算为一年尺度",
+    "type": "vocab",
+    "ex": "Annualizing a monthly fee can make its total cost more visible.",
+    "src": "#51"
+  },
+  {
+    "w": "option value",
+    "zh": "选择权价值；保留未来使用某项资源或机会所带来的价值",
+    "type": "academic",
+    "ex": "An infrequently used service may still have option value.",
+    "src": "#51"
+  },
+  {
+    "w": "sunk cost",
+    "zh": "沉没成本；已经发生且无法收回的成本",
+    "type": "academic",
+    "ex": "Past subscription fees are sunk costs when deciding whether to renew.",
+    "src": "#51"
+  },
+  {
+    "w": "forward-looking",
+    "zh": "前瞻性的；以未来成本和收益为判断依据",
+    "type": "academic",
+    "ex": "A renewal decision should be forward-looking rather than based on past payments.",
+    "src": "#51"
+  },
+  {
+    "w": "switching cost",
+    "zh": "转换成本；从现有服务转向另一状态时未来实际需要付出的成本",
+    "type": "academic",
+    "ex": "Moving years of stored files can create a genuine switching cost.",
+    "src": "#51"
+  },
+  {
+    "w": "retention",
+    "zh": "留存；用户继续保持订阅或关系的状态",
+    "type": "vocab",
+    "ex": "High retention can reflect value, friction, or both.",
+    "src": "#51"
+  },
+  {
+    "w": "aggregate",
+    "zh": "汇总的；合并多个项目后的整体",
+    "type": "vocab",
+    "ex": "The aggregate cost of six small subscriptions may be surprisingly large.",
+    "src": "#51"
+  },
+  {
+    "w": "decision architecture",
+    "zh": "决策架构；默认、顺序、摩擦等共同塑造选择的环境",
+    "type": "academic",
+    "ex": "Automatic billing changes the decision architecture of consumption.",
+    "src": "#51"
+  },
+  {
+    "w": "selective friction",
+    "zh": "选择性摩擦；在关键节点加入少量额外思考或确认步骤",
+    "type": "academic",
+    "ex": "A renewal reminder can create selective friction without making the service inconvenient.",
+    "src": "#51"
+  },
+  {
+    "w": "Active Repurchase Test",
+    "zh": "主动复购测试；假设默认状态被重置后，判断自己今天是否仍会主动购买",
+    "type": "proper",
+    "ex": "The Active Repurchase Test helps separate current preference from inertia.",
+    "src": "#51"
+  }
+]);
+
+
+// Imported Article #52
+words.push(...[
+  {
+    "w": "outcome bias",
+    "zh": "结果偏误；根据事后结果过度评价事前决策质量的倾向",
+    "type": "academic",
+    "ex": "Outcome bias can make a reasonable decision look foolish after an unlucky result.",
+    "src": "#52"
+  },
+  {
+    "w": "hindsight bias",
+    "zh": "后见之明偏误；知道结果后觉得它原本就更容易预测",
+    "type": "academic",
+    "ex": "Hindsight bias makes past warning signs look more obvious than they were.",
+    "src": "#52"
+  },
+  {
+    "w": "realized outcome",
+    "zh": "已实现结果；多个可能结果中最终实际发生的那个",
+    "type": "academic",
+    "ex": "A realized outcome is only one branch of the original probability distribution.",
+    "src": "#52"
+  },
+  {
+    "w": "probability distribution",
+    "zh": "概率分布；不同可能结果及其概率的整体",
+    "type": "academic",
+    "ex": "A decision should be evaluated across the full probability distribution.",
+    "src": "#52"
+  },
+  {
+    "w": "expected value",
+    "zh": "期望值；按概率加权后的平均预期结果",
+    "type": "academic",
+    "ex": "A positive expected value does not guarantee a profit on every attempt.",
+    "src": "#52"
+  },
+  {
+    "w": "outcome noise",
+    "zh": "结果噪声；由随机性造成、不能直接归因于决策过程的结果波动",
+    "type": "academic",
+    "ex": "One unlucky event may be outcome noise rather than evidence of a bad process.",
+    "src": "#52"
+  },
+  {
+    "w": "process error",
+    "zh": "过程错误；推理、信息处理或决策步骤本身存在的问题",
+    "type": "academic",
+    "ex": "Ignoring an important alternative is a process error.",
+    "src": "#52"
+  },
+  {
+    "w": "counterfactual",
+    "zh": "反事实；对没有实际发生的另一种可能结果的想象",
+    "type": "academic",
+    "ex": "A counterfactual can be useful without proving that the alternative would have succeeded.",
+    "src": "#52"
+  },
+  {
+    "w": "risk tolerance",
+    "zh": "风险承受度；个人或组织可以接受风险的程度",
+    "type": "academic",
+    "ex": "The same investment may be unsuitable for people with different risk tolerances.",
+    "src": "#52"
+  },
+  {
+    "w": "downside",
+    "zh": "下行风险；可能出现的不利结果",
+    "type": "vocab",
+    "ex": "A high expected return may not justify an unbearable downside.",
+    "src": "#52"
+  },
+  {
+    "w": "decision journal",
+    "zh": "决策日志；在结果未知前记录信息、假设和预期的工具",
+    "type": "academic",
+    "ex": "A decision journal makes it harder for hindsight to rewrite your original beliefs.",
+    "src": "#52"
+  },
+  {
+    "w": "process accountability",
+    "zh": "过程问责；根据决策过程质量进行评价和负责",
+    "type": "academic",
+    "ex": "Process accountability can encourage careful reasoning under uncertainty.",
+    "src": "#52"
+  },
+  {
+    "w": "empirical feedback",
+    "zh": "实证反馈；来自实际观察结果、用于检验和更新判断的信息",
+    "type": "academic",
+    "ex": "A good model should change when enough empirical feedback contradicts it.",
+    "src": "#52"
+  },
+  {
+    "w": "defensive decision-making",
+    "zh": "防御性决策；为了避免被责备而非最大化真实目标所做的选择",
+    "type": "academic",
+    "ex": "Outcome-only evaluation can encourage defensive decision-making.",
+    "src": "#52"
+  },
+  {
+    "w": "nonlinear",
+    "zh": "非线性的；影响不会随数量按固定比例变化的",
+    "type": "academic",
+    "ex": "Large losses can have nonlinear consequences for a small business.",
+    "src": "#52"
+  },
+  {
+    "w": "reconstruct",
+    "zh": "重建；根据证据重新还原过去状态",
+    "type": "vocab",
+    "ex": "It is difficult to reconstruct uncertainty after the final result is known.",
+    "src": "#52"
+  },
+  {
+    "w": "stubbornness",
+    "zh": "固执；面对反证仍拒绝更新判断",
+    "type": "vocab",
+    "ex": "Respecting process should not become an excuse for stubbornness.",
+    "src": "#52"
+  },
+  {
+    "w": "Process-Outcome Split",
+    "zh": "过程—结果拆分；分别评价事前决策质量和事后新证据的本课框架",
+    "type": "proper",
+    "ex": "The Process-Outcome Split prevents a lucky result from automatically validating poor reasoning.",
+    "src": "#52"
+  }
+]);
+
+
+// Imported Article #53
+words.push(...[
+  {
+    "w": "information asymmetry",
+    "zh": "信息不对称；交易一方掌握的信息多于另一方",
+    "type": "academic",
+    "ex": "Information asymmetry makes it difficult for buyers to judge quality before purchase.",
+    "src": "#53"
+  },
+  {
+    "w": "price signal",
+    "zh": "价格信号；价格向消费者传递的质量、稀缺性或定位信息",
+    "type": "academic",
+    "ex": "A high price can act as a price signal when quality is difficult to observe.",
+    "src": "#53"
+  },
+  {
+    "w": "proxy",
+    "zh": "代理指标；用来间接代表难以直接观察事物的指标",
+    "type": "academic",
+    "ex": "Consumers sometimes use price as a proxy for quality.",
+    "src": "#53"
+  },
+  {
+    "w": "signaling",
+    "zh": "信号传递；通过可观察特征传递隐藏信息的过程",
+    "type": "academic",
+    "ex": "Professional qualifications can function as a form of signaling.",
+    "src": "#53"
+  },
+  {
+    "w": "credibility",
+    "zh": "可信度",
+    "type": "vocab",
+    "ex": "A price signal loses credibility when experience repeatedly contradicts it.",
+    "src": "#53"
+  },
+  {
+    "w": "reference point",
+    "zh": "参照点；评价价格或结果时使用的比较基准",
+    "type": "academic",
+    "ex": "The premium option can change the reference point for the middle-priced product.",
+    "src": "#53"
+  },
+  {
+    "w": "status signal",
+    "zh": "地位信号；用于传递财富、身份或群体归属的信息",
+    "type": "academic",
+    "ex": "Luxury products can operate partly as status signals.",
+    "src": "#53"
+  },
+  {
+    "w": "quality signal",
+    "zh": "质量信号；用于推断产品隐藏质量的信息",
+    "type": "academic",
+    "ex": "A long warranty may provide a stronger quality signal than a high price alone.",
+    "src": "#53"
+  },
+  {
+    "w": "Veblen good",
+    "zh": "凡勃伦商品；价格较高可能因地位展示功能而增强部分消费者需求的商品",
+    "type": "academic",
+    "ex": "A Veblen good may become more desirable to some buyers when its price reinforces exclusivity.",
+    "src": "#53"
+  },
+  {
+    "w": "exclusivity",
+    "zh": "专属性；因稀缺或限制获得而产生的独特地位",
+    "type": "vocab",
+    "ex": "Limited distribution can increase a brand's sense of exclusivity.",
+    "src": "#53"
+  },
+  {
+    "w": "market segmentation",
+    "zh": "市场细分；按照需求、行为或特征将消费者划分为不同群体",
+    "type": "academic",
+    "ex": "Market segmentation helps explain why buyers respond differently to the same price.",
+    "src": "#53"
+  },
+  {
+    "w": "price-sensitive",
+    "zh": "价格敏感的",
+    "type": "vocab",
+    "ex": "Price-sensitive consumers may leave quickly after a large increase.",
+    "src": "#53"
+  },
+  {
+    "w": "unit demand",
+    "zh": "单位需求量；实际购买的产品数量",
+    "type": "academic",
+    "ex": "Revenue can rise even while unit demand falls.",
+    "src": "#53"
+  },
+  {
+    "w": "customer mix",
+    "zh": "客户构成；不同类型客户在总体客户中的组合",
+    "type": "academic",
+    "ex": "A higher price may change the customer mix even if total revenue increases.",
+    "src": "#53"
+  },
+  {
+    "w": "controlled distribution",
+    "zh": "控制性分销；限制销售渠道以管理品牌定位或稀缺性的策略",
+    "type": "academic",
+    "ex": "Some luxury brands use controlled distribution to protect exclusivity.",
+    "src": "#53"
+  },
+  {
+    "w": "premium",
+    "zh": "高端的；相对更高价或更高定位的",
+    "type": "vocab",
+    "ex": "The company introduced a premium version for customers seeking additional features.",
+    "src": "#53"
+  },
+  {
+    "w": "Thorstein Veblen",
+    "zh": "索尔斯坦·凡勃伦；提出炫耀性消费等思想的经济学家、社会学家",
+    "type": "proper",
+    "ex": "Thorstein Veblen analyzed how consumption can communicate social status.",
+    "src": "#53"
+  },
+  {
+    "w": "Price Decomposition",
+    "zh": "价格拆解；本课将价格分为成本、质量信号、地位信号和参照点四种作用的框架",
+    "type": "proper",
+    "ex": "The Price Decomposition helps explain why the same price increase can produce different reactions.",
+    "src": "#53"
+  }
+]);
+
+
+// Imported Article #54
+words.push(...[
+  {
+    "w": "bottleneck",
+    "zh": "瓶颈；限制整个系统产出或速度的关键环节",
+    "type": "academic",
+    "ex": "Once drafting became faster, fact-checking became the new bottleneck.",
+    "src": "#54"
+  },
+  {
+    "w": "constraint",
+    "zh": "约束；限制系统表现的条件或资源",
+    "type": "academic",
+    "ex": "Human attention may become the main constraint after content generation becomes cheap.",
+    "src": "#54"
+  },
+  {
+    "w": "system-level",
+    "zh": "系统层面的；关注整个流程而非单一步骤的",
+    "type": "academic",
+    "ex": "A task-level speed-up does not guarantee a system-level productivity gain.",
+    "src": "#54"
+  },
+  {
+    "w": "congestion",
+    "zh": "拥堵；过多流量集中在有限处理能力处的状态",
+    "type": "vocab",
+    "ex": "More AI-generated drafts can create congestion in the review stage.",
+    "src": "#54"
+  },
+  {
+    "w": "verification",
+    "zh": "验证；检查输出是否准确、可靠或符合要求",
+    "type": "academic",
+    "ex": "High-stakes AI use requires stronger verification.",
+    "src": "#54"
+  },
+  {
+    "w": "verification burden",
+    "zh": "验证负担；检查大量自动生成输出所需的时间和责任",
+    "type": "academic",
+    "ex": "Automation can reduce creation time while increasing the verification burden.",
+    "src": "#54"
+  },
+  {
+    "w": "complementary",
+    "zh": "互补的；需要与另一变化配合才能发挥价值的",
+    "type": "academic",
+    "ex": "New technology often requires complementary changes in workflow and management.",
+    "src": "#54"
+  },
+  {
+    "w": "intermediate metric",
+    "zh": "中间指标；位于真实目标之前、较容易测量的代理指标",
+    "type": "academic",
+    "ex": "Documents produced may be an intermediate metric rather than a measure of real value.",
+    "src": "#54"
+  },
+  {
+    "w": "review capacity",
+    "zh": "审核能力；系统能够检查和处理输出的能力",
+    "type": "academic",
+    "ex": "Output can grow faster than review capacity.",
+    "src": "#54"
+  },
+  {
+    "w": "downstream",
+    "zh": "下游的；流程中较后阶段的",
+    "type": "vocab",
+    "ex": "A faster first stage may create problems downstream.",
+    "src": "#54"
+  },
+  {
+    "w": "upstream",
+    "zh": "上游的；流程中较前阶段的",
+    "type": "vocab",
+    "ex": "More upstream production can overwhelm a fixed review team.",
+    "src": "#54"
+  },
+  {
+    "w": "abundance",
+    "zh": "丰富、大量供给；与稀缺相对",
+    "type": "vocab",
+    "ex": "AI creates an abundance of first drafts and possible solutions.",
+    "src": "#54"
+  },
+  {
+    "w": "first-order effect",
+    "zh": "一阶效应；某变化产生的直接、即时影响",
+    "type": "academic",
+    "ex": "The first-order effect of automation is usually lower task time.",
+    "src": "#54"
+  },
+  {
+    "w": "second-order effect",
+    "zh": "二阶效应；由直接影响进一步引发的后续影响",
+    "type": "academic",
+    "ex": "A second-order effect may be weaker skill development among junior workers.",
+    "src": "#54"
+  },
+  {
+    "w": "labor-saving",
+    "zh": "节省劳动力的；减少完成特定任务所需人工投入的",
+    "type": "academic",
+    "ex": "A labor-saving tool does not automatically transform the whole organization.",
+    "src": "#54"
+  },
+  {
+    "w": "prototype",
+    "zh": "制作原型；快速建立可测试的初步版本",
+    "type": "vocab",
+    "ex": "AI allows programmers to prototype several approaches quickly.",
+    "src": "#54"
+  },
+  {
+    "w": "expertise pipeline",
+    "zh": "专业能力培养链条；从初学者逐步形成未来专家的过程",
+    "type": "academic",
+    "ex": "Automation may require companies to redesign their expertise pipeline.",
+    "src": "#54"
+  },
+  {
+    "w": "Bottleneck Shift Test",
+    "zh": "瓶颈转移测试；分析自动化后稀缺资源移动位置的框架",
+    "type": "proper",
+    "ex": "The Bottleneck Shift Test asks where scarcity moves after one task becomes cheaper.",
+    "src": "#54"
+  }
+]);
+
+
+// Imported Article #55
+words.push(...[
+  {
+    "w": "free trial",
+    "zh": "免费试用；正式收费前限时使用产品或服务",
+    "type": "vocab",
+    "ex": "A free trial can reduce uncertainty before a customer pays.",
+    "src": "#55"
+  },
+  {
+    "w": "endowment effect",
+    "zh": "禀赋效应；感觉拥有某物后对它估值上升的倾向",
+    "type": "academic",
+    "ex": "The endowment effect can make giving up a familiar service feel unusually costly.",
+    "src": "#55"
+  },
+  {
+    "w": "reference point",
+    "zh": "参照点；判断得失时所依据的基准状态",
+    "type": "academic",
+    "ex": "A month of premium access can shift the user's reference point.",
+    "src": "#55"
+  },
+  {
+    "w": "psychological ownership",
+    "zh": "心理所有权；即使法律上不拥有，也产生“这是我的”的感受",
+    "type": "academic",
+    "ex": "Customization can create psychological ownership of a digital service.",
+    "src": "#55"
+  },
+  {
+    "w": "usage capital",
+    "zh": "使用资本；通过使用、设置和积累数据形成的持续价值",
+    "type": "academic",
+    "ex": "Saved playlists and personalized settings can become usage capital.",
+    "src": "#55"
+  },
+  {
+    "w": "switching cost",
+    "zh": "转换成本；离开当前选择并迁移所需的未来成本",
+    "type": "academic",
+    "ex": "Moving stored data to another platform creates a switching cost.",
+    "src": "#55"
+  },
+  {
+    "w": "conversion rate",
+    "zh": "转化率；从试用等状态转为付费客户的比例",
+    "type": "academic",
+    "ex": "The team tracks the conversion rate from free trials to paid plans.",
+    "src": "#55"
+  },
+  {
+    "w": "inertia",
+    "zh": "惯性；没有主动干预时维持当前状态的倾向",
+    "type": "academic",
+    "ex": "Automatic renewal can turn inertia into continued payment.",
+    "src": "#55"
+  },
+  {
+    "w": "counterfactual",
+    "zh": "反事实；用于比较另一种情况会怎样的假设情形",
+    "type": "academic",
+    "ex": "The useful counterfactual is whether you would buy the service again today.",
+    "src": "#55"
+  },
+  {
+    "w": "downgrade",
+    "zh": "降级；转向功能、质量或待遇较低的状态",
+    "type": "vocab",
+    "ex": "After using premium features, cancellation may feel like a downgrade.",
+    "src": "#55"
+  },
+  {
+    "w": "experience good",
+    "zh": "体验品；实际使用前难以准确判断质量或适配度的产品",
+    "type": "academic",
+    "ex": "Software is often an experience good because reviews cannot reveal personal fit perfectly.",
+    "src": "#55"
+  },
+  {
+    "w": "learning value",
+    "zh": "学习价值；通过尝试获得产品适配度信息的价值",
+    "type": "academic",
+    "ex": "A trial has learning value even when the user decides not to subscribe.",
+    "src": "#55"
+  },
+  {
+    "w": "retention",
+    "zh": "留存；客户在一段时间后仍继续使用或付费的程度",
+    "type": "vocab",
+    "ex": "Long-term retention can reveal more than first-month conversion.",
+    "src": "#55"
+  },
+  {
+    "w": "time horizon",
+    "zh": "时间跨度；分析结果时采用的观察期限",
+    "type": "academic",
+    "ex": "A longer time horizon can expose weak-quality conversions.",
+    "src": "#55"
+  },
+  {
+    "w": "attention burden",
+    "zh": "注意力负担；持续记忆、检查和管理事项占用的认知资源",
+    "type": "academic",
+    "ex": "Multiple automatic trials can create a future attention burden.",
+    "src": "#55"
+  },
+  {
+    "w": "active continuation",
+    "zh": "主动延续；重新判断后有意识地选择继续",
+    "type": "academic",
+    "ex": "A good renewal decision should reflect active continuation rather than unnoticed inertia.",
+    "src": "#55"
+  },
+  {
+    "w": "loss aversion",
+    "zh": "损失厌恶；相较于同等收益，人通常对损失反应更强",
+    "type": "academic",
+    "ex": "Loss aversion can make the removal of premium features feel painful.",
+    "src": "#55"
+  },
+  {
+    "w": "Reference-Point Reset",
+    "zh": "参照点重置；暂时移除当前默认状态后重新判断是否主动选择的框架",
+    "type": "proper",
+    "ex": "The Reference-Point Reset asks whether you would actively add the service back today.",
+    "src": "#55"
+  }
+]);
+
+
+// Imported Article #56
+words.push(...[
+  {
+    "w": "search cost",
+    "zh": "搜索成本；寻找、比较和评估选项所需的时间、精力与信息",
+    "type": "academic",
+    "ex": "Online marketplaces reduce some transaction costs while creating new search costs.",
+    "src": "#56"
+  },
+  {
+    "w": "attention bottleneck",
+    "zh": "注意力瓶颈；供给远多于人能处理的信息时，注意力成为限制因素",
+    "type": "academic",
+    "ex": "Once product supply becomes abundant, attention can become the main bottleneck.",
+    "src": "#56"
+  },
+  {
+    "w": "ranking system",
+    "zh": "排序系统；按特定规则决定展示顺序的机制",
+    "type": "academic",
+    "ex": "A ranking system can strongly influence which sellers receive demand.",
+    "src": "#56"
+  },
+  {
+    "w": "discovery",
+    "zh": "发现；用户找到原本不知道或难以定位的选项的过程",
+    "type": "vocab",
+    "ex": "Good discovery tools help consumers navigate large markets.",
+    "src": "#56"
+  },
+  {
+    "w": "exhaustive",
+    "zh": "穷尽的；把所有可能选项都检查一遍的",
+    "type": "vocab",
+    "ex": "Exhaustive comparison becomes impossible when a platform lists millions of products.",
+    "src": "#56"
+  },
+  {
+    "w": "proxy",
+    "zh": "代理指标；用来近似衡量真正目标的可观测指标",
+    "type": "academic",
+    "ex": "Clicks are an imperfect proxy for customer satisfaction.",
+    "src": "#56"
+  },
+  {
+    "w": "feedback loop",
+    "zh": "反馈回路；某结果反过来加强产生该结果的机制",
+    "type": "academic",
+    "ex": "Early visibility can create a feedback loop that produces even more visibility.",
+    "src": "#56"
+  },
+  {
+    "w": "rich-get-richer dynamic",
+    "zh": "强者愈强机制；已有优势通过反馈进一步累积",
+    "type": "academic",
+    "ex": "Recommendation systems can sometimes create a rich-get-richer dynamic.",
+    "src": "#56"
+  },
+  {
+    "w": "causal ambiguity",
+    "zh": "因果歧义；观察结果无法清楚区分不同因果机制",
+    "type": "academic",
+    "ex": "Popularity creates causal ambiguity because visibility can itself generate sales.",
+    "src": "#56"
+  },
+  {
+    "w": "exposure",
+    "zh": "曝光；商品、内容或信息被用户看到的机会",
+    "type": "vocab",
+    "ex": "Higher exposure gives a product more opportunities to be purchased.",
+    "src": "#56"
+  },
+  {
+    "w": "verified purchase",
+    "zh": "已验证购买；平台确认评价者实际购买过商品的标记",
+    "type": "academic",
+    "ex": "A verified-purchase label can make reviews more trustworthy.",
+    "src": "#56"
+  },
+  {
+    "w": "trust infrastructure",
+    "zh": "信任基础设施；帮助陌生交易双方降低不确定性的制度和工具",
+    "type": "academic",
+    "ex": "Refund policies and seller histories are forms of trust infrastructure.",
+    "src": "#56"
+  },
+  {
+    "w": "gatekeeper",
+    "zh": "把关者；控制他人进入、曝光或获得机会的主体",
+    "type": "vocab",
+    "ex": "A dominant recommendation system can become a powerful gatekeeper.",
+    "src": "#56"
+  },
+  {
+    "w": "intermediary",
+    "zh": "中介；连接供需双方并帮助完成匹配的主体",
+    "type": "academic",
+    "ex": "Search engines act as intermediaries between abundant information and limited attention.",
+    "src": "#56"
+  },
+  {
+    "w": "raw inventory",
+    "zh": "原始库存规模；平台拥有的全部未筛选供给",
+    "type": "vocab",
+    "ex": "A larger raw inventory does not guarantee a better user experience.",
+    "src": "#56"
+  },
+  {
+    "w": "evaluation capacity",
+    "zh": "评估能力；有效比较和判断选项的处理能力",
+    "type": "academic",
+    "ex": "Supply can grow much faster than evaluation capacity.",
+    "src": "#56"
+  },
+  {
+    "w": "choice architecture",
+    "zh": "选择架构；选项排列、默认值和呈现方式构成的决策环境",
+    "type": "academic",
+    "ex": "Marketplace rankings are part of the consumer's choice architecture.",
+    "src": "#56"
+  },
+  {
+    "w": "Discovery Gap Test",
+    "zh": "发现缺口测试；分析供给增长是否超过筛选与评估能力的框架",
+    "type": "proper",
+    "ex": "The Discovery Gap Test asks who controls attention when supply becomes abundant.",
+    "src": "#56"
+  }
+]);

@@ -248,3 +248,139 @@ expressions.push(...[
     "#48"
   ]
 ]);
+
+
+// Imported Article #49
+expressions.push(...[
+  [
+    "The result depends heavily on what is being rewarded.",
+    "#49"
+  ],
+  [
+    "The rewarded behavior should be well aligned with the real objective.",
+    "#49"
+  ],
+  [
+    "We need to understand what a measure captures and what it leaves out.",
+    "#49"
+  ]
+]);
+
+
+// Imported Article #50
+expressions.push(...[
+  [
+    "Higher average accuracy does not justify automatic trust.",
+    "#50"
+  ],
+  [
+    "Meaningful disagreement can be a reason to check the underlying assumptions.",
+    "#50"
+  ],
+  [
+    "Human expertise is a stock that can weaken when it is not used.",
+    "#50"
+  ]
+]);
+
+
+// Imported Article #51
+expressions.push(...[
+  [
+    "Automatic payments turn an active purchase into a passive continuation.",
+    "#51"
+  ],
+  [
+    "Retention is more meaningful when it comes from continuing value.",
+    "#51"
+  ],
+  [
+    "Short-term numbers can improve while long-term trust is damaged.",
+    "#51"
+  ]
+]);
+
+
+// Imported Article #52
+expressions.push(...[
+  [
+    "A good result is not always proof of a good decision.",
+    "#52"
+  ],
+  [
+    "The result should be treated as new evidence rather than the entire verdict.",
+    "#52"
+  ],
+  [
+    "It helps separate an unlucky outcome from a genuine process error.",
+    "#52"
+  ]
+]);
+
+
+// Imported Article #53
+expressions.push(...[
+  [
+    "Price is a proxy, not proof.",
+    "#53"
+  ],
+  [
+    "I would treat price as one signal among several.",
+    "#53"
+  ],
+  [
+    "Different consumers may be purchasing different kinds of value.",
+    "#53"
+  ]
+]);
+
+
+// Imported Article #54
+expressions.push(...[
+  [
+    "The bottleneck may simply move to another stage.",
+    "#54"
+  ],
+  [
+    "I would measure productivity by useful outcomes rather than output volume.",
+    "#54"
+  ],
+  [
+    "Evaluation and judgment become more valuable when production is abundant.",
+    "#54"
+  ]
+]);
+
+
+// Imported Article #55
+expressions.push(...[
+  [
+    "The trial changes the reference point from which people evaluate the purchase.",
+    "#55"
+  ],
+  [
+    "Cancelling can feel more like losing something than deciding not to buy it.",
+    "#55"
+  ],
+  [
+    "A good business model should benefit from customers choosing to stay.",
+    "#55"
+  ]
+]);
+
+
+// Imported Article #56
+expressions.push(...[
+  [
+    "More choice is useful only if people can evaluate the options.",
+    "#56"
+  ],
+  [
+    "The quality of filtering matters almost as much as the amount of choice.",
+    "#56"
+  ],
+  [
+    "Algorithms can partly shape popularity rather than merely measure it.",
+    "#56"
+  ]
+]);
