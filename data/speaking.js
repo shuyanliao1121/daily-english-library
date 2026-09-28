@@ -955,3 +955,148 @@ speakingCards.push(...[
     ]
   }
 ]);
+
+
+// Imported Article #57
+speakingCards.push(...[
+  {
+    "src": "#57",
+    "cat": "Finance & Economics",
+    "framework": "Valuation → Alternatives → Financing → Expectations",
+    "q": "Why do interest rates have such a strong influence on asset prices?",
+    "answer": "I think interest rates matter through several channels rather than just one. First, lower rates can increase the present value of future cash flows, especially for assets whose profits are expected far in the future. They also make safe investments less attractive, so some investors become more willing to take risk. On top of that, borrowing becomes cheaper for households and companies. However, the effect is not automatic because markets also care about why rates are changing and whether the move was already expected.",
+    "expr": [
+      "Interest rates matter through several channels rather than just one.",
+      "The effect is not automatic because markets also care about why rates are changing.",
+      "Markets respond partly to what was already expected."
+    ]
+  },
+  {
+    "src": "#57",
+    "cat": "Finance & Economics",
+    "framework": "Immediate benefit → Behavioral adaptation → Leverage → Reversal risk",
+    "q": "Can very low interest rates create problems for the economy?",
+    "answer": "Yes, although low rates can be useful when an economy needs support. Cheap borrowing can encourage investment and make debt easier to service, but if rates stay low for a long time, people may start making decisions that only work under those conditions. Investors may use more leverage, asset prices may rise, and companies may depend on cheap refinancing. The risk appears when the environment reverses. So I would distinguish the first-order benefit of cheaper financing from the second-order fragility that can build up over time.",
+    "expr": [
+      "People may start making decisions that only work under those conditions.",
+      "The risk appears when the environment reverses.",
+      "We should distinguish the first-order benefit from the second-order fragility."
+    ]
+  }
+]);
+
+
+// Imported Article #58
+speakingCards.push(...[
+  {
+    "src": "#58",
+    "cat": "Technology & AI",
+    "framework": "Task efficiency → Rebound demand → Workplace incentives → Distribution of saved capacity",
+    "q": "Do you think AI will eventually give employees more free time?",
+    "answer": "Possibly, but I do not think it happens automatically. AI can reduce the time needed for individual tasks, but employers may respond by asking for more output or faster delivery. In that case, the saved capacity is absorbed by new demand rather than becoming free time. The result depends partly on workplace norms and bargaining power. So I would separate technological efficiency from the way its benefits are distributed: a tool can save labor without necessarily shortening the working day.",
+    "expr": [
+      "The saved capacity may be absorbed by new demand.",
+      "I would separate technological efficiency from the way its benefits are distributed.",
+      "A tool can save labor without necessarily shortening the working day."
+    ]
+  },
+  {
+    "src": "#58",
+    "cat": "Technology & AI",
+    "framework": "Abundant generation → Scarce judgment → Verification → Selection & trust",
+    "q": "What skills may become more important as AI makes content easier to produce?",
+    "answer": "I think judgment will become more important because producing a plausible first draft is becoming much cheaper. When content is abundant, the difficult part is deciding what is accurate, relevant and worth acting on. That makes verification, domain knowledge and the ability to set good priorities more valuable. In other words, competitive advantage may shift from producing information to filtering it well. People who can ask the right questions and recognize weak answers may benefit even if they are not the fastest producers.",
+    "expr": [
+      "Competitive advantage may shift from producing information to filtering it well.",
+      "The difficult part is deciding what is worth acting on.",
+      "Judgment becomes more valuable when generation becomes abundant."
+    ]
+  }
+]);
+
+
+// Imported Article #59
+speakingCards.push(...[
+  {
+    "src": "#59",
+    "cat": "Business",
+    "framework": "Acquisition cost → Retention → Lifetime value → Stable customer stock",
+    "q": "Why do some companies focus more on keeping existing customers than attracting new ones?",
+    "answer": "I think the main reason is that acquiring a customer is only the beginning of the economic relationship. A company may spend heavily on advertising or discounts to win someone, so the investment only makes sense if that person stays long enough to generate value. Strong retention also creates a more stable customer base instead of forcing the business to replace people who constantly leave. So I would say growth should be judged by the quality and durability of customer relationships, not simply by how many new users appear each month.",
+    "expr": [
+      "Acquiring a customer is only the beginning of the economic relationship.",
+      "Growth should be judged by the quality and durability of customer relationships.",
+      "A stable customer base reduces the need to constantly replace people who leave."
+    ]
+  },
+  {
+    "src": "#59",
+    "cat": "Business",
+    "framework": "Simple metric → Missing mechanism → Incentive effect → Wider measurement boundary",
+    "q": "Do you think businesses rely too much on simple performance metrics?",
+    "answer": "Often, yes, because simple metrics are easy to compare but they can hide important costs or long-term effects. Revenue, for example, tells you how much customers pay but not how expensive they are to serve or how long they will stay. There is also an incentive problem: once employees are rewarded for a number, they naturally start optimizing for it. I think a good metric should be treated as one piece of evidence rather than the whole objective, especially when the business model has important second-order effects.",
+    "expr": [
+      "A good metric should be treated as one piece of evidence rather than the whole objective.",
+      "Simple metrics can hide important costs or long-term effects.",
+      "Once people are rewarded for a number, they start optimizing for it."
+    ]
+  }
+]);
+
+
+// Imported Article #60
+speakingCards.push(...[
+  {
+    "src": "#60",
+    "cat": "Society & Culture",
+    "framework": "Convenience benefit → Substitution → Lost/new interactions → Context-dependent conclusion",
+    "q": "Do you think modern technology has made cities less social?",
+    "answer": "In some ways, yes, but I would not say the effect is automatically negative. Technology lets people shop, work and entertain themselves without leaving home, so it can reduce some casual encounters that used to happen during everyday routines. At the same time, the saved time may be used for friends, hobbies or local activities, and online relationships can also become real ones. I think the key question is what replaces the old routine. Convenience changes the opportunity for social contact, but people's choices determine whether that opportunity is lost or simply moved elsewhere.",
+    "expr": [
+      "The key question is what replaces the old routine.",
+      "Convenience changes the opportunity for social contact.",
+      "The effect is not automatically negative."
+    ]
+  },
+  {
+    "src": "#60",
+    "cat": "Society & Culture",
+    "framework": "Repeated presence → Weak ties → Familiarity & trust → Community resilience",
+    "q": "Why are public places such as libraries, parks and cafés important for communities?",
+    "answer": "I think their value goes beyond the service they officially provide. A library gives people books and a café sells drinks, but both can also create repeated low-pressure contact between people who live in the same area. Over time, those small encounters build familiarity and weak social ties. They may not turn strangers into close friends, but they can make a neighborhood feel less anonymous. So I would describe these places as social infrastructure: their value partly comes from the connections that emerge as a by-product of simply being there.",
+    "expr": [
+      "Their value goes beyond the service they officially provide.",
+      "Small encounters build familiarity over time.",
+      "Connections can emerge as a by-product of simply being there."
+    ]
+  }
+]);
+
+
+// Imported Article #61
+speakingCards.push(...[
+  {
+    "src": "#61",
+    "cat": "Psychology",
+    "framework": "Open commitments → Limited attention → Uncertainty → Mental load",
+    "q": "Why do people sometimes feel stressed even when they are not doing anything difficult at that moment?",
+    "answer": "I think stress can come from unresolved commitments rather than the difficulty of the present moment. Someone may be resting, but part of their attention is still occupied by deadlines, messages or decisions they have not organized. The problem becomes worse when those tasks are vague, because the person keeps mentally reopening them. So in some cases, the most useful step is not to finish everything immediately but to give each important commitment a clear next action and a reliable place to return to later.",
+    "expr": [
+      "Stress can come from unresolved commitments.",
+      "The person keeps mentally reopening the task.",
+      "The goal is to give the commitment a clear next action."
+    ]
+  },
+  {
+    "src": "#61",
+    "cat": "Psychology",
+    "framework": "External memory benefit → Quality of task definition → Metric trap → Conditional conclusion",
+    "q": "Do you think making to-do lists always helps people become more productive?",
+    "answer": "Not always. A to-do list can be helpful because it acts as external memory and reduces the need to keep rehearsing tasks in your head. However, the list only works well if the items are concrete and prioritized. Otherwise, people may choose easy tasks simply because crossing them off feels satisfying. That creates a measurement problem: a long list of completed items can look productive without producing much real progress. The best lists reduce uncertainty and direct attention toward valuable next actions rather than rewarding completion for its own sake.",
+    "expr": [
+      "A list can act as external memory.",
+      "Completion can look productive without producing much real progress.",
+      "The best lists reduce uncertainty rather than rewarding completion for its own sake."
+    ]
+  }
+]);

@@ -384,3 +384,88 @@ expressions.push(...[
     "#56"
   ]
 ]);
+
+
+// Imported Article #57
+expressions.push(...[
+  [
+    "Interest rates matter through several channels rather than just one.",
+    "#57"
+  ],
+  [
+    "The effect is not automatic because markets also care about why rates are changing.",
+    "#57"
+  ],
+  [
+    "We should distinguish the first-order benefit from the second-order fragility.",
+    "#57"
+  ]
+]);
+
+
+// Imported Article #58
+expressions.push(...[
+  [
+    "The saved capacity may be absorbed by new demand.",
+    "#58"
+  ],
+  [
+    "A tool can save labor without necessarily shortening the working day.",
+    "#58"
+  ],
+  [
+    "Competitive advantage may shift from producing information to filtering it well.",
+    "#58"
+  ]
+]);
+
+
+// Imported Article #59
+expressions.push(...[
+  [
+    "Growth should be judged by the quality and durability of customer relationships.",
+    "#59"
+  ],
+  [
+    "A good metric should be treated as one piece of evidence rather than the whole objective.",
+    "#59"
+  ],
+  [
+    "Simple metrics can hide important costs or long-term effects.",
+    "#59"
+  ]
+]);
+
+
+// Imported Article #60
+expressions.push(...[
+  [
+    "The key question is what replaces the old routine.",
+    "#60"
+  ],
+  [
+    "Their value goes beyond the service they officially provide.",
+    "#60"
+  ],
+  [
+    "Connections can emerge as a by-product of simply being there.",
+    "#60"
+  ]
+]);
+
+
+// Imported Article #61
+expressions.push(...[
+  [
+    "Stress can come from unresolved commitments.",
+    "#61"
+  ],
+  [
+    "A list can act as external memory.",
+    "#61"
+  ],
+  [
+    "Completion can look productive without producing much real progress.",
+    "#61"
+  ]
+]);

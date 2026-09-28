@@ -3369,3 +3369,658 @@ words.push(...[
     "src": "#56"
   }
 ]);
+
+
+// Imported Article #57
+words.push(...[
+  {
+    "w": "present value",
+    "zh": "现值；把未来现金流折算成今天价值后的金额",
+    "type": "academic",
+    "ex": "A lower discount rate increases the present value of a distant cash flow.",
+    "src": "#57"
+  },
+  {
+    "w": "discount rate",
+    "zh": "折现率；把未来价值折算为当前价值的比率",
+    "type": "academic",
+    "ex": "Growth stocks can be sensitive to changes in the discount rate.",
+    "src": "#57"
+  },
+  {
+    "w": "long-duration asset",
+    "zh": "长久期资产；价值较大比例来自较远期现金流的资产",
+    "type": "academic",
+    "ex": "Many high-growth companies behave like long-duration assets.",
+    "src": "#57"
+  },
+  {
+    "w": "opportunity cost",
+    "zh": "机会成本；选择某方案而放弃的最佳替代方案价值",
+    "type": "academic",
+    "ex": "Higher bond yields raise the opportunity cost of holding risky assets.",
+    "src": "#57"
+  },
+  {
+    "w": "search for yield",
+    "zh": "追逐收益；安全收益偏低时转向更高风险资产寻求回报",
+    "type": "academic",
+    "ex": "Very low safe rates can encourage a search for yield.",
+    "src": "#57"
+  },
+  {
+    "w": "financing cost",
+    "zh": "融资成本；借入资金或筹集资本的成本",
+    "type": "academic",
+    "ex": "Lower financing costs can make more investment projects viable.",
+    "src": "#57"
+  },
+  {
+    "w": "leverage",
+    "zh": "杠杆；借入资金放大投资规模和潜在盈亏",
+    "type": "academic",
+    "ex": "Leverage becomes more dangerous when financing costs rise suddenly.",
+    "src": "#57"
+  },
+  {
+    "w": "mortgage",
+    "zh": "住房抵押贷款",
+    "type": "vocab",
+    "ex": "Lower mortgage rates can increase a household's borrowing capacity.",
+    "src": "#57"
+  },
+  {
+    "w": "collateral",
+    "zh": "抵押品；用于为借款提供担保的资产",
+    "type": "academic",
+    "ex": "Falling asset prices can reduce the value of collateral.",
+    "src": "#57"
+  },
+  {
+    "w": "financial conditions",
+    "zh": "金融条件；利率、信贷和资产价格等共同决定的融资环境",
+    "type": "academic",
+    "ex": "Easier financial conditions can support spending and investment.",
+    "src": "#57"
+  },
+  {
+    "w": "rate cut",
+    "zh": "降息",
+    "type": "vocab",
+    "ex": "A rate cut may support valuations but also signal economic weakness.",
+    "src": "#57"
+  },
+  {
+    "w": "priced in",
+    "zh": "已被市场计价；预期信息已经反映在当前价格中",
+    "type": "vocab",
+    "ex": "The decision had little effect because it was already priced in.",
+    "src": "#57"
+  },
+  {
+    "w": "rate path",
+    "zh": "利率路径；未来一段时间利率如何变化的预期",
+    "type": "academic",
+    "ex": "Investors revised their expectations for the future rate path.",
+    "src": "#57"
+  },
+  {
+    "w": "fragility",
+    "zh": "脆弱性；系统在冲击下容易出现严重问题的程度",
+    "type": "academic",
+    "ex": "Long periods of cheap borrowing can create hidden financial fragility.",
+    "src": "#57"
+  },
+  {
+    "w": "refinance",
+    "zh": "再融资；用新的融资安排替换或延续现有债务",
+    "type": "vocab",
+    "ex": "Companies may struggle to refinance debt when rates rise.",
+    "src": "#57"
+  },
+  {
+    "w": "risk appetite",
+    "zh": "风险偏好；承担风险以追求收益的意愿",
+    "type": "academic",
+    "ex": "Strong market gains can increase investors' risk appetite.",
+    "src": "#57"
+  },
+  {
+    "w": "regime",
+    "zh": "制度或环境状态；一段时期内占主导的宏观或市场条件",
+    "type": "academic",
+    "ex": "Businesses may adapt their strategies to a low-rate regime.",
+    "src": "#57"
+  },
+  {
+    "w": "Rate Transmission Map",
+    "zh": "利率传导图；拆解利率通过估值、替代选择、融资与适应影响资产的框架",
+    "type": "proper",
+    "ex": "The Rate Transmission Map prevents us from treating rates as a mechanical switch.",
+    "src": "#57"
+  }
+]);
+
+
+// Imported Article #58
+words.push(...[
+  {
+    "w": "productivity",
+    "zh": "生产率；单位投入能够产生多少有价值产出的能力",
+    "type": "academic",
+    "ex": "AI can raise productivity without necessarily shortening the working day.",
+    "src": "#58"
+  },
+  {
+    "w": "Jevons paradox",
+    "zh": "杰文斯悖论；效率提高后因使用增加而使资源总消耗反而上升的现象",
+    "type": "proper",
+    "ex": "The Jevons paradox shows why efficiency can sometimes increase total consumption.",
+    "src": "#58"
+  },
+  {
+    "w": "rebound effect",
+    "zh": "反弹效应；效率提升降低单位成本后，需求增加抵消部分节省的现象",
+    "type": "academic",
+    "ex": "A strong rebound effect can absorb much of the time saved by automation.",
+    "src": "#58"
+  },
+  {
+    "w": "unit cost",
+    "zh": "单位成本；生产一个单位产品或完成一次任务所需的成本",
+    "type": "academic",
+    "ex": "AI can sharply reduce the unit cost of producing a first draft.",
+    "src": "#58"
+  },
+  {
+    "w": "task volume",
+    "zh": "任务量；一定时期内需要完成的任务总数",
+    "type": "academic",
+    "ex": "Workers can become busier if task volume rises faster than time per task falls.",
+    "src": "#58"
+  },
+  {
+    "w": "downstream work",
+    "zh": "下游工作；某项产出之后被触发的测试、审核、维护等后续任务",
+    "type": "academic",
+    "ex": "More prototypes can create additional downstream work for engineering teams.",
+    "src": "#58"
+  },
+  {
+    "w": "verification",
+    "zh": "核验；检查信息、结果或输出是否正确可靠",
+    "type": "academic",
+    "ex": "AI shifts some knowledge work from generation toward verification.",
+    "src": "#58"
+  },
+  {
+    "w": "bottleneck shift",
+    "zh": "瓶颈转移；一个限制被解除后，系统约束移动到另一环节",
+    "type": "academic",
+    "ex": "Automation often causes a bottleneck shift rather than removing every constraint.",
+    "src": "#58"
+  },
+  {
+    "w": "coordination cost",
+    "zh": "协调成本；多人协作、同步、沟通和解决依赖关系所需的成本",
+    "type": "academic",
+    "ex": "Generating more ideas can increase coordination costs across a team.",
+    "src": "#58"
+  },
+  {
+    "w": "evaluation capacity",
+    "zh": "评估能力；有效判断和筛选选项的有限处理能力",
+    "type": "academic",
+    "ex": "AI output may grow much faster than human evaluation capacity.",
+    "src": "#58"
+  },
+  {
+    "w": "performance baseline",
+    "zh": "绩效基线；组织默认员工应达到的产出或速度标准",
+    "type": "academic",
+    "ex": "New tools can gradually raise the performance baseline.",
+    "src": "#58"
+  },
+  {
+    "w": "induced demand",
+    "zh": "诱发需求；成本下降或供给改善后出现的新增需求",
+    "type": "academic",
+    "ex": "Cheaper analysis can create induced demand for more reports.",
+    "src": "#58"
+  },
+  {
+    "w": "slack",
+    "zh": "余裕；系统中未被占用、可用于缓冲或休息的资源",
+    "type": "vocab",
+    "ex": "An efficiency gain does not automatically create more slack for workers.",
+    "src": "#58"
+  },
+  {
+    "w": "absorbed",
+    "zh": "被吸收、消化；此处指节省的能力被新增需求占用",
+    "type": "vocab",
+    "ex": "Saved capacity may be absorbed by additional tasks.",
+    "src": "#58"
+  },
+  {
+    "w": "end-to-end",
+    "zh": "端到端的；从开始到最终完成整个流程的",
+    "type": "vocab",
+    "ex": "Fast generation does not guarantee better end-to-end productivity.",
+    "src": "#58"
+  },
+  {
+    "w": "activity metric",
+    "zh": "活动指标；衡量完成了多少动作而非最终价值的指标",
+    "type": "academic",
+    "ex": "Documents produced is an activity metric rather than a complete measure of value.",
+    "src": "#58"
+  },
+  {
+    "w": "saved capacity",
+    "zh": "节省出的能力；因效率提升而释放的时间、算力或人力",
+    "type": "academic",
+    "ex": "Organizations can reinvest saved capacity into higher output.",
+    "src": "#58"
+  },
+  {
+    "w": "Productivity Rebound Test",
+    "zh": "生产率反弹测试；分析效率提升后需求、下游工作和瓶颈如何变化的框架",
+    "type": "proper",
+    "ex": "The Productivity Rebound Test asks what happens to capacity after a task becomes cheaper.",
+    "src": "#58"
+  }
+]);
+
+
+// Imported Article #59
+words.push(...[
+  {
+    "w": "gross margin",
+    "zh": "毛利；收入扣除直接产品或服务成本后剩余的经济空间",
+    "type": "academic",
+    "ex": "Two customers with the same revenue can have very different gross margins.",
+    "src": "#59"
+  },
+  {
+    "w": "cost-to-serve",
+    "zh": "服务成本；为客户提供支持、交付和维护产生的成本",
+    "type": "academic",
+    "ex": "High support needs can make a customer's cost-to-serve surprisingly large.",
+    "src": "#59"
+  },
+  {
+    "w": "customer acquisition cost",
+    "zh": "获客成本；获得一个新客户所需的营销和销售成本",
+    "type": "academic",
+    "ex": "The company reduced customer acquisition cost by relying more on referrals.",
+    "src": "#59"
+  },
+  {
+    "w": "CAC",
+    "zh": "Customer Acquisition Cost 的常用缩写",
+    "type": "proper",
+    "ex": "A low CAC is attractive only if the customers acquired are worth retaining.",
+    "src": "#59"
+  },
+  {
+    "w": "customer lifetime value",
+    "zh": "客户终身价值；客户整个关系周期内预计创造的经济价值",
+    "type": "academic",
+    "ex": "Retention assumptions strongly affect customer lifetime value.",
+    "src": "#59"
+  },
+  {
+    "w": "LTV",
+    "zh": "Customer Lifetime Value 的常用缩写",
+    "type": "proper",
+    "ex": "Many subscription businesses compare LTV with CAC.",
+    "src": "#59"
+  },
+  {
+    "w": "retention",
+    "zh": "留存；客户持续使用或购买产品的能力",
+    "type": "academic",
+    "ex": "Strong retention can make modest monthly revenue highly valuable.",
+    "src": "#59"
+  },
+  {
+    "w": "churn",
+    "zh": "流失；客户停止订阅或离开的比例或过程",
+    "type": "academic",
+    "ex": "High churn can cancel out impressive customer acquisition.",
+    "src": "#59"
+  },
+  {
+    "w": "segmentation",
+    "zh": "客户分群；按有意义的特征划分客户",
+    "type": "academic",
+    "ex": "Useful segmentation should lead to different business decisions.",
+    "src": "#59"
+  },
+  {
+    "w": "spillover",
+    "zh": "溢出效应；交易之外产生的间接影响",
+    "type": "academic",
+    "ex": "A creator can generate positive spillovers by attracting other users.",
+    "src": "#59"
+  },
+  {
+    "w": "concentration risk",
+    "zh": "集中度风险；过度依赖少数客户所产生的风险",
+    "type": "academic",
+    "ex": "One large account can create serious concentration risk.",
+    "src": "#59"
+  },
+  {
+    "w": "operational burden",
+    "zh": "运营负担；维持业务关系产生的额外流程和资源压力",
+    "type": "academic",
+    "ex": "Custom requests can create an operational burden that revenue figures hide.",
+    "src": "#59"
+  },
+  {
+    "w": "conversion",
+    "zh": "转化；潜在客户完成购买或注册等目标行为",
+    "type": "academic",
+    "ex": "A discount may improve conversion without improving long-term profitability.",
+    "src": "#59"
+  },
+  {
+    "w": "pricing power",
+    "zh": "定价权；企业维持或提高价格的能力",
+    "type": "academic",
+    "ex": "Frequent discounts can weaken a brand's pricing power.",
+    "src": "#59"
+  },
+  {
+    "w": "in isolation",
+    "zh": "孤立地看；不考虑更广泛系统影响",
+    "type": "vocab",
+    "ex": "A customer may look unprofitable in isolation but valuable to the platform.",
+    "src": "#59"
+  },
+  {
+    "w": "leaking bucket",
+    "zh": "漏水的桶；比喻新增进入但旧客户持续流失的系统",
+    "type": "vocab",
+    "ex": "Rapid acquisition cannot fix a leaking bucket forever.",
+    "src": "#59"
+  },
+  {
+    "w": "measurement boundary",
+    "zh": "测量边界；指标在计算价值时包含与排除因素的范围",
+    "type": "academic",
+    "ex": "Changing the measurement boundary can change a business conclusion.",
+    "src": "#59"
+  },
+  {
+    "w": "Customer Value Stack",
+    "zh": "客户价值栈；本课逐层分析客户真实经济价值的框架",
+    "type": "proper",
+    "ex": "The Customer Value Stack prevents managers from treating revenue as the whole story.",
+    "src": "#59"
+  }
+]);
+
+
+// Imported Article #60
+words.push(...[
+  {
+    "w": "friction",
+    "zh": "摩擦；让行为更费时、费力或更难完成的阻力",
+    "type": "academic",
+    "ex": "Digital payments remove friction from everyday transactions.",
+    "src": "#60"
+  },
+  {
+    "w": "foot traffic",
+    "zh": "人流量；步行经过或进入某地点的人数",
+    "type": "academic",
+    "ex": "Local shops often depend on steady foot traffic.",
+    "src": "#60"
+  },
+  {
+    "w": "externality",
+    "zh": "外部性；交易对未直接参与者产生且未完全反映在价格中的影响",
+    "type": "academic",
+    "ex": "Traffic congestion is a classic negative externality.",
+    "src": "#60"
+  },
+  {
+    "w": "third place",
+    "zh": "第三空间；家庭与工作场所以外的非正式公共社交空间",
+    "type": "proper",
+    "ex": "A neighborhood café can function as a third place.",
+    "src": "#60"
+  },
+  {
+    "w": "social infrastructure",
+    "zh": "社会基础设施；支持互动、信任和社区生活的空间与机构",
+    "type": "academic",
+    "ex": "Libraries are an important form of social infrastructure.",
+    "src": "#60"
+  },
+  {
+    "w": "weak ties",
+    "zh": "弱关系；非亲密但能提供信息、熟悉感和社会连接的人际联系",
+    "type": "academic",
+    "ex": "Repeated encounters can gradually create useful weak ties.",
+    "src": "#60"
+  },
+  {
+    "w": "substitution",
+    "zh": "替代；一种行为或活动取代另一种",
+    "type": "academic",
+    "ex": "The social effect depends on what substitution occurs.",
+    "src": "#60"
+  },
+  {
+    "w": "serendipity",
+    "zh": "意外发现或偶遇有价值事物的幸运",
+    "type": "vocab",
+    "ex": "Physical spaces can create serendipity.",
+    "src": "#60"
+  },
+  {
+    "w": "by-product",
+    "zh": "副产品；主要活动附带产生的结果",
+    "type": "vocab",
+    "ex": "Social contact can be a by-product of ordinary errands.",
+    "src": "#60"
+  },
+  {
+    "w": "urban vitality",
+    "zh": "城市活力；公共空间中持续的人流、活动和商业互动",
+    "type": "academic",
+    "ex": "Street markets can contribute to urban vitality.",
+    "src": "#60"
+  },
+  {
+    "w": "collective-action dilemma",
+    "zh": "集体行动困境；个人动力不足导致共同利益难以维持",
+    "type": "academic",
+    "ex": "Maintaining shared institutions can become a collective-action dilemma.",
+    "src": "#60"
+  },
+  {
+    "w": "complementary",
+    "zh": "互补的；彼此结合后价值更大的",
+    "type": "vocab",
+    "ex": "Restaurants and shops can create complementary sources of foot traffic.",
+    "src": "#60"
+  },
+  {
+    "w": "viable",
+    "zh": "可持续经营的；能够继续存在或运作的",
+    "type": "vocab",
+    "ex": "Lower demand can make a small store no longer viable.",
+    "src": "#60"
+  },
+  {
+    "w": "embodied experience",
+    "zh": "具身体验；依赖身体在场、感官和现实空间的体验",
+    "type": "academic",
+    "ex": "Concerts offer an embodied experience that streaming cannot fully replace.",
+    "src": "#60"
+  },
+  {
+    "w": "local familiarity",
+    "zh": "地方熟悉感；通过反复接触形成的邻里熟悉感",
+    "type": "academic",
+    "ex": "Small daily encounters can build local familiarity.",
+    "src": "#60"
+  },
+  {
+    "w": "feedback loop",
+    "zh": "反馈回路；结果反过来强化或削弱原变化的循环机制",
+    "type": "academic",
+    "ex": "Empty storefronts can create a negative feedback loop.",
+    "src": "#60"
+  },
+  {
+    "w": "Ray Oldenburg",
+    "zh": "雷·奥尔登堡；以“第三空间”概念闻名的社会学家",
+    "type": "proper",
+    "ex": "Ray Oldenburg is associated with the idea of third places.",
+    "src": "#60"
+  },
+  {
+    "w": "Convenience Externality Map",
+    "zh": "便利外部性地图；分析便利如何通过替代、外部性和反馈改变系统的框架",
+    "type": "proper",
+    "ex": "The Convenience Externality Map looks beyond direct time savings.",
+    "src": "#60"
+  }
+]);
+
+
+// Imported Article #61
+words.push(...[
+  {
+    "w": "Zeigarnik effect",
+    "zh": "蔡格尼克效应；与未完成任务保持心理活跃相关的现象",
+    "type": "proper",
+    "ex": "The Zeigarnik effect is often used to explain why unfinished tasks remain memorable.",
+    "src": "#61"
+  },
+  {
+    "w": "open goal",
+    "zh": "开放目标；已形成意图但尚未完成的目标",
+    "type": "academic",
+    "ex": "An open goal can continue to compete for attention.",
+    "src": "#61"
+  },
+  {
+    "w": "cognitively active",
+    "zh": "认知上保持活跃的",
+    "type": "academic",
+    "ex": "Unfinished responsibilities may remain cognitively active.",
+    "src": "#61"
+  },
+  {
+    "w": "cognitive load",
+    "zh": "认知负荷",
+    "type": "academic",
+    "ex": "Too many vague commitments can increase cognitive load.",
+    "src": "#61"
+  },
+  {
+    "w": "working memory",
+    "zh": "工作记忆",
+    "type": "academic",
+    "ex": "Working memory has limited capacity.",
+    "src": "#61"
+  },
+  {
+    "w": "intrusive thought",
+    "zh": "侵入性思绪",
+    "type": "academic",
+    "ex": "A concrete plan may reduce intrusive thoughts.",
+    "src": "#61"
+  },
+  {
+    "w": "implementation intention",
+    "zh": "执行意图；把情境与行动连接起来的计划",
+    "type": "academic",
+    "ex": "An implementation intention can specify when a task will begin.",
+    "src": "#61"
+  },
+  {
+    "w": "executable",
+    "zh": "可执行的",
+    "type": "vocab",
+    "ex": "Turn a vague intention into an executable next step.",
+    "src": "#61"
+  },
+  {
+    "w": "ambiguity",
+    "zh": "模糊性",
+    "type": "vocab",
+    "ex": "Ambiguity can make a small task feel mentally expensive.",
+    "src": "#61"
+  },
+  {
+    "w": "micro-decision",
+    "zh": "微决策",
+    "type": "vocab",
+    "ex": "Planning can remove unnecessary micro-decisions.",
+    "src": "#61"
+  },
+  {
+    "w": "external memory",
+    "zh": "外部记忆",
+    "type": "academic",
+    "ex": "A reliable calendar can function as external memory.",
+    "src": "#61"
+  },
+  {
+    "w": "open loop",
+    "zh": "开放回路；尚未完成或没有明确处理路径的承诺",
+    "type": "academic",
+    "ex": "Too many open loops can fragment attention.",
+    "src": "#61"
+  },
+  {
+    "w": "salient",
+    "zh": "显眼的；容易抓住注意力的",
+    "type": "vocab",
+    "ex": "A salient task is not necessarily an important one.",
+    "src": "#61"
+  },
+  {
+    "w": "opportunity cost",
+    "zh": "机会成本",
+    "type": "academic",
+    "ex": "Every recurring reminder has an opportunity cost in attention.",
+    "src": "#61"
+  },
+  {
+    "w": "inbox zero",
+    "zh": "收件箱清零",
+    "type": "proper",
+    "ex": "Inbox zero can be useful if it supports a trusted workflow.",
+    "src": "#61"
+  },
+  {
+    "w": "closure",
+    "zh": "闭合、完结",
+    "type": "academic",
+    "ex": "Psychological relief does not always require closure.",
+    "src": "#61"
+  },
+  {
+    "w": "control",
+    "zh": "掌控；知道下一步和未来处理方式",
+    "type": "vocab",
+    "ex": "A long project can be unfinished but still under control.",
+    "src": "#61"
+  },
+  {
+    "w": "Open Loop Triage",
+    "zh": "开放回路分诊；本课的任务分诊框架",
+    "type": "proper",
+    "ex": "Open Loop Triage separates meaningful commitments from noisy ones.",
+    "src": "#61"
+  }
+]);
