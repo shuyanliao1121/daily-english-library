@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 58,
+  "article": {
+    "n": 58,
+    "title": "When AI Makes Work Faster, Why Can Work Still Feel Busier?",
+    "category": "Technology & AI",
+    "themes": [
+      "AI Productivity",
+      "Automation",
+      "Jevons Paradox",
+      "Task Expansion",
+      "Coordination Costs",
+      "Measurement"
+    ],
+    "framework": "Lower Task Cost → More Tasks Become Worth Doing → Output Expectations Rise → Coordination & Review Expand → Bottleneck Shifts",
+    "coreIdea": "AI can reduce the cost of individual tasks without reducing total workload, because cheaper production increases demand for output and shifts scarce human effort toward judgment, coordination, verification, and attention.",
+    "body": "Imagine that an AI tool cuts the time needed to draft a presentation from four hours to one. The obvious prediction is that the worker gains three hours. Sometimes that happens. But another outcome is increasingly plausible: the worker now produces three versions, answers more requests, attends an extra meeting, and reviews AI-generated material before sending it. The task became cheaper, yet the day did not become shorter.\n\nThis apparent contradiction is useful for thinking about productivity. We often imagine automation as subtraction: a machine performs part of a job, so human effort falls by the same amount. In reality, organizations respond to lower costs. When something becomes faster or cheaper to produce, people may demand more of it. The result can be higher output without a proportional reduction in work.\n\nEconomists have long studied a related idea known as the Jevons paradox. In the nineteenth century, William Stanley Jevons observed that improvements in coal efficiency could increase, rather than decrease, total coal consumption because cheaper effective energy encouraged more uses. The modern AI version is not identical, but the logic is transferable: efficiency changes behavior, and behavior changes total demand.\n\nConsider written communication. If producing a polished report once required several days, managers had to be selective about which reports were worth requesting. If AI reduces the drafting cost dramatically, the threshold falls. More reports, summaries, proposals, and personalized messages become economically reasonable. The organization saves time per document but may create many more documents.\n\nThis is a rebound effect. The first-order effect of AI is straightforward: the cost of completing a task falls. The second-order effect is that demand for the task can rise. Whether total human workload falls depends on the size of that rebound. If task volume grows faster than time per task declines, workers can become busier even while measured productivity improves.\n\nThe same logic applies to software. Faster code generation can reduce the cost of building features, prototypes, and internal tools. That is valuable. But cheaper development may also increase the number of experiments a team runs. Each experiment creates downstream work: testing, security review, documentation, maintenance, user support, and decisions about what to keep.\n\nThis reveals a bottleneck shift. Before automation, producing a first draft may be scarce. After automation, drafts become abundant, while reliable judgment becomes scarce. Someone still has to decide which output is correct, useful, safe, and appropriate. AI can therefore move work from generation toward verification.\n\nVerification is not always cheap. A fluent answer can be fast to produce but slow to check, especially when errors are subtle. If a person could have written a simple answer in ten minutes but spends fifteen minutes checking a sophisticated AI-generated one, the nominal speed of generation does not equal end-to-end productivity.\n\nThis connects directly to #54's Bottleneck Shift Test. When one stage becomes abundant, look for the next constrained stage. In AI-assisted knowledge work, possible bottlenecks include domain expertise, managerial attention, approval capacity, data quality, trust, or the ability to define a good objective. Automation removes some friction while making other frictions more visible.\n\nThere is also a coordination effect. Suppose every employee can now create analyses, dashboards, memos, and project ideas much faster. The organization receives more possible actions. But teams still need to agree on priorities, allocate budgets, resolve conflicts, and synchronize dependencies. Generating options scales more easily than coordinating people around them.\n\nThis resembles #56's Discovery Gap Test. When supply expands faster than evaluation capacity, filtering becomes more valuable. AI can create an internal version of the same problem: abundant drafts, abundant ideas, abundant data summaries, but limited attention to evaluate them. The scarce resource shifts from content production to selection.\n\nMeasurement can hide this shift. A company may report that employees create twice as many documents or close more tickets per week. Those metrics can show real gains, but they do not automatically reveal whether the extra output creates proportional value. If AI makes low-value tasks cheap, an organization can become extremely efficient at producing things it did not truly need.\n\nThis is where #49's Incentive Audit becomes important. Once managers know AI can accelerate a task, expectations may reset. A report that once took two days may now be expected by afternoon. Employees may not experience the efficiency gain as leisure or reduced pressure; it can be converted into a higher performance baseline.\n\nThat does not mean productivity improvements are fake. Higher output can raise living standards, improve services, accelerate research, and allow small teams to attempt projects that were previously impossible. The point is that productivity gains are usually distributed among several outcomes: lower prices, higher output, higher profits, higher wages, better quality, shorter hours, or simply higher expectations.\n\nQuality expectations can also rise. Once AI makes basic production cheap, customers may stop valuing basic production. A generic summary becomes less impressive when anyone can generate one instantly. Competitive advantage shifts toward originality, trust, customization, taste, or verified expertise. In other words, the standard for what counts as “enough” can move upward.\n\nThis is a form of induced demand. Lowering the cost of an activity can reveal demand that was previously suppressed by expense or effort. When translation becomes cheaper, organizations translate more material. When image creation becomes cheaper, teams use more images. When analysis becomes cheaper, managers request more analysis. The old level of consumption was partly a consequence of the old cost.\n\nAt some point, attention becomes the limiting stock. This gives us a stock-and-flow model: AI increases the flow of drafts, messages, analyses, and options, while human attention, trust, and decision capacity grow much more slowly. If the flow expands faster than the stock can absorb it, organizations experience overload rather than relief.\n\nToday's transferable tool is the Productivity Rebound Test. When a technology makes a task faster, ask four questions. First, how much does unit cost fall? Second, how much does demand for the task rise? Third, what downstream work does the additional output create? Fourth, where does the bottleneck move?\n\nThen add a value check: are we measuring useful outcomes or merely activity? Ten AI-generated reports are not necessarily more valuable than three carefully chosen ones. The relevant unit may be decisions improved, errors prevented, customers helped, or revenue created—not words produced.\n\nThe broader lesson is that efficiency is not the same as slack. A technology can make each unit of work easier while making the surrounding system more ambitious. AI may genuinely save labor, but organizations can reinvest that saved capacity into more tasks, higher standards, and new forms of coordination.\n\nSo when someone asks whether AI will give people more free time, “yes” and “no” are both too simple. The better question is what happens to the saved capacity. If it becomes leisure, work shrinks. If it becomes new demand, output expands. And if generation becomes abundant while attention remains scarce, the future of work may be defined less by how fast we can produce and more by how well we can decide what is worth producing.",
+    "summaryZh": "今天讨论一个很容易被“AI 提效”叙事忽略的问题：单个任务变快，并不自动等于总工作量下降。核心机制是 Lower Task Cost → More Tasks Become Worth Doing → Output Expectations Rise → Coordination & Review Expand → Bottleneck Shifts。AI 把 draft、code、summary、analysis 的 unit cost 降低以后，原本因为太贵或太慢而不会做的任务开始被大量提出，因此 first-order effect 是“每件事更快”，second-order effect 却可能是“要做的事更多”。\n\n这里借用了 Jevons paradox / rebound effect：效率提升会改变行为，而行为会反过来改变总需求。它不是说 AI 没有提高 productivity，而是提醒我们区分 unit productivity 与 total workload。\n\n文章进一步接回 #54 Bottleneck Shift Test：generation 变得 abundant 后，scarcity 可能转移到 verification、domain expertise、managerial attention、approval capacity 与 trust。也接回 #56 Discovery Gap Test：AI 在组织内部制造大量 drafts 和 options，而人的 evaluation capacity 增长很慢，于是 filtering 和 selection 的价值上升。\n\nMeasurement 也是关键。documents produced、tickets closed 等 activity metrics 可能显著上涨，但这不保证 useful outcomes 同比例增加。再接 #49 Incentive Audit：当管理者知道某任务可以更快完成，效率收益可能被重新写进 performance baseline，而不是转化为 leisure。\n\n今天的新工具是 Productivity Rebound Test：Unit Cost 降多少？→ Demand 增多少？→ Additional Output 创造什么 downstream work？→ Bottleneck 移到哪里？最后加 Value Check：测量的是 activity，还是 decisions improved / errors prevented / customers helped 等真正 outcome？最终最值得记住的是：Efficiency ≠ Slack。"
+  },
+  "words": [
+    {
+      "word": "productivity",
+      "type": "academic",
+      "meaningZh": "生产率；单位投入能够产生多少有价值产出的能力",
+      "example": "AI can raise productivity without necessarily shortening the working day.",
+      "source": 58
+    },
+    {
+      "word": "Jevons paradox",
+      "type": "proper",
+      "meaningZh": "杰文斯悖论；效率提高后因使用增加而使资源总消耗反而上升的现象",
+      "example": "The Jevons paradox shows why efficiency can sometimes increase total consumption.",
+      "source": 58
+    },
+    {
+      "word": "rebound effect",
+      "type": "academic",
+      "meaningZh": "反弹效应；效率提升降低单位成本后，需求增加抵消部分节省的现象",
+      "example": "A strong rebound effect can absorb much of the time saved by automation.",
+      "source": 58
+    },
+    {
+      "word": "unit cost",
+      "type": "academic",
+      "meaningZh": "单位成本；生产一个单位产品或完成一次任务所需的成本",
+      "example": "AI can sharply reduce the unit cost of producing a first draft.",
+      "source": 58
+    },
+    {
+      "word": "task volume",
+      "type": "academic",
+      "meaningZh": "任务量；一定时期内需要完成的任务总数",
+      "example": "Workers can become busier if task volume rises faster than time per task falls.",
+      "source": 58
+    },
+    {
+      "word": "downstream work",
+      "type": "academic",
+      "meaningZh": "下游工作；某项产出之后被触发的测试、审核、维护等后续任务",
+      "example": "More prototypes can create additional downstream work for engineering teams.",
+      "source": 58
+    },
+    {
+      "word": "verification",
+      "type": "academic",
+      "meaningZh": "核验；检查信息、结果或输出是否正确可靠",
+      "example": "AI shifts some knowledge work from generation toward verification.",
+      "source": 58
+    },
+    {
+      "word": "bottleneck shift",
+      "type": "academic",
+      "meaningZh": "瓶颈转移；一个限制被解除后，系统约束移动到另一环节",
+      "example": "Automation often causes a bottleneck shift rather than removing every constraint.",
+      "source": 58
+    },
+    {
+      "word": "coordination cost",
+      "type": "academic",
+      "meaningZh": "协调成本；多人协作、同步、沟通和解决依赖关系所需的成本",
+      "example": "Generating more ideas can increase coordination costs across a team.",
+      "source": 58
+    },
+    {
+      "word": "evaluation capacity",
+      "type": "academic",
+      "meaningZh": "评估能力；有效判断和筛选选项的有限处理能力",
+      "example": "AI output may grow much faster than human evaluation capacity.",
+      "source": 58
+    },
+    {
+      "word": "performance baseline",
+      "type": "academic",
+      "meaningZh": "绩效基线；组织默认员工应达到的产出或速度标准",
+      "example": "New tools can gradually raise the performance baseline.",
+      "source": 58
+    },
+    {
+      "word": "induced demand",
+      "type": "academic",
+      "meaningZh": "诱发需求；成本下降或供给改善后出现的新增需求",
+      "example": "Cheaper analysis can create induced demand for more reports.",
+      "source": 58
+    },
+    {
+      "word": "slack",
+      "type": "vocab",
+      "meaningZh": "余裕；系统中未被占用、可用于缓冲或休息的资源",
+      "example": "An efficiency gain does not automatically create more slack for workers.",
+      "source": 58
+    },
+    {
+      "word": "absorbed",
+      "type": "vocab",
+      "meaningZh": "被吸收、消化；此处指节省的能力被新增需求占用",
+      "example": "Saved capacity may be absorbed by additional tasks.",
+      "source": 58
+    },
+    {
+      "word": "end-to-end",
+      "type": "vocab",
+      "meaningZh": "端到端的；从开始到最终完成整个流程的",
+      "example": "Fast generation does not guarantee better end-to-end productivity.",
+      "source": 58
+    },
+    {
+      "word": "activity metric",
+      "type": "academic",
+      "meaningZh": "活动指标；衡量完成了多少动作而非最终价值的指标",
+      "example": "Documents produced is an activity metric rather than a complete measure of value.",
+      "source": 58
+    },
+    {
+      "word": "saved capacity",
+      "type": "academic",
+      "meaningZh": "节省出的能力；因效率提升而释放的时间、算力或人力",
+      "example": "Organizations can reinvest saved capacity into higher output.",
+      "source": 58
+    },
+    {
+      "word": "Productivity Rebound Test",
+      "type": "proper",
+      "meaningZh": "生产率反弹测试；分析效率提升后需求、下游工作和瓶颈如何变化的框架",
+      "example": "The Productivity Rebound Test asks what happens to capacity after a task becomes cheaper.",
+      "source": 58
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Do you think AI will eventually give employees more free time?",
+      "category": "Technology & AI",
+      "framework": "Task efficiency → Rebound demand → Workplace incentives → Distribution of saved capacity",
+      "response": "Possibly, but I do not think it happens automatically. AI can reduce the time needed for individual tasks, but employers may respond by asking for more output or faster delivery. In that case, the saved capacity is absorbed by new demand rather than becoming free time. The result depends partly on workplace norms and bargaining power. So I would separate technological efficiency from the way its benefits are distributed: a tool can save labor without necessarily shortening the working day.",
+      "expressions": [
+        "The saved capacity may be absorbed by new demand.",
+        "I would separate technological efficiency from the way its benefits are distributed.",
+        "A tool can save labor without necessarily shortening the working day."
+      ],
+      "source": 58
+    },
+    {
+      "question": "What skills may become more important as AI makes content easier to produce?",
+      "category": "Technology & AI",
+      "framework": "Abundant generation → Scarce judgment → Verification → Selection & trust",
+      "response": "I think judgment will become more important because producing a plausible first draft is becoming much cheaper. When content is abundant, the difficult part is deciding what is accurate, relevant and worth acting on. That makes verification, domain knowledge and the ability to set good priorities more valuable. In other words, competitive advantage may shift from producing information to filtering it well. People who can ask the right questions and recognize weak answers may benefit even if they are not the fastest producers.",
+      "expressions": [
+        "Competitive advantage may shift from producing information to filtering it well.",
+        "The difficult part is deciding what is worth acting on.",
+        "Judgment becomes more valuable when generation becomes abundant."
+      ],
+      "source": 58
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "The saved capacity may be absorbed by new demand.",
+      "meaningZh": "节省出的能力可能会被新增需求重新吸收。",
+      "source": 58
+    },
+    {
+      "expression": "A tool can save labor without necessarily shortening the working day.",
+      "meaningZh": "工具可以节省劳动，却不一定缩短工作日。",
+      "source": 58
+    },
+    {
+      "expression": "Competitive advantage may shift from producing information to filtering it well.",
+      "meaningZh": "竞争优势可能从生产信息转向高质量筛选信息。",
+      "source": 58
+    }
+  ]
+}

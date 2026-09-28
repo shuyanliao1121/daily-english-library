@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 61,
+  "article": {
+    "n": 61,
+    "title": "Why Unfinished Tasks Stay in Your Head",
+    "category": "Psychology",
+    "themes": [
+      "Attention",
+      "Unfinished Tasks",
+      "Working Memory",
+      "Planning",
+      "Cognitive Load",
+      "Goal Management"
+    ],
+    "framework": "Open Goal → Attention Stays Activated → Cognitive Load Persists → Concrete Plan Creates Closure → Attention Can Reallocate",
+    "coreIdea": "Unfinished tasks often remain mentally active because unresolved goals keep competing for attention; a credible plan can reduce that load by giving the goal a trusted next step.",
+    "body": "You are trying to relax, but a half-finished assignment keeps returning to mind. You remember an email you have not answered, a form you need to submit, and a decision you promised yourself you would make. None of these tasks is happening now, yet they occupy mental space. Why can an unfinished task feel more present than a finished one?\n\nA useful starting point is the Zeigarnik effect, named after psychologist Bluma Zeigarnik. Early research suggested that people sometimes remembered interrupted or incomplete tasks better than completed ones. The popular version says the brain “hates unfinished business.” That is memorable, but too simple. Later research suggests the effect depends on context, motivation, and the task involved.\n\nA better way to think about unfinished tasks is as open goals. When you intend to do something but have not completed it, the goal can remain cognitively active. Your attention system may continue to treat related information as relevant. That can be useful: remembering a responsibility prevents it from disappearing. But when many open goals accumulate, the same mechanism becomes mentally expensive.\n\nThis is where cognitive load matters. Working memory has limited capacity. You cannot actively hold every deadline, promise, idea, and next step at once. If unresolved tasks repeatedly compete for attention, concentration can feel fragmented even when each task is small.\n\nThe problem is not simply the number of tasks. Ten clearly organized tasks may feel easier than three vague ones. “Finish the project” contains uncertainty: What remains? When will you do it? What is the first action? Do you need information from someone else? Ambiguity creates extra mental work because the intention has not become an executable path.\n\nThis helps explain why planning can produce relief before a task is completed. Research on unfulfilled goals has found that forming specific plans can reduce intrusive thoughts about those goals. The important point is not magical closure. A plan gives the mind evidence that the goal has a route forward.\n\nImagine two unfinished essays. For the first, your instruction is simply “I really need to work on this.” For the second, you write: “Monday at 7 p.m.: open the draft, rewrite paragraph three, then find one source for the counterargument.” Both remain unfinished. Yet the second is less ambiguous because the next action has been specified.\n\nThis resembles an implementation intention: a plan linking a situation to an action, often in an “if X, then Y” form. For example, “When I return from class, I will spend twenty minutes reviewing the data.” The decision does not need to be reconstructed from scratch at the moment of action.\n\nPlanning therefore reduces friction. It does not remove the work, but it can remove repeated micro-decisions: when to begin, where to begin, and what counts as the next step. The bottleneck may shift from remembering the goal to executing it.\n\nThere is also a trust problem. A reminder system reduces mental load only if you believe you will see and use it. Writing “tax form” on a random piece of paper may not help if you regularly lose such notes. A calendar, task manager, or notebook functions as external memory only when the system is reliable enough that the brain no longer needs to rehearse the task.\n\nThis gives us a stock-and-flow perspective. New obligations arrive as a flow. Unresolved commitments accumulate into a stock of open loops. Completion removes some loops, but planning can change their psychological status: an open loop with a trusted next action may demand less attention than an undefined one.\n\nThe idea also connects to scarcity. Attention is limited, so every unresolved goal has an opportunity cost. If part of your attention is repeatedly captured by “remember to send that file,” less is available for reading, conversation, creative work, or rest. The cost may be tiny for one task but meaningful when many accumulate.\n\nHowever, not every recurring thought means a task should be completed immediately. People sometimes respond to discomfort by doing whatever is easiest to finish. They answer minor messages, reorganize folders, or complete tiny administrative tasks because closure feels rewarding. Meanwhile, the difficult but important project remains untouched.\n\nThis is a measurement trap. Counting completed tasks can create the impression of productivity even when the highest-value goal has not moved. Five closed loops are not necessarily better than one meaningful advance. The metric “tasks completed” ignores differences in importance.\n\nThe same problem appears in digital products. Email inboxes, notification badges, and unread counts present open loops visually. A red number can make an unresolved item feel urgent even when it has little value. Interface design turns abstract obligations into persistent cues that capture attention.\n\nThis is why “inbox zero” can help some people but distract others. If clearing the inbox reduces uncertainty and creates a trusted system, it may lower cognitive load. If it becomes a ritual of processing low-value messages to achieve a satisfying zero, it can redirect attention from more important work.\n\nThe key distinction is between closure and control. Closure means the task is finished. Control means you know what the task is, what happens next, and when you will reconsider it. Many tasks cannot be completed today, but they can still be brought under control.\n\nThat distinction is useful for long projects. “Apply for internships” is too large to finish in one sitting. But it can become smaller commitments: identify five roles, update one résumé section, ask one person for feedback, and schedule the next review. Progress becomes visible without pretending the entire goal is complete.\n\nToday's transferable tool is the Open Loop Triage. For each recurring unfinished task, ask four questions. First, is it actually important, or merely salient? Second, what is the smallest concrete next action? Third, when or under what condition will that action happen? Fourth, where will the commitment be stored so that you trust yourself to encounter it again?\n\nThis tool combines several earlier frameworks. Scarcity reminds us that attention has a budget. Friction explains why vague next steps delay action. Stock versus flow shows how obligations accumulate. Incentive analysis warns that visible completion can reward trivial work. Measurement asks whether we are optimizing meaningful progress or simply reducing open loops.\n\nThere is also a causal lesson. If making a plan reduces intrusive thoughts, that does not mean every form of planning improves performance. Excessive planning can become another avoidance strategy. The useful mechanism is not planning for its own sake; it is reducing uncertainty enough to support action.\n\nThe goal, then, is not to eliminate every unfinished task. Modern life continuously generates obligations and possibilities. A more realistic goal is to prevent every unfinished task from demanding equal access to attention.\n\nAn unfinished task becomes especially noisy when it is both relevant and undefined. Giving it a credible next step changes the relationship. The task still exists, but it no longer needs to shout constantly to avoid being forgotten.\n\nMental relief therefore does not always require completion. Sometimes it requires a trusted structure. When the brain knows that an important goal has a place, a next action, and a future moment for review, attention can return to the present without pretending the unfinished work has disappeared.",
+    "summaryZh": "今天讨论“为什么没做完的事情会一直占脑子”。重点不是把 Zeigarnik effect 简化成“人脑讨厌未完成”，而是把未完成任务理解成 open goals：尚未完成、又缺乏明确执行路径的目标会持续保持认知活跃，与当前任务竞争有限的 attention。真正制造负担的往往不只是 unfinished，而是 undefined。Concrete planning 的价值不是假装任务已经完成，而是减少 uncertainty 和 repeated micro-decisions，让目标拥有可信的未来入口。这里接回 Scarcity、Friction、Stock vs Flow 与 Measurement：attention 有预算；模糊任务制造启动摩擦；义务不断流入并形成 open loops 的存量；而 tasks completed 可能奖励大量低价值小事。今天的新工具是 Open Loop Triage：Importance → Next Action → Trigger/Time → Trusted Storage。最重要的区分是 Closure ≠ Control：长期任务今天无法完成，但仍可以被纳入控制。心理 relief 有时不需要完成，只需要一个可信的结构。"
+  },
+  "words": [
+    {
+      "word": "Zeigarnik effect",
+      "type": "proper",
+      "meaningZh": "蔡格尼克效应；与未完成任务保持心理活跃相关的现象",
+      "example": "The Zeigarnik effect is often used to explain why unfinished tasks remain memorable.",
+      "source": 61
+    },
+    {
+      "word": "open goal",
+      "type": "academic",
+      "meaningZh": "开放目标；已形成意图但尚未完成的目标",
+      "example": "An open goal can continue to compete for attention.",
+      "source": 61
+    },
+    {
+      "word": "cognitively active",
+      "type": "academic",
+      "meaningZh": "认知上保持活跃的",
+      "example": "Unfinished responsibilities may remain cognitively active.",
+      "source": 61
+    },
+    {
+      "word": "cognitive load",
+      "type": "academic",
+      "meaningZh": "认知负荷",
+      "example": "Too many vague commitments can increase cognitive load.",
+      "source": 61
+    },
+    {
+      "word": "working memory",
+      "type": "academic",
+      "meaningZh": "工作记忆",
+      "example": "Working memory has limited capacity.",
+      "source": 61
+    },
+    {
+      "word": "intrusive thought",
+      "type": "academic",
+      "meaningZh": "侵入性思绪",
+      "example": "A concrete plan may reduce intrusive thoughts.",
+      "source": 61
+    },
+    {
+      "word": "implementation intention",
+      "type": "academic",
+      "meaningZh": "执行意图；把情境与行动连接起来的计划",
+      "example": "An implementation intention can specify when a task will begin.",
+      "source": 61
+    },
+    {
+      "word": "executable",
+      "type": "vocab",
+      "meaningZh": "可执行的",
+      "example": "Turn a vague intention into an executable next step.",
+      "source": 61
+    },
+    {
+      "word": "ambiguity",
+      "type": "vocab",
+      "meaningZh": "模糊性",
+      "example": "Ambiguity can make a small task feel mentally expensive.",
+      "source": 61
+    },
+    {
+      "word": "micro-decision",
+      "type": "vocab",
+      "meaningZh": "微决策",
+      "example": "Planning can remove unnecessary micro-decisions.",
+      "source": 61
+    },
+    {
+      "word": "external memory",
+      "type": "academic",
+      "meaningZh": "外部记忆",
+      "example": "A reliable calendar can function as external memory.",
+      "source": 61
+    },
+    {
+      "word": "open loop",
+      "type": "academic",
+      "meaningZh": "开放回路；尚未完成或没有明确处理路径的承诺",
+      "example": "Too many open loops can fragment attention.",
+      "source": 61
+    },
+    {
+      "word": "salient",
+      "type": "vocab",
+      "meaningZh": "显眼的；容易抓住注意力的",
+      "example": "A salient task is not necessarily an important one.",
+      "source": 61
+    },
+    {
+      "word": "opportunity cost",
+      "type": "academic",
+      "meaningZh": "机会成本",
+      "example": "Every recurring reminder has an opportunity cost in attention.",
+      "source": 61
+    },
+    {
+      "word": "inbox zero",
+      "type": "proper",
+      "meaningZh": "收件箱清零",
+      "example": "Inbox zero can be useful if it supports a trusted workflow.",
+      "source": 61
+    },
+    {
+      "word": "closure",
+      "type": "academic",
+      "meaningZh": "闭合、完结",
+      "example": "Psychological relief does not always require closure.",
+      "source": 61
+    },
+    {
+      "word": "control",
+      "type": "vocab",
+      "meaningZh": "掌控；知道下一步和未来处理方式",
+      "example": "A long project can be unfinished but still under control.",
+      "source": 61
+    },
+    {
+      "word": "Open Loop Triage",
+      "type": "proper",
+      "meaningZh": "开放回路分诊；本课的任务分诊框架",
+      "example": "Open Loop Triage separates meaningful commitments from noisy ones.",
+      "source": 61
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why do people sometimes feel stressed even when they are not doing anything difficult at that moment?",
+      "category": "Psychology",
+      "framework": "Open commitments → Limited attention → Uncertainty → Mental load",
+      "response": "I think stress can come from unresolved commitments rather than the difficulty of the present moment. Someone may be resting, but part of their attention is still occupied by deadlines, messages or decisions they have not organized. The problem becomes worse when those tasks are vague, because the person keeps mentally reopening them. So in some cases, the most useful step is not to finish everything immediately but to give each important commitment a clear next action and a reliable place to return to later.",
+      "expressions": [
+        "Stress can come from unresolved commitments.",
+        "The person keeps mentally reopening the task.",
+        "The goal is to give the commitment a clear next action."
+      ],
+      "source": 61
+    },
+    {
+      "question": "Do you think making to-do lists always helps people become more productive?",
+      "category": "Psychology",
+      "framework": "External memory benefit → Quality of task definition → Metric trap → Conditional conclusion",
+      "response": "Not always. A to-do list can be helpful because it acts as external memory and reduces the need to keep rehearsing tasks in your head. However, the list only works well if the items are concrete and prioritized. Otherwise, people may choose easy tasks simply because crossing them off feels satisfying. That creates a measurement problem: a long list of completed items can look productive without producing much real progress. The best lists reduce uncertainty and direct attention toward valuable next actions rather than rewarding completion for its own sake.",
+      "expressions": [
+        "A list can act as external memory.",
+        "Completion can look productive without producing much real progress.",
+        "The best lists reduce uncertainty rather than rewarding completion for its own sake."
+      ],
+      "source": 61
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Stress can come from unresolved commitments.",
+      "meaningZh": "压力可能来自尚未解决的承诺。",
+      "source": 61
+    },
+    {
+      "expression": "A list can act as external memory.",
+      "meaningZh": "清单可以充当外部记忆系统。",
+      "source": 61
+    },
+    {
+      "expression": "Completion can look productive without producing much real progress.",
+      "meaningZh": "完成很多事情可能看起来高效，却未必产生真正进展。",
+      "source": 61
+    }
+  ]
+}

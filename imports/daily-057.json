@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 57,
+  "article": {
+    "n": 57,
+    "title": "Why Cheap Money Can Make Expensive Assets",
+    "category": "Finance & Economics",
+    "themes": [
+      "Interest Rates",
+      "Asset Valuation",
+      "Discount Rates",
+      "Risk Appetite",
+      "Leverage",
+      "Financial Conditions"
+    ],
+    "framework": "Lower Rates → Lower Discount Rate & Financing Cost → Higher Present Values → More Risk-Taking → Higher Asset Prices → Greater Sensitivity to Reversal",
+    "coreIdea": "Interest rates affect asset prices through both mathematics and behavior: lower rates can raise the present value of distant cash flows while also changing financing costs, opportunity costs, leverage, and investors’ willingness to take risk.",
+    "body": "Imagine an investment that promises to pay you $100 one year from now. If safe investments elsewhere offer almost no return, that future $100 may look attractive today. But if you can earn a high return safely, you would demand a lower price for the same future payment. Nothing about the promised $100 has changed. What changed is the value you place on money received later rather than now.\n\nThis simple idea sits behind one of finance's most important links: the relationship between interest rates and asset prices. When rates fall, bonds, stocks, property, and other assets can become more valuable for several reasons. When rates rise, the process can reverse. Yet saying “low rates make markets go up” is too simple. To understand the mechanism, we need to separate valuation, incentives, financing, and expectations.\n\nStart with present value. An asset is valuable partly because of the cash it may generate in the future. Investors translate those future cash flows into today's money using a discount rate. The higher the discount rate, the less a distant payment is worth today. The lower the discount rate, the more valuable that same payment becomes.\n\nThis matters especially for assets whose expected profits lie far in the future. Consider two companies. One earns steady cash today. The other is growing rapidly but expects most of its profits ten years from now. When discount rates fall, those distant profits receive a larger boost in present-value terms. This is one reason long-duration assets, including many growth stocks, can be especially sensitive to changes in interest rates.\n\nBut valuation mathematics is only the first channel. Interest rates also change opportunity cost. Suppose government bonds offer a safe and attractive return. Investors can earn reasonable income without taking much risk, so risky assets must offer something extra to compete. If safe yields fall sharply, investors may become more willing to buy stocks, corporate bonds, property, or other assets in search of higher returns.\n\nThis behavior is sometimes called a search for yield. It does not mean investors suddenly stop caring about risk. Instead, the relative attractiveness of different choices changes. A 5 percent expected return from a risky asset may look unimpressive when safe assets pay 4 percent, but much more appealing when safe assets pay close to zero.\n\nFinancing costs create a third channel. Lower interest rates can make borrowing cheaper for households, companies, and investors. A company may find more investment projects profitable when debt costs less. A household may be able to afford a larger mortgage for the same monthly budget. An investor using leverage may be willing to hold a larger position when financing is cheap.\n\nProperty markets show how these channels can interact. Lower mortgage rates can increase the amount buyers are able to borrow, supporting housing demand. At the same time, investors may compare rental income with lower bond yields and decide property looks more attractive. If supply cannot respond quickly, stronger demand may appear mainly as higher prices rather than more homes.\n\nThis connects to our earlier scarcity framework. Cheap financing can expand purchasing power, but it does not automatically expand the stock of scarce assets. If more money competes for a slowly growing supply of desirable property, land, or other assets, prices can adjust faster than quantities.\n\nThere is also a feedback effect. Rising asset prices make existing owners wealthier on paper. Higher collateral values can sometimes support additional borrowing. Strong market returns may attract new investors who fear missing further gains. More demand can then push prices higher again. What began as a change in financial conditions can become a self-reinforcing market narrative.\n\nThis is where causality becomes difficult. If stock prices rise after a central bank cuts rates, it is tempting to say the cut caused the rally. But central banks often cut rates because economic conditions are weakening. The same event can therefore contain two signals: easier financial conditions are supportive for valuations, while the reason for the cut may be negative for future profits.\n\nMarkets try to price both. A rate cut during a mild slowdown may be welcomed because financing becomes easier while earnings remain resilient. A rate cut during a severe crisis may not lift risky assets immediately because investors are more worried about collapsing profits, defaults, or uncertainty. The direction of rates alone is not enough; the economic context matters.\n\nExpectations make the analysis even more complicated. Asset prices respond not only to today's interest rate but also to what investors expected before the announcement and what they now expect about the future. If everyone already anticipated a rate cut, the cut itself may have little effect. A surprise change in the expected path of rates can matter much more.\n\nThis is a useful reminder from our measurement and causality toolbox: markets move on differences between reality and expectations, not simply on whether a number is objectively high or low. “Rates fell” is incomplete information. We also need to ask: compared with what expectation, for how long, and why?\n\nLow rates can also encourage leverage and risk-taking. This may support productive investment, but it can create fragility if borrowers assume cheap financing will last forever. A project that works when debt costs 2 percent may look very different at 6 percent. An investor who can comfortably service leverage during calm markets may be forced to sell when financing costs rise or collateral values fall.\n\nThat creates an important asymmetry. Falling rates can gradually encourage positions that depend on low financing costs, while rising rates can expose those dependencies quickly. Asset prices may therefore become more sensitive to rate increases after a long period of cheap money. The first-order effect is cheaper financing; the second-order effect may be a system that has adapted itself to cheap financing.\n\nThis connects directly to stock versus flow. A low interest rate is not just a one-day event. If it persists, companies refinance debt, households choose mortgages, investors alter portfolios, and asset prices adjust. Over time, the stock of contracts and positions in the economy becomes shaped by the prevailing rate environment. When that environment changes, adjustment can be painful because old decisions were made under different assumptions.\n\nToday's transferable tool is the Rate Transmission Map. When interest rates change, trace four channels separately. First, valuation: how does the discount rate change present values? Second, alternatives: how attractive are safe assets relative to risky ones? Third, financing: who can borrow more or less cheaply? Fourth, adaptation: what leverage, prices, or business models have accumulated under the old rate regime?\n\nThen add two checks. The Expectations Check asks whether the change was already priced in. The Context Check asks why rates are moving in the first place. These prevent us from treating interest rates as a single mechanical switch.\n\nSo when cheap money is associated with expensive assets, the useful question is not simply whether rates are low. Ask which channel is doing the work, what scarcity prevents supply from responding, what risks are being accumulated, and what would happen if the rate environment reversed. That turns a market slogan into an analytical framework.",
+    "summaryZh": "今天进入 Finance & Economics：为什么“钱更便宜”时，资产反而可能更贵？文章把利率传导拆成四条渠道：Valuation（discount rate 改变未来现金流的 present value）、Alternatives（安全收益下降后出现 search for yield）、Financing（借贷成本改变企业、住房与杠杆决策）、Adaptation（长期低利率会让债务、资产价格和商业模式逐渐适应旧环境）。\n\n这里接回 scarcity：cheap financing 能增加 purchasing power，却不会自动增加土地或住房等稀缺资产的 stock；如果 supply response 很慢，需求更容易体现为价格上涨。也接回 feedback 与 causality：asset price ↑ → collateral/wealth ↑ → borrowing/risk appetite ↑ → demand ↑，但央行降息往往又是因为经济走弱，所以“降息”同时可能包含宽松金融条件和盈利恶化两种信号。\n\n另一个重点是 expectations。市场不是简单对“升息/降息”反应，而是对 actual outcome 与 prior expectation 的差异反应。今天的新工具 Rate Transmission Map 是：Rate Change → Valuation → Alternatives → Financing → Adaptation，再叠加 Expectations Check 与 Context Check。它避免把“降息=股市涨”当成机械规律，并进一步追问旧利率环境下积累了多少 leverage 与脆弱性。"
+  },
+  "words": [
+    {
+      "word": "present value",
+      "type": "academic",
+      "meaningZh": "现值；把未来现金流折算成今天价值后的金额",
+      "example": "A lower discount rate increases the present value of a distant cash flow.",
+      "source": 57
+    },
+    {
+      "word": "discount rate",
+      "type": "academic",
+      "meaningZh": "折现率；把未来价值折算为当前价值的比率",
+      "example": "Growth stocks can be sensitive to changes in the discount rate.",
+      "source": 57
+    },
+    {
+      "word": "long-duration asset",
+      "type": "academic",
+      "meaningZh": "长久期资产；价值较大比例来自较远期现金流的资产",
+      "example": "Many high-growth companies behave like long-duration assets.",
+      "source": 57
+    },
+    {
+      "word": "opportunity cost",
+      "type": "academic",
+      "meaningZh": "机会成本；选择某方案而放弃的最佳替代方案价值",
+      "example": "Higher bond yields raise the opportunity cost of holding risky assets.",
+      "source": 57
+    },
+    {
+      "word": "search for yield",
+      "type": "academic",
+      "meaningZh": "追逐收益；安全收益偏低时转向更高风险资产寻求回报",
+      "example": "Very low safe rates can encourage a search for yield.",
+      "source": 57
+    },
+    {
+      "word": "financing cost",
+      "type": "academic",
+      "meaningZh": "融资成本；借入资金或筹集资本的成本",
+      "example": "Lower financing costs can make more investment projects viable.",
+      "source": 57
+    },
+    {
+      "word": "leverage",
+      "type": "academic",
+      "meaningZh": "杠杆；借入资金放大投资规模和潜在盈亏",
+      "example": "Leverage becomes more dangerous when financing costs rise suddenly.",
+      "source": 57
+    },
+    {
+      "word": "mortgage",
+      "type": "vocab",
+      "meaningZh": "住房抵押贷款",
+      "example": "Lower mortgage rates can increase a household's borrowing capacity.",
+      "source": 57
+    },
+    {
+      "word": "collateral",
+      "type": "academic",
+      "meaningZh": "抵押品；用于为借款提供担保的资产",
+      "example": "Falling asset prices can reduce the value of collateral.",
+      "source": 57
+    },
+    {
+      "word": "financial conditions",
+      "type": "academic",
+      "meaningZh": "金融条件；利率、信贷和资产价格等共同决定的融资环境",
+      "example": "Easier financial conditions can support spending and investment.",
+      "source": 57
+    },
+    {
+      "word": "rate cut",
+      "type": "vocab",
+      "meaningZh": "降息",
+      "example": "A rate cut may support valuations but also signal economic weakness.",
+      "source": 57
+    },
+    {
+      "word": "priced in",
+      "type": "vocab",
+      "meaningZh": "已被市场计价；预期信息已经反映在当前价格中",
+      "example": "The decision had little effect because it was already priced in.",
+      "source": 57
+    },
+    {
+      "word": "rate path",
+      "type": "academic",
+      "meaningZh": "利率路径；未来一段时间利率如何变化的预期",
+      "example": "Investors revised their expectations for the future rate path.",
+      "source": 57
+    },
+    {
+      "word": "fragility",
+      "type": "academic",
+      "meaningZh": "脆弱性；系统在冲击下容易出现严重问题的程度",
+      "example": "Long periods of cheap borrowing can create hidden financial fragility.",
+      "source": 57
+    },
+    {
+      "word": "refinance",
+      "type": "vocab",
+      "meaningZh": "再融资；用新的融资安排替换或延续现有债务",
+      "example": "Companies may struggle to refinance debt when rates rise.",
+      "source": 57
+    },
+    {
+      "word": "risk appetite",
+      "type": "academic",
+      "meaningZh": "风险偏好；承担风险以追求收益的意愿",
+      "example": "Strong market gains can increase investors' risk appetite.",
+      "source": 57
+    },
+    {
+      "word": "regime",
+      "type": "academic",
+      "meaningZh": "制度或环境状态；一段时期内占主导的宏观或市场条件",
+      "example": "Businesses may adapt their strategies to a low-rate regime.",
+      "source": 57
+    },
+    {
+      "word": "Rate Transmission Map",
+      "type": "proper",
+      "meaningZh": "利率传导图；拆解利率通过估值、替代选择、融资与适应影响资产的框架",
+      "example": "The Rate Transmission Map prevents us from treating rates as a mechanical switch.",
+      "source": 57
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why do interest rates have such a strong influence on asset prices?",
+      "category": "Finance & Economics",
+      "framework": "Valuation → Alternatives → Financing → Expectations",
+      "response": "I think interest rates matter through several channels rather than just one. First, lower rates can increase the present value of future cash flows, especially for assets whose profits are expected far in the future. They also make safe investments less attractive, so some investors become more willing to take risk. On top of that, borrowing becomes cheaper for households and companies. However, the effect is not automatic because markets also care about why rates are changing and whether the move was already expected.",
+      "expressions": [
+        "Interest rates matter through several channels rather than just one.",
+        "The effect is not automatic because markets also care about why rates are changing.",
+        "Markets respond partly to what was already expected."
+      ],
+      "source": 57
+    },
+    {
+      "question": "Can very low interest rates create problems for the economy?",
+      "category": "Finance & Economics",
+      "framework": "Immediate benefit → Behavioral adaptation → Leverage → Reversal risk",
+      "response": "Yes, although low rates can be useful when an economy needs support. Cheap borrowing can encourage investment and make debt easier to service, but if rates stay low for a long time, people may start making decisions that only work under those conditions. Investors may use more leverage, asset prices may rise, and companies may depend on cheap refinancing. The risk appears when the environment reverses. So I would distinguish the first-order benefit of cheaper financing from the second-order fragility that can build up over time.",
+      "expressions": [
+        "People may start making decisions that only work under those conditions.",
+        "The risk appears when the environment reverses.",
+        "We should distinguish the first-order benefit from the second-order fragility."
+      ],
+      "source": 57
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Interest rates matter through several channels rather than just one.",
+      "meaningZh": "利率通过多条渠道发挥作用，而不是只有单一机制。",
+      "source": 57
+    },
+    {
+      "expression": "The effect is not automatic because markets also care about why rates are changing.",
+      "meaningZh": "这种影响并非机械发生，因为市场也关心利率为什么变化。",
+      "source": 57
+    },
+    {
+      "expression": "We should distinguish the first-order benefit from the second-order fragility.",
+      "meaningZh": "我们应该区分一阶收益与随后累积的二阶脆弱性。",
+      "source": 57
+    }
+  ]
+}

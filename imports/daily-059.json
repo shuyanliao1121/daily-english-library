@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "articleNumber": 59,
+  "article": {
+    "n": 59,
+    "title": "Why the Best Customers Are Not Always the Most Profitable",
+    "category": "Business",
+    "themes": [
+      "Customer Economics",
+      "Unit Economics",
+      "Retention",
+      "Cost-to-Serve",
+      "Segmentation",
+      "Growth Strategy"
+    ],
+    "framework": "Revenue → Gross Margin → Cost-to-Serve → Retention → Lifetime Economics → Strategic Spillovers",
+    "coreIdea": "Customer value cannot be judged from revenue alone: profitability depends on margins, service costs, retention, acquisition costs, and strategic spillovers over time.",
+    "body": "A company launches a premium subscription and notices that some customers spend far more than average. They look like the firm's best customers. The sales team wants more of them, managers celebrate their revenue, and dashboards highlight their large accounts. Then the finance team looks more closely. These customers demand constant support, negotiate discounts, return products frequently, and require custom features. Their revenue is impressive, but their profit is not.\n\nThis gap between revenue and value is one of the most useful ideas in business analysis. Companies often describe customers using visible measures such as sales, order size, or user growth. Those numbers matter, but they are only the beginning. A customer creates economic value when the revenue they generate exceeds the full cost of acquiring, serving, and retaining them over time.\n\nStart with gross margin. If two customers each spend $1,000, they may still contribute very different amounts to profit. One might buy a high-margin digital service, while the other buys heavily discounted physical products with expensive shipping. Revenue is the same, but the economics underneath it are different.\n\nThen consider cost-to-serve. Some customers need almost no human assistance. Others contact support repeatedly, require special delivery arrangements, demand customized reporting, or generate complicated returns. These costs are easy to miss because they may appear in different departments rather than beside the original sale. Sales receives the revenue; customer service absorbs the calls; operations handles exceptions; engineering builds a requested feature.\n\nThis creates a measurement problem. If teams are evaluated separately, each department may see only part of the customer relationship. A salesperson rewarded for revenue has an incentive to close a large contract even if fulfilling that contract creates heavy costs elsewhere. The company can appear to be growing while quietly accumulating unprofitable complexity.\n\nThat connects directly to our Incentive Audit. Metrics do not merely describe performance; they influence behavior. If a company rewards employees for customer acquisition without considering retention or margin, it may attract customers who look valuable at the moment of sale but destroy value later. The measurement system shapes the customer base.\n\nAcquisition cost adds another layer. A customer who arrives through word of mouth may cost little to acquire. Another may require expensive advertising, sales calls, free trials, and discounts. This is why businesses often compare customer acquisition cost, or CAC, with customer lifetime value, commonly called LTV. The basic question is whether the expected economic contribution of a customer over the relationship justifies the cost of winning that customer.\n\nBut LTV is not a magical number. It depends on assumptions about future behavior. How long will the customer stay? How often will they buy? Will margins remain stable? Will support costs rise? A small change in the assumed retention rate can produce a large change in estimated lifetime value, especially for subscription businesses.\n\nRetention therefore matters enormously. Imagine two groups that each generate $100 of monthly gross profit. Customers in the first group usually leave after three months; customers in the second often remain for three years. Their current monthly contribution looks identical, but their expected lifetime economics are radically different.\n\nThis is a stock-and-flow problem. New customers arrive as a flow, while retained customers accumulate into a stock of active relationships. A company can report strong acquisition while its customer stock remains weak because people leave almost as quickly as they arrive. Growth based only on inflow can hide a leaking bucket.\n\nThe same principle explains why rapid growth can sometimes make a business temporarily look worse. If acquisition spending happens today while customer profits arrive over several years, a company that accelerates growth may spend heavily before receiving the future returns. That does not prove the strategy is good, but it shows why timing matters when interpreting financial results.\n\nNow add segmentation. Average customer economics can hide major differences between groups. Students, families, enterprises, occasional users, and power users may have different acquisition channels, retention rates, margins, and support needs. Treating them as one “average customer” can produce decisions that fit nobody particularly well.\n\nThere is also a danger in optimizing too aggressively for immediately profitable customers. Some customers create positive spillovers that are difficult to capture in a simple profit calculation. An active creator may attract other users to a platform. An early enterprise customer may provide credibility. A demanding client may reveal product weaknesses that, once fixed, benefit everyone.\n\nThis introduces second-order effects. A customer can be unprofitable in isolation but valuable to the system. Conversely, a highly profitable customer can create strategic risk if the company becomes too dependent on them. Losing one account should not threaten the entire business.\n\nSo the correct question is not “Which customers produce the most profit right now?” It is “What economic and strategic effects follow from serving this customer?” That requires both direct measurement and causal reasoning. Did a referral program create valuable customers, or would those people have joined anyway? Did extra support improve retention, or was it simply given to customers who were already likely to stay?\n\nThis is where experimentation becomes useful. Companies can test different onboarding processes, service levels, discounts, or retention offers and compare outcomes. But they must choose the right outcome. A discount may increase conversion today while training customers to wait for future discounts. A retention campaign may prevent cancellations this month but reduce long-term pricing power.\n\nToday's transferable tool is the Customer Value Stack. Start with revenue, then subtract product costs to understand gross margin. Next include cost-to-serve and acquisition cost. Then examine retention to estimate lifetime economics. Finally, add strategic spillovers: referrals, network effects, learning, credibility, concentration risk, and other consequences that do not fit neatly into one transaction.\n\nThe order matters because each layer corrects a simpler story. Revenue tells you whether customers pay. Margin tells you how much remains after delivering the product. Cost-to-serve reveals operational burden. Retention tells you whether value repeats. Acquisition cost asks what you paid to obtain that stream. Strategic spillovers ask whether the relationship changes the wider system.\n\nThis framework also connects to #56's Discovery Gap Test. A business may discover that its most visible customers are not its most valuable ones because dashboards emphasize what is easiest to measure. It connects to #58's Value Check as well: more activity, more users, or more sales do not automatically mean more value.\n\nThe broader lesson is about measurement boundaries. Every metric draws a line around what counts. Revenue ignores costs. Current profit can ignore future retention. Individual profitability can ignore network effects. A wider boundary gives a fuller picture, although it also requires more assumptions.\n\nSo when a business says it wants “more customers,” the next question should be: more of which customers, at what acquisition cost, with what margin, requiring what service, staying for how long, and creating what wider effects? Once those questions are asked, customer growth stops being a simple counting exercise and becomes a problem of economic quality.",
+    "summaryZh": "今天把“谁是好客户”从 revenue 问题拆成真正的 customer economics。两个客户收入相同，gross margin、cost-to-serve、acquisition cost 和 retention 完全可能不同。核心框架 Customer Value Stack 是：Revenue → Gross Margin → Cost-to-Serve → Acquisition Cost → Retention / Lifetime Economics → Strategic Spillovers。\n\n这里连接 stock vs flow：new customers 是 flow，retained customer base 是 stock；如果 acquisition 很强但 churn 同样高，公司可能只是在不断往“漏水的桶”里加水。也连接 #49 Incentive Audit：sales team 若只按 revenue 奖励，就可能主动引入高服务成本、低利润的客户；metric 不只描述 customer base，也会塑造它。再连接 #58 Value Check：更多 users、orders、sales 并不自动等于更多 economic value。\n\n同时不能只追求“单客户当前利润最大化”。客户可能带来 referrals、network effects、product learning、credibility 等 positive spillovers；大客户也可能制造 concentration risk。今天更底层的新概念是 Measurement Boundary：任何 metric 都画了一条边界。Revenue 忽略 cost；current profit 可能忽略 retention；individual profitability 可能忽略 system effects。分析能力的提升，很大程度上就是知道什么时候应该把边界往外扩一层。"
+  },
+  "words": [
+    {
+      "word": "gross margin",
+      "type": "academic",
+      "meaningZh": "毛利；收入扣除直接产品或服务成本后剩余的经济空间",
+      "example": "Two customers with the same revenue can have very different gross margins.",
+      "source": 59
+    },
+    {
+      "word": "cost-to-serve",
+      "type": "academic",
+      "meaningZh": "服务成本；为客户提供支持、交付和维护产生的成本",
+      "example": "High support needs can make a customer's cost-to-serve surprisingly large.",
+      "source": 59
+    },
+    {
+      "word": "customer acquisition cost",
+      "type": "academic",
+      "meaningZh": "获客成本；获得一个新客户所需的营销和销售成本",
+      "example": "The company reduced customer acquisition cost by relying more on referrals.",
+      "source": 59
+    },
+    {
+      "word": "CAC",
+      "type": "proper",
+      "meaningZh": "Customer Acquisition Cost 的常用缩写",
+      "example": "A low CAC is attractive only if the customers acquired are worth retaining.",
+      "source": 59
+    },
+    {
+      "word": "customer lifetime value",
+      "type": "academic",
+      "meaningZh": "客户终身价值；客户整个关系周期内预计创造的经济价值",
+      "example": "Retention assumptions strongly affect customer lifetime value.",
+      "source": 59
+    },
+    {
+      "word": "LTV",
+      "type": "proper",
+      "meaningZh": "Customer Lifetime Value 的常用缩写",
+      "example": "Many subscription businesses compare LTV with CAC.",
+      "source": 59
+    },
+    {
+      "word": "retention",
+      "type": "academic",
+      "meaningZh": "留存；客户持续使用或购买产品的能力",
+      "example": "Strong retention can make modest monthly revenue highly valuable.",
+      "source": 59
+    },
+    {
+      "word": "churn",
+      "type": "academic",
+      "meaningZh": "流失；客户停止订阅或离开的比例或过程",
+      "example": "High churn can cancel out impressive customer acquisition.",
+      "source": 59
+    },
+    {
+      "word": "segmentation",
+      "type": "academic",
+      "meaningZh": "客户分群；按有意义的特征划分客户",
+      "example": "Useful segmentation should lead to different business decisions.",
+      "source": 59
+    },
+    {
+      "word": "spillover",
+      "type": "academic",
+      "meaningZh": "溢出效应；交易之外产生的间接影响",
+      "example": "A creator can generate positive spillovers by attracting other users.",
+      "source": 59
+    },
+    {
+      "word": "concentration risk",
+      "type": "academic",
+      "meaningZh": "集中度风险；过度依赖少数客户所产生的风险",
+      "example": "One large account can create serious concentration risk.",
+      "source": 59
+    },
+    {
+      "word": "operational burden",
+      "type": "academic",
+      "meaningZh": "运营负担；维持业务关系产生的额外流程和资源压力",
+      "example": "Custom requests can create an operational burden that revenue figures hide.",
+      "source": 59
+    },
+    {
+      "word": "conversion",
+      "type": "academic",
+      "meaningZh": "转化；潜在客户完成购买或注册等目标行为",
+      "example": "A discount may improve conversion without improving long-term profitability.",
+      "source": 59
+    },
+    {
+      "word": "pricing power",
+      "type": "academic",
+      "meaningZh": "定价权；企业维持或提高价格的能力",
+      "example": "Frequent discounts can weaken a brand's pricing power.",
+      "source": 59
+    },
+    {
+      "word": "in isolation",
+      "type": "vocab",
+      "meaningZh": "孤立地看；不考虑更广泛系统影响",
+      "example": "A customer may look unprofitable in isolation but valuable to the platform.",
+      "source": 59
+    },
+    {
+      "word": "leaking bucket",
+      "type": "vocab",
+      "meaningZh": "漏水的桶；比喻新增进入但旧客户持续流失的系统",
+      "example": "Rapid acquisition cannot fix a leaking bucket forever.",
+      "source": 59
+    },
+    {
+      "word": "measurement boundary",
+      "type": "academic",
+      "meaningZh": "测量边界；指标在计算价值时包含与排除因素的范围",
+      "example": "Changing the measurement boundary can change a business conclusion.",
+      "source": 59
+    },
+    {
+      "word": "Customer Value Stack",
+      "type": "proper",
+      "meaningZh": "客户价值栈；本课逐层分析客户真实经济价值的框架",
+      "example": "The Customer Value Stack prevents managers from treating revenue as the whole story.",
+      "source": 59
+    }
+  ],
+  "speaking": [
+    {
+      "question": "Why do some companies focus more on keeping existing customers than attracting new ones?",
+      "category": "Business",
+      "framework": "Acquisition cost → Retention → Lifetime value → Stable customer stock",
+      "response": "I think the main reason is that acquiring a customer is only the beginning of the economic relationship. A company may spend heavily on advertising or discounts to win someone, so the investment only makes sense if that person stays long enough to generate value. Strong retention also creates a more stable customer base instead of forcing the business to replace people who constantly leave. So I would say growth should be judged by the quality and durability of customer relationships, not simply by how many new users appear each month.",
+      "expressions": [
+        "Acquiring a customer is only the beginning of the economic relationship.",
+        "Growth should be judged by the quality and durability of customer relationships.",
+        "A stable customer base reduces the need to constantly replace people who leave."
+      ],
+      "source": 59
+    },
+    {
+      "question": "Do you think businesses rely too much on simple performance metrics?",
+      "category": "Business",
+      "framework": "Simple metric → Missing mechanism → Incentive effect → Wider measurement boundary",
+      "response": "Often, yes, because simple metrics are easy to compare but they can hide important costs or long-term effects. Revenue, for example, tells you how much customers pay but not how expensive they are to serve or how long they will stay. There is also an incentive problem: once employees are rewarded for a number, they naturally start optimizing for it. I think a good metric should be treated as one piece of evidence rather than the whole objective, especially when the business model has important second-order effects.",
+      "expressions": [
+        "A good metric should be treated as one piece of evidence rather than the whole objective.",
+        "Simple metrics can hide important costs or long-term effects.",
+        "Once people are rewarded for a number, they start optimizing for it."
+      ],
+      "source": 59
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Growth should be judged by the quality and durability of customer relationships.",
+      "meaningZh": "增长应该根据客户关系的质量和持续性来判断。",
+      "source": 59
+    },
+    {
+      "expression": "A good metric should be treated as one piece of evidence rather than the whole objective.",
+      "meaningZh": "一个好的指标应该被视为证据的一部分，而不是完整目标本身。",
+      "source": 59
+    },
+    {
+      "expression": "Simple metrics can hide important costs or long-term effects.",
+      "meaningZh": "简单指标可能掩盖重要成本或长期影响。",
+      "source": 59
+    }
+  ]
+}
